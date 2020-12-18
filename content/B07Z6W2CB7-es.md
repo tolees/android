@@ -27,8 +27,8 @@ Está [OPPO A5 2020 – Smartphone de 6.5" HD+  4G Dual SIM  3 GB/ 64 GB  Qualco
 
 - Cámara cuádruple (12mp + 8mp + 2mp + 2mp)
 - Batería 5000mah + carga flash vooc
-- 3gb ram + 64gb rom
-- Modo gaming (game boost 2 0) + dolby atmos + sonido estéreo
 - Pantalla waterdrop 6 5" hd+
+- Modo gaming (game boost 2 0) + dolby atmos + sonido estéreo
+- 3gb ram + 64gb rom
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Z6W2CB7/?tag=tolees-21)
