@@ -25,10 +25,10 @@ Está [Huawei P30 Pro - Smartphone de 6.47"  Kirin 980 Octa-Core de 2.6GHz  RAM 
 
 ℹ️:
 
-- HUAWEI Kirin 980 CPU, Octa-core, 2 x Cortex A76 2.6GHz + 2 x Cortex A76 1.92GHz + 4 x Cortex A55 1.8GHz
-- EMUI 9.1.0 (compatible con Android 9)
 - 8 GB RAM + 256 GB ROM
-- Capacidad de la batería: 4100 mAh (valor mínimo), 4200 mAh (valor típico)
+- HUAWEI Kirin 980 CPU, Octa-core, 2 x Cortex A76 2.6GHz + 2 x Cortex A76 1.92GHz + 4 x Cortex A55 1.8GHz
 - Tamaño de pantalla: 6.47 pulgadas; FHD+ 2340 x 1080 píxeles; 398 PPI
+- EMUI 9.1.0 (compatible con Android 9)
+- Capacidad de la batería: 4100 mAh (valor mínimo), 4200 mAh (valor típico)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PXNFWGS/?tag=tolees-21)
