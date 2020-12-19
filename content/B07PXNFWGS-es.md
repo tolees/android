@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P30 Pro - Smartphone de 6.47"  Ki al 47.66 % de descuento'
-date: 2020-12-18 12:26:15
+date: 2020-12-19 17:08:37
 image: 'https://m.media-amazon.com/images/I/51rF88o+YpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Huawei P30 Pro - Smartphone de 6.47"  Kirin 980 Octa-Core de 2.6GHz  RAM 
 
 ℹ️:
 
-- 8 GB RAM + 256 GB ROM
-- HUAWEI Kirin 980 CPU, Octa-core, 2 x Cortex A76 2.6GHz + 2 x Cortex A76 1.92GHz + 4 x Cortex A55 1.8GHz
-- Tamaño de pantalla: 6.47 pulgadas; FHD+ 2340 x 1080 píxeles; 398 PPI
-- EMUI 9.1.0 (compatible con Android 9)
 - Capacidad de la batería: 4100 mAh (valor mínimo), 4200 mAh (valor típico)
+- 8 GB RAM + 256 GB ROM
+- EMUI 9.1.0 (compatible con Android 9)
+- Tamaño de pantalla: 6.47 pulgadas; FHD+ 2340 x 1080 píxeles; 398 PPI
+- HUAWEI Kirin 980 CPU, Octa-core, 2 x Cortex A76 2.6GHz + 2 x Cortex A76 1.92GHz + 4 x Cortex A55 1.8GHz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PXNFWGS/?tag=tolees-21)
