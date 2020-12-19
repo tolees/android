@@ -25,12 +25,12 @@ Ahora mismo tienes [DJI Osmo Mobile 3  Estabilizador de 3 Ejes para Smartphone C
 
 🔎:
 
-- Excelente fluidez y estabilidad impresionante: con un capazo de 3 ejes que elimina los efectos del terremoto, el osmo móvil 3 ofrece imágenes increíblemente fluidas y estables
-- Montaje y uso compartido instantáneo: personaliza tu vídeo con una variedad de música, efectos de transición y filtros, y compártalo fácilmente en las redes sociales
+- Temperatura de funcionamiento: 0-40℃ (32 a 104°F)
 - Contenido: osmo mobile 3 (batería integrada), cable de alimentación, bolsa, muñequera, pegatinas antideslizantes x 4
 - Activetrack 3.0: para grabar escenas que requieren movimientos rápidos, simplemente pulsa el gatillo, selecciona un sujeto en tu smartphone para comenzar el seguimiento
-- Temperatura de funcionamiento: 0-40℃ (32 a 104°F)
-- Mango ergonómico: gracias a su diseño inteligente, el osmo móvil 3 es cómodo y se puede mantener durante largas horas; su mango se adapta perfectamente a la palma de la mano
 - Tu historia, tu momento: desde momentos especiales a escenas ordinarias, comparte fotos y vídeos de forma creativa y sencilla con el modo de store
+- Mango ergonómico: gracias a su diseño inteligente, el osmo móvil 3 es cómodo y se puede mantener durante largas horas; su mango se adapta perfectamente a la palma de la mano
+- Excelente fluidez y estabilidad impresionante: con un capazo de 3 ejes que elimina los efectos del terremoto, el osmo móvil 3 ofrece imágenes increíblemente fluidas y estables
+- Montaje y uso compartido instantáneo: personaliza tu vídeo con una variedad de música, efectos de transición y filtros, y compártalo fácilmente en las redes sociales
 
 [Visítala!!!](https://www.amazon.es/dp/B07RHJ7LWH/?tag=tolees-21)
