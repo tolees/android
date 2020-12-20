@@ -25,10 +25,10 @@ Está [Huawei P30 Lite - Smartphone de 6.15"  WiFi  Kirin 710  RAM de 6 GB  memo
 
 ℹ️:
 
-- Extraordinaria pantalla: grande y brillante; la pantalla fhd de 6.15" con un notch dewdrop es un lienzo magnífico para que vivas tu vida en colores brillantes
-- Triple cámara trasera: lente principal de 48mp + lente ultra gran angular de 8mp + lente bokeh de 2mp
 - Una batería que no abandona: con la carga rápida huawei 9v 2a, la potente batería de 3,340 mah se carga más rápido y dura más tiempo
 - Diseño elegante: el diseño delgado de vidrio curvo 3d está pensado para un fácil agarre y uso con una sola mano
+- Extraordinaria pantalla: grande y brillante; la pantalla fhd de 6.15" con un notch dewdrop es un lienzo magnífico para que vivas tu vida en colores brillantes
 - Un cambio en el juego: la revolucionaria tecnología de procesamiento gráfico impulsada por gpu turbo 2.0, mejora el rendimiento para una experiencia de juego más rápido y potente
+- Triple cámara trasera: lente principal de 48mp + lente ultra gran angular de 8mp + lente bokeh de 2mp
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0892YG9QG/?tag=tolees-21)
