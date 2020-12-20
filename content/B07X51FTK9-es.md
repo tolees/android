@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony NWA105B.CEW - Reproductor de Audio  al 43.14 % de descuento'
-date: 2020-12-19 10:09:43
+date: 2020-12-20 10:15:15
 image: 'https://m.media-amazon.com/images/I/315kmWhmjnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Está [Sony NWA105B.CEW - Reproductor de Audio Walkman  16GB  Hi-Res Audio  Wi-F
 
 - Aporta armonía a tu vida con los colores de la gama h.ear
 - El procesador dsee hx analiza el tipo de canción por ia y restaura los archivos de audio comprimidos
-- Amplificador digital s-master hx para una calidad de sonido pura
 - Utiliza una conexión wi-fi para transmitir y descargar música con tus aplicaciones android favoritas
 - Compatible con audio de alta resolución
+- Amplificador digital s-master hx para una calidad de sonido pura
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07X51FTK9/?tag=tolees-21)
