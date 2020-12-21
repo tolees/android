@@ -19,11 +19,11 @@ descuento: '33.11'
 average: '199.99'
 ---
 
-Está [Huawei P Smart Plus - Smartphone de 6.3"  Kirin 710  RAM de 4 GB  Memoria interna de 64 GB  cámara de 16 MP  Android  Color Púrpura [Versión española]](https://www.amazon.es/dp/B07FNH1B2H/?tag=tolees-21) con 33.11 de descuento por 199.99 EUR (original: 299 EUR) en el siguiente enlace!
+Ahora mismo tienes [Huawei P Smart Plus - Smartphone de 6.3"  Kirin 710  RAM de 4 GB  Memoria interna de 64 GB  cámara de 16 MP  Android  Color Púrpura [Versión española]](https://www.amazon.es/dp/B07FNH1B2H/?tag=tolees-21) a 199.99 EUR (original: 299 EUR) (33.11 %  de descuento) en el siguiente enlace!
 
 [![Huawei P Smart Plus - Smartphone de 6.3"](https://images-eu.ssl-images-amazon.com/images/I/31iTZgz1apL._SL200_.jpg)](https://www.amazon.es/dp/B07FNH1B2H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FNH1B2H/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FNH1B2H/?tag=tolees-21)

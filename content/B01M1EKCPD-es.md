@@ -19,11 +19,11 @@ descuento: '45.23'
 average: '109'
 ---
 
-Ahora mismo tienes [Alcatel Shine 5080X - Smartphone  RAM de 2 GB  Memoria Interna de 16 GB  Cámara de 13 MPs  Android   Color Negro](https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21) a 109 EUR (original: 199 EUR) (45.23 %  de descuento) en el siguiente enlace!
+Está [Alcatel Shine 5080X - Smartphone  RAM de 2 GB  Memoria Interna de 16 GB  Cámara de 13 MPs  Android   Color Negro](https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21) con 45.23 de descuento por 109 EUR (original: 199 EUR) en el siguiente enlace!
 
 [![Alcatel Shine 5080X - Smartphone  RAM de](https://images-eu.ssl-images-amazon.com/images/I/41SI7WHNkFL._SL200_.jpg)](https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21)
