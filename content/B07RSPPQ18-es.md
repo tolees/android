@@ -25,13 +25,13 @@ En este momento está [DJI OM3 Combo  Estabilizador de 3 Ejes para Smartphone Co
 
 🔎:
 
-- Nunca más vídeos borrosos: el osmo mobile 3 está estabilizado en tres ejes y ofrece grabaciones fluidas para cualquier situación; el diseño ligero y compacto responde en tiempo real a los movimientos y es más usuario que nunca
-- Edita y comparte de forma rápida y sencilla: después de que su vídeo con música, transiciones y filtros, se le haya perdido un toque personal, se puede compartir directamente con amigos
 - Captura cada momento: tanto en momentos excepcionales como en el día a día, el modo story mantiene el mundo de una manera creativa
-- Contenido: osmo mobile 3 (batería integrada), trípode osmo, funda de transporte, cable de red, funda, pulsera, adhesivo antideslizante x 4
 - Mango ergonómico: con el mango ergonómico angulado, el osmo mobile 3 se puede utilizar cómodamente durante largos períodos de tiempo; el mango se ajusta perfectamente a la mano para que puedas crearte totalmente
-- Teléfonos compatibles: Peso: 200 +/- 30 g; Espesor: ≤ 9.5 mm; Ancho: 62-88 mm
 - Activetrack 3.0: para realizar escenas rápidas, simplemente pulsa el disparador, selecciona un gesto o o un objetivo en el smartphone y la persecución comienza automáticamente
+- Nunca más vídeos borrosos: el osmo mobile 3 está estabilizado en tres ejes y ofrece grabaciones fluidas para cualquier situación; el diseño ligero y compacto responde en tiempo real a los movimientos y es más usuario que nunca
+- Contenido: osmo mobile 3 (batería integrada), trípode osmo, funda de transporte, cable de red, funda, pulsera, adhesivo antideslizante x 4
+- Teléfonos compatibles: Peso: 200 +/- 30 g; Espesor: ≤ 9.5 mm; Ancho: 62-88 mm
 - ¡Nota! Osmo Mobile 3 utiliza Bluetooth Low Energy 5.0 y, por lo tanto, funciona mejor con teléfonos que tienen Bluetooth Low Energy 5.0 o superior. Le sugerimos que verifique la compatibilidad revisando las especificaciones de su teléfono
+- Edita y comparte de forma rápida y sencilla: después de que su vídeo con música, transiciones y filtros, se le haya perdido un toque personal, se puede compartir directamente con amigos
 
 [Aquí!!!](https://www.amazon.es/dp/B07RSPPQ18/?tag=tolees-21)
