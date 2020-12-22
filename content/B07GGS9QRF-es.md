@@ -25,10 +25,10 @@ Tienes [Auriculares Auriculares con micrófono  Sistema de cancelación de Ruido
 
 🔎:
 
-- La mejora de la tercera generación de nuestra tecnología es diferente a la de otros auriculares de forma similar. Los auriculares utilizan imanes de neodimio de alta eficiencia, lo que permite efectos de sonidos más altos y la búsqueda del verdadero sonido de la reproducción.
-- Tecnología de cancelación de ruido, calidad de sonido natural, sistema surround bass, agudos nítidos y ecualización de volumen.
-- Diseñados ergonómicamente para adaptarse al oído. Micrófono y controlador de reproducción y volumen de alta calidad.
 - Compatible con sistemas  IOS y Android. iPhone 8 /8 plus /7 Plus / 7 / 6s Plus / 6s / 6 Plus / 6 / 5s / 5c / 5 / Samsung S8 /S7/ iPad Pro / iPad Air / Air 2 / iPad mini / mini 2 / mini 4 / iPad 4 / iPod Touch /Tablet PC/PC, y otros dispositivos con un puerto de audio de 3.5mm.
 - Su color es un elegante blanco, la mayoría componentes estas fabricados con aluminio de calidad aeroespacial. Conector tipo Jack de 3.5 mm, resistente al desgaste y la oxidación. Cable de 120 cm de longitud, diseñado para soportar los tirones, con un clip fijo pata alargar la vida útil de los auriculares.
+- Tecnología de cancelación de ruido, calidad de sonido natural, sistema surround bass, agudos nítidos y ecualización de volumen.
+- La mejora de la tercera generación de nuestra tecnología es diferente a la de otros auriculares de forma similar. Los auriculares utilizan imanes de neodimio de alta eficiencia, lo que permite efectos de sonidos más altos y la búsqueda del verdadero sonido de la reproducción.
+- Diseñados ergonómicamente para adaptarse al oído. Micrófono y controlador de reproducción y volumen de alta calidad.
 
 [Comprar!!!](https://www.amazon.es/dp/B07GGS9QRF/?tag=tolees-21)
