@@ -25,9 +25,9 @@ Tienes [Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 64GB; Cámara 64MP  S
 
 🔎:
 
-- Pantalla: 6.47", 1080 x 2340 pixels
 - Batería: 5260 mAh
-- Cámara: Cuádruple, 64MP+8MP +2MP+5MP
+- Pantalla: 6.47", 1080 x 2340 pixels
 - Procesador: Snapdragon 730G 2.2GHz
+- Cámara: Cuádruple, 64MP+8MP +2MP+5MP
 
 [Comprar!!!](https://www.amazon.es/dp/B0881QJS9C/?tag=tolees-21)
