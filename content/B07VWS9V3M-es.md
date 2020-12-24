@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI MediaPad T5 - Tablet de 10.1" Ful con un 21.83 % de descuento'
-date: 2020-12-23 05:06:13
+date: 2020-12-24 05:14:10
 image: 'https://m.media-amazon.com/images/I/4142TfFtsWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VWS9V3M/?tag=tolees-21'
 descuento: '21.83'
-average: '189.25571428571428'
+average: '187.97375'
 ---
 
 En este momento está [HUAWEI MediaPad T5 - Tablet de 10.1" FullHD  Wifi  RAM de 4GB  ROM de 64GB  Android 8.0  EMUI 8.0   Color Negro](https://www.amazon.es/dp/B07VWS9V3M/?tag=tolees-21) a 179.0 EUR (original: 229.0 EUR) (21.83 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ En este momento está [HUAWEI MediaPad T5 - Tablet de 10.1" FullHD  Wifi  RAM de
 
 🔎:
 
-- No incluye ranura para tarjeta SIM
-- Procesador Octa-Core y altavoces estéreo duales
-- Sistema Operativo Android 8.0+ EMUI 8.0
 - Pantalla táctil IPS de 10.1 pulgadas FullHD, con una resolución de 1920x1200 pixeles, pantalla de 224 PPI, Relación de aspecto de 16:10
-- Cuerpo metálico, diseño elegante, 460 g, 7.8 MM
 - 4GB RAM, 64GB almacenamiento, batería de larga duración con 5100 mAh
+- Cuerpo metálico, diseño elegante, 460 g, 7.8 MM
+- No incluye ranura para tarjeta SIM
+- Sistema Operativo Android 8.0+ EMUI 8.0
+- Procesador Octa-Core y altavoces estéreo duales
 
 [Aquí!!!](https://www.amazon.es/dp/B07VWS9V3M/?tag=tolees-21)
