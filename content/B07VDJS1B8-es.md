@@ -25,10 +25,10 @@ En este momento está [Rii K22 Teclado miniSlim Multimedia. Función inalámbric
 
 🔎:
 
-- Cubierta protectora de aleación de aluminio resistente a golpes. Teclado QWERTY español con touchpad integrado.
 - Batería de Ion-Litio recargable incluída. Se carga a través de un Puerto USB estándar
-- Teclado ultradelgado inalámbrico 2.4Ghz. Touchpad incluído, Perfecto para usar con SmartTV, ordenador conectado a monitor o television, PC, MacBook y Raspberry
+- Cubierta protectora de aleación de aluminio resistente a golpes. Teclado QWERTY español con touchpad integrado.
 - Diseño ergonómico compacto, fino y ligero. Fácil y cómodo de usar en cualquier posición ya que no pesa ni ocupa casi espacio. Receptor USB incluído.
+- Teclado ultradelgado inalámbrico 2.4Ghz. Touchpad incluído, Perfecto para usar con SmartTV, ordenador conectado a monitor o television, PC, MacBook y Raspberry
 - Compatible con PC, portátiles, Raspberry PI2/3, MacOS, Linux HTPC, IPTV, Google Android SmartTV Box, XBMC/KODI, Windows XP/2000/7/8/8.1/10.
 
 [Aquí!!!](https://www.amazon.es/dp/B07VDJS1B8/?tag=tolees-21)
