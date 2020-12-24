@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI P Smart Pro - Smartphone con Pant al 22.83 % de descuento'
-date: 2020-12-23 20:33:18
+date: 2020-12-24 21:01:22
 image: 'https://m.media-amazon.com/images/I/41bGxmDy82L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B085JNNC6N/?tag=tolees-21'
 descuento: '22.83'
-average: '189.32600000000005'
+average: '188.76138888888894'
 ---
 
 Está [HUAWEI P Smart Pro - Smartphone con Pantalla Ultra FullView FHD+ de 6.59"  6GB de RAM + 128GB de ROM  Triple Cámara IA de 48MP  4000 mAh  Android 9  Color Negro](https://www.amazon.es/dp/B085JNNC6N/?tag=tolees-21) con 22.83 de descuento por 169.0 EUR (original: 219.0 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [HUAWEI P Smart Pro - Smartphone con Pantalla Ultra FullView FHD+ de 6.59"
 
 ℹ️:
 
+- Cámara triple IA de 48MP. La triple cámara traseras incluye una cámara principal de 48MP, una cámara ultra gran angular de 8MP y una cámara de profundidad de 2MP
+- Batería de 4000 mAh. Equipado con una batería de gran capacidad, HUAWEI P Smart Pro puede soportar llamadas continuas durante 40 horas, reproducción de música durante 80 horas y reproducción de video durante 9 horas
+- Sensor de huella dactilar en el lateral. Desbloquear tu teléfono en 0,3 segundos ya es una realidad con el innovador sensor de huella dactilar lateral
 - Pantalla HUAWEI Ultra FullView FHD+. La extraordinaria pantalla de 6,59” cuenta con un ratio de pantalla del 91% con una resolución de 2340x1080 píxeles con 391 ppp obteniendo colores más claros y brillantes
 - Cámara Selfie Pop-up. La cámara frontal de 16 megapíxeles aparece automáticamente para hacer selfies y se retrae cuando terminas, lo que logra una pantalla completamente completa
-- Batería de 4000 mAh. Equipado con una batería de gran capacidad, HUAWEI P Smart Pro puede soportar llamadas continuas durante 40 horas, reproducción de música durante 80 horas y reproducción de video durante 9 horas
-- Cámara triple IA de 48MP. La triple cámara traseras incluye una cámara principal de 48MP, una cámara ultra gran angular de 8MP y una cámara de profundidad de 2MP
-- Sensor de huella dactilar en el lateral. Desbloquear tu teléfono en 0,3 segundos ya es una realidad con el innovador sensor de huella dactilar lateral
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085JNNC6N/?tag=tolees-21)
