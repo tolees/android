@@ -25,12 +25,12 @@ Tienes [Lenovo TAB4 10 PLUS - Tablet de 10.1" FullHD/IPS  Qualcomm Snapdragon 62
 
 ℹ️:
 
+- Procesador Qualcomm Snapdragon 625 de hasta 2.0 GHz
 - Conectividad: Wifi + Bluetooth 4.2
 - Sistema operativo Android 7.1.1
+- Memoria RAM de 3GB LPDDR3, 933MHz
 - Almacenamiento eMCP de 16 GB
 - Camara frontal de 8MP con flash
-- Procesador Qualcomm Snapdragon 625 de hasta 2.0 GHz
-- Memoria RAM de 3GB LPDDR3, 933MHz
 - Pantalla de 10,1" FullHD, 1920x1200 pixeles
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0735BCTCL/?tag=tolees-21)
