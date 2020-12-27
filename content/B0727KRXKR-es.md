@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony Xperia XA1 - Smartphone con pantalla HD de 5"  Octa Cor
 
 🔎:
 
-- Cámara trasera de 23 MP con sensor Exmor RS y apertura de f2.0
-- Memoria RAM de 32 GB
-- Pantalla HD de 5 pulgadas
 - Procesador MediaTek Helio P20 Octa Core de 64 bits
 - Cámara frontal de 8 MP para selfies
+- Memoria RAM de 32 GB
+- Cámara trasera de 23 MP con sensor Exmor RS y apertura de f2.0
+- Pantalla HD de 5 pulgadas
 
 [Visítala!!!](https://www.amazon.es/dp/B0727KRXKR/?tag=tolees-21)
