@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo TAB4 - Tablet de 8" HD/IPS  Qualc al 26.85 % de rebaja'
-date: 2020-12-22 22:07:45
+date: 2020-12-28 16:03:38
 image: 'https://m.media-amazon.com/images/I/411UThQ9ETL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721KF4NH/?tag=tolees-21'
 descuento: '26.85'
-average: '94.18173913043475'
+average: '94.79916666666664'
 ---
 
 Tienes [Lenovo TAB4 - Tablet de 8" HD/IPS  Qualcomm Snapdragon 425  2 GB de RAM  16 GB de eMCP  Android 7.1.1  Wifi + Bluetooth 4.0   Color blanco](https://www.amazon.es/dp/B0721KF4NH/?tag=tolees-21) con precio final de  109.0 EUR (original: 149.0 EUR) (26.85 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [Lenovo TAB4 - Tablet de 8" HD/IPS  Qualcomm Snapdragon 425  2 GB de RAM 
 
 🔎:
 
-- Disco duro: 16 GB de eMCP
-- Memoria RAM: 2 GB de LPDDR3
+- Tarjeta grafica: Qualcomm Adreno 308 GPU
 - Sistema operativo: Android 7.1.1
 - Procesador Qualcomm Snapdragon 425
-- Tarjeta grafica: Qualcomm Adreno 308 GPU
+- Memoria RAM: 2 GB de LPDDR3
+- Disco duro: 16 GB de eMCP
 
 [Comprar!!!](https://www.amazon.es/dp/B0721KF4NH/?tag=tolees-21)
