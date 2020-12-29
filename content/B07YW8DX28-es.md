@@ -25,10 +25,10 @@ En este momento está [Dragon Touch Y88Y Pro Tablet 7 Pulgadas 1024x600 FHD IPS 
 
 🔎:
 
-- - Sistema Operativo Android 9.0; Procesador Quad-Core hasta 1.5 GHz; Batería de 2500mAh
-- - Cámara trasera de 2Mp con enfoque automático y delantera de 0.3Mp
-- - 2GB de RAM, 16GB de Memoria Interna(ampliable con MicroSD hasta 128GB)
 - - Redes/bandas: WIFI 802.11b/g/n + BT4.0; No incluye ranura para SIM (sólo WiFi)
+- - Cámara trasera de 2Mp con enfoque automático y delantera de 0.3Mp
 - - Pantalla táctil IPS de 7 pulgadas con una resolución de 1024x600 pixeles
+- - Sistema Operativo Android 9.0; Procesador Quad-Core hasta 1.5 GHz; Batería de 2500mAh
+- - 2GB de RAM, 16GB de Memoria Interna(ampliable con MicroSD hasta 128GB)
 
 [Aquí!!!](https://www.amazon.es/dp/B07YW8DX28/?tag=tolees-21)
