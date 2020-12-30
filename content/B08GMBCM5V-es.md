@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.50 % en Motorola Moto G9 Play - Pantalla Max Vis'
-date: 2020-12-22 10:18:03
+date: 2020-12-30 16:53:43
 image: 'https://m.media-amazon.com/images/I/41Nne+JcJJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08GMBCM5V/?tag=tolees-21'
 descuento: '25.50'
-average: '145.41285714285715'
+average: '145.86125'
 ---
 
 Tienes [Motorola Moto G9 Play - Pantalla Max Vision HD+ de 6.5"  procesador Qualcomm Snapdragon 662  sistema de triple cámara de 48MP  batería de 5000 mAH  Dual SIM  4/64GB  Android 10 - Color Azul](https://www.amazon.es/dp/B08GMBCM5V/?tag=tolees-21) con un 25.50 % de descuento con precio de oferta de 149.0 EUR (original: 199.99 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Tienes [Motorola Moto G9 Play - Pantalla Max Vision HD+ de 6.5"  procesador Qual
 
 ℹ️:
 
-- Cámara: Triple, 48MP+2MP+2MP
 - Batería: 5000 mAh
 - Procesador: Snapdragon 662 2GHz
+- Cámara: Triple, 48MP+2MP+2MP
 - Pantalla: 6.5", 720 x 1600 pixels
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08GMBCM5V/?tag=tolees-21)
