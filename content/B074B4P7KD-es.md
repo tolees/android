@@ -25,10 +25,10 @@ Ahora mismo tienes [Tarjeta de Memoria SanDisk Ultra Android microSDHC de 16 GB 
 
 🔎:
 
-- Magnífica para los usuarios de Smartphones y tabletas Android de hoy en día
-- Aplicación para ver y gestionar archivos digitales desde tu teléfono
-- Velocidad de transferencia superrápida de hasta 80 MB/s
 - Alta velocidad fiable para grabar vídeos Full HD (1080p) y hacer fotografías de alta calidad
+- Velocidad de transferencia superrápida de hasta 80 MB/s
+- Aplicación para ver y gestionar archivos digitales desde tu teléfono
 - Capacidades de hasta 64 GB
+- Magnífica para los usuarios de Smartphones y tabletas Android de hoy en día
 
 [Visítala!!!](https://www.amazon.es/dp/B074B4P7KD/?tag=tolees-21)
