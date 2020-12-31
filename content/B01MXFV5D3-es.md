@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Honor 6X - Smartphone libre de 5.5"  lec con un 55.39 % de descuento'
-date: 2020-12-28 07:27:22
+date: 2020-12-31 06:03:18
 image: 'https://m.media-amazon.com/images/I/41Gx9ThqxTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXFV5D3/?tag=tolees-21'
 descuento: '55.39'
-average: '127.44454545454542'
+average: '127.18298245614032'
 ---
 
 En este momento está [Honor 6X - Smartphone libre de 5.5"  lector de huellas  3 GB RAM  32 GB ROM  EMUI 4.1 compatible con Android M  Full HD 1080p  Kirin 655 octa core  cámara 12 MP + 2 MP  frontal 8 MP   gris](https://www.amazon.es/dp/B01MXFV5D3/?tag=tolees-21) a 119.99 EUR (original: 269.0 EUR) (55.39 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ En este momento está [Honor 6X - Smartphone libre de 5.5"  lector de huellas  3
 
 🔎:
 
-- Lector de huellas dactilares, dual SIM, batería de 3340 mAh, Bluetooth 4.1 y WiFi 802.11b/g/n
-- Sistema operativo EMUI 4.1 compatible con Android Marshmallow (Android M)
 - Procesador Kirin 655 octa core, 3 GB de memoria RAM y 32 GB de memoria ROM
 - Cámara trasera doble de 12 MP y 2 MP AF, cámara frontal de 8 MP
+- Sistema operativo EMUI 4.1 compatible con Android Marshmallow (Android M)
 - Pantalla de 5.5 pulgadas full HD 1080p con tecnología 2.5D
+- Lector de huellas dactilares, dual SIM, batería de 3340 mAh, Bluetooth 4.1 y WiFi 802.11b/g/n
 
 [Aquí!!!](https://www.amazon.es/dp/B01MXFV5D3/?tag=tolees-21)
