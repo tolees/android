@@ -25,9 +25,9 @@ En este momento está [Honor 6X - Smartphone libre de 5.5"  lector de huellas  3
 
 🔎:
 
-- Procesador Kirin 655 octa core, 3 GB de memoria RAM y 32 GB de memoria ROM
-- Cámara trasera doble de 12 MP y 2 MP AF, cámara frontal de 8 MP
 - Sistema operativo EMUI 4.1 compatible con Android Marshmallow (Android M)
+- Cámara trasera doble de 12 MP y 2 MP AF, cámara frontal de 8 MP
+- Procesador Kirin 655 octa core, 3 GB de memoria RAM y 32 GB de memoria ROM
 - Pantalla de 5.5 pulgadas full HD 1080p con tecnología 2.5D
 - Lector de huellas dactilares, dual SIM, batería de 3340 mAh, Bluetooth 4.1 y WiFi 802.11b/g/n
 
