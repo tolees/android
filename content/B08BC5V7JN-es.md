@@ -25,10 +25,10 @@ Ahora mismo tienes [Samsung Galaxy A21s - Smartphone de 6.5"  4 GB RAM  64 GB de
 
 🔎:
 
+- Pantalla: una pantalla TFT LCD Infinity-O de 6,5 pulgadas, resolución de 720 x 1600 píxeles, densidad de píxeles de 409 ppi y con 16 millones de colores. Mucho más que un smartphone.
 - Batería: una batería de iones de litio de 5000 mAh de alto rendimiento con función de carga rápida para tu móvil de 15 W.
-- Cámaras: cámara principal de 48MP, cámara de profundidad de 2MP, cámara Ultra gran Angular de 8MP, cámara MACRO de 2MP y cámara frontal de 13MP.
 - Smartphone con sistema operativo Android V10.0
 - Memoria: tarjeta Micro SD de hasta 512 GB de almacenamiento y 64GB de memoria ampliable para guardar todas tus fotos, música y mucho más.
-- Pantalla: una pantalla TFT LCD Infinity-O de 6,5 pulgadas, resolución de 720 x 1600 píxeles, densidad de píxeles de 409 ppi y con 16 millones de colores. Mucho más que un smartphone.
+- Cámaras: cámara principal de 48MP, cámara de profundidad de 2MP, cámara Ultra gran Angular de 8MP, cámara MACRO de 2MP y cámara frontal de 13MP.
 
 [Visítala!!!](https://www.amazon.es/dp/B08BC5V7JN/?tag=tolees-21)
