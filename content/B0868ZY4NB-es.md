@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO Find X2 LITE 5G – Smartphone de 6.4 al 40.08 % de rebaja'
-date: 2021-01-01 15:04:12
+date: 2021-01-03 00:27:48
 image: 'https://m.media-amazon.com/images/I/51TwGpF5nqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21'
 descuento: '40.08'
-average: '347.6538461538461'
+average: '344.1785714285714'
 ---
 
 Tienes [OPPO Find X2 LITE 5G – Smartphone de 6.4" AMOLED  8GB/128GB  Octa-core  cámara trasera 48MP+8MP+2MP+2MP  cámara frontal 32MP  4.000 mAh  Android 10  color Negro](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21) con precio final de  299.0 EUR (original: 499.0 EUR) (40.08 %  de rebaja) aqui!
@@ -25,9 +25,9 @@ Tienes [OPPO Find X2 LITE 5G – Smartphone de 6.4" AMOLED  8GB/128GB  Octa-core
 
 🔎:
 
-- Pantalla: 6.4", 1080 x 2400 pixels
 - Batería: 4025 mAh
-- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
+- Pantalla: 6.4", 1080 x 2400 pixels
 - Procesador: Snapdragon 765G 2.4GHz
+- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
 
 [Comprar!!!](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21)
