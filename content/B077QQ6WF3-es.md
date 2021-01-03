@@ -25,8 +25,8 @@ En este momento está [KROM KEY - Gamepad alámbrico  modos de juego X-input y D
 
 🔎:
 
-- Longitud Cable: 1.8 M ; Dimensiones: 150 X 103 X 69 mm
-- Botones: 12; Vibración dual: Sí ; Conectores: MICRO USB/USB
 - Peso: 230 G ; Compatibilidad: Windows Vista / 7 / 8 / 8.1 / 10, Playstation 3, Android 4.2 Y Superior
+- Botones: 12; Vibración dual: Sí ; Conectores: MICRO USB/USB
+- Longitud Cable: 1.8 M ; Dimensiones: 150 X 103 X 69 mm
 
 [Aquí!!!](https://www.amazon.es/dp/B077QQ6WF3/?tag=tolees-21)
