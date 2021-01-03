@@ -25,9 +25,9 @@ Está [Android TV Box 10  2GB RAM 16GB ROM Android 10 Compatible con 4K 3D H.265
 
 ℹ️:
 
-- 【Android 10.0】 Esta TV Box con Android es compatible con el sistema operativo Android 10.0. Aparte, posee 2 GB de DDR y 16 GB de almacenamiento interno de memoria que se pueden ampliar a 64 GB con una tarjeta SD adicional.
 - 【4K / 3D】 Esta smart TV box es capaz de reproducir en el modo 4K HDR, lo que le permite experimentar una calidad de imagen más envolvente con acceso a contenido por streaming en 4K Ultra HD de hasta 60 fps y HDR. También dispone de un acelerador de gráficos en 3D, trayéndole el cine en 3D directamente a su sala de estar. El formidable chip Cortex-A53 de 64 bits RK3318 de cuatro núcleos con un hardware digno ofrece una buena codificación de vídeo
 - 【Mini teclado gratis】 Viene con un mando a distancia y un mini teclado para conseguir un mayor control. El teclado está retroiluminado posibilitando la identificación de las teclas del tecleando incluso con las luces apagadas, y es compatible con PC, Mac, X-box, otros dispositivos Android y una amplia gama de otros sistemas.
+- 【Android 10.0】 Esta TV Box con Android es compatible con el sistema operativo Android 10.0. Aparte, posee 2 GB de DDR y 16 GB de almacenamiento interno de memoria que se pueden ampliar a 64 GB con una tarjeta SD adicional.
 - 【Excelente conectividad】 Los puertos HDMI 2.0, AV y el puerto de red en la parte posterior del dispositivo le permite establecer una conexión de alta calidad para obtener el mejor rendimiento visual y sonoro. Además, cuenta con WIFI de doble banda (2.4g/5.8g 802.11ac), Bluetooth 4.0, las versiones 2.0 y 3.0 para puertos USB y una conexión Ethernet de 10/100M.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08CB4M11R/?tag=tolees-21)
