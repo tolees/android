@@ -26,11 +26,11 @@ Tienes [D-Link DCS-936L - Cámara HD WiFi videovigilancia  IP con micrófono y v
 ℹ️:
 
 - Tecnología Wireless N - permite una velocidad de conexión WiFi de hasta 300 Mbps
-- Admite tarjeta micro SD - con la tarjeta extraíble (hasta 128 Gb) podrás grabar hasta un máximo de 60 días de forma continua
-- Detección de movimiento y sonido - recibe notificaciones "push" y capturas (en formato JPEG) en tu email gracias a los sensores de movimiento y sonido incorporados
-- Lente de 120º - permite visionar grandes estancias con una única cámara
-- Visión nocturna - vigila tu hogar o negocio de día y de noche, gracias al sensor infrarrojo incorporado de hasta 5 m
 - Video HD y audio - transmite imágenes (1280 x 720 px en formato H.264 / MJPEG) de alta definición y sonido gracias al micrófono integrado
+- Lente de 120º - permite visionar grandes estancias con una única cámara
+- Detección de movimiento y sonido - recibe notificaciones "push" y capturas (en formato JPEG) en tu email gracias a los sensores de movimiento y sonido incorporados
+- Visión nocturna - vigila tu hogar o negocio de día y de noche, gracias al sensor infrarrojo incorporado de hasta 5 m
 - App Mydlink para smartphone y tablet - vigila tu hogar o negocio desde tu móvil o tableta con la app mdlink Lite (iOS & Android)
+- Admite tarjeta micro SD - con la tarjeta extraíble (hasta 128 Gb) podrás grabar hasta un máximo de 60 días de forma continua
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00PVDMTIC/?tag=tolees-21)
