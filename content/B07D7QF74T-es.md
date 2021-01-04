@@ -27,8 +27,8 @@ Tienes [Borras - Tecnomagia  con diversos trucos de magia  App exclusiva disponi
 
 - Trucos alucinantes nunca vistos; ahora podrás hacerlos tu mismo; predicciones con cartas, adivinaciones, convertir papeles en billetes, hacer que aparezcan tarjetas de crédito y dinero en la cartera, atravesar un billete con los auriculares
 - Incluye un exclusivo acceso a la app tecnomagia borras dónde podrás disfrutar de trucos preparados especialmente para ti y vídeos explicativos de cada truco
-- La colección Magia Borras posee una variedad de trucos que te convertirán en el próximo mago de casa
-- Tecnomagia Borras presenta una variedad de trucos de magia con objetos que caben en tu bolsillo
 - Recomendado a partir de 7 años
+- Tecnomagia Borras presenta una variedad de trucos de magia con objetos que caben en tu bolsillo
+- La colección Magia Borras posee una variedad de trucos que te convertirán en el próximo mago de casa
 
 [Comprar!!!](https://www.amazon.es/dp/B07D7QF74T/?tag=tolees-21)
