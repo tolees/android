@@ -25,10 +25,10 @@ Ahora mismo tienes [ZTE Blade A7 2020 - Smartphone de 6.09" HD+ 19 5:9  Octa Cor
 
 🔎:
 
-- Pantalla HD+ con cámara waterdrop
-- Reconocimiento facial
 - 3G + 64GB
 - Pantalla 19.5:9 89% aprovechamiento frontal
+- Reconocimiento facial
 - Triple Cámara 16Mp + 8Mp + 2Mp para una foto más profesional
+- Pantalla HD+ con cámara waterdrop
 
 [Visítala!!!](https://www.amazon.es/dp/B07VKQVJYT/?tag=tolees-21)
