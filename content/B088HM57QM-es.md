@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO A52 - Smartphone de 6.5" FHD+  4GB/ al 31.96 % de descuento'
-date: 2021-01-04 18:33:18
+date: 2021-01-05 18:56:42
 image: 'https://m.media-amazon.com/images/I/41xnjoMb68L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B088HM57QM/?tag=tolees-21'
 descuento: '31.96'
-average: '141.72'
+average: '142.25925925925927'
 ---
 
 Ahora mismo tienes [OPPO A52 - Smartphone de 6.5" FHD+  4GB/64GB  Octa-core  cámara trasera 12 + 8 + 2 + 2 MP  cámara frontal 8 MP  5.000 mAh  Android 10  color Blanco](https://www.amazon.es/dp/B088HM57QM/?tag=tolees-21) a 149.0 EUR (original: 219.0 EUR) (31.96 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ Ahora mismo tienes [OPPO A52 - Smartphone de 6.5" FHD+  4GB/64GB  Octa-core  cá
 
 🔎:
 
-- 4 GB de RAM y almacenamiento de 64GB con procesador Qualcomm Snapdragon 665 Mobile Platform, para garantizar el mejor rendimiento
-- Batería de 5000mAh y carga rápida de 18W, para poder cargar el 50% de tu teléfono en solo 45 minutos
-- Cuatro cámaras traseras, siendo la principal de 12 MP. 8MP de ultra gran angular, 2MP modo Retrato y 2MP modo blanco y negro. Cámara frontal punch hole de 8MP con IA para selfies más naturales. Modo Noche 2.0 mejorado para capturar imágenes nocturnas más realistas y claras. Grabación de vídeo en 4K y con modo EIS Anti-Shake para grabar y reproducir vídeos más nítidos, incluso en movimiento
-- Pantalla curva IPS con resolución FHD+, 6,5” que se adapta perfectamente a tu mano
 - Sensor de huella dactilar en el lateral del teléfono para un desbloqueo seguro y eficaz
+- Batería de 5000mAh y carga rápida de 18W, para poder cargar el 50% de tu teléfono en solo 45 minutos
+- Pantalla curva IPS con resolución FHD+, 6,5” que se adapta perfectamente a tu mano
+- 4 GB de RAM y almacenamiento de 64GB con procesador Qualcomm Snapdragon 665 Mobile Platform, para garantizar el mejor rendimiento
 - Sistema operativo Android 10 y Color OS 7 preinstalado. Dual Sim
+- Cuatro cámaras traseras, siendo la principal de 12 MP. 8MP de ultra gran angular, 2MP modo Retrato y 2MP modo blanco y negro. Cámara frontal punch hole de 8MP con IA para selfies más naturales. Modo Noche 2.0 mejorado para capturar imágenes nocturnas más realistas y claras. Grabación de vídeo en 4K y con modo EIS Anti-Shake para grabar y reproducir vídeos más nítidos, incluso en movimiento
 
 [Visítala!!!](https://www.amazon.es/dp/B088HM57QM/?tag=tolees-21)
