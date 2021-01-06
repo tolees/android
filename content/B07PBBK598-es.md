@@ -25,9 +25,9 @@ En este momento está [YAMAY Pulsera de Actividad Inteligente Impermeable IP68 c
 
 🔎:
 
+- 【Notificaciones inteligentes 】Conecte el rastreador de aptitud con su teléfono inteligente, nunca se perderá una llamada y un mensaje. Vibrará para avisarle si su teléfono recibe una llamada telefónica, mensajes de texto SMS y mensajes SNS como Facebook, Twitter, WhatsApp, Linkedin, Messenger, etc. Simplemente conecte la pulsera a su teléfono a través de Bluetooth y establezca en la aplicación.
 - 【Compatible con teléfonos iOS y Android】Puede descargarse fácilmente la APP “VeryfitPro” escaneando el código QR incluido en la documentación. Compatible con Android 4.4 ó superior y con IOS 7.1 ó superior (Nota: no puede funcionar con Huawei P8, Samsung J3, J5, teléfono inteligente con Windows, iPad, PC o tableta.)
 - 【Impermeable IP68】 Puede ser utilizada en situaciones cotidianas de contacto con el agua, como lavarse las manos o bañarse. Es perfecta también para nadar y bucear. Satisface perfectamente sus necesidades diarias.
-- 【Notificaciones inteligentes 】Conecte el rastreador de aptitud con su teléfono inteligente, nunca se perderá una llamada y un mensaje. Vibrará para avisarle si su teléfono recibe una llamada telefónica, mensajes de texto SMS y mensajes SNS como Facebook, Twitter, WhatsApp, Linkedin, Messenger, etc. Simplemente conecte la pulsera a su teléfono a través de Bluetooth y establezca en la aplicación.
 - 【Pulsómetro & Blood Pressure】Medir su ritmo cardíaco,y blood pressure, puede saber su ritmo cardíaco las 24 horas del día, en tiempo real. Equipado con el último sensor HR, puede ver su gráfico de pulsaciones en la aplicación VeryFitPro.
 - 【Soporta 14 Modos de Deporte】Esta pulsera inteligente tiene 14 modos de deportes distintos: Caminar, Correr, Bicicleta, Escalada, Baloncesto, Badminton, Fútbol, Senderismo, Fitness, Cinta de Correr, , Yoga, Baila, Tenis y Fútbol Americano. Nota: los 3 primeros modos vienen preconfigurados en la pulsera, los otros 11 necesitan ser configurados desde la App).
 
