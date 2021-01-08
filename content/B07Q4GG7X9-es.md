@@ -25,12 +25,12 @@ Tienes [Samsung Galaxy Tab A - Tablet de 10.1" FullHD  Wifi  Procesador Octa-cor
 
 🔎:
 
-- Batería de 7,300 mAh y sistema operativo Android actualizable
+- Memoria RAM de 2GB, Almacenamiento de 32GB con ranura microsd ampliable hasta 512GB
 - Redes/bandas: Wi-Fi + Bluetooth
 - Pantalla táctil de 10.1" con una resolución de 1920 x 1200 píxeles FullHD
-- Procesador Exynos, Octa-Core (2 x 1.8GHz + 6 x 1.6GHz)
-- Memoria RAM de 2GB, Almacenamiento de 32GB con ranura microsd ampliable hasta 512GB
 - Cámara trasera de 8MP con autoenfoque y delantera de 5MP
 - Cuatro altavoces AKG y Dolby Atmos con tecnología envolvente 3D
+- Procesador Exynos, Octa-Core (2 x 1.8GHz + 6 x 1.6GHz)
+- Batería de 7,300 mAh y sistema operativo Android actualizable
 
 [Comprar!!!](https://www.amazon.es/dp/B07Q4GG7X9/?tag=tolees-21)
