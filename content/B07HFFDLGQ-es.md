@@ -27,8 +27,8 @@ Ahora mismo tienes [Xiaomi Mi 8 - Smartphone Dual SIM de 6.21"  Octa-Core Kryo 2
 
 - 64GB de memoria interna, 6GB de memoria RAM
 - Pantalla de 6.21" Super AMOLED Full HD+, 2248 x 1080 píxeles
-- Procesador Snapdragon 845 Octa-Core a 2.8GHz
-- Cámara dual de 12MP+12MP con OIS y asistida por IA
 - 4G, Dual SIM, Android 8.1 Oreo + MIUI 9.5
+- Cámara dual de 12MP+12MP con OIS y asistida por IA
+- Procesador Snapdragon 845 Octa-Core a 2.8GHz
 
 [Visítala!!!](https://www.amazon.es/dp/B07HFFDLGQ/?tag=tolees-21)
