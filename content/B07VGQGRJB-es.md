@@ -25,10 +25,10 @@ Ahora mismo tienes [Samsung Galaxy Tab A  2019  - Tablet de 8"  Wi-Fi  RAM de 2G
 
 🔎:
 
-- Cámara trasera de 8MP y delantera de 2MP
-- Memoria RAM de 2GB, Almacenamiento de 32GB con ranura microsd ampliable hasta 512GB
 - Procesador Qualcomm Snapdragon 429 (Quad 2.0 Ghz)
-- Batería de 5100 mAh y sistema operativo Android actualizable
+- Memoria RAM de 2GB, Almacenamiento de 32GB con ranura microsd ampliable hasta 512GB
 - Pantalla de 8" con una resolución de 1280 x 800 píxeles
+- Batería de 5100 mAh y sistema operativo Android actualizable
+- Cámara trasera de 8MP y delantera de 2MP
 
 [Visítala!!!](https://www.amazon.es/dp/B07VGQGRJB/?tag=tolees-21)
