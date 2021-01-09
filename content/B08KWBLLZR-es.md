@@ -25,13 +25,13 @@ En este momento está [SAMSUNG Galaxy S20 FE 5G - Smartphone Android Libre  256 
 
 🔎:
 
-- Tipo de pantalla: AMOLED
 - El Samsung Galaxy S20 FE 5G es tan llamativo en su interior como lo es en el exterior; gracias a la pantalla Infinity-O FHD+ de 6,5 pulgadas, podrás disfrutar a lo grande en tus maratonianas sesiones audiovisuales
-- Dispone de una cámara ultra gran angular de 12 MP, increíbles funciones de zoom como el Space Zoom de 30x y el zoom óptico de 3x, y el modo noche
-- La batería inteligente y duradera del Samsung Galaxy S20 FE 5G está diseñada para esos días que parecen no terminar nunca; además, la carga superrápida hace que recobres la energía rápidamente
-- Tamaño de pantalla: 6.5 inches
 - Teléfono inteligente con sistema operativo Android V10 incorporado
-- Sistema operativo: Android 10.0
+- Tamaño de pantalla: 6.5 inches
+- Tipo de pantalla: AMOLED
+- Dispone de una cámara ultra gran angular de 12 MP, increíbles funciones de zoom como el Space Zoom de 30x y el zoom óptico de 3x, y el modo noche
 - Puedes estar tranquilo con la seguridad que da la protección de Samsung Knox, de serie en nuestros dispositivos Galaxy; siempre activo en segundo plano para garantizar la seguridad de lo que te gusta
+- Sistema operativo: Android 10.0
+- La batería inteligente y duradera del Samsung Galaxy S20 FE 5G está diseñada para esos días que parecen no terminar nunca; además, la carga superrápida hace que recobres la energía rápidamente
 
 [Aquí!!!](https://www.amazon.es/dp/B08KWBLLZR/?tag=tolees-21)
