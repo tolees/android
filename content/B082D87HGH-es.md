@@ -26,9 +26,9 @@ Ahora mismo tienes [Lintelek Reloj Inteligente Mujer Hombre  Smartwatch con Moni
 🔎:
 
 - 【Frecuencia Cardíaca y Sueño】 El reloj inteligente puede monitorear automáticamente su frecuencia cardíaca diaria en tiempo real y rastrear el estado de la calidad del sueño, registrar su sueño profundo, sueño ligero, sueño despierto, ayudarlo a comprender mejor su salud.
+- 【Un Año de Garantía】Este reloj es compatible con teléfonos inteligentes que usan iOS 8.0 / Android OS 4.4 o superior. Alarmas personalizadas por vibración, 3 niveles de brillo ajustable, 4 faces elegibles, el cronómetro, la aplicación fácil de operar y más funciones le esperan!
 - 【Notificación Inteligente con 5ATM】Llamadas, whatsapps, redes sociales, alarmas... Los muestra en pantalla. Nunca pierde una cita incluso en la piscina o en el baño.
 - 【24 Horas Monitor de Datos Deportivos】 Este reloj inteligente registra los datos de su actividad, como pasos, distancia, calorías quemadas y datos semanales / mensuales. Cuenta con 9 modos deportivos (Caminar, Correr, Caminar, Andar en bicicleta, Cinta de correr, Ejercicio, etc.), satisfacen tus necesidades deportivas diarias, haciendo tu ejercicio más efectivo, cuidando tu vida de manera más integral.
 - 【Pantalla Táctil de 1.3"】 Este reloj inteligente cuenta con una pantalla táctil completa, 3 niveles de brillo ajustables, 4 diales diferentes, mejor experiencia visual. Después de activar el sensor de muñeca en la App, lo hace más fácil y rápido de ver la hora y fecha, pasos recorridos y calorías quemadas.
-- 【Un Año de Garantía】Este reloj es compatible con teléfonos inteligentes que usan iOS 8.0 / Android OS 4.4 o superior. Alarmas personalizadas por vibración, 3 niveles de brillo ajustable, 4 faces elegibles, el cronómetro, la aplicación fácil de operar y más funciones le esperan!
 
 [Visítala!!!](https://www.amazon.es/dp/B082D87HGH/?tag=tolees-21)
