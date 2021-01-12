@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WONDER TV LED WDTV024CSM 24" SmartTV And al 22.60 % de descuento'
-date: 2021-01-11 09:16:20
+date: 2021-01-12 09:26:22
 image: 'https://m.media-amazon.com/images/I/31LyRwBYq-L._SL200_.jpg'
 comments: true
 category: ofertas
