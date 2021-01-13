@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'YUNMAI Pro Báscula Cargador USB 10 Datos al 42.51 % de rebaja'
+date: 2020-08-11 18:56:02
+image: 'https://m.media-amazon.com/images/I/41f5LA5DS4L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B084VVPLGX-es'
+actualPrice: 45.99 EUR
+currency: EUR
+price: 45.99
+comparePrice: 79.99 EUR
+prodname: 'YUNMAI Pro Báscula Cargador USB 10 Datos Corporales Pantalla LED Oculta Compatible con Bluetooth iOS y Android Apple Health Google Fit con Aplicación Gratuita  Negro '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B084VVPLGX/?tag=tolees-21'
+descuento: '42.51'
+average: '45.99'
+---
+
+Tienes [YUNMAI Pro Báscula Cargador USB 10 Datos Corporales Pantalla LED Oculta Compatible con Bluetooth iOS y Android Apple Health Google Fit con Aplicación Gratuita  Negro ](https://www.amazon.es/dp/B084VVPLGX/?tag=tolees-21) con precio final de  45.99 EUR (original: 79.99 EUR) (42.51 %  de rebaja) aqui!
+
+[![YUNMAI Pro Báscula Cargador USB 10 Datos](https://m.media-amazon.com/images/I/41f5LA5DS4L._SL200_.jpg)](https://www.amazon.es/dp/B084VVPLGX/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B084VVPLGX/?tag=tolees-21)
