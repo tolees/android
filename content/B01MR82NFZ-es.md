@@ -25,10 +25,10 @@ Ahora mismo tienes [YI Cámara Vigilancia  Cámara IP Wifi 1080p Sistema de Segu
 
 🔎:
 
-- Con la aplicación yi home para dispositivos ios y android. (para una mejor experiencia del cliente, la aplicación yi home no está disponible temporalmente en la app store debido a una actualización del firmware; por favor, espere unos días; rogamos disculpe las molestias )
-- Mejor seguridad - ofrecemos la compresión más eficiente y el nivel más alto de protección de datos para proteger sus grabaciones
 - Compatible con yi-cloud, para evitar la perdida de datos en la tarjeta sd y garantizar que todos sus vídeos esten seguros y protegidos; admite tarjetas micro-sd de hasta 32 gb en formato fat32 (no incluida en el envío)
 - Grabación en 1080 p full hd (alta definición) para imágenes claras y nítidas
+- Mejor seguridad - ofrecemos la compresión más eficiente y el nivel más alto de protección de datos para proteger sus grabaciones
+- Con la aplicación yi home para dispositivos ios y android. (para una mejor experiencia del cliente, la aplicación yi home no está disponible temporalmente en la app store debido a una actualización del firmware; por favor, espere unos días; rogamos disculpe las molestias )
 - Funciones de detección del llanto del bebe y detección de movimiento que utilizan la última tecnología para enviar alertas a su telefono a traves de la función alertas de actividad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MR82NFZ/?tag=tolees-21)
