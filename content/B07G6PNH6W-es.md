@@ -25,11 +25,11 @@ Está [Huawei MediaPad M5 Lite 10 - Tablet de 10.1" FullHD  Wifi  RAM de 3GB  RO
 
 ℹ️:
 
-- Sistema operativo Android 8.0, EMUI 8.0
 - No incluye ranura para tarjeta SIM
-- RAM de 3GB, Almacenamiento de 32GB y batería de larga duración de 7,500 mAh con carga rápida
+- Pantalla táctil IPS de 10.1 pulgadas FullHD con resolución de 1920 x 1200 píxeles, 224 PPI y 5 modos de Eye-Comfort
 - Sistema de 4 altavoces estéreo certificados por Harman Kardon
 - Procesador Octa-Core Kirin 659 2.36 GHz (4 x 2.4 GHz + 4 x 1.7 GHz)
-- Pantalla táctil IPS de 10.1 pulgadas FullHD con resolución de 1920 x 1200 píxeles, 224 PPI y 5 modos de Eye-Comfort
+- Sistema operativo Android 8.0, EMUI 8.0
+- RAM de 3GB, Almacenamiento de 32GB y batería de larga duración de 7,500 mAh con carga rápida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G6PNH6W/?tag=tolees-21)
