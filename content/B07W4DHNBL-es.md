@@ -25,10 +25,10 @@ Tienes [Logitech K380 Teclado inalámbrico  Bluetooth multidispositivo con Easy-
 
 🔎:
 
-- Duración de pilas de teclado calculada según una estimación de dos millones de pulsaciones al año en un entorno empresarial
 - Usa este compacto y ligero teclado para escribir en cualquier rincón de la casa
 - Sea cual sea el dispositivo conectado al teclado, la experiencia de escritura es la habitual e incluye tus botones de acceso rápido y accesos directos favoritos
 - Con k380 multi-device, puedes conectarte y escribir fácilmente en todos tus dispositivos informáticos: windows, mac, chrome os, android, ios ( iphone y ipad ) y apple tv (sólo de segunda y tercera generación)
 - Los botones easy-switch fácil itan la conexión con hasta tres dispositivos y el cambio instantáneo de uno a otro
+- Duración de pilas de teclado calculada según una estimación de dos millones de pulsaciones al año en un entorno empresarial
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W4DHNBL/?tag=tolees-21)
