@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vpht4igJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0852VW8SD-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android 9.0 Certificado por Google GMS Tablet PC Procesador de Quad Core Batería 8500mAh Dual SIM 8MP Cámara WiFi Bluetooth GPS OTG Negro '
+slug: 'B0852VW8SD-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android...'
+tags: android
 actualPrice: 89.92 EUR
 currency: EUR
 price: 89.92

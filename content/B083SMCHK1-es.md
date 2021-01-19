@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J9fc3JgwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SMCHK1-es 2020 Touch Auriculares inalámbricos Bluetooth con cancelación de Ruido para Android iOS-BY4'
+slug: 'B083SMCHK1-es 2020 Touch Auriculares inalámbricos Bluetooth con...'
+tags: android
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

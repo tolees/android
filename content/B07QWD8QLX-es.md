@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FC6uOFvmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWD8QLX-es Dragon Touch Tablet para Niños con WiFi Bluetooth 7 Pulgadas 1024x600 Tablet Infantil de Android 8.1 Quad Core 1GB 16GB Doble Cámara Kid-Proof Funda Tablet Niños Educativo Y88X Plus Rosa'
+slug: 'B07QWD8QLX-es Dragon Touch Tablet para Niños con WiFi Bluetooth 7...'
+tags: android
 actualPrice: 66.69 EUR
 currency: EUR
 price: 66.69

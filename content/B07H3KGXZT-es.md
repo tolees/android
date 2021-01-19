@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j09r9Dq7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3KGXZT-es Xiaomi POCOPHONE F1 - Smartphone Dual SIM de 6 18"  4G  Qualcomm Snapdragon 845 2 8 GHz  RAM de 6 GB  Memoria de 64 GB  Cámara Dual  Android  Color Negro grafito [Versión Española]'
+slug: 'B07H3KGXZT-es Xiaomi POCOPHONE F1 - Smartphone Dual SIM de 6 18" 4G...'
+tags: android
 actualPrice: 292.23 EUR
 currency: EUR
 price: 292.23

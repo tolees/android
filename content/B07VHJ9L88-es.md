@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nPa8uBUTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHJ9L88-es Tablet 10 Pulgadas 4G Dual SIM 64GB de Memoria 3GB de RAM Android 8.1 Cámara de 8MP OTG/WiFi Tablets Teclado  64GB-Gris '
+slug: 'B07VHJ9L88-es Tablet 10 Pulgadas 4G Dual SIM 64GB de Memoria 3GB de RAM...'
+tags: android
 actualPrice: 107.09 EUR
 currency: EUR
 price: 107.09

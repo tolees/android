@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a2yxV+9UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UMUTNAG-es Yuntab Q88 A33 - Tablet de 7"  WiFi  Allwinner A33 1.5 GHz  Quad Core  512 MB de RAM  8 GB de ROM  Android 4.4.2 KitKat   Rose '
+slug: 'B00UMUTNAG-es Yuntab Q88 A33 - Tablet de 7" WiFi Allwinner A33 1.5 GHz...'
+tags: android
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

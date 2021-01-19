@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b0pp0+9JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZRVY84-es Altavoz Bluetooth Portátil IP67 Impermeable Estéreo Altavoces Inalámbrico Bajo 360°Sonido Estéreo HD Construido en Micrófono Altavoz Inalámbrico Portátil Llamadas Manos Libres para iOS y Android'
+slug: 'B07QZRVY84-es Altavoz Bluetooth Portátil IP67 Impermeable Estéreo...'
+tags: android
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

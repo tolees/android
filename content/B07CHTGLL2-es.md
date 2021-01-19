@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GPJ6fkaOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHTGLL2-es ALCATEL 3X Smartphone Quad Core 1.28 GHz  Android N  5.7" HD+ 18:9  1440x720p  4G  Cámara DE 13+5 Mpx y Frontal 5Mpx  3GB de RAM  32GB de ROM   Azul '
+slug: 'B07CHTGLL2-es ALCATEL 3X Smartphone Quad Core 1.28 GHz Android N 5.7"...'
+tags: android
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

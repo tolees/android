@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411q3S9koBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HVT3B5C-es Auriculares Bluetooth Inalámbricos  Vigorun Auriculares Deportivos Mini in-Ear Auricular  Bluetooth 5.0  3000mAh Caja de Carga  IPX6 Impermeable Reducción de Ruido CVC8.0  para iOS y Android'
+slug: 'B07HVT3B5C-es Auriculares Bluetooth Inalámbricos Vigorun Auriculares...'
+tags: android
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

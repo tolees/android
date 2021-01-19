@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TquDP9ONL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJSSKZM-es Tablet 10 Pulgadas Android 8.1 Tablet Procesador Quad-Core  3GB de RAM  32GB de Memoria Interna  Escalable 64GB Doble Tarjeta SIM Doble HD Cámara 8000mAh Batería  Wi-Fi Bluetooth  Rojo'
+slug: 'B07YJSSKZM-es Tablet 10 Pulgadas Android 8.1 Tablet Procesador Quad-Core...'
+tags: android
 actualPrice: 78.19 EUR
 currency: EUR
 price: 78.19

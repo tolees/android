@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zIlRTLlQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZXMCZ4-es Pantalla IPS de 11 Pulgadas Android 8.0 Tablet PC de Diez núcleos 1 + 8G Ranuras para Tarjeta SIM Dual Llamada telefónica 3G con GPS FM/Negro'
+slug: 'B083ZXMCZ4-es Pantalla IPS de 11 Pulgadas Android 8.0 Tablet PC de Diez...'
+tags: android
 actualPrice: 59.76 EUR
 currency: EUR
 price: 59.76

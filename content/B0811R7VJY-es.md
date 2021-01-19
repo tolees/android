@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vsMNL3-AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811R7VJY-es DOOGEE S95 Pro Super Mod Móvil Antigolpes  Helio P90 Octa-Core 8GB RAM 128GB ROM 4G Full Netcom  48MP AI Cámara Triple  5150mAh+3500mAh  Android 9.0 IP68 Móviles Todoterreno Resistentes 6.3 Inch  NFC'
+slug: 'B0811R7VJY-es DOOGEE S95 Pro Super Mod Móvil Antigolpes Helio P90 Octa-...'
+tags: android
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s9E0yFeIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX4WSLC-es Huawei Mediapad T3 10 - Tablet de 9.6 pulgadas IPS HD  WiFi + 4G  Procesador quad-core Qualcomm Snapdragon 425  2 GB de RAM  16 GB de memoria interna  Android 7 Nougat   color gris'
+slug: 'B06XX4WSLC-es Huawei Mediapad T3 10 - Tablet de 9.6 pulgadas IPS HD WiFi...'
+tags: android
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

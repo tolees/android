@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-v7kiq1vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9K6CYV-es FiiO X5 III - Reproductor de Audio portátil  Alta definición  Pantalla táctil  Sistema operativo Android '
+slug: 'B01N9K6CYV-es FiiO X5 III - Reproductor de Audio portátil Alta...'
+tags: android
 actualPrice: 250.59 EUR
 currency: EUR
 price: 250.59

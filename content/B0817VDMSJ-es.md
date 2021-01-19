@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cQ9ngNRuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817VDMSJ-es Auricular Bluetooth Verdadero Deporte inalámbrico Auricular Bluetooth Estéreo inalámbrico Auriculares inalámbricos con Caja de Carga portátil Compatible con iOS Android  Blanco -61'
+slug: 'B0817VDMSJ-es Auricular Bluetooth Verdadero Deporte inalámbrico...'
+tags: android
 actualPrice: 59 EUR
 currency: EUR
 price: 59

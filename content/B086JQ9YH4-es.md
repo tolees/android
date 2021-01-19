@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-ZOeYf4vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JQ9YH4-es DOOGEE S95 Pro Moviles Libres Todoterreno  Helio P90 Octa Core 8GB +256GB  48MP AI Cámara Triple  6.3 Pantalla FHD+  Android IP68 4G Telefonos Antigolpes  Batería 5150mAh  Carga Inalámbrica NFC'
+slug: 'B086JQ9YH4-es DOOGEE S95 Pro Moviles Libres Todoterreno Helio P90 Octa...'
+tags: android
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

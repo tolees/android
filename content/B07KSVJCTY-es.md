@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OEqfohxrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSVJCTY-es Tablet Android 9.0 de 10   Procesador de Cuatro núcleos 4GB de RAM y 64 GB de Memoria Tablet PC WiFi Cámara GPS y Doble Ranuras de Tarjeta SIM Internet 3G'
+slug: 'B07KSVJCTY-es Tablet Android 9.0 de 10 Procesador de Cuatro núcleos 4GB...'
+tags: android
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

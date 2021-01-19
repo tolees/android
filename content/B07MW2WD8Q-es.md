@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hjn2ucD1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW2WD8Q-es Willful Pulsera de Actividad  Pulsera Inteligente con Pulsómetro Reloj Inteligente Impermeable IP68 Pulsera para Deporte Pulsera Actividad Inteligente para Mujer Hombre Niño para Android iOS Teléfono'
+slug: 'B07MW2WD8Q-es Willful Pulsera de Actividad Pulsera Inteligente con...'
+tags: android
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

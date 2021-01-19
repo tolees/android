@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xjrAZ32eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PHDWWN-es Smartwatch  Reloj Inteligente Impermeable con GPS Monitor de Ritmo Cardíaco Podómetro Cronómetro Pulsera Actividad de Fitness con Podómetro Smart Watch Mujer Hombre niños para iOS y Android  Rosa '
+slug: 'B086PHDWWN-es Smartwatch Reloj Inteligente Impermeable con GPS Monitor...'
+tags: android
 actualPrice: 0.11 EUR
 currency: EUR
 price: 0.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515zOd699aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5JHTX6-es 4G LTE Tablet 10 Pulgadas - Android 9.0 4GB RAM y 64GB ROM Quad Core Tablet Batería de 8000mAh Dual SIM /WiFi 8MP Cámara Tablet PC  GPS  Bluetooth  OTG  Netfilix '
+slug: 'B07X5JHTX6-es 4G LTE Tablet 10 Pulgadas - Android 9.0 4GB RAM y 64GB ROM...'
+tags: android
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

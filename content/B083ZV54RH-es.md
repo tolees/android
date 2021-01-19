@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51E8KEU8RTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZV54RH-es Moviles Libres  DOOGEE X95 Smartphone Libre 2020  6.52 Pulgadas 19.5:9 HD+ Pantalla 4G Telefonos  4350mAh  13MP+2MP+2MP+5MP  Android 10.0 Smartphone  16GB ROM 128GB SD  Dual SIM Face ID  Azul'
+slug: 'B083ZV54RH-es Moviles Libres DOOGEE X95 Smartphone Libre 2020 6.52...'
+tags: android
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

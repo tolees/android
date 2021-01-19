@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+xOsvxMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FJ3M9RQ-es Smartwatch Reloj Inteligente Hombre Mujer Niños Monitor Pulso Cardiaco Pulsera Actividad Reloj Inteligente Cardio Podómetro Bluetooth Reloj Deportivo Impermeable Cronómetro para Android iOS Marrón '
+slug: 'B08FJ3M9RQ-es Smartwatch Reloj Inteligente Hombre Mujer Niños Monitor...'
+tags: android
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

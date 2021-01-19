@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fkBP2pi+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWEG21G-es Huawei P9 Plus - Smartphone de 5.5"  Bluetooth 4.2  4 GB RAM  Memoria Interna de 64 GB  cámara 12 MP  Android 6.0 Marshmallow   Color Gris'
+slug: 'B01DWEG21G-es Huawei P9 Plus - Smartphone de 5.5" Bluetooth 4.2 4 GB RAM...'
+tags: android
 actualPrice: 190.94 EUR
 currency: EUR
 price: 190.94

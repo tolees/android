@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wstw772TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HMWSNG-es Yaufey Mini proyector  proyector DLP inalámbrico portátil para cine en casa con bolsa de transporte y trípode  soporte de batería integrado sistema Android  Wifi  1080P  altavoz Bluetooth  HDMI USB TF dispositivos DLP Projector 120 lúmenes ANSI'
+slug: 'B078HMWSNG-es Yaufey Mini proyector proyector DLP inalámbrico portátil...'
+tags: android
 actualPrice: 226.57 EUR
 currency: EUR
 price: 226.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416MoLmzuTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5RXNRN-es HalfSun Impermeable IP67 Smartwatch  HD Color Screen Pulsera Inteligente con Pulsómetro  Monitor de Presión Arterial，Monitor de Calorías  Sueño  Podómetro，Pulsera Actividad para Android y iOS'
+slug: 'B07S5RXNRN-es HalfSun Impermeable IP67 Smartwatch HD Color Screen...'
+tags: android
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

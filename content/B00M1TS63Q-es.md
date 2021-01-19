@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rYNN7RIbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M1TS63Q-es Sennheiser URBANITE - Auriculares de diadema abiertos  compatible Android   negro'
+slug: 'B00M1TS63Q-es Sennheiser URBANITE - Auriculares de diadema abiertos...'
+tags: android
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

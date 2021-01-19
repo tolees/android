@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m+A7vY4AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBWXD4S-es Lenovo Tab E10  Tablet HD  Procesador Qualcomm APQ8009  2GB de RAM  16GB de Almacenamiento  WiFi + Bluetooth   USB  Adreno 304  Android 8.1  10.1"  Negro'
+slug: 'B07NBWXD4S-es Lenovo Tab E10 Tablet HD Procesador Qualcomm APQ8009 2GB...'
+tags: android
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

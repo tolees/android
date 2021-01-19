@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416god1bfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z76RGQV-es LNMBBS 4G LTE Tablet 10.1" Full HD Tableta Android 10.0 OS  4GB de RAM y 64 GB de Memoria  WiFi GPS Buletooth Soporta  Gris '
+slug: 'B07Z76RGQV-es LNMBBS 4G LTE Tablet 10.1" Full HD Tableta Android 10.0 OS...'
+tags: android
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515Xj17-cZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWJVMPJ-es Smartwatch Reloj Inteligente Deportivo Pulsera Actividad Inteligente IP67 Duración Batería 10-15 días 1.3   a Color Cronómetro Podómetro Monitor de Calorías y Sueño SMS SNS para iOS y Android'
+slug: 'B07VWJVMPJ-es Smartwatch Reloj Inteligente Deportivo Pulsera Actividad...'
+tags: android
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

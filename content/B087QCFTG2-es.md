@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NT5ABgGuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QCFTG2-es Auriculares inalámbricos Bluetooth 5.0 con Reproductor  [Último diseño 2020] Pantalla Táctil LCD estéreo HD Mini Auriculares Bluetooth movil con micrófono Impermeable IPX7 para Android  iOS  TV'
+slug: 'B087QCFTG2-es Auriculares inalámbricos Bluetooth 5.0 con Reproductor...'
+tags: android
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

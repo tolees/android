@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+UdVZpV-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087R2P3RT-es Vigorun Smartwatch Reloj Inteligente Hombre Mujer  Pantalla Táctil Completa Relojes Deportivos  Monitor Ritmo Cardíaco y Sueño  Podómetro  5 ATM Impermeable Pulsera Actividad Inteligente Android Azul'
+slug: 'B087R2P3RT-es Vigorun Smartwatch Reloj Inteligente Hombre Mujer Pantalla...'
+tags: android
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

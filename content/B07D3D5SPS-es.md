@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418EKMkhA4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3D5SPS-es Sensei Photo Fluid 6 Estabilizador de Movil Gimbal de 3 Ejes Versión 2020 - App para Móviles iPhone y Android - Seguimiento Facial Grabación Video Continuo 12h - Modo Panorámico Zoom'
+slug: 'B07D3D5SPS-es Sensei Photo Fluid 6 Estabilizador de Movil Gimbal de 3...'
+tags: android
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lPBulCMRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y15QFYT-es TOSCIDO 4G LTE Tablet 10 Pulgadas1920*1200 IPS HD - Android 10.0 Certificado por Google GMS 4GB RAM 128GB ROM Octa Core 2GHz CPU de Alta Velocidad Doule Sim WiFi Doble Altavoz Estéreo - Negro'
+slug: 'B07Y15QFYT-es TOSCIDO 4G LTE Tablet 10 Pulgadas1920*1200 IPS HD -...'
+tags: android
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

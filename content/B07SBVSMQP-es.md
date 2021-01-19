@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DOHZL2FQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVSMQP-es S&G Top Organizador para Asientos de Coches Organizador de Coche con Sostenedor de Tablet- Universal Android y iOS  Multifuncional-Protector de Asiento Trasero de Automóvil 2packs'
+slug: 'B07SBVSMQP-es S&G Top Organizador para Asientos de Coches Organizador de...'
+tags: android
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

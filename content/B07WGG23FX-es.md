@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qbamaxEZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGG23FX-es CUBOT Quest 4G Smartphone IP68 Robusto 4GB RAM + 64GB ROM Pantalla 5.5" HD Android 9.0 procesador Octa-Core Dual SIM Triple Cámara12+2+8MP 4000 mAh Oat/NFC/Face ID/Huella Digital/Type-C Rojo '
+slug: 'B07WGG23FX-es CUBOT Quest 4G Smartphone IP68 Robusto 4GB RAM + 64GB ROM...'
+tags: android
 actualPrice: 144.22 EUR
 currency: EUR
 price: 144.22

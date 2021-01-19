@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-rGI-3qTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JF9ZDBD-es Konesky Fitness Tracker Monitor de Ritmo cardíaco Pulsera de presión Arterial Actividad Reloj Podómetro Contador de calorías Pulsera para Android iOS Smartphone  Negro '
+slug: 'B07JF9ZDBD-es Konesky Fitness Tracker Monitor de Ritmo cardíaco Pulsera...'
+tags: android
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

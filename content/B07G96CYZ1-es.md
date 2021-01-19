@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dlnucKWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G96CYZ1-es La Herramienta de Escaneo OBD  con Lector de Códigos OBD2 Inalámbrico para Coches se conecta a través de WiFi con IOS  Android y dispositivos Windows  cuenta con una base de datos de 3000 códigos'
+slug: 'B07G96CYZ1-es La Herramienta de Escaneo OBD con Lector de Códigos OBD2...'
+tags: android
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

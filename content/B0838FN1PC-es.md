@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yoz13mPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0838FN1PC-es PICILOO Cargador USB de Pared Dos Enchufe USB Pared Puertos 2.1A/5V 2 Pack Movil Carga Rapida Compatible con iPhone 11 XS MAX XR X 8 7 6 Plus 5S  Samsung Galaxy  Xiaomi  Huawei  LG  HTC  Android'
+slug: 'B0838FN1PC-es PICILOO Cargador USB de Pared Dos Enchufe USB Pared...'
+tags: android
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

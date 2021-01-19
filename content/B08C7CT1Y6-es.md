@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MD4DsK9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7CT1Y6-es Campark Webcam PC 1080P Full HD con Micrófono Estéreo  USB 2.0 Plug & Play  Ideal para Videollamadas y Videoconferencias con Reducción de Ruido. Compatible con Windows  Mac y Android'
+slug: 'B08C7CT1Y6-es Campark Webcam PC 1080P Full HD con Micrófono Estéreo USB...'
+tags: android
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

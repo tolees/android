@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jjxkJIw6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013W2X0VI-es OTG USB 2.0 Flash Drive Colourstone Micro USB 2.0 OTG Para Flash Drive Negro Android Smartphones Tablets PCs 32 GB USB'
+slug: 'B013W2X0VI-es OTG USB 2.0 Flash Drive Colourstone Micro USB 2.0 OTG Para...'
+tags: android
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

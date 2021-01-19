@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HmZjopGNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9H8WKW-es 4G Tablets 10 Pulgadas 64GB  3GB RAM Dual SIM/WiFi Android 8.1 8MP Cámara Google Play/Office/Netflix/GPS/OTG/Bluetooth Tablet PC Buenas Voukou 1Oro '
+slug: 'B07Z9H8WKW-es 4G Tablets 10 Pulgadas 64GB 3GB RAM Dual SIM/WiFi Android...'
+tags: android
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

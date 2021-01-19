@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RKjvaNwTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N192KMF-es Doosl Puntero Laser Presentaciones Mando Inalámbrico Remoto Mando para Powerpoint Presentación  Keynote  Prezi  Windows XP/7/8  Linux  Android  Pila AAA - Negro'
+slug: 'B07N192KMF-es Doosl Puntero Laser Presentaciones Mando Inalámbrico...'
+tags: android
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

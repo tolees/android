@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QSuO5FuCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS8NDZ3-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android 9.0 Certificado por Google GMS Tablet PC Procesador de Quad Core Batería 8500mAh Dual SIM 8MP Cámara WiFi Bluetooth GPS OTG Negro '
+slug: 'B07WS8NDZ3-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android...'
+tags: android
 actualPrice: 99.92 EUR
 currency: EUR
 price: 99.92

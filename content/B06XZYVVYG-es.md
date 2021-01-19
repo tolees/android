@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y903viN0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XZYVVYG-es Energy Sistem Pro 3 - Smartphone Libre de 5.5    4G  WiFi  Bluetooth 4.1  32 GB de Memoria Interna  3 GB de RAM  cámara de 13 MP  Android 7.0   Color Negro'
+slug: 'B06XZYVVYG-es Energy Sistem Pro 3 - Smartphone Libre de 5.5 4G WiFi...'
+tags: android
 actualPrice: 143.18 EUR
 currency: EUR
 price: 143.18

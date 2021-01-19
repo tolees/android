@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZtZh9wtLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0896HDDHT-es OPPO Find X2 PRO 5G – Smartphone de 6.7"  OLED  12GB/512GB  Octa-core  cámara trasera 48MP+48MP+13MP  cámara frontal 32MP  4.260 mAh  Android 10  Snapdragon 865  Naranja'
+slug: 'B0896HDDHT-es OPPO Find X2 PRO 5G – Smartphone de 6.7" OLED 12GB/512GB...'
+tags: android
 actualPrice: 908.26 EUR
 currency: EUR
 price: 908.26

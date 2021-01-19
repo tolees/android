@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HN3Xr3bmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QRB82BK-es Samsung Galaxy Tab A - Tablet de 10.1" Full HD  Wifi + 4G  Procesador Octa-Core  Android Actualizable   3 GB RAM / 64 GB  Negro'
+slug: 'B07QRB82BK-es Samsung Galaxy Tab A - Tablet de 10.1" Full HD Wifi + 4G...'
+tags: android
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

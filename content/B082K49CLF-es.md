@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TIWQjfbjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082K49CLF-es 2020 Auricular Bluetooth inalámbrico cancelación de Ruido  Mini Auricular Bluetooth Interno de 15 Horas para Android iOS # F4'
+slug: 'B082K49CLF-es 2020 Auricular Bluetooth inalámbrico cancelación de Ruido...'
+tags: android
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418f54D8CLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY7YD11-es Motorola Moto G6  – Smartphone libre Android  pantalla de 5.7’’  4G  doble cámara de 12MP  3GB de RAM  32GB  Dual Sim   color azul índigo'
+slug: 'B07CY7YD11-es Motorola Moto G6 – Smartphone libre Android pantalla de...'
+tags: android
 actualPrice: 199.77 EUR
 currency: EUR
 price: 199.77

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HtBIRKggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WZGHLR-es Philips Audio BT55W/00 - Mini Altavoz Bluetooth Inalámbrico Portátil  Compatible con Smartphones  iPhone  Android y Tablet  Blanco'
+slug: 'B075WZGHLR-es Philips Audio BT55W/00 - Mini Altavoz Bluetooth...'
+tags: android
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

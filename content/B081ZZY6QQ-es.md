@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JbXUAmGwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081ZZY6QQ-es 2019 Nuevo Altavoz Bluetooth portátil  Altavoz Bluetooth a Prueba de Agua con reproducción de 6 h  Potente Sonido HD  Ventosa y Gancho Fuerte  Compatible con iOS  Android  PC  Almohadilla  Black-3 '
+slug: 'B081ZZY6QQ-es 2019 Nuevo Altavoz Bluetooth portátil Altavoz Bluetooth a...'
+tags: android
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

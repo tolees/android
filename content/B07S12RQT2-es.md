@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PxsHp8v2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S12RQT2-es Alcatel 3  2019  smartphone  pantalla 5 94"  4GB RAM  64GB memoria interna  Dual SIM  doble cámara frontal 13 Mpx + 5 Mpx  cámara selfie 8 Mpx  batería 3.500 mAh  Android   Negro y Azul.'
+slug: 'B07S12RQT2-es Alcatel 3 2019 smartphone pantalla 5 94" 4GB RAM 64GB...'
+tags: android
 actualPrice: 160.99 EUR
 currency: EUR
 price: 160.99

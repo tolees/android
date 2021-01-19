@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rcra4xh9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FT872TN-es Niños Tablet 7 Pulgadas  Android 7.1 OS  iwawa pre-installed  Pantalla táctil  1 GB de RAM  8 GB de memoria  WiFi  Bluetooth  Dual de cámara con kindgerechte funda de silicona（azul）'
+slug: 'B07FT872TN-es Niños Tablet 7 Pulgadas Android 7.1 OS iwawa pre-installed...'
+tags: android
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

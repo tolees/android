@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+-h7hGuTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SFY5ZM-es Alcatel 3v - Smartphone de 6"  Quad-Core 1.45 GHz  Memoria 16 GB Ampliable hasta MicroSD de 128 GB  cámara DE 16 MP AF + 2 MP  Android 8.0  Color Azul'
+slug: 'B078SFY5ZM-es Alcatel 3v - Smartphone de 6" Quad-Core 1.45 GHz Memoria...'
+tags: android
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

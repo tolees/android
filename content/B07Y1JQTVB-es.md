@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ATXWHPNML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1JQTVB-es Tableta 10.1 Pulgadas Pantalla HD IPS Android 9.0 - Tablet 4G con Teclado 2 Ranuras para Tarjetas SIM 3GB RAM 32GB de Memoria Quad Core Batería 8000mAh - Soporte Netflix  WiFi  Bluetooth  GPS  OTG'
+slug: 'B07Y1JQTVB-es Tableta 10.1 Pulgadas Pantalla HD IPS Android 9.0 - Tablet...'
+tags: android
 actualPrice: 87.97 EUR
 currency: EUR
 price: 87.97

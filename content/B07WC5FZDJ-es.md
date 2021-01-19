@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ymcbTWGoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC5FZDJ-es Auriculares Inalambricos Blutetooth  Auriculares Blutetooth Deporte Magnéticos Hi-Fi Sonido Estéreo In-Ear Micrófono Incorporado Cancelación de Ruido CVC 6.0 Sweatproof IPX4 Siri iPhone y Android'
+slug: 'B07WC5FZDJ-es Auriculares Inalambricos Blutetooth Auriculares Blutetooth...'
+tags: android
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

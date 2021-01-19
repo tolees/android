@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rlisB9ayL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088MFLG7Z-es TedGem Webcam  Web CAM  Webcam 1080p Camara Web  Webcam Full HD con Micrófono para Videollamadas  Webcam para Windows  Android  Linux'
+slug: 'B088MFLG7Z-es TedGem Webcam Web CAM Webcam 1080p Camara Web Webcam Full...'
+tags: android
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

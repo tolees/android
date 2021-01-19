@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sWooqpPFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FC18TKS-es Cascos Bluetooth Inalámbricos  OLTA Auriculares Plegable con Micrófono  Manos Libres  Almohadillas de Protección Cómodo  MicroSD  para iPhone y Android Rojo'
+slug: 'B07FC18TKS-es Cascos Bluetooth Inalámbricos OLTA Auriculares Plegable...'
+tags: android
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

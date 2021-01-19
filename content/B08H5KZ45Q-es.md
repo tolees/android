@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414JF1HxBpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H5KZ45Q-es Tarjeta Micro SD de alta velocidad de 256 GB diseñada para teléfonos inteligentes Android  tabletas Clase 10 SDXC Tarjeta de memoria con adaptador  256 GB-X '
+slug: 'B08H5KZ45Q-es Tarjeta Micro SD de alta velocidad de 256 GB diseñada para...'
+tags: android
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

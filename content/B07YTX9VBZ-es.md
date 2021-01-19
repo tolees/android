@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OgQVGUNkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTX9VBZ-es 4G LTE Tablet 10 Pulgadas YOTOPT - Android 9.0  4GB RAM y 64GB ROM  GPS/Bluetooth/WiFi Soporte  Oro '
+slug: 'B07YTX9VBZ-es 4G LTE Tablet 10 Pulgadas YOTOPT - Android 9.0 4GB RAM y...'
+tags: android
 actualPrice: 89.98 EUR
 currency: EUR
 price: 89.98

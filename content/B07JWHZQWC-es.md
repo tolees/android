@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jvv5DZcSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWHZQWC-es IPOTCH 1 Pieza Reloj Digital Unisex Muñequera de Actividad Física Dispositivos GPS Conecta con Android Dispositivos iOS - Negro'
+slug: 'B07JWHZQWC-es IPOTCH 1 Pieza Reloj Digital Unisex Muñequera de Actividad...'
+tags: android
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

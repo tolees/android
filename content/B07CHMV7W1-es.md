@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JMiT2mwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHMV7W1-es ALCATEL 3X Smartphone Quad Core 1.28 GHz  Android N  5.7" HD+ 18:9  1440x720p  4G  Cámara DE 13+5 Mpx y Frontal 5Mpx  3GB de RAM  32GB de ROM   Negro '
+slug: 'B07CHMV7W1-es ALCATEL 3X Smartphone Quad Core 1.28 GHz Android N 5.7"...'
+tags: android
 actualPrice: 126.52 EUR
 currency: EUR
 price: 126.52

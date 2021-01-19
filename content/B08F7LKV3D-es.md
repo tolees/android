@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511UaZ7ED7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7LKV3D-es Tablet para Niños con WiFi 7.0 Pulgadas 3GB RAM 32GB/128GB ROM Android 9.0 Pie Certificado por Google GMS Tablet Infantil 1.5Ghz Quad Core Batería 4000mAh Tablet PC Netflix Juegos Educativos Verde '
+slug: 'B08F7LKV3D-es Tablet para Niños con WiFi 7.0 Pulgadas 3GB RAM 32GB/128GB...'
+tags: android
 actualPrice: 72.92 EUR
 currency: EUR
 price: 72.92

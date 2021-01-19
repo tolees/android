@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HcVR+OGEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WZFZ15-es Philips BT55A - Mini Altavoz Bluetooth inalámbrico portatil  Compatible con Smartphones  iPhone  Android y Tablet  Azul'
+slug: 'B075WZFZ15-es Philips BT55A - Mini Altavoz Bluetooth inalámbrico...'
+tags: android
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

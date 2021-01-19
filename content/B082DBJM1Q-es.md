@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513PNu4A9KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082DBJM1Q-es Smartwatch con Whatsapp Bluetooth Smart Watch Pantalla táctil Reloj Inteligente Hombre con Cámara  Impermeable Smartwatches Telefono Sport Fitness Tracker Compatible Android iOS para Hombre Mujer'
+slug: 'B082DBJM1Q-es Smartwatch con Whatsapp Bluetooth Smart Watch Pantalla...'
+tags: android
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

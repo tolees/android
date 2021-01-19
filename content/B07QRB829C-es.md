@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Jh5JpHK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QRB829C-es Samsung Galaxy Tab A - Tablet PC  USB  MALI-G71 MP2  Android  3 GB RAM | 64 GB  Plata'
+slug: 'B07QRB829C-es Samsung Galaxy Tab A - Tablet PC USB MALI-G71 MP2 Android...'
+tags: android
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

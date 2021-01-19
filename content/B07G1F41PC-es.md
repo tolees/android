@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g-f20meXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1F41PC-es Polaroid Mint Impresora de bolsillo con Tecnología Zink Zero Ink papel adhesivo 5 x 7.6 cm - Bluetooth para Android y iOS  Rojo '
+slug: 'B07G1F41PC-es Polaroid Mint Impresora de bolsillo con Tecnología Zink...'
+tags: android
 actualPrice: 94.7 EUR
 currency: EUR
 price: 94.7

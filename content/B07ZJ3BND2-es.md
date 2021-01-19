@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hv-hlDd8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJ3BND2-es Auriculares Bluetooth inalámbricos BT5.0 Touch Control Design Super Mini Auriculares con micrófono estéreo Audio Soporte Siri para iOS Android （Blanco-76）'
+slug: 'B07ZJ3BND2-es Auriculares Bluetooth inalámbricos BT5.0 Touch Control...'
+tags: android
 actualPrice: 59 EUR
 currency: EUR
 price: 59

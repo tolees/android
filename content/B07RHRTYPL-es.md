@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UGe55Pu-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHRTYPL-es LATEC Pulsera Actividad Inteligente Pulsómetro y Presión Arterial Relojes Deportivos Impermeable IP68 Podómetro Pulsera Deportiva Reloj para Xiaomi Samsung Huawei Android iPhone iOS Teléfono  Azul '
+slug: 'B07RHRTYPL-es LATEC Pulsera Actividad Inteligente Pulsómetro y Presión...'
+tags: android
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

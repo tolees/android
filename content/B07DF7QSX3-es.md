@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SFcPXV5-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DF7QSX3-es Gigaset GS180 - Smartphone 5" SIM Doble 4G 2GB 16GB 3000mAh Champán - Smartphone  12 7 cm  5"   2 GB  16 GB  13 MP  Android 8.1  Champán '
+slug: 'B07DF7QSX3-es Gigaset GS180 - Smartphone 5" SIM Doble 4G 2GB 16GB...'
+tags: android
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

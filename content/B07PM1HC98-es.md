@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iqOajqQCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM1HC98-es Dragon Ball Z - Figura de colección Android Número 18 versión B  Bandai 85452 '
+slug: 'B07PM1HC98-es Dragon Ball Z - Figura de colección Android Número 18...'
+tags: android
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

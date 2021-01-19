@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d028yMQ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ1VKJZ-es WIKO View3 Lite - Smartphone de 6 09” HD+ IPS  Cámara Dual  4000mAh para 2 días de autonomía  Octa-Core 1.6 GHz  32GB de ROM  2GB RAM  Android 9  Dual SIM   Blush Gold '
+slug: 'B07QJ1VKJZ-es WIKO View3 Lite - Smartphone de 6 09” HD+ IPS Cámara Dual...'
+tags: android
 actualPrice: 123.03 EUR
 currency: EUR
 price: 123.03

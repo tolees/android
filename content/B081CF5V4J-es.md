@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51iC6k0nMeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CF5V4J-es NAIXUES Smartwatch  Reloj Inteligente IP67 con Presión Arterial  10 Modos de Deporte  Pulsómetro  Monitor de Sueño  Notificaciones Inteligentes  Smartwatch Hombre Mujer para iOS y Android  Negro '
+slug: 'B081CF5V4J-es NAIXUES Smartwatch Reloj Inteligente IP67 con Presión...'
+tags: android
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

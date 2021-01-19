@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415wloc6MXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMG277D-es DOOGEE N20 2019 Dual SIM Telefonos Moviles Libres 4g  Octa-Core 4GB RAM 64GB ROM  6.3 Pulgadas FHD + Android 9.0 Smartphone Libres  Cámara 16MP+8MP+8MP+16MP  4350mAh  10W Carga Rápida - Azul'
+slug: 'B07VMG277D-es DOOGEE N20 2019 Dual SIM Telefonos Moviles Libres 4g Octa-...'
+tags: android
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

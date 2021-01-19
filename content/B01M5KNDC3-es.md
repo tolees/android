@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XXeSfznHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5KNDC3-es Honor 6X - Smartphone libre de 5.5"  lector de huellas  3 GB RAM  32 GB ROM  EMUI 4.1 compatible con Android M  Full HD 1080p  Kirin 655 octa core  cámara 12 MP + 2 MP AF  frontal 8 MP   plateado'
+slug: 'B01M5KNDC3-es Honor 6X - Smartphone libre de 5.5" lector de huellas 3 GB...'
+tags: android
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

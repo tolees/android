@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5122u7x5YwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R26R4VS-es Motorola One Vision - Smartphone Android One  4 GB de RAM  128 GB  Cámara 48 MP Quad Pixel  Pantalla 6.3   FHD+ CinemaVision  ratio 21:9  Dual SIM   color bronce [Versión española]'
+slug: 'B07R26R4VS-es Motorola One Vision - Smartphone Android One 4 GB de RAM...'
+tags: android
 actualPrice: 206.91 EUR
 currency: EUR
 price: 206.91

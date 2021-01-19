@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41APUd6zGfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNT6J3Q-es Samsung Galaxy Tab S4 - Tablet de 10.5" WQXGA  Wi-Fi  Procesador Octa-Core Snapdragon 835  4 GB de RAM  64 GB de memoria interna  Android 8.1 Oreo ; Negro + S Pen incluido [España]'
+slug: 'B07GNT6J3Q-es Samsung Galaxy Tab S4 - Tablet de 10.5" WQXGA Wi-Fi...'
+tags: android
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

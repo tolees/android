@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WnQq5ZuEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2WQ93H-es Palm PVG100 - Smartphone de 3.3"  4G  RAM de 3 GB  Memoria de 32 GB  cámara de 12 MP  Android 8.0 Oreo  Negro'
+slug: 'B07X2WQ93H-es Palm PVG100 - Smartphone de 3.3" 4G RAM de 3 GB Memoria de...'
+tags: android
 actualPrice: 270.0 EUR
 currency: EUR
 price: 270.0

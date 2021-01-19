@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YjkC-3yEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757Y2LFK-es Sony Xperia XZ1 - Smartphone de 5.2"  Bluetooth  Octa Core Snapdragon 835  4 GB de RAM  Memoria Interna de 64 GB  cámara de 19 MP  Android  Color Rosa'
+slug: 'B0757Y2LFK-es Sony Xperia XZ1 - Smartphone de 5.2" Bluetooth Octa Core...'
+tags: android
 actualPrice: 234.47 EUR
 currency: EUR
 price: 234.47

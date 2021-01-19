@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yaDT0JsbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YV8QM35-es Maegoo Auriculares Inalámbricos Bluetooth 5.0  Auriculares Bluetooth Mini TWS con Cancelación Ruido con Estuche Carga 24H Playtime Auriculares Deportivos para iPhone y Android Teléfonos  Blanco '
+slug: 'B07YV8QM35-es Maegoo Auriculares Inalámbricos Bluetooth 5.0 Auriculares...'
+tags: android
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

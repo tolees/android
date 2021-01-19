@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3131SHFZTLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0LIS66-es Sony Xperia XZ Forest Blue - Telefono movil con pantalla de 5.2"  Qualcomm Snapdragon 820 64 bits  memoria interna de 32 GB  memoria RAM de 3 GB  camara de 23 MP  1920x1080  4G  Android  color azul'
+slug: 'B01M0LIS66-es Sony Xperia XZ Forest Blue - Telefono movil con pantalla...'
+tags: android
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

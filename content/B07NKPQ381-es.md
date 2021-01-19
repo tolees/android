@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4109LYIIxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKPQ381-es Willful Pulsera Actividad  Pulsera Actividad Inteligente Pantalla Color Reloj con Pulsómetro Impermeable IP68 Podómetro Pulsera Deportiva Reloj para Xiaomi Samsung Huawei Android iPhone iOS Teléfono'
+slug: 'B07NKPQ381-es Willful Pulsera Actividad Pulsera Actividad Inteligente...'
+tags: android
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

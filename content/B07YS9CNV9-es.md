@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bfhNJbtWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YS9CNV9-es 2019 Auriculares Bluetooth  5.0 Auriculares inalámbricos Bluetooth co cancelación de Ruido de Micrófono estéreo en la Oreja para iOS Android Sports'
+slug: 'B07YS9CNV9-es 2019 Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
+tags: android
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

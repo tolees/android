@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Cy5rAfvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HTCMWS-es Motorola termómetro inteligente de oído con seguimiento de la temperatura - Sincronización en tiempo real con su teléfono inteligente a través de Bluetooth - Compatible con iOS y Android'
+slug: 'B076HTCMWS-es Motorola termómetro inteligente de oído con seguimiento de...'
+tags: android
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

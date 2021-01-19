@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l8cYtghfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWTZ48H-es OTHA Proyector Mini Portátil  Mini Proyector Android 7.1.2  Proyector DLP  Soporte 1080P Bluetooth HDMI Airplay Wifidisplay Eshare  para Cine en Casa Inalámbrico  Compatible con Fire TV Stick/PS3/PS4'
+slug: 'B07DWTZ48H-es OTHA Proyector Mini Portátil Mini Proyector Android 7.1.2...'
+tags: android
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zh9u5q-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0888BF1SQ-es Tablet 10 Pulgadas 4G Android 9.0 Tableta 4GB RAM 64GB ROM GPS/WiFi/Bluetooth/Soporte  Oro '
+slug: 'B0888BF1SQ-es Tablet 10 Pulgadas 4G Android 9.0 Tableta 4GB RAM 64GB ROM...'
+tags: android
 actualPrice: 65.01 EUR
 currency: EUR
 price: 65.01

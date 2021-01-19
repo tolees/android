@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515AlbiRY3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L79M9LM-es Controlador de Juego móvil para PUBG 5 en 1 versión Mejorada Gamepad Shoot y Aim Trigger Phone Cooling Pad Power Bank para Android y iOS Fortnite/Knives out'
+slug: 'B07L79M9LM-es Controlador de Juego móvil para PUBG 5 en 1 versión...'
+tags: android
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

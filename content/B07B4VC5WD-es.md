@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lIXdu0TJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4VC5WD-es Sony Xperia XZ2 - Smartphone de 5.7"  Octa-Core de 2.8 GHz  RAM de 4 GB  Memoria Interna de 64 GB  cámara de 19 MP  Android  Color Plata'
+slug: 'B07B4VC5WD-es Sony Xperia XZ2 - Smartphone de 5.7" Octa-Core de 2.8 GHz...'
+tags: android
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

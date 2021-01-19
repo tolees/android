@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311dStGn7tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRMFG8H-es AUKEY Auriculares Bluetooth Deportivos  Auriculares Inalámbricos Bluetooth 5 In-Ear con CVC 6.0 Micrófono Reducción  IPX5 Impermeable  Reproducción de 8 Horas para iOS Android'
+slug: 'B07ZRMFG8H-es AUKEY Auriculares Bluetooth Deportivos Auriculares...'
+tags: android
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

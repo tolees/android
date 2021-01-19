@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RReKjuXcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4BHM6W-es DOOGEE N20 Smartphone Libres  2019 Android 9.0 4G Teléfono Móvil Libres Dual Sim  Octa Core 4GB RAM+64GB ROM  6.3 Pulgadas FHD+  16.0MP+8.0MP+8.0MP  4350mAh Face ID+Huella Digital  Azul'
+slug: 'B07W4BHM6W-es DOOGEE N20 Smartphone Libres 2019 Android 9.0 4G Teléfono...'
+tags: android
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

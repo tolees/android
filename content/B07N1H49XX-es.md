@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WhjHwjUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1H49XX-es OurLeeme Video Timbre  Inalámbrico  WiFi  Monitoreo Remoto  Timbre de la Puerta  Visor de Puerta con cámara de Seguridad con visión Nocturna por Infrarrojos  Soporte para Android y iOS  Negro '
+slug: 'B07N1H49XX-es OurLeeme Video Timbre Inalámbrico WiFi Monitoreo Remoto...'
+tags: android
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

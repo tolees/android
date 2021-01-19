@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BO0OoPoLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQMDLNW-es Willful Pulsera Actividad Impermeable IP68 con 14 Modos de Deporte Pulsera Inteligente con Pulsómetro  Monitor de Calorías  Sueño Podómetro Pulsera Deporte para Android y iOS Teléfono móvil'
+slug: 'B07NQMDLNW-es Willful Pulsera Actividad Impermeable IP68 con 14 Modos de...'
+tags: android
 actualPrice: 37.96 EUR
 currency: EUR
 price: 37.96

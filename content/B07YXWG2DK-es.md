@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mlOsdRMVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXWG2DK-es 2020 Moviles Libres Baratos6.0’’ Pulgadas 4G Teléfono Móvil Libre 3GB RAM 16GB ROM Android 8.1 Moviles Barats y Buenos Quad-Core 4800mAh Batería Dual SIM 8MP Cámara Face ID（Púrpura）'
+slug: 'B07YXWG2DK-es 2020 Moviles Libres Baratos6.0’’ Pulgadas 4G Teléfono...'
+tags: android
 actualPrice: 69.88 EUR
 currency: EUR
 price: 69.88

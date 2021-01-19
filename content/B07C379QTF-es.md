@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cm8N8gRaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C379QTF-es Sharplace 1 Pieza de Adaptador Remoto Control IR Compatible con Móvil Inteligente Android - Blanco Negro Interfaz Micro USB'
+slug: 'B07C379QTF-es Sharplace 1 Pieza de Adaptador Remoto Control IR...'
+tags: android
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

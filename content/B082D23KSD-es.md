@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s9flD6T4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D23KSD-es UMIDIGI Reloj Inteligente Uwatch3 Smartwatch 5ATM Impermeable con Cronómetro Pulsera Actividad Inteligente Reloj de Fitness con Podómetro Smartwatch Mujer Hombre niños para iOS y Android [Rojo]'
+slug: 'B082D23KSD-es UMIDIGI Reloj Inteligente Uwatch3 Smartwatch 5ATM...'
+tags: android
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

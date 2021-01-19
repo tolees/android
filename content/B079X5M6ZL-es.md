@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ae76sZ1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079X5M6ZL-es Samsung SM-G960FZKDPHE Galaxy S9 - Smartphone de 5.8"  Wi-Fi  Bluetooth 64 GB  4 GB RAM  Dual SIM  12 MP  Android 8.0 Oreo  Negro - Versión Española'
+slug: 'B079X5M6ZL-es Samsung SM-G960FZKDPHE Galaxy S9 - Smartphone de 5.8" Wi-...'
+tags: android
 actualPrice: 559.0 EUR
 currency: EUR
 price: 559.0

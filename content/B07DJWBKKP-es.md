@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51H4bhoXUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJWBKKP-es TEKKIWEAR. DMT185WHBRW. Smartwatch Deportivo N20 Analógico. Compatible con Android Y iPhone. Correa De TPE. Marrón'
+slug: 'B07DJWBKKP-es TEKKIWEAR. DMT185WHBRW. Smartwatch Deportivo N20...'
+tags: android
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

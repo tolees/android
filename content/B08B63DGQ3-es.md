@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316-+EMlGGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B63DGQ3-es Longspeed Universal C6 Pulsera Inteligente Multifuncional OLED Pantalla de 0 69 Pulgadas 4.0 Pulsera Sleep Track para Android - Negro y Gris'
+slug: 'B08B63DGQ3-es Longspeed Universal C6 Pulsera Inteligente Multifuncional...'
+tags: android
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

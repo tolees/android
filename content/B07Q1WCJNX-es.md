@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RkKZxBJ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1WCJNX-es Huawei P30 - Smartphone de 6.1"  Kirin 980 Octa-Core de 2.6GHz  RAM de 6 GB  Memoria interna de 128 GB  cámara de 40 MP  Android  Color Aurora [Versión importada]'
+slug: 'B07Q1WCJNX-es Huawei P30 - Smartphone de 6.1" Kirin 980 Octa-Core de...'
+tags: android
 actualPrice: 385.0 EUR
 currency: EUR
 price: 385.0

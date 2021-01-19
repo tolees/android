@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415zecSnc3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTCGNND-es TagoBee TB14 Pulsera Actividad Fitness Trackers IP68 Waterproof Smart Band 1.14   LCD Color Screen Sport Smart Brazalete con Monitor de frecuencia cardíaca Compatible con Android e iOS  Silver '
+slug: 'B07WTCGNND-es TagoBee TB14 Pulsera Actividad Fitness Trackers IP68...'
+tags: android
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

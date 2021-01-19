@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RjWtOH+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWVS3NC-es Tableta 10 Pulgadas LAMZIEN Android 8.1 Tablet Infantil 2GB RAM y 32GB ROM Quad-Core 1.8Ghz 3G Dual-Sim Wifi  Bluetooth Cámara Dual Google Play Juegos Educativos Azul'
+slug: 'B07WWVS3NC-es Tableta 10 Pulgadas LAMZIEN Android 8.1 Tablet Infantil...'
+tags: android
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

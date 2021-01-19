@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ae76sZ1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YWSLB9-es Samsung SM-G960F/DS Smartphone Samsung Galaxy S9  5.8"  Wi-Fi  Bluetooth 64 GB de ROM  4 GB RAM  Dual SIM  12 MP  Android 8.0 Oreo   Negro - otra versión internacional'
+slug: 'B079YWSLB9-es Samsung SM-G960F/DS Smartphone Samsung Galaxy S9 5.8" Wi-...'
+tags: android
 actualPrice: 465.0 EUR
 currency: EUR
 price: 465.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dJ8EuWZbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP13W9V-es Android TV Box  Android 8.1 TV Box Amlogic S905W Quad-Core Cortex-A53 2GB RAM 16GB ROM Android Box Soporte 2.4G WiFi Ethernet 4K 3D con Control Remoto'
+slug: 'B07PP13W9V-es Android TV Box Android 8.1 TV Box Amlogic S905W Quad-Core...'
+tags: android
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

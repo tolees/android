@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415rxF3pLwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV7LBFM-es Omars PowerBank Carga Rápida PD - 10000 mAh Batería Externa Ultrafina  Cargador Portátil con 1 USB-C & 2 USB-A para Moviles Android & iOS  Tabletas  Negro'
+slug: 'B07MV7LBFM-es Omars PowerBank Carga Rápida PD - 10000 mAh Batería...'
+tags: android
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

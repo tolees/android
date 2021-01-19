@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wxP4cIYuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LZWPKD-es Moviles Libres Baratos 4G Android 9.0  V·MOBILE M9 2019  6.3" FHD 4GB RAM + 64GB ROM Smartphone Libres Dual SIM  Cámara 12Mp+5Mp Camara Telefono Móvil 4800mAh Moviles baratos y buenos  Púrpura '
+slug: 'B083LZWPKD-es Moviles Libres Baratos 4G Android 9.0 V·MOBILE M9 2019...'
+tags: android
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

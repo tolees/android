@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f9ya-abFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFML55P-es WANFEI Maceta Inteligente  Smart Maceta de Plantas Contenedores de Plantas con Función de Monitor de Plantas Monitoreo en Tiempo Real de Humedad/Fertilizante/para Android iOS'
+slug: 'B08BFML55P-es WANFEI Maceta Inteligente Smart Maceta de Plantas...'
+tags: android
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

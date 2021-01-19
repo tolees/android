@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R0fLU0q6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084V6CFLY-es Auriculares Inalámbricos Bluetooth 5.0  Deportivos Auriculares In-Ear Impermeable IPX7 8+40H Autonomía Emparejamiento Siri Sonido Estéreo con Mic para iPhone Android  Blanco '
+slug: 'B084V6CFLY-es Auriculares Inalámbricos Bluetooth 5.0 Deportivos...'
+tags: android
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

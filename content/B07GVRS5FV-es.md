@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412cReJVjEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVRS5FV-es Xiaomi Mi MAX 3 - Smartphone DE 6.9"  RAM de 4 GB  Memoria de 64 GB  cámara DE 12+5 MP  Android 8.1  Color Negro'
+slug: 'B07GVRS5FV-es Xiaomi Mi MAX 3 - Smartphone DE 6.9" RAM de 4 GB Memoria...'
+tags: android
 actualPrice: 253.0 EUR
 currency: EUR
 price: 253.0

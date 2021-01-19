@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BvOvHsM4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB2XDF4-es UMIDIGI One Pro Smartphone Libre 4G Volte 5.9" Incell 19: 9 Soporte Cargador inalámbrico de 15W Batería 4150mAh 4GBRAM+64GB ROM Doble Cámara12MP+5MP Face Unlock Android 8.1[Crepúsculo]'
+slug: 'B07GB2XDF4-es UMIDIGI One Pro Smartphone Libre 4G Volte 5.9" Incell 19:...'
+tags: android
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

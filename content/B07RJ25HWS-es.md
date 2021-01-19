@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ysABDW5cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJ25HWS-es 7 Pulgadas Android Oreo 8.1OS 1G RAM 16G ROM Tablet PC 1024x600 IPS Resolución WiFi Bluetooth Dual-Camera Cheap for Kids - Negro'
+slug: 'B07RJ25HWS-es 7 Pulgadas Android Oreo 8.1OS 1G RAM 16G ROM Tablet PC...'
+tags: android
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

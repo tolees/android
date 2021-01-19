@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ju0z81-rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XK8VRBL-es OnePlus 7T Pro  Pantalla AMOLED de 90Hz  8GB RAM + 256GB de Almacenamiento  Triple Cámara + Pop-Up Cámara  Warp Charge 30T  Bluetooth  Android  16.9"  Haze Blue'
+slug: 'B07XK8VRBL-es OnePlus 7T Pro Pantalla AMOLED de 90Hz 8GB RAM + 256GB de...'
+tags: android
 actualPrice: 640.0 EUR
 currency: EUR
 price: 640.0

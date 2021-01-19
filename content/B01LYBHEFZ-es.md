@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318WHw2lPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYBHEFZ-es Sony Xperia XZ Mineral Black - Telefono movil con pantalla de 5.2"  Qualcomm Snapdragon 820 64 bits  memoria interna de 32 GB  memoria RAM de 3 GB  camara de 23 MP  1920x1080  4G  Android  color negro'
+slug: 'B01LYBHEFZ-es Sony Xperia XZ Mineral Black - Telefono movil con pantalla...'
+tags: android
 actualPrice: 109.89 EUR
 currency: EUR
 price: 109.89

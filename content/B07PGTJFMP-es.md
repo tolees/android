@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yt2b5gxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGTJFMP-es YZPUSI USB 2.0 64gb Pendrive  3 en 1 64 GB USB 2.0 OTG Memoria USB Flash Drive Stick Conector para Android PC Cell Phone  64gb Micro USB Flash Drive'
+slug: 'B07PGTJFMP-es YZPUSI USB 2.0 64gb Pendrive 3 en 1 64 GB USB 2.0 OTG...'
+tags: android
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

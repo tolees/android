@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ofv4W1azL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGVKHWG-es HolyHigh Auriculares Inalambricos Bluetooth Auriculares Bluetooth 5.0 Sonido Estéreo HiFi con Caja de Carga Micrófono Incorporado Cascos Bluetooth Inalámbricos para iOS Android'
+slug: 'B07VGVKHWG-es HolyHigh Auriculares Inalambricos Bluetooth Auriculares...'
+tags: android
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SpwwOUgSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWYX439-es BQ Aquaris X Pro - Smartphone de 5.2"  Nano SIM  Bluetooth 4.2  Octa Core 2.2 GHz  64 GB de Memoria Interna  4 GB de RAM  cámara de 12 MP  Android 7.1.1 Nougat  Negro'
+slug: 'B06XWYX439-es BQ Aquaris X Pro - Smartphone de 5.2" Nano SIM Bluetooth...'
+tags: android
 actualPrice: 155.0 EUR
 currency: EUR
 price: 155.0

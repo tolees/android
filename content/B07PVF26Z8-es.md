@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gg0eZ5uxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVF26Z8-es Huawei P30 Pro 16 4 cm  6.47"  8 GB 256 GB Ranura híbrida Dual SIM 4G Negro 4200 mAh - Smartphone  16 4 cm  6.47"   8 GB  256 GB  40 MP  Android 9.0  Negro '
+slug: 'B07PVF26Z8-es Huawei P30 Pro 16 4 cm 6.47" 8 GB 256 GB Ranura híbrida...'
+tags: android
 actualPrice: 640.0 EUR
 currency: EUR
 price: 640.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41thACfT-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084MFC1SC-es 【2 Packs】 3.5mm Auriculares con micrófono y micrófono Control de Volumen estéreo Aislamiento de Sonido para iOS Android MP3- YX '
+slug: 'B084MFC1SC-es 【2 Packs】 3.5mm Auriculares con micrófono y micrófono...'
+tags: android
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

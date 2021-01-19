@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YjtC6MSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RK5VU5M-es TP-LINK - Router N300  Android '
+slug: 'B00RK5VU5M-es TP-LINK - Router N300 Android'
+tags: android
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

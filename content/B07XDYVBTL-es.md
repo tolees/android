@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VjhRnb-tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDYVBTL-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pantalla táctil con Ranura para Tarjeta SIM Cámara Podómetro Moviles Buenos Pulsera de Actividad para Android Xiaomi Samsung Huawei  Negro '
+slug: 'B07XDYVBTL-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pantalla...'
+tags: android
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

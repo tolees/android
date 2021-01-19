@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z38CBrUOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824LV5VM-es UMIDIGI Reloj Inteligente Uwatch3 5ATM Impermeable Smartwatch con Cronómetro Pulsera Actividad para Deporte de Fitness con Podómetro Smartwatch Mujer Hombre niños para iOS y Android [Azul]'
+slug: 'B0824LV5VM-es UMIDIGI Reloj Inteligente Uwatch3 5ATM Impermeable...'
+tags: android
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mc2wfwoOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BG2QZVN-es Sami - Kids - Smartwatch  Reloj Inteligente Infantil  Smartband  Pulsera de Actividad Deportiva. para Android y iOS. WiFi Número SOS GPS Función Valla Cámara y Escucha Remota Multideportivo. Azul.'
+slug: 'B08BG2QZVN-es Sami - Kids - Smartwatch Reloj Inteligente Infantil...'
+tags: android
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

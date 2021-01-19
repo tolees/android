@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51iqbCOtsjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXMT36M-es Mini Proyector  Tenswall Portátil DLP Video Proyectors Android 7.1 Pico Projector 1080P Full HD Home Cinema  Entrada HDMI a Su Ordenador Portátil/PC/PS4  Conectividad Inalámbrica Bluetooth Wi-Fi'
+slug: 'B07BXMT36M-es Mini Proyector Tenswall Portátil DLP Video Proyectors...'
+tags: android
 actualPrice: 209 EUR
 currency: EUR
 price: 209

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oSGoj7XtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGFN4B6-es HolyHigh Auriculares Inalambricos Deportivos Auriculares Bluetooth 5.0 IPX7 Impermeable 26H de Autonomía Auriculares Inalámbricos con Caja de Carga Micrófono para Correr Deporte para iOS Android'
+slug: 'B07XGFN4B6-es HolyHigh Auriculares Inalambricos Deportivos Auriculares...'
+tags: android
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

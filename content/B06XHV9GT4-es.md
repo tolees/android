@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BVrojpyHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHV9GT4-es Yuntab K17 Tablet táctil IPS 10.1 pulgadas 3G Wifi PC Aleación Metal atrás Quad-Core Android 1GB + 16GB Dual SIM Card Slots GPS WIFI Youtube Netflix Batería 5000Mha oro rosa sin cargador'
+slug: 'B06XHV9GT4-es Yuntab K17 Tablet táctil IPS 10.1 pulgadas 3G Wifi PC...'
+tags: android
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

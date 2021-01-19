@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QBwGX4tEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYVDRWL-es CUBOT R15 Pro Smartphone 4G Teléfono del Juego | Quad Core 2Ghz Procesador 3GB+32GB Android 9.0 Dual Nano SIM 3000 mAh 6 26" HD+ Monitor  1520 * 720  Cámara 16MP+13MP -Verde'
+slug: 'B07YYVDRWL-es CUBOT R15 Pro Smartphone 4G Teléfono del Juego | Quad Core...'
+tags: android
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51eszrpUiCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNHDXCZ-es HOMSCAM Pulsera Inteligente  Pulsera Actividad Impermeable IP68 con Monitor de Calorías  Monitor de Ritmo Cardíaco  Captura de cámara  Notificación de Mensajes para Android y iOS Teléfono móvil'
+slug: 'B07JNHDXCZ-es HOMSCAM Pulsera Inteligente Pulsera Actividad Impermeable...'
+tags: android
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ly6n7rzsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L54MVM3-es Seneo Reloj Inteligente Hombre  Reloj de Seguimiento de Actividad  Podómetro Deportivo con Monitor de Ritmo Cardíaco Monitor de Sueño para Teléfonos Inteligentes Android o iOS'
+slug: 'B07L54MVM3-es Seneo Reloj Inteligente Hombre Reloj de Seguimiento de...'
+tags: android
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

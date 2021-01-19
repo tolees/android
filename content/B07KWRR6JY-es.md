@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DpGoeRrhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWRR6JY-es Xiaomi Mi 8 - Smartphone de 6.21"  Octa-Core Kryo 2.8 GHz  RAM de 6 GB  Memoria de 64 GB  cámara de 20 MP  Android 8.0  Color Blanco [Versión española]'
+slug: 'B07KWRR6JY-es Xiaomi Mi 8 - Smartphone de 6.21" Octa-Core Kryo 2.8 GHz...'
+tags: android
 actualPrice: 319 EUR
 currency: EUR
 price: 319

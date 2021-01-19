@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aa7gqOutL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BM3WM5-es Cable Micro USB  4 Pack [0.5m+1m+2m+3m] Trenzado de Nylon Cable Carga Rápida y Sincronizació Compatible con Android  Samsung Galaxy S6 S7 J5 J7  Kindle  Sony  Nexus'
+slug: 'B082BM3WM5-es Cable Micro USB 4 Pack [0.5m+1m+2m+3m] Trenzado de Nylon...'
+tags: android
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

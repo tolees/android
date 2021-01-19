@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EbKLhcUnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073S8LQSL-es Tarjeta de Memoria SanDisk Ultra Android microSDHC UHS-I de 32 GB con Adaptador SD  Velocidad de Lectura hasta 98 MB/s  Clase 10  U1 y A1'
+slug: 'B073S8LQSL-es Tarjeta de Memoria SanDisk Ultra Android microSDHC UHS-I...'
+tags: android
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

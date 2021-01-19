@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Oi+M7BxfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W14F5CQ-es Blurams Snowman 1080p FHD Cámara de Vigilancia en Domo para el Hogar-WiFi Bidirecional DET. Inteligente Movimiento/Sonidos Alertas Tiempo Real Visión Panorámica - Modo Crucero 360º iOS & Android '
+slug: 'B07W14F5CQ-es Blurams Snowman 1080p FHD Cámara de Vigilancia en Domo...'
+tags: android
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

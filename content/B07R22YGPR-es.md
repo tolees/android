@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BqqQ6DbL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R22YGPR-es Soporte Móvil Coche hanmir Soporte Móvil Coche para Salpicadero/Parabrisas/Rejillas del Aire de Coche 360° Rotación Telescópico para iPhone x/8/7/6 Plus/6s/5s/SE  Android Smartphone y GPS Dispositivo'
+slug: 'B07R22YGPR-es Soporte Móvil Coche hanmir Soporte Móvil Coche para...'
+tags: android
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

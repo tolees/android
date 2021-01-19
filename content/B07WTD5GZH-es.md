@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tyufG4bpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTD5GZH-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pulsera de Actividad Inteligente Impermeable IP68 Pulsómetros Podómetro Monitor de Sueño Calorías para iPhone Android Xiaomi Samsung Huawei  Negro '
+slug: 'B07WTD5GZH-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pulsera...'
+tags: android
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

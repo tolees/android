@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513681SLtKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JQ3YVV-es HONOR Magic Watch 2 46mm Smart Watch 15 Deportes Diferentes Monitor de frecuencia cardíaca y estrés Larga duración de batería  Altavoz Incorporado y micrófono Compatible con Android iOS  Negro'
+slug: 'B084JQ3YVV-es HONOR Magic Watch 2 46mm Smart Watch 15 Deportes...'
+tags: android
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

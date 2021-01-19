@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZBTN2k6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7T8N4D-es Tablet 10 Pulgadas 4G LTE Dual Sim - TOSCIDO Android 9.0 Certificado por Google GMS  Quad Core 64GM ROM 4GB RAM Doble Altavoz Estéreo WiFi/Bluetooth/GPS/OTG - Oro'
+slug: 'B07Y7T8N4D-es Tablet 10 Pulgadas 4G LTE Dual Sim - TOSCIDO Android 9.0...'
+tags: android
 actualPrice: 95.98 EUR
 currency: EUR
 price: 95.98

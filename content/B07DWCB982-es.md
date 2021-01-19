@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bbpk80BcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWCB982-es mysunny Ratón Bluetooth Raton Recargable inalámbrico ratón silencioso Ratones ópticos para computadora portátil  PC  Macbook  Windows  Android  Mac OS  Linux - Oro Rosa'
+slug: 'B07DWCB982-es mysunny Ratón Bluetooth Raton Recargable inalámbrico ratón...'
+tags: android
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

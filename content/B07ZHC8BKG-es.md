@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Qf15U2pkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHC8BKG-es Auriculares Bluetooth 5.0  Auriculares Inalámbricos con Micrófono Integrado APTX CVC 8.0 Cancelación de Ruido HI-FI IPX5 Deportivos Auriculares Prueba de Sudor con Estuche de Carga para Android iOS'
+slug: 'B07ZHC8BKG-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos con...'
+tags: android
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

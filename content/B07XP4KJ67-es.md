@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516mIt5TMvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XP4KJ67-es DOOGEE S68 Pro Teléfono Móvil Todoterreno  Helio P70 Octa Core 6GB + 128GB  4G IP68 Smartphone Libres Antigolpes Android 9.0  6300mAh  Cámara 21MP+16MP  5.9 Inch FHD+  NFC Carga Inalámbrica  Negro'
+slug: 'B07XP4KJ67-es DOOGEE S68 Pro Teléfono Móvil Todoterreno Helio P70 Octa...'
+tags: android
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

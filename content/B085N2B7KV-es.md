@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WFDNB7eRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085N2B7KV-es Tableta Android de 10 Pulgadas con Ranuras para Tarjetas Sim - 10.1 "4GB RAM 64GB ROM Ocho nucleos 3G Teléfono gsm Desbloqueado Tableta PC con WiFi Bluetooth FM GPS Youtube Netflix  Plata '
+slug: 'B085N2B7KV-es Tableta Android de 10 Pulgadas con Ranuras para Tarjetas...'
+tags: android
 actualPrice: 75.54 EUR
 currency: EUR
 price: 75.54

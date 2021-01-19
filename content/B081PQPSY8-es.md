@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h10df5dXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081PQPSY8-es Tablet 10 Pulgadas 4G Full HD 4GB de RAM 64GB de ROM Android 9.0 Certificado por Google GMS Tablet PC Batería 8500mAh Quad Core Dual SIM 8MP Cámara Google Netflix WiFi Bluetooth GPS OTG Oro '
+slug: 'B081PQPSY8-es Tablet 10 Pulgadas 4G Full HD 4GB de RAM 64GB de ROM...'
+tags: android
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

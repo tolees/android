@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-YHfMcwsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKKZXCX-es INPHIC Ratón Bluetooth  Ratón inalámbrico Bluetooth Recargable silencioso multidispositivo  Modo Triple: BT 5.0/3.0 + 2.4G   Ratón ergonómico 1600DPI para computadora portátil Android  Mac OS  Negro'
+slug: 'B07ZKKZXCX-es INPHIC Ratón Bluetooth Ratón inalámbrico Bluetooth...'
+tags: android
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

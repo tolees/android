@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KtRfcLZlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZCZ41P-es Joystick del Juego   DOYO S501，Arcade Joysitck para SWITCH / PC XInput / PC Directinput/ PS3 / NEOGEO / RPI / Android Joystick multifunctión'
+slug: 'B07VZCZ41P-es Joystick del Juego DOYO S501，Arcade Joysitck para SWITCH /...'
+tags: android
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

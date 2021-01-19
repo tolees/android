@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ndhtD3jmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR2GLC8-es Xiaomi Mi 9 – Smartphone de AMOLED de 6 39"  4G  Octa Core Qualcomm SD 855 2.8 GHz  RAM de 6 GB  memoria de 64 GB  cámara triple de 12 + 48 + 16 MP  Android  color azul océano [Versión española]'
+slug: 'B07NR2GLC8-es Xiaomi Mi 9 – Smartphone de AMOLED de 6 39" 4G Octa Core...'
+tags: android
 actualPrice: 312.48 EUR
 currency: EUR
 price: 312.48

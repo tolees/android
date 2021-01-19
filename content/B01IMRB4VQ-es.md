@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RhAfzzdAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IMRB4VQ-es Webcam 1080P HD  PAPALOOK Web Cámara con Micrófono para Skype  USB Web Cam Plug and Play para Computadora PC y Laptop  Compatible con Windows  Mac OS y Android'
+slug: 'B01IMRB4VQ-es Webcam 1080P HD PAPALOOK Web Cámara con Micrófono para...'
+tags: android
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

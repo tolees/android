@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511ZDTX44jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811CTDZR-es HOPESUNIN Tableta Android de 10.1 Pulgadas con Sistema operativo Android 9 Pie  4GB RAM 64GB ROM-certificación gsm de Google  WiFi / 5MP + 8MP / Tipo-C Tableta Ultrafina'
+slug: 'B0811CTDZR-es HOPESUNIN Tableta Android de 10.1 Pulgadas con Sistema...'
+tags: android
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

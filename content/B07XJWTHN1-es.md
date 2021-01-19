@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SRp1tcVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJWTHN1-es HolyHigh Auriculares Bluetooth Auriculares Inalambricos Bluetooth 5.0 con 5000mAh Estuche de Carga Inalámbrico Portáctil Batería Externa con Mic Cascos Bluetooth Impermeables IPX5 para iOS Android'
+slug: 'B07XJWTHN1-es HolyHigh Auriculares Bluetooth Auriculares Inalambricos...'
+tags: android
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

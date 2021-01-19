@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qjUQg3KAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFSP87B-es TedGem Webcam  Full HD Webcam 4K/1080P Streaming Cámara Web con Micrófono USB Webcam para Video Chat y Grabación  Gaming  Pequeña  Flexible y Ajustable  Compatible con Windows  Android  Linux'
+slug: 'B07ZFSP87B-es TedGem Webcam Full HD Webcam 4K/1080P Streaming Cámara Web...'
+tags: android
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

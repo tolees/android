@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ff3BXaG4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3GGZPG-es DOOGEE S68 Pro Android 9.0 Teléfono Móvil Libre Resistente 4G  Helio P70 Octa Core IP68 Smartphone Antigolpes 6GB + 128GB  6300mAh 5.9 Inch FHD+  Cámara 21MP+16MP  NFC Carga Inalámbrica  Naranja'
+slug: 'B07Z3GGZPG-es DOOGEE S68 Pro Android 9.0 Teléfono Móvil Libre Resistente...'
+tags: android
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

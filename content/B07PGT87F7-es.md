@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K0dK94COL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGT87F7-es Samsung Galaxy Tab S5e - Tablet de 10.5" UltraHD  WiFi + 4G  Procesador Octa-Core  6GB de RAM  128GB de Almacenamiento  Android 9.0 actualizable  Negra'
+slug: 'B07PGT87F7-es Samsung Galaxy Tab S5e - Tablet de 10.5" UltraHD WiFi + 4G...'
+tags: android
 actualPrice: 484.41 EUR
 currency: EUR
 price: 484.41

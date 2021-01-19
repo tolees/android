@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pWQLISTmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0843W2MSZ-es PRIXTON - Tablet Pantalla IPS 10 1 Pulgadas  Android 9  Quad Core Spreadtrum 773IE  RAM 2GB  ROM 32GB  Entrada MicroSD  Tarjeta SIM y Aux in  Conexión WiFi  Bluetooth y 3G | T9120'
+slug: 'B0843W2MSZ-es PRIXTON - Tablet Pantalla IPS 10 1 Pulgadas Android 9 Quad...'
+tags: android
 actualPrice: 87.95 EUR
 currency: EUR
 price: 87.95

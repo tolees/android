@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31girpJEtrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMQHJWS-es Bluetooth Auricular Manos Libres Auriculares Deportivos con Cancelación de Ruido avanzado y Sweatproof Incorporado Micrófono para iOS y Otros Android Smartphones'
+slug: 'B07VMQHJWS-es Bluetooth Auricular Manos Libres Auriculares Deportivos...'
+tags: android
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

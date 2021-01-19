@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pzyjrJI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJC52FG-es Pulsera de Actividad Reloj Inteligente Impermeable IP68 con 14 Modos de Deporte Pulsera Inteligente con Pulsómetro  Blood Pressure  Sueño Podómetro Pulsera Deporte para Android y iOS Teléfono móvil'
+slug: 'B07YJC52FG-es Pulsera de Actividad Reloj Inteligente Impermeable IP68...'
+tags: android
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

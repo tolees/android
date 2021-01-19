@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XaKN9CsJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDSJMVX-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Azul [Versión española]'
+slug: 'B07NDSJMVX-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide...'
+tags: android
 actualPrice: 208.13 EUR
 currency: EUR
 price: 208.13

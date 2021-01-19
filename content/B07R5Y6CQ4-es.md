@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LKBGOlF0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5Y6CQ4-es Cámara Oculta inalámbrica con cámara Oculta de detección de Movimiento  Control de aplicación para Android'
+slug: 'B07R5Y6CQ4-es Cámara Oculta inalámbrica con cámara Oculta de detección...'
+tags: android
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

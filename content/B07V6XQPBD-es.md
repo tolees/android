@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414L7piMPkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6XQPBD-es Tablet 10.1 Pulgadas  Android 7.0 Tablet PC  WiFi   Tableta Procesador Quad-Core  3 GB de RAM 64 GB de ROM  Doble Cámara  1280 × 800 IPS  Batería 8000 mAh  Bluetooth  GPS'
+slug: 'B07V6XQPBD-es Tablet 10.1 Pulgadas Android 7.0 Tablet PC WiFi Tableta...'
+tags: android
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

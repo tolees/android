@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ROmLZPt9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TFXWY3-es VicTsing Ratón Bluetooth  Ratón Inalámbrico Ultra-Delgado con Rueda de Metal  Multi-Device Ratón PC con Bluetooth3.0/5.0/2.4G  Clic Silencioso con 2400 dpi para Notebook  Android  Mac  Windows  Negro'
+slug: 'B083TFXWY3-es VicTsing Ratón Bluetooth Ratón Inalámbrico Ultra-Delgado...'
+tags: android
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
