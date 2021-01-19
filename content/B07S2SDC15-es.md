@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417jwuQXfhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2SDC15-es'
+slug: 'B07S2SDC15-es Inalámbricos Bluetooth Auriculares Bluetooth con Micrófono Estéreo para Deporte  Cargador de Manos Libres portátil Mini Auriculares Bluetooth para IOS Samsung Xiaomi Smartphone Android （For Prime Day）'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

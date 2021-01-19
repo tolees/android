@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3161bvpRt1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXQF162-es'
+slug: 'B07VXQF162-es Samsung Galaxy Note10  Smartphone  Dual SIM  8GB RAM  256GB Memoria  10 MP Dual Pixel AF   Android  256GB  Brillante'
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KJkWwNooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HB1RGR-es'
+slug: 'B085HB1RGR-es GRDE Smartwatch  Reloj Inteligente Impermeable IP68 con Monitor Sueño Pulsómetros Caloría Podómetro Operación con un Clic Deportivo Fitness Smartwatch Reloj Inteligente Mujer Hombre para iOS Android'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

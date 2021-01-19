@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VL-nRtFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXRSKZB-es'
+slug: 'B07YXRSKZB-es 2020 Moviles Libres 4G  Teléfono Móvil de 6.0’’ Pulgadas 18:9 HD 3GB RAM 16GB ROM/64GB Android 8.1 Quad-Core Smartphone Libres 4800mAh Batería Dual SIM Dual Cámara 8MP Face ID（Oro）'
 actualPrice: 69.88 EUR
 currency: EUR
 price: 69.88

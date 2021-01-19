@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pWeOnWgiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGMHLDS-es'
+slug: 'B07ZGMHLDS-es Auriculares Bluetooth  SYOSIN TWS Auriculares Inalambricos Bluetooth 5.0 Impermeables IPX6 HiFi Cascos Deportivos In-Ear Estéreo Inalámbricos con Mic para iPhone y Android'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

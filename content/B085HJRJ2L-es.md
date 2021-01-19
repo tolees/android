@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510HrbkRAsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HJRJ2L-es'
+slug: 'B085HJRJ2L-es Tablet 10.1 Pulgadas YESTEL Android 8.1 Tablets con 3GB RAM & 32GB ROM y 4G LTE Dual SIM Call  5.0 MP + 8.0 MP HD la Cámara y 8000mAH-Dorado'
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CFU+YYOgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHZSGK8-es'
+slug: 'B07RHZSGK8-es YZPUSI USB 3.0 32gb Pendrive  USB 3.0 32g Pendrive USB Stick con Micro USB OTG para Android Smartphone e Tablet  Esterna Memoria USB Flash Drive'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

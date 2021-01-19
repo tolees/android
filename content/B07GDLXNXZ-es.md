@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FplfIiZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDLXNXZ-es'
+slug: 'B07GDLXNXZ-es Xiaomi MI A2 - Smartphone DE 5.9"  Qualcomm Snapdragon 660 a 2.2 GHz  RAM de 4 GB  Memoria de 64 GB  cámara Dual de 12/20MP  Android  Color Azul [Versión española]'
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

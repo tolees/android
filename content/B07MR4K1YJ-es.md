@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41scyPVGLOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR4K1YJ-es'
+slug: 'B07MR4K1YJ-es Memoria Flash 4 en 1 de 32 GB Compatible con iPhone y Dispositivos Android Memory Stick Expansión para iPhone Android teléfono Tablet PC y Dispositivos con USB/Micro USB/Type C/iOS L-Port-Rosa'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

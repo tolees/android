@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y4Mo67edL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YY4SG96-es'
+slug: 'B07YY4SG96-es Telefono Resistentes  Blackview BV5500 Pro Android 9.0 Dual SIM 4G Movil Robusto  3GB+16GB  8/0.3MP+5MP  4400mAh Batería  Pantalla 5.5" HD+ IPS Movil Todoterreno  MT6739  NFC/Face ID/GPS - Negro'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

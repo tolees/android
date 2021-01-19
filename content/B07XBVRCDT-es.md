@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AMpDlPVtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBVRCDT-es'
+slug: 'B07XBVRCDT-es Muzili Auriculares Bluetooth Inalambricos V5.0 Auriculares Bluetooth Movil CVC 8.0 LED Auriculares Deportivos con Sonido Estéreo Hi-Fi con Cancelación de Ruido y Micrófono Incorporado para iOS Android'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

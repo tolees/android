@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jFrUspcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085J1HRRM-es'
+slug: 'B085J1HRRM-es 4G Tablet 10 Pulgadas YESTEL X2  3GB+32GB  Android 8.1  Tableta  con Funda   4 Core  8000mAh  1280X800 HD IPS  Soporte WiFi/Dobles SIM  FM  Type-C  Dorado'
 actualPrice: 78.98 EUR
 currency: EUR
 price: 78.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4154-id4lQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJX8V66-es'
+slug: 'B07JJX8V66-es QINTAIX 2.4G Teclado de ratón de Aire Remoto I63 inalámbrico Mini Teclado retroiluminación con función de Aprendizaje IR Fly Air Mouse para Android TV Box/PC/TV'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

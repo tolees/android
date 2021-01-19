@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+28qC5tDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0891FDJXM-es'
+slug: 'B0891FDJXM-es Xiaomi Mi 10 Lite - Pack Lanzamiento  Pantalla AMOLED 6.57”  TrueColor  6 GB+128 GB  Cámara de 48 MP  Snapdragon 765G  5G  4160 mah con carga 20 W  Android 10  Blanco + Mi True Wireless Earbuds S'
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

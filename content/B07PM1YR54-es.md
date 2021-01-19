@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hfwXD4gyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM1YR54-es'
+slug: 'B07PM1YR54-es Dragon Ball Z - Figura de colección Android Número 18 versión A  Bandai 85451 '
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

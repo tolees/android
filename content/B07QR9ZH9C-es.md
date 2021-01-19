@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jh5JpHK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QR9ZH9C-es'
+slug: 'B07QR9ZH9C-es Samsung Galagy Tab A - Tablet de 10.1" FullHD  Wifi + 4G  Procesador Octa-core  3 GB de RAM  64 GB de almacenamiento  Android actualizable  Plata'
 actualPrice: 247.11 EUR
 currency: EUR
 price: 247.11

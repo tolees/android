@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51w9W6fgF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDDVM1P-es'
+slug: 'B07WDDVM1P-es CUBOT Quest Lite 4G IP68 Móvil Todorerreno para Viajes o Deporte Smartphone Impermeable Botón Personaliado 3GB RAM 5.0 Pulgadas Android Dual SIM Dual Cámara 12Mp 3000mAh Type-C Negro y Rojo'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418XnLE89aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088R2VLKS-es'
+slug: 'B088R2VLKS-es Yobuno Webcam con micrófono 1080P Full HD  Cámara Web USB para videollamadas  Estudio  Conferencia  grabación  diseño Plegable y Giratorio de 360 °  Compatible con Windows  Mac y Android'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

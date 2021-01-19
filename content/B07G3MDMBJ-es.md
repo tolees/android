@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412X33Yx4LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3MDMBJ-es'
+slug: 'B07G3MDMBJ-es Motorola One - Smartphone Android One  pantalla de 5.9’’ ratio 19:9  cámara dual de 13 MP  4 GB de RAM  64 GB  Dual Sim   color negro [Versión española]'
 actualPrice: 165.25 EUR
 currency: EUR
 price: 165.25

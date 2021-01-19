@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gLy+JCCZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5LFD6K-es'
+slug: 'B07L5LFD6K-es LATEC Pulsera Actividad Inteligente Pulsómetro y Presión Arterial Relojes Deportivos Impermeable IP68 Podómetro Pulsera Deportiva Reloj para Xiaomi Samsung Huawei Android iPhone iOS Teléfono'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

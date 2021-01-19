@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ei6qfLfUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WYWWBZM-es'
+slug: 'B07WYWWBZM-es J5 Smartphone Libre 2019 Android 9.0 Teléfono móvil 3G sin contactos Dual Sim + Ranura TF Card 5 5 Pulgadas 16GB ROM 2GB RAM Quad-Core Procesador WiFi GPS 2800mAh CUBOT Oficial Color Aurora'
 actualPrice: 53.54 EUR
 currency: EUR
 price: 53.54

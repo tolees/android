@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HvUtJHKzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ5KVF3-es'
+slug: 'B07CQ5KVF3-es LNMBBS 3G Tablet de 10.1 Pulgadas HD  WiFi  2 GB de RAM  32GB de Memoria Interna  Quad-Core  Android 7.0   Color Negro'
 actualPrice: 96.98 EUR
 currency: EUR
 price: 96.98

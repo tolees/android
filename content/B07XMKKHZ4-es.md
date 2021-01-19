@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-pGn-mUjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XMKKHZ4-es'
+slug: 'B07XMKKHZ4-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth 5.0  Auriculares Bluetooth Deportivos IPX5 Impermeable  18H Autonomía Auriculares con Micrófonos Dual para iOS Android White-59 '
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

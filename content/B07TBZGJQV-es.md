@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RBT12xisL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBZGJQV-es'
+slug: 'B07TBZGJQV-es HolyHigh Auriculares Inalambricos Bluetooth 5.0 Auriculares Bluetooth 48H de Reproducción Mini Cascos Bluetooth IPX5 Impermeable con Mic CVC 8.0 Cancelación de Ruido iOS Android'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

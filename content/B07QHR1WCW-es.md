@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W0Ma4fneL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHR1WCW-es'
+slug: 'B07QHR1WCW-es Huyeta Smartwatch Reloj Inteligente 5ATM Impermeable Pulsera Actividad Inteligente Reloj Deportivo con Pantalla Táctil Completa Pulsómetro Cronómetros para iPhone iOS Android  Rojo '
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

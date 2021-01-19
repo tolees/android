@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u0ciRDmJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F996NPW-es'
+slug: 'B08F996NPW-es ANKEWAY Android 9.1 Car Radio 2 DIN GPS Navigation 7 Pulgadas 1080P HD Pantalla Táctil Multimedia Car Player 1G/16G +WiFi Internet+Llamada Manos Libres Bluetooth+Cámara de Visión Trasera+Mirror Link'
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

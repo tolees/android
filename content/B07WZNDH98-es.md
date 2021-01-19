@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VT++ROkOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZNDH98-es'
+slug: 'B07WZNDH98-es Tablet 10.1 Pulgadas barats 4G Android 9.0 Pie 32GB ROM/3GB RAM 8000mAh Tableta Dual SIM y 128GB TF Certificado por Google Tablet 10.1 Pulgadas Buenas Soporte Netflix WiFi Bluetooth'
 actualPrice: 67.93 EUR
 currency: EUR
 price: 67.93

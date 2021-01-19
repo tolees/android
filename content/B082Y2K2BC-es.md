@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZUL82IjwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Y2K2BC-es'
+slug: 'B082Y2K2BC-es Ticwatch Pro 2020 Reloj Inteligente 1GB RAM  Pantalla en Capas  NFC  24H frecuencia cardíaca  GPS  Seguimiento del sueño  Música  IP68 Compatible con Android iOS  Metal Silver'
 actualPrice: 205.46 EUR
 currency: EUR
 price: 205.46

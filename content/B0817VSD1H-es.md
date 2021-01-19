@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41go%2B5Ktn5L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817VSD1H-es'
+slug: 'B0817VSD1H-es 2019 Nuevo Toque Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5.0 con Micrófono 3D Estéreo y Estuche de Carga portátil para iOS Android PC Sport Support Carga inalambrica  Blanco-45 '
 actualPrice: 59 EUR
 currency: EUR
 price: 59

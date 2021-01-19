@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410n0ZipyNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6KKI3S-es'
+slug: 'B01N6KKI3S-es Sony MEXN4200BT - Radio CD  USB  Bluetooth  NFC y Control de Voz Compatible iPhone y Android  Negro'
 actualPrice: 85.77 EUR
 currency: EUR
 price: 85.77

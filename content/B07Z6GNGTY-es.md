@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516jPlYbkbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6GNGTY-es'
+slug: 'B07Z6GNGTY-es Trípode de teléfono móvil Trípodes de cámara Flexibles Mini Soporte de Soporte Ligero portátil + Bluetooth Remoto y Clip para teléfono para iPhone  Android Samsung  cámara Deportiva GoPro'
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414-Rr9ojEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQT4T55-es'
+slug: 'B07RQT4T55-es Smartwatch  Reloj Inteligente Impermeable IP68 Pulsera Actividad Hombre Mujer  Inteligente Reloj Deportivo Reloj Fitness con Pantalla Táctil Completa Pulsómetro Cronómetros para iPhone iOS Android'
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

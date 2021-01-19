@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ANlTx1-KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZD2CSCR-es'
+slug: 'B07ZD2CSCR-es DOOGEE X90 Móviles Libres  Android 8.1 Smartphones Libres Dual SIM 19:9 Pantalla 6.1    3400mAh Batería  Quad-Core 1GB RAM+16GB ROM  Cámara Doble 8MP+5MP Telefono Reconocimiento Facial 3G  Negro'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

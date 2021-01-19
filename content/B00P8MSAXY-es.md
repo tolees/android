@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ApQhNRqlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P8MSAXY-es'
+slug: 'B00P8MSAXY-es Hercules - Hercules Universal Dj - Controlador Dj - PC / Mac / Tablets - Controlador Versatíl para Mezclar Desde Todos Tus Dispositivos  Android  IOS  PC y Mac  Negro'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

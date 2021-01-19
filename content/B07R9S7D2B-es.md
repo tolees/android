@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P9wqK7D9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9S7D2B-es'
+slug: 'B07R9S7D2B-es Transmisor FM Bluetooth para Coche  Manoslibres y Asistente de Voz para Vehículos Música Bluetooth Coche Reproductor MP3 Adaptador Radio Coche  Cargador QC3.0 USB Compatible para iOS y Android'
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

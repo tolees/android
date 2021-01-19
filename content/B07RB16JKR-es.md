@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516ekvaDk8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB16JKR-es'
+slug: 'B07RB16JKR-es FITFORT Pulsera de Actividad Reloj Inteligente para Hombre y Mujer  IP68 Impermeable Reloj Deportivo con Rtmo Cardíaco  Presión Sanguínea  Sueño Monitor  Contador y Calorías para Android y iOS'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

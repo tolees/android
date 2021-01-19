@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CzScWstQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QFJHJ4-es'
+slug: 'B075QFJHJ4-es AAB Selfie Pilot Negro 1 - piloto inalámbrico para realizar selfies  disparador a distancia para smartphones con el sistema iOS y Android'
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

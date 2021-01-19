@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zwDxWBEfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QXS4N9-es'
+slug: 'B083QXS4N9-es RAVIAD Cable USB Magnético  1M Nylon Multi Cargador Magnetico Micro USB Tipo C Carga y Sincronización Cable Cargador iman Compatible con Android Galaxy  Huawei  Honor  LG  Kindle'
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

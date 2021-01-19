@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aoILbs6HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0841KWLL7-es'
+slug: 'B0841KWLL7-es Panamami Para Android Receptor Cargador inalámbrico Qi portátil Adaptador de Carga Ligera Bobina de Almohadilla para Sistema Android/Negro'
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

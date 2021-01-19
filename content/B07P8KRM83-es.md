@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411isZ-OsIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8KRM83-es'
+slug: 'B07P8KRM83-es LNMBBS X30 Tablet 10.1 Pulgadas  6GB de RAM y 128GB Memoria Tableta 10 Núcleos Procesador Android 9.0 Tablet 8000mAh Batería y 2560 * 1600 FHD IPS  Doble 4G y Doble Banda WiFi  Tipo C  Negro  …'
 actualPrice: 189.98 EUR
 currency: EUR
 price: 189.98

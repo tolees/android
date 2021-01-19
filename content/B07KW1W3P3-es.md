@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jAgOn022L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW1W3P3-es'
+slug: 'B07KW1W3P3-es Baseus Cargador de Coche 5A 30W Tipo C con PD Carga rápida QC4.0 Car Charger de Puerto Dual Compatible con Apple  Samsung y Otros teléfonos móviles y tabletas iOS o Android'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

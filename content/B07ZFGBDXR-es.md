@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bQoSqPVfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFGBDXR-es'
+slug: 'B07ZFGBDXR-es BINKE Batería Externa 26800mAh  Power Bank con 2 Salidas USB y 4 Indicadores de LED Bateria Externa Movil Ultra Capacidad Cargador para Android Smartphones Tabletas y Más'
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

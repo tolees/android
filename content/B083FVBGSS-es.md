@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51diBsBMeEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FVBGSS-es'
+slug: 'B083FVBGSS-es Blackview® A80 Pro 2020 Teléfono Móvil Libres 4G  Pantalla HD + de 6.49"  4GB RAM+64GB ROM  Cuatro Cámaras  Batería de 4680 mAh  Grosor de 8.8 mm  Smartphone Android 9.0  Dual SIM Tipo C  EU Versión '
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

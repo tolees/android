@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OaT4jVReL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH4ZFPP-es'
+slug: 'B07SH4ZFPP-es Altavoz Bluetooth Portátil 5.0  Axloie Altavoz Inalámbrico con HD Sonido Estéreo 12 Horas de Reproducción Micrófono Incorporado Manos Libres Llamada y USB/TF Tarjeta/Conexión AUX para iPhone y Android'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

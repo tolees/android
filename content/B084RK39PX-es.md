@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+xPZwoncL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RK39PX-es'
+slug: 'B084RK39PX-es Adoric Báscula Diagnóstico Digital Inalámbrico para iOS y Android  Negro '
 actualPrice: 20.84 EUR
 currency: EUR
 price: 20.84

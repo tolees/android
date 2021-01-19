@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e3FGk9B6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D57YZQA-es'
+slug: 'B00D57YZQA-es OPPO Find X Lamborghini - Smartphone Libre Android 8.1  Pantalla de 6 7" Panoramic ARC; 6 4" Full HD Cámara 3D de 25MP'
 actualPrice: 967.91 EUR
 currency: EUR
 price: 967.91

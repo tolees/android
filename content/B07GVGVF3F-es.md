@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CnArCMIBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVGVF3F-es'
+slug: 'B07GVGVF3F-es LIFEGOO Mini T Auriculares inalambricos Bluetooth 5.0 Reducción de Ruido con Estuche de Carga Portátil para iPhone y Android Samsung LG Huawei  Negro '
 actualPrice: 10 EUR
 currency: EUR
 price: 10

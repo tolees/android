@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DDOtGxoOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9XC8DG-es'
+slug: 'B07M9XC8DG-es 4 en 1 Unidad Flash 128 GB Compatible con iPhone y Dispositivos Android Memory Stick Expansión para iPhone Android teléfono Tablet PC y Dispositivos con USB/Micro USB/Type C/iOS L-Port-Negro'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

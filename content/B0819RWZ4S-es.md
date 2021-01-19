@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bl9hpQYeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819RWZ4S-es'
+slug: 'B0819RWZ4S-es CUBOT P30 Smartphone 4G LTE  Cámara Trasera  AI  20MP+ 12MP+ 8MP Cámara Selfie 13MP  6 3" FHD Monitor  1080 * 2340  Octa-Core 4GB RAM 64GB ROM Dual Nano SIM 4000mAh Android 9.0 -Negro'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

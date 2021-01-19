@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ah4gUAacL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1CV4FN-es'
+slug: 'B07Z1CV4FN-es Auriculares Bluetooth  Auriculares Inalambricos Bluetooth Mini Twins Estéreo In-Ear Sport Bluetooth 5.0 con Caja de Carga de 3000mAh  IPX8 Impermeable Cascos Bluetooth con Mic  para iOS y Android'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

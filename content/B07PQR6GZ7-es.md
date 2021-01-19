@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41808fnaY0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQR6GZ7-es'
+slug: 'B07PQR6GZ7-es AUCARY Proyector  Mini Proyector T7  Proyector Portátil  854x480  3D DLP-Link  Proyector LED Android  Soporte USB/IR / 4K / HDMI  4K Proyector con Sonido Dolby para Proyector Cine en Casa  16G'
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

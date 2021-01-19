@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411iH6MEfiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8XSJJ3-es'
+slug: 'B07R8XSJJ3-es Arbily Reloj Inteligente Pantalla Táctil Completa Pulsera de Actividad Smartwatch Mujer Hombre Niño Reloj Deportivo a Prueba de Nadar Impermeable Podómetro Monitor de Sueño para iOS Android'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

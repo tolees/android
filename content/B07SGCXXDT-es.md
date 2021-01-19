@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MB-PiQDtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGCXXDT-es'
+slug: 'B07SGCXXDT-es Cable Micro USB Aioneus 4 Pack [0.5M 1M 1.5M 2M] Nylon 2.4A Carga Rápida Cable Android USB 2.0 Cable Cargador Movil para Samsung S5/S6/S7/J5/J7 Huawei Nokia Nexus Sony Tablet PS4.'
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

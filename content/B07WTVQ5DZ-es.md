@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41THPXBcTDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTVQ5DZ-es'
+slug: 'B07WTVQ5DZ-es DUODUOGO Tablet 10 Pulgadas Buenas 4GB RAM 64GB ROM Android 9.0 Pie Tablet PC 2 en 1 con Teclado y Mouse Quad-Core Dual SIM Buenas Tabletas de función de Llamada 4G 8000mAh'
 actualPrice: 90.09 EUR
 currency: EUR
 price: 90.09

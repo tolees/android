@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o6DL3YP0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFVJ6N9-es'
+slug: 'B08GFVJ6N9-es Nowakk Cable Micro USB Trenzado de Nailon Colorido Cable de Cargador USB de sincronización de Datos para teléfono Android Micro Cables USB Cargador USB de sincronización - Rosa Rojo - 1 m'
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GILREKoYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYH54VF-es'
+slug: 'B07VYH54VF-es MEBERRY Tablet 10 Pulgadas Android 9 Pie Ultrar-Rápido Tablets 4GB RAM + 64GB ROM - Certificación Google GSM - 4G Dual SIM - 8000mAh |WI-FI|Bluetooth|GPS| Type-C Tablet  5.0+8.0 MP Cámara  - Gris'
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

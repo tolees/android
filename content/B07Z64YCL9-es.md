@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QZK3laKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z64YCL9-es'
+slug: 'B07Z64YCL9-es Orit Auriculares Inalambricos Deportivos Auriculares Bluetooth 5.0 Impermeable 45H de Autonomía Auriculares Inalámbricos con Caja de Carga Micrófono para Correr  Gimnasio  Deporte para iOS Android'
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

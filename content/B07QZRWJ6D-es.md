@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417sQEEXZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZRWJ6D-es'
+slug: 'B07QZRWJ6D-es Huawei P30 Lite - Smartphone de 6.15"  WiFi  Kirin 710  RAM de 4 GB  memoria de 128 GB  cámara de 48+2+8 MP  Android 9  Color Blanco'
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

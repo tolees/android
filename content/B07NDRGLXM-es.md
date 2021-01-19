@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31S3wCbj2fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDRGLXM-es'
+slug: 'B07NDRGLXM-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Plata [Versión española]'
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ML8ZbPiiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073SB2L3C-es'
+slug: 'B073SB2L3C-es Tarjeta de Memoria SanDisk Ultra Android microSDXC UHS-I de 64 GB con Adaptador SD  Velocidad de Lectura hasta 100 MB/s  Clase 10  U1 y A1'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

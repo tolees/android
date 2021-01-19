@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BIF4nlONL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V66TDK6-es'
+slug: 'B07V66TDK6-es Moviles Libres 4G  Smartphone Libre 6 0 Pulgadas Android 8.1 Quad Core 3GB RAM + 16GB ROM  Escalable 128 GB  Moviles 4800mAh Batería Cámara 8MP+5MP Dual SIM WiFi BT GPS  Oro '
 actualPrice: 69.8 EUR
 currency: EUR
 price: 69.8

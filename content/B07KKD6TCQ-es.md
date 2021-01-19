@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y4NSbTpeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKD6TCQ-es'
+slug: 'B07KKD6TCQ-es UMIDIGI A3 Pro Smartphone Libre Android 9.0 Pie Dual 4G Volte 5.7" Incell 19: 9 Face Unlock 3GB + 32GB  2 + 1 Ranura Triple 12MP + 5MP Doble cámara[Negro]'
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

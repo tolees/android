@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4123vBe8F+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0888BML8X-es'
+slug: 'B0888BML8X-es GRDE Auriculares Bluetooth  Auriculares Inalámbricos IPX7 Impermeable  TWS Auriculares 180H Reproducción con CVC8.0 Cancelación de Ruido   Pantalla LED con Control Táctil de Micrófono para iOS Android'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

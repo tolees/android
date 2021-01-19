@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JY+TNhTEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQTHPQH-es'
+slug: 'B07KQTHPQH-es Leelbox TV Stick Android TV Box Portátil 2GB/16GB con Dolby/Full HD/ 2.4G WiFi/ 3D/4K/H.265 Streaming Media Player'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KS49+UTqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LLW5HK-es'
+slug: 'B085LLW5HK-es MKTOSASA - Auriculares intraurales inalámbricos Bluetooth® 5.0  función Manos Libres y Caja de Carga a Juego para iOS y Android - 4.5x6.8x2.2 Blanco'
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

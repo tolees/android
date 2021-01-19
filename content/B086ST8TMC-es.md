@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417zkzI2reL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ST8TMC-es'
+slug: 'B086ST8TMC-es Mando para Android Inalámbrico  Maegoo Bluetooth Movil Android Mando Gamepad Joystick con Soporte Retráctil Compatible para Android Teléfono Tableta Smartphone'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

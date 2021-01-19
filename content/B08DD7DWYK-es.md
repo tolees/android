@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DtPaYeetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DD7DWYK-es'
+slug: 'B08DD7DWYK-es Radio 2 DIN Android  Auto Head Unit 1 + 16G Pantalla táctil de 9"para VW in Dash 2 DIN Car Radio Soporte Bluetooth  WiFi  FM  Video  Cámara de Respaldo  GPS  Mirror Link  Controles del Volante'
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

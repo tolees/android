@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51aRL9VD1pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL2QXN8-es'
+slug: 'B07XL2QXN8-es DEPSTECH Endoscopio Inalámbrico 5.0MP  Boroscopio HD Ultrafino de  Cámara de Inspección de Serpiente con Zoom Batería de 3350 mAh  Adaptado Teléfonos Inteligentes y Tabletas Android y iOS 16.5 Pies'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

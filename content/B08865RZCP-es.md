@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n0NnmUO1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08865RZCP-es'
+slug: 'B08865RZCP-es 4G Tablets 10.1Pulgadas Android 9.0 Pie  Certificación Google GMS  2 en1 Tablet con Teclado 4GB RAM +64GB/128 ROM  Type-C 8000mAh 5MP+8MP Tablet PC Quad Core Dual SIM Bluetooth/ Netflix Rosa '
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

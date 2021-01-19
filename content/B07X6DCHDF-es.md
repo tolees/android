@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kg-UoLYZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6DCHDF-es'
+slug: 'B07X6DCHDF-es HUION 2019 Nuevo Inspiroy Ink H320M Tableta Gráfica Doble Propósito Innovador Tableta Gráfica Y Tableta de Escritura LCD  8192 Niveles  Función de Inclinación  Android  Bolsa de Manga  Rojo'
 actualPrice: 64.79 EUR
 currency: EUR
 price: 64.79

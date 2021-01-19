@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41doVYxj46L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK3YJ7G-es'
+slug: 'B07RK3YJ7G-es YZPUSI USB C OTG Android Pendrive  USB 2.0 32gb USB Memoria Double Dual Flash Drive USB Stick para PC  Notebook  Smartphones Huawei  Tableta'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

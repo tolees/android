@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511zuNXGAZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7LWRX6-es'
+slug: 'B07Z7LWRX6-es KUNGIX Pulsera de Inteligente Mujer  Smartwatch Impermeable IP68 con 14 Modos de Deporte  0.96 Inch Pantalla Color Reloj Deportivo con Pulsómetro para Hombre Android iPhone iOS Teléfono'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

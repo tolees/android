@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uQK3lKIOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNDN23V-es'
+slug: 'B07VNDN23V-es 【Versión Actualizado】 Mpow S15 Dual EQ Auriculares Bluetooth Magnéticos IPX7 Auricular In-Ear Running Deporte HD Sonido con Micrófono Cascos Deportivos Correr para iPhone Android'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

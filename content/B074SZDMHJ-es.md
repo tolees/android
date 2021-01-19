@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BfFn+ei9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074SZDMHJ-es'
+slug: 'B074SZDMHJ-es Moto G5s - Smartphone Libre Android 7.1  Pantalla de 5.2   Full HD  4G  cámara de 16 MP  3 GB de RAM  32 GB  Qualcomm Snapdragon 1.4 GHz  Dorado'
 actualPrice: 101.16 EUR
 currency: EUR
 price: 101.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516dlxwKcVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYW3FNH-es'
+slug: 'B07XYW3FNH-es Tablets 10 Pulgadas Android 8.0 3GB RAM 64GB Memoria Tablet con 4G Dual SIM 8.0 MP Cámara Quad Core Batería de 7000mAh WiFi Bluetooth GPS  Netflix'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

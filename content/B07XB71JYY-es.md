@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZzyD-rJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB71JYY-es'
+slug: 'B07XB71JYY-es iPosible Batería Externa 26800mAh Power Bank Ultra Capacidad Cargador Portátil Móvil con 2 Puertos USB y Pantalla LCD Batería Externa Movil para Android Smartphones Tabletas y Más'
 actualPrice: 20.01 EUR
 currency: EUR
 price: 20.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fPcn1c5bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H56W2ZP-es'
+slug: 'B07H56W2ZP-es TOUMEI Mini Proyector  Proyector Portátil Android 7.1 DLP Video Proyector 100ASIN Lúmenes  Soporte 1080P/ HDMI/ WiFi/ Bluetooth/ USB/ TF Tarjeta/ TV Stick  Negro '
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

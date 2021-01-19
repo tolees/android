@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KD+bbeAHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHQK2V8-es'
+slug: 'B08BHQK2V8-es Moviles Libres CUBOT P40  6.2" Pantalla Android 10  4GB RAM 128GB ROM Smartphone  Cámara Frontal 20MP  Cámara Trasera 12MP+5MP  Batería 4200 mAh  Dual SIM 4G  NFC  Face ID  Tipo C  EU Versión '
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

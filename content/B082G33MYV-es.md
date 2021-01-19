@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a2qzvenUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082G33MYV-es'
+slug: 'B082G33MYV-es LOZAYI Pulsera de Actividad  Pulsera Actividad Inteligente  IP67  Reloj Inteligente para Mujer y Hombre  con Pulsómetro  Blood Pressure  Monitor de Sueño  Podómetro  para Android y iOS Teléfono Móvil'
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

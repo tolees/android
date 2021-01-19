@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412II8tkvcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBFCMVZ-es'
+slug: 'B07TBFCMVZ-es HolyHigh Auriculares Bluetooth 5.0 Inalámbricos Deportivos Auriculares In-Ear Impermeable IPX7 6+30H Autonomía Auto-On/Off Emparejamiento Siri Sonido Estéreo con Mic para iPhone Android'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

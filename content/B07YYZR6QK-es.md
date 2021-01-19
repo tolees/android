@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EJwkj142L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYZR6QK-es'
+slug: 'B07YYZR6QK-es Ulefone Armor X5  2020   4G IP68 Impermeable Smartphone  Moviles Resistentes con Modo Submarino  Android 10 5.5-Pulgadas  Dual SIM  3GB 32GB  5000mAh Batería  Desbloqueo Facial GPS  Amarillo'
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

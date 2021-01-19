@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pIyM8qaGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BBPXB1-es'
+slug: 'B082BBPXB1-es Smartwatch  Impermeable Reloj Inteligente Android con Ranura para Tarjeta SIM Bluetooth Smart Watch con Whatsapp Cámara  Podómetro Telefono Sport Fitness Tracker Compatible iOS para Hombre Mujer niños'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

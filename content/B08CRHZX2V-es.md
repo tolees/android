@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wtk-4UiLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRHZX2V-es'
+slug: 'B08CRHZX2V-es Q88 7 "Tablet para niños 1G + 8GB A33 Quad Core 0.3MP Cámara Dual 1024 * 600 Android 4.4 Tablet PC con Cubierta de Silicona Enchufe de la UE - Negro'
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

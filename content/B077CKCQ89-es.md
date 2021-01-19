@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BP84B9+kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077CKCQ89-es'
+slug: 'B077CKCQ89-es Motorola Moto Z2 Force - Smartphone de 5.5"  WiFi  4G  Octa Core Snapdragon 835  RAM de 6 GB  Memoria Interna de 64 GB  cámara de 12 MP  Dual SIM  Android 7.1.1 Nougat  Negro'
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

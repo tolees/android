@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uC4BrHobL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLKX4XN-es'
+slug: 'B07GLKX4XN-es YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado  Ultra Slim y Ligero Teclado Compatible with Tablet  Smartphone  Portable Teclado  Android'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

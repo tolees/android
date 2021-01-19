@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/219VR9AC8lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGQ5XTL-es'
+slug: 'B07KGQ5XTL-es Lenovo PHAB 2 - Tablet de 7" HD  Procesador MediaTek 8735  RAM de 3GB  Memoria Interna de 32GB  Android  Bluetooth 4.0 + WiFi  Color Gris'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

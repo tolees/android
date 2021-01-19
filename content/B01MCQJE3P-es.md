@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wNGGNYE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MCQJE3P-es'
+slug: 'B01MCQJE3P-es Pioneer SE-MJ553BT-R - Auriculares inalámbricos Bluetooth externos para smartphones Android  Windows y Apple  estéreo  con micrófono  10 Hz a 22000 Hz  Rojo'
 actualPrice: 41.11 EUR
 currency: EUR
 price: 41.11

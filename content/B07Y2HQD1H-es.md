@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BH9d0s+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2HQD1H-es'
+slug: 'B07Y2HQD1H-es ZTE Blade L8 - Smartphone 5" 18:9 TFT  Quad Core  1GB RAM  16GB ROM  Cámara trasera 8 Mpx  Cámara frontal 2 Mpx  doble SIM  Android 9 Go   Color Azul [versión española]'
 actualPrice: 49.01 EUR
 currency: EUR
 price: 49.01

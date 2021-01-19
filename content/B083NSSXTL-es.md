@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YrLBvGUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NSSXTL-es'
+slug: 'B083NSSXTL-es Moviles Libres Barats 4G 6.0" Pulgadas  2020  16GB ROM/Extendida 128GB 3GB RAM 8MP Android 8.1 Smartphone Libre Dual SIM 4G WiFi Moviles Buenos Smartphone Batería 4800mAh J6 Plus'
 actualPrice: 69.85 EUR
 currency: EUR
 price: 69.85

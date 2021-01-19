@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411nENO4fHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GN686ZM-es'
+slug: 'B08GN686ZM-es Ajcoflt Smartwatch  Un Reloj Deportivo Inteligente para Controlar La Frecuencia CardíAca Y El SueñO  Pulsera PodóMetro Impermeable Ip67  Medidor De CaloríAs  Compatible con Sistemas iOS Y Android'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

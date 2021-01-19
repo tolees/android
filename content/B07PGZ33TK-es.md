@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ESd8MZ0QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGZ33TK-es'
+slug: 'B07PGZ33TK-es Szsinocam IP Cámara Exterior Seguridad Vigilancia WiFi P2P 720P ONVIF CCTV  Detección de Movimiento  IR-Cut Vision Nocturna  Compatible con iOS  Android  Negro'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

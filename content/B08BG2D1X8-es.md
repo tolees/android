@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Newy5G-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BG2D1X8-es'
+slug: 'B08BG2D1X8-es Sami - Running 3 - Smartwatch  Smartband  Pulsera de Actividad. Color Rojo. para Android y Apple. Función: Versión Especial Running  GPS  presión sanguínea  Fuerza G  Multideportivo.'
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

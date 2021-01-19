@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O7FmcFHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6MWPLT-es'
+slug: 'B07W6MWPLT-es DOOGEE S60 Lite Smartphone Al Aire Libre Robusto 4G  Face ID Celular Doble SIM Libre Android 8.1  Teléfono Móvil IP68 Octa Core 4+32GB  5 2 Pulgadas FHD NFC GPS 5580mAh Cámara 16+8MP Móvil  Negro'
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

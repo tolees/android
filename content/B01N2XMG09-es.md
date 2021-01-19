@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z8nWD4jIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2XMG09-es'
+slug: 'B01N2XMG09-es Sony MEXN5200BT - Radio CD  USB  Bluetooth  NFC  iluminación Variable  Micro Externo y Control de Voz Compatible iPhone y Android  Negro'
 actualPrice: 102.96 EUR
 currency: EUR
 price: 102.96

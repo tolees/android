@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SZKjw8NHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072DR4Q6Y-es'
+slug: 'B072DR4Q6Y-es Sony Xperia XA1 - Smartphone con pantalla HD de 5"  Octa Core 2.3 GHz  RAM de 3 GB  memoria interna de 32 GB  cámara de 23 MP  Android  Blanco'
 actualPrice: 148.95 EUR
 currency: EUR
 price: 148.95

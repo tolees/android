@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512X72GDwrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WH12H7V-es'
+slug: 'B07WH12H7V-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos - Mini Twins Estéreo In-Ear Auriculares con Caja de Carga de 3500mAh para iPhone y Android  160h reproducción  IPX7'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Hr5eGS59L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719QNMLW-es'
+slug: 'B0719QNMLW-es NAKOSITE SB2433 Reloj inteligente mujer hombre Smartwatch Pulsera actividad relojes Inteligentes deportivo  Podometro Contador de Pasos  Calorías  Sueño Distancia  Android 5.0 o IOS 8.0 y posteriors'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

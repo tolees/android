@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qXmi9BvOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXQJGBD-es'
+slug: 'B07VXQJGBD-es Samsung Galaxy Note10+ SM-N975F  Smartphone  Dual Sim  12 GB Ram  10 MP Dual Pixel AF   Android  512 GB  Negro  Black '
 actualPrice: 939.0 EUR
 currency: EUR
 price: 939.0

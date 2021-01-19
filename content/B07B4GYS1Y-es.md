@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51neT4YzIFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4GYS1Y-es'
+slug: 'B07B4GYS1Y-es Lenovo TAB10 - Tablet de 10.1" HD  Procesador Qualcomm Snapdragon 210  2GB de RAM  16GB de eMCP  Camara frontal de 5MP  SO Android 6.0  WiFi + Bluetooth 4.0  color negro'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

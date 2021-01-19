@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Tc5Avi9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTH1FL4-es'
+slug: 'B07YTH1FL4-es Auriculares Bluetooth  WOOKRAYS inalámbricos Bluetooth 5.0 Sonido Estéreo Auricular  120H&3000mAh Caja de Carga de Metal con IPX7 Impermeable  Control Táctil  Auricular Deportivo para iOS Android'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

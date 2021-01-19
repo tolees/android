@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-LX9lwYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B4X1XWD-es'
+slug: 'B08B4X1XWD-es Disco U teléfono móvil Disco Flash USB 3.0 para Apple Android Doble Uso Tres en uno Disco OTG Giratorio Metal U Disco de Memoria 128G'
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

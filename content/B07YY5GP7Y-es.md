@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WKDko5bML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YY5GP7Y-es'
+slug: 'B07YY5GP7Y-es Android Tablet Pritom Tablet Android OS 9.0 de 10 pulgadas con 2 GB de RAM  32 GB de ROM  procesador Quad Core  pantalla HD IPS  cámara frontal 2.0 y cámara trasera de 8.0 MP  Wi-Fi  Tablet PC  negro '
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

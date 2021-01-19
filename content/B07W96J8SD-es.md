@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZbxqqY88L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W96J8SD-es'
+slug: 'B07W96J8SD-es Auriculares Bluetooth  Orit Auriculares inalámbricos Bluetooth 5.0 Sonido Estéreo Auricular Mini Twins In-Ear Auriculares Carga Rapida Resistente al Agua con Caja de Carga para iPhone y Android'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

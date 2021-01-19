@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KJxp5xn5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VGF3JC-es'
+slug: 'B071VGF3JC-es Sony Xperia XA1 Ultra - Smartphone con pantalla FULL HD de 6"  Octa Core 2 4 Ghz  RAM de 4 GB  memoria interna de 32 GB  cámara de 23 MP  Android   color negro'
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

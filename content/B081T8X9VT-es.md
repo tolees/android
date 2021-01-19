@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313d1ZW0B6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081T8X9VT-es'
+slug: 'B081T8X9VT-es SWEYE Batería Externa Movil 24800mAH  Power Bank Carga Ultra Velocidad Cargador Portátil de Alta Capacidad con 2 Puertos USB y Pantalla LCD  Adecuado para Android Smartphones  Tabletas y etc'
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

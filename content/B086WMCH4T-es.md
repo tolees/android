@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fH62culJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WMCH4T-es'
+slug: 'B086WMCH4T-es Lenovo M10 FHD Plus- Tablet de 10.3" Full HD/IPS  MediaTek Helio P22T  4 GB de RAM  64 GB ampliables hasta 256 GB  Android 9  WiFi + Bluetooth 5.0   Platinum Grey'
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

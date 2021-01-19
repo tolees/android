@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tuPqjsVFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XR9YV55-es'
+slug: 'B07XR9YV55-es Auriculares Bluetooth Inalambrico 5.0 Auriculares Bluetooth Deportivos con 3200 mAh Caja de Carga Portátil 150H Play Time Estereo Auriculares In-Ear Bluetooh CVC 8.0 para iPhone y Android'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

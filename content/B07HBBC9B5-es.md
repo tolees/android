@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41457hHTOvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBBC9B5-es'
+slug: 'B07HBBC9B5-es LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android  Multicolor  Talla única  FFK36398 '
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

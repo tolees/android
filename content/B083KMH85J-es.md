@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R0nop84oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KMH85J-es'
+slug: 'B083KMH85J-es Reloj Inteligente Pulsómetro Pulsera de Actividad con Monitor de Sueño Podómetro Pronóstico del Tiempo Reloj Deportivo Mujer Hombre Compatible Android y iOS'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

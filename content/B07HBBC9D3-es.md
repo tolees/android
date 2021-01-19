@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xDi8Ps6uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBBC9D3-es'
+slug: 'B07HBBC9D3-es LAST LEVEL- Pop Vinyl: Dragonball Z S5: Android 18 Figura Dragon Ball: C18  Multicolor  FFK36403 '
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bwoqg8GFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4S2SP3-es'
+slug: 'B07N4S2SP3-es Motorola Moto G7 Power – Smartphone Android 9  pantalla 6.2   HD+ Max Vision  cámaras 12MP y 8MP  4GB de RAM  64 GB  Dual SIM   color violeta hielo [Versión española]'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

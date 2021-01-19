@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aNJzTxn0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC8S8L7-es'
+slug: 'B07DC8S8L7-es Alcatel 1 - Smartphone de 5"  Quad-Core 1.28 MT6739  RAM de 1 GB  memoria de 8 GB  cámara de 5 MP  Android 8.0 GO   negro metálico'
 actualPrice: 54.92 EUR
 currency: EUR
 price: 54.92

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517FEDF%2BttL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7TNX27-es'
+slug: 'B07Z7TNX27-es Smartwatch  Reloj Inteligente Mujer Hombre Pulsera de Actividad Inteligente Impermeable IP68 Pulsómetros Podómetro Monitor de para Sueño Calorías para iPhone Android Xiaomi Samsung Huawei  Rosa '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

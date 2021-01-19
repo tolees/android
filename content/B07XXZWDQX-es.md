@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MjwDaF3iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXZWDQX-es'
+slug: 'B07XXZWDQX-es FKANT Batería Externa 10000mAh Power Bank con 2 Salidas/Entradas Carga Rápida  QC 3.0 / PD 18W  Cargador Portátil Movil 4 Indicadores de LED para iPhone iPad Samsung Android Smartphones Tabletas'
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

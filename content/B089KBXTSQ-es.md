@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z2pOVB6JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KBXTSQ-es'
+slug: 'B089KBXTSQ-es Auricular Bluetooth 5.0  Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares Apple iPhone Android Samsung Huawei'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

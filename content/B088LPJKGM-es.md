@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41woLK4rocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LPJKGM-es'
+slug: 'B088LPJKGM-es Looffy Pendrive 32GB Memoria USB para iPhone y iPad Pen Drive USB 3.0 Flash Drive Photo Stick Tipo C para iOS Android Computadora móvil Tableta Macbook Dispositivos 4 en 1'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

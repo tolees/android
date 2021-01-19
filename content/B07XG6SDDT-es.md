@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DW+PD3zHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG6SDDT-es'
+slug: 'B07XG6SDDT-es ETEKCITY Pulsera de Actividad Inteligente Impermeable IP68 con 14 Modos de Deporte  Pulsera Deporte con Pulsómetro  Sueño  Podómetro para Mujer Hombre Mayores  Arterial Reloj para Android y iOS Negro'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-KtNuyZSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y4NVNW-es'
+slug: 'B077Y4NVNW-es Xiaomi Mi A1 - Smartphone libre de 5.5"  4G  WiFi  Bluetooth  Snapdragon 625 Octa Core  32 GB  4 GB de RAM  Android One   Negro'
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

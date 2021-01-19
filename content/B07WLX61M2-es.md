@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D-HyEsYqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLX61M2-es'
+slug: 'B07WLX61M2-es TOSCIDO 4G LTE Tablet 10 Pulgadas - Android 9.0 Certificado por Google GMS 4GB RAM 64GB ROM Octa Core 2GHz CPU de Alta Velocidad Doule Sim WiFi Doble Altavoz Estéreo - Plata'
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

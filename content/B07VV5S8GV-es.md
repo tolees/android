@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ROaWMmqjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VV5S8GV-es'
+slug: 'B07VV5S8GV-es Abeyete Pulsera de Actividad Reloj Inteligente para Hombre y Mujer IP68 Impermeable con 14 Modos de Deportivo con Pulsómetro Sueño Podómetro Calorías Pulsera Deporte para iOS y Android Azul '
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

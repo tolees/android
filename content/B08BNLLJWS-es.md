@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FgmySpTKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNLLJWS-es'
+slug: 'B08BNLLJWS-es Auriculares Inalámbricos Bluetooth 5.0  ZEALOT H6 Auriculares Bluetooth Deportivos con Reducción de Ruido de Micrófono Estéreo In-Ear Impermeable Auriculares para iPhone  Android y PC'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

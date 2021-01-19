@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EaOvxD22L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4TLMW2-es'
+slug: 'B07Y4TLMW2-es Super HD Android 7.1 MK809 IV TV Dongle 2G + 8G 4K RK3229 Quad Core H.265 WiFi Media Totalmente Compatible Alto Almacenamiento - Negro'
 actualPrice: 26.14 EUR
 currency: EUR
 price: 26.14

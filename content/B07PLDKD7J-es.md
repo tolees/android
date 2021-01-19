@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ODmDZPxAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLDKD7J-es'
+slug: 'B07PLDKD7J-es Samsung Galaxy A50  Smartphone FHD sAmoled Infinity U Display  4GB RAM  128GB ROM  25MP  Exynos 9610  Carga Rápida  Versión Española  Android  6.4"  Coral'
 actualPrice: 259.43 EUR
 currency: EUR
 price: 259.43

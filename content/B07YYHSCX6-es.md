@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LsZmdFzAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYHSCX6-es'
+slug: 'B07YYHSCX6-es Pritom Tablet para niños de 7 pulgadas | Quad Core Android  1GB RAM + 16GB ROM | WiFi | Educación  juegos  control parental  software para niños preinstalado con estuche para tableta para niños  azul '
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

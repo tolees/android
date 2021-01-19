@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410d6S3GujL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT3FK5T-es'
+slug: 'B07VT3FK5T-es Moviles Libres  Blackview A80 Pro Smartphone Libre  2020   6.49” 19:9 HD+ Pantalla  Helio P25 Octa-Core 4GB RAM 64GB ROM  4680mAh  Cámara 13MP+8MP+0.3MP+0.3MP  4G Android 9.0  Dual SIM  Rosa '
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

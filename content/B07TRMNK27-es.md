@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tVEuNaY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRMNK27-es'
+slug: 'B07TRMNK27-es Motorola One Action - Smartphone Dual SIM  Triple cámara: 12 MP + 5 MP y video de 16 MP con ultra gran angular  128 GB/4 GB  Pantalla 6 3” FHD+  Android 9.0  - Color Blanco [Versión Española]'
 actualPrice: 172.0 EUR
 currency: EUR
 price: 172.0

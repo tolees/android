@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DsEHIveOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXJ1RT9-es'
+slug: 'B07CXJ1RT9-es LG LMX210 K9 - Smartphone 5"  Memoria Interna de 16 GB  RAM de 2 GB  Display HD IPS  cámara de 8 MP  Android 7.1.2  Nougat    Color Aurora Negro'
 actualPrice: 81.0 EUR
 currency: EUR
 price: 81.0

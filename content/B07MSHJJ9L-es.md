@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dgBjJA04L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSHJJ9L-es'
+slug: 'B07MSHJJ9L-es Smartphone Libres 32GB ROM 3GB RAM Android 7 Quad Core Ofertas del Dia Face ID V mobile XS Pro Moviles Libres 5.85  HD+ 19:9 3G+ Dual Cámara 13MP 5MP Batería 3800mAh  Azul Aurora '
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

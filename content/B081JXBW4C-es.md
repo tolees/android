@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415EjWocxLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JXBW4C-es'
+slug: 'B081JXBW4C-es Looffy Memoria USB para iPhone y iPad Memoria Flash Drive 64GB USB 3.0 con Tipo C para iPhone iPad Android Móvil Tableta PC Macbook 4 in 1'
 actualPrice: 32.39 EUR
 currency: EUR
 price: 32.39

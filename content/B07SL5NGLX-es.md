@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VhToEpr2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL5NGLX-es'
+slug: 'B07SL5NGLX-es LATEC Pulsera Actividad Reloj Inteligente Impermeable IP68 Smartwatch Pantalla Táctil Completa con Pulsómetro Cronómetro Pulsera Deporte para Hombres Mujeres Niños con iOS y Android'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yqmlbt-bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081GQMHJP-es'
+slug: 'B081GQMHJP-es Moviles Libres 4G Android 9.0 Teléfono Móvil Libre de 5.5 Pulgadas 16GB ROM/128GB TF  8MP Cámara Identificación de Cara Smartphone Libre Dual SIM 4G Moviles Buenos 4800mAh'
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

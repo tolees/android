@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cJAw1gYIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCJYLB9-es'
+slug: 'B01NCJYLB9-es My Way MWWFD009 - Disco Duro USB para iOS y Android  WiFi  64 GB '
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

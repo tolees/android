@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lfbbrwUhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HMRX4JQ-es'
+slug: 'B08HMRX4JQ-es Auriculares Inalambricos Bluetooth con Micrófono HiFi Estéreo Mini In-Ear Auriculares Impermeable Control Táctil con Tipo-C Cables y Caja de Carga Portátil para iPhone Android y Samsung'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

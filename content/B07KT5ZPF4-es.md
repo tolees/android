@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416Hg%2BeyznL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KT5ZPF4-es'
+slug: 'B07KT5ZPF4-es Cable Lightning 3 en 1  iHaper Cable de Carga USB Cable de sincronización de Datos de 1 m para iPhone 11 Pro MAX/X/XR/XS Max/8/7 Plus/6/6S Plus  iPad  y Dispositivos Micro Android  Samsung y Huawei'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

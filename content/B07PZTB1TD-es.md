@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vFp4EklUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZTB1TD-es'
+slug: 'B07PZTB1TD-es YUNTAB 7 Pulgadas Kids Tablet PC Q91 Juego y Aprendizaje Android 8.1 A50 1.5GHz Quad Core WiFi Doble cámara 3D Juego con Estuche para Tableta  Pink '
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99
