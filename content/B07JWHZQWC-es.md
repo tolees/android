@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWHZQWC-es IPOTCH 1 Pieza Reloj Digital Unisex Muñequera de Actividad...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

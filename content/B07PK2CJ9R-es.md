@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PK2CJ9R-es Ofertas móviles 4.0 pulgadas HD Teeno Smartphone Oferta...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 42.19 EUR
 currency: EUR
 price: 42.19

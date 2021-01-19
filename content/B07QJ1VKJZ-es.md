@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ1VKJZ-es WIKO View3 Lite - Smartphone de 6 09” HD+ IPS Cámara Dual...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 123.03 EUR
 currency: EUR
 price: 123.03

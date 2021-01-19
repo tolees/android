@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSHJJ9L-es Smartphone Libres 32GB ROM 3GB RAM Android 7 Quad Core...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

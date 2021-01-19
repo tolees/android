@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PRCBHR-es Tablet 10 Pulgadas 4G Full HD 4GB de RAM 64GB de ROM...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

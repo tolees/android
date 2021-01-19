@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNLLJWS-es Auriculares Inalámbricos Bluetooth 5.0 ZEALOT H6...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

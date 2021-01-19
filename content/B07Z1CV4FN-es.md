@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1CV4FN-es Auriculares Bluetooth Auriculares Inalambricos Bluetooth...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

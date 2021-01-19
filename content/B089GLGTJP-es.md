@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GLGTJP-es 8LED 3.5mm Jack Smart Cellphone Selfie LED Luz de Flash de...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

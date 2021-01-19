@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GN686ZM-es Ajcoflt Smartwatch Un Reloj Deportivo Inteligente para...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

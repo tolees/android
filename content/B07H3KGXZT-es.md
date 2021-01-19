@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3KGXZT-es Xiaomi POCOPHONE F1 - Smartphone Dual SIM de 6 18" 4G...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 292.23 EUR
 currency: EUR
 price: 292.23

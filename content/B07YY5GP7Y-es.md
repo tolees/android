@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY5GP7Y-es Android Tablet Pritom Tablet Android OS 9.0 de 10 pulgadas...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

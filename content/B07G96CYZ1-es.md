@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G96CYZ1-es La Herramienta de Escaneo OBD con Lector de Códigos OBD2...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

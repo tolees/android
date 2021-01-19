@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVSMQP-es S&G Top Organizador para Asientos de Coches Organizador de...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

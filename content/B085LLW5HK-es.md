@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LLW5HK-es MKTOSASA - Auriculares intraurales inalámbricos Bluetooth®...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

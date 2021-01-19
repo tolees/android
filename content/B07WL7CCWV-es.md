@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WL7CCWV-es Huawei P30 Pro - Smartphone de 6.47" Kirin 980 Octa-Core...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 619.0 EUR
 currency: EUR
 price: 619.0

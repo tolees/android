@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQR6GZ7-es AUCARY Proyector Mini Proyector T7 Proyector Portátil...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

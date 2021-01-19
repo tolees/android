@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5KNDC3-es Honor 6X - Smartphone libre de 5.5" lector de huellas 3 GB...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

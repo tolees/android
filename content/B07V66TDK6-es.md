@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V66TDK6-es Moviles Libres 4G Smartphone Libre 6 0 Pulgadas Android...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 69.8 EUR
 currency: EUR
 price: 69.8

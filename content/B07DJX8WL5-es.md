@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJX8WL5-es TEKKIWEAR. DMX121BK. Smartwatch Phone H1 Dual Core con...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

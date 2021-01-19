@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNT6J3Q-es Samsung Galaxy Tab S4 - Tablet de 10.5" WQXGA Wi-Fi...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

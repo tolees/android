@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRXHHMP-es CBGGQ Auriculares in-ear con micrófono 3 5 mm con cable...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

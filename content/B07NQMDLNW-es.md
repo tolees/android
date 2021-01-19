@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQMDLNW-es Willful Pulsera Actividad Impermeable IP68 con 14 Modos de...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 37.96 EUR
 currency: EUR
 price: 37.96

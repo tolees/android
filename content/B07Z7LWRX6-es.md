@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7LWRX6-es KUNGIX Pulsera de Inteligente Mujer Smartwatch Impermeable...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082K49CLF-es 2020 Auricular Bluetooth inalámbrico cancelación de Ruido...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

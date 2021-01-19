@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2XQ2X1-es Batería Externa 25000mAh Power Bank Alta Capacidad con 2...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

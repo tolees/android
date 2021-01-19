@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZX3W1TM-es Tablets 10 Pulgadas 64GB 3GB RAM 4G Dual SIM/WiFi Tablet...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

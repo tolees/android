@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081C92ZLS-es Smartphone Libre 4G 1GB +16GB Cámara 5MP+13MP Batería...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

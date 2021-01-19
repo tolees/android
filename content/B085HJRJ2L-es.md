@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HJRJ2L-es Tablet 10.1 Pulgadas YESTEL Android 8.1 Tablets con 3GB...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

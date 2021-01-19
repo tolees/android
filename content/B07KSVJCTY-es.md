@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSVJCTY-es Tablet Android 9.0 de 10 Procesador de Cuatro núcleos 4GB...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3GGZPG-es DOOGEE S68 Pro Android 9.0 Teléfono Móvil Libre Resistente...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

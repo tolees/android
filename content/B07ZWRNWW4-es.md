@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZWRNWW4-es 2019 Nuevo Toque Auriculares Bluetooth Auriculares...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

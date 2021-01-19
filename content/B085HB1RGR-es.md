@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HB1RGR-es GRDE Smartwatch Reloj Inteligente Impermeable IP68 con...'
-tags: [ 'tole.es','android', ]
+tags: [ 'android', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99
