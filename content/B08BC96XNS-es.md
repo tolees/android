@@ -26,9 +26,9 @@ Está [Padgene Smartwatch Reloj Inteligente IP68 Impermeable para Hombre Mujer  
 
 ℹ️:
 
-- 【Diseño y apariencia】11 tipos de modos de ejercicio, monitor preciso. Diseño ultrafino, fuerte interfaz de carga magnética, duración de la batería durante 7 días, registre sus actividades diarias de entrenamiento y realice un seguimiento de sus objetivos.
 - 【Soporte de multi-idiomas】español, inglés, Chino, alemán, japonés, francés, italiano, ruso, portugués, tailandés
 - 【Pantalla alta calidad】Reloj con diseño de estilo que utilizando una pantalla grande redonda Full HD TFT de 1.4 pulgadas con una resolución de 240 * 240 , antalla táctil capacitiva, pantalla de alta calidad y toque rápido le traerá experiencia de usuario cómoda.
+- 【Diseño y apariencia】11 tipos de modos de ejercicio, monitor preciso. Diseño ultrafino, fuerte interfaz de carga magnética, duración de la batería durante 7 días, registre sus actividades diarias de entrenamiento y realice un seguimiento de sus objetivos.
 - 【Más cómodo】Reloj inteligente tiene el estuche de aleación al vacío brillante de nueva generación, espejo de vidrio mineral reforzado 2.5D, y caja trasera de plástico. Correa de material de silicona ecológica de diseño alimenticio diseño convexo ergonómico que hacen que llevar puesto sea más cómodo.
 - 【Notificación de mensaje】Cuando reciba una llamada telefónica, mensajes SMS o de la aplicación como WhatsApp, Facebook, Twitter, etc., este reloj inteligente le recordará la vibración. nunca perderá llamadas ni mensajes importantes. El nombre de la persona que llama y parte del contenido se mostrará en la pantalla.
 
