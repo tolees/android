@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLKX4XN-es YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado Ultra...'
-tags: android
+tags: tole.es, android
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

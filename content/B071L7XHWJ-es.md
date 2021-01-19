@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L7XHWJ-es Tableta Yuntab H8 LTE - Teléfono de 8 pulgadas Quad-core...'
-tags: android
+tags: tole.es, android
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

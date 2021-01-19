@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0843W2MSZ-es PRIXTON - Tablet Pantalla IPS 10 1 Pulgadas Android 9 Quad...'
-tags: android
+tags: tole.es, android
 actualPrice: 87.95 EUR
 currency: EUR
 price: 87.95

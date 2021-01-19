@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P8MSAXY-es Hercules - Hercules Universal Dj - Controlador Dj - PC /...'
-tags: android
+tags: tole.es, android
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

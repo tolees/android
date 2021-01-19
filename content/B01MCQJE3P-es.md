@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCQJE3P-es Pioneer SE-MJ553BT-R - Auriculares inalámbricos Bluetooth...'
-tags: android
+tags: tole.es, android
 actualPrice: 41.11 EUR
 currency: EUR
 price: 41.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NP9PJQ-es Tableta 10.1 Pulgadas 4G WiFi Android 9.0 Tablets PC 3GB...'
-tags: android
+tags: tole.es, android
 actualPrice: 85.98 EUR
 currency: EUR
 price: 85.98

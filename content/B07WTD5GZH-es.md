@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTD5GZH-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pulsera...'
-tags: android
+tags: tole.es, android
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

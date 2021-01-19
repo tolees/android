@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086JQ9YH4-es DOOGEE S95 Pro Moviles Libres Todoterreno Helio P90 Octa...'
-tags: android
+tags: tole.es, android
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

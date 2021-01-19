@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGCXXDT-es Cable Micro USB Aioneus 4 Pack [0.5M 1M 1.5M 2M] Nylon...'
-tags: android
+tags: tole.es, android
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

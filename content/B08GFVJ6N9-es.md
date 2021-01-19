@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GFVJ6N9-es Nowakk Cable Micro USB Trenzado de Nailon Colorido Cable...'
-tags: android
+tags: tole.es, android
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

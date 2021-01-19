@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJWBKKP-es TEKKIWEAR. DMT185WHBRW. Smartwatch Deportivo N20...'
-tags: android
+tags: tole.es, android
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

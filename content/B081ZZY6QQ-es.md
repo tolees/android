@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081ZZY6QQ-es 2019 Nuevo Altavoz Bluetooth portátil Altavoz Bluetooth a...'
-tags: android
+tags: tole.es, android
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

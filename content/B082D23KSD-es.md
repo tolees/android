@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D23KSD-es UMIDIGI Reloj Inteligente Uwatch3 Smartwatch 5ATM...'
-tags: android
+tags: tole.es, android
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

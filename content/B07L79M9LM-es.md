@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L79M9LM-es Controlador de Juego móvil para PUBG 5 en 1 versión...'
-tags: android
+tags: tole.es, android
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

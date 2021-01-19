@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ5KVF3-es LNMBBS 3G Tablet de 10.1 Pulgadas HD WiFi 2 GB de RAM 32GB...'
-tags: android
+tags: tole.es, android
 actualPrice: 96.98 EUR
 currency: EUR
 price: 96.98

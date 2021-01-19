@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKPQ381-es Willful Pulsera Actividad Pulsera Actividad Inteligente...'
-tags: android
+tags: tole.es, android
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

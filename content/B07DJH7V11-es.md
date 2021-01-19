@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJH7V11-es DAM TEKKIWEAR. DMX127BL. Brazalete Inteligente P4 con...'
-tags: android
+tags: tole.es, android
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

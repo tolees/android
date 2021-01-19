@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719QNMLW-es NAKOSITE SB2433 Reloj inteligente mujer hombre Smartwatch...'
-tags: android
+tags: tole.es, android
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

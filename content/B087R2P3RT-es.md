@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087R2P3RT-es Vigorun Smartwatch Reloj Inteligente Hombre Mujer Pantalla...'
-tags: android
+tags: tole.es, android
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4NH4MC-es Motorola Moto G7 Plus - Smartphone Android 9 Pantalla 6.2...'
-tags: android
+tags: tole.es, android
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

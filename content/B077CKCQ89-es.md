@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077CKCQ89-es Motorola Moto Z2 Force - Smartphone de 5.5" WiFi 4G Octa...'
-tags: android
+tags: tole.es, android
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

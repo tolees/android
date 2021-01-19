@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBTPMYH-es Auriculares Bluetooth 5.0 Amazco XG-13 Auriculares...'
-tags: android
+tags: tole.es, android
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

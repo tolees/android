@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQWSQBL-es DOOGEE N20 2019 Smartphone Libre 4G Android 9.0 Telefono...'
-tags: android
+tags: tole.es, android
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

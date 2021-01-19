@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7T8N4D-es Tablet 10 Pulgadas 4G LTE Dual Sim - TOSCIDO Android 9.0...'
-tags: android
+tags: tole.es, android
 actualPrice: 95.98 EUR
 currency: EUR
 price: 95.98

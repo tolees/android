@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y6BPDLN-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
-tags: android
+tags: tole.es, android
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

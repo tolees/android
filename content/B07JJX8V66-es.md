@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJX8V66-es QINTAIX 2.4G Teclado de ratón de Aire Remoto I63...'
-tags: android
+tags: tole.es, android
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

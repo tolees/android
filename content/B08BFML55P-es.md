@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BFML55P-es WANFEI Maceta Inteligente Smart Maceta de Plantas...'
-tags: android
+tags: tole.es, android
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

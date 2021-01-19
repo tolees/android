@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQL6ZKY-es Mando Inalámbrico para PS4 / PC / Android HONGLI Gamepad...'
-tags: android
+tags: tole.es, android
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

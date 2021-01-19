@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KBXTSQ-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
-tags: android
+tags: tole.es, android
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

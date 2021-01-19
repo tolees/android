@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDTVZDS-es DOOGEE S58 Pro IP68 impermeable Smartphone 5.71" HD + 6GB...'
-tags: android
+tags: tole.es, android
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

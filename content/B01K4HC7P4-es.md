@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4HC7P4-es Moto G4 Play - Smartphone de 5 4G RAM de 2 GB memoria...'
-tags: android
+tags: tole.es, android
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

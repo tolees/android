@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLRHK6M-es Huawei P30 Smartphone 15 5 cm 6.1" 6 GB 128 GB Ranura...'
-tags: android
+tags: tole.es, android
 actualPrice: 398.99 EUR
 currency: EUR
 price: 398.99

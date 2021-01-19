@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FX66C6F-es Auriculares Bluetooth 5.0 auriculares con micrófono...'
-tags: android
+tags: tole.es, android
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

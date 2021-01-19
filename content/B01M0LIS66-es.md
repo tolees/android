@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0LIS66-es Sony Xperia XZ Forest Blue - Telefono movil con pantalla...'
-tags: android
+tags: tole.es, android
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

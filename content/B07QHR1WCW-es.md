@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHR1WCW-es Huyeta Smartwatch Reloj Inteligente 5ATM Impermeable...'
-tags: android
+tags: tole.es, android
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

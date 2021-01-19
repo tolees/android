@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SDC15-es Inalámbricos Bluetooth Auriculares Bluetooth con Micrófono...'
-tags: android
+tags: tole.es, android
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW1W3P3-es Baseus Cargador de Coche 5A 30W Tipo C con PD Carga rápida...'
-tags: android
+tags: tole.es, android
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

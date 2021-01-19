@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S8LQSL-es Tarjeta de Memoria SanDisk Ultra Android microSDHC UHS-I...'
-tags: android
+tags: tole.es, android
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VGF3JC-es Sony Xperia XA1 Ultra - Smartphone con pantalla FULL HD de...'
-tags: android
+tags: tole.es, android
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

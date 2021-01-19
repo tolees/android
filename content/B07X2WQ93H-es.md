@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2WQ93H-es Palm PVG100 - Smartphone de 3.3" 4G RAM de 3 GB Memoria de...'
-tags: android
+tags: tole.es, android
 actualPrice: 270.0 EUR
 currency: EUR
 price: 270.0

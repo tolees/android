@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HVT3B5C-es Auriculares Bluetooth Inalámbricos Vigorun Auriculares...'
-tags: android
+tags: tole.es, android
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

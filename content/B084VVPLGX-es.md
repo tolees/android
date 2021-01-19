@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VVPLGX-es YUNMAI Pro Báscula Cargador USB 10 Datos Corporales...'
-tags: android
+tags: tole.es, android
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

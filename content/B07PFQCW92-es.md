@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFQCW92-es Xiaomi Redmi Note 7 16 cm 6.3" 4 GB 64 GB Ranura híbrida...'
-tags: android
+tags: tole.es, android
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

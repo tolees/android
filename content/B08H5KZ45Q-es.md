@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H5KZ45Q-es Tarjeta Micro SD de alta velocidad de 256 GB diseñada para...'
-tags: android
+tags: tole.es, android
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWYX439-es BQ Aquaris X Pro - Smartphone de 5.2" Nano SIM Bluetooth...'
-tags: android
+tags: tole.es, android
 actualPrice: 155.0 EUR
 currency: EUR
 price: 155.0

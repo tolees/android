@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZD2CSCR-es DOOGEE X90 Móviles Libres Android 8.1 Smartphones Libres...'
-tags: android
+tags: tole.es, android
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

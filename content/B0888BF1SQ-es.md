@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0888BF1SQ-es Tablet 10 Pulgadas 4G Android 9.0 Tableta 4GB RAM 64GB ROM...'
-tags: android
+tags: tole.es, android
 actualPrice: 65.01 EUR
 currency: EUR
 price: 65.01

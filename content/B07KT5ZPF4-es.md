@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KT5ZPF4-es Cable Lightning 3 en 1 iHaper Cable de Carga USB Cable de...'
-tags: android
+tags: tole.es, android
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

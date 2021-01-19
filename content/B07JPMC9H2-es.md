@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPMC9H2-es Pioneer Club 5 Altavoz de Bluetooth LED Iluminación Voice...'
-tags: android
+tags: tole.es, android
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

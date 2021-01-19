@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811R7VJY-es DOOGEE S95 Pro Super Mod Móvil Antigolpes Helio P90 Octa-...'
-tags: android
+tags: tole.es, android
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

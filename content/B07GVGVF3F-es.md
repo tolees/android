@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVGVF3F-es LIFEGOO Mini T Auriculares inalambricos Bluetooth 5.0...'
-tags: android
+tags: tole.es, android
 actualPrice: 10 EUR
 currency: EUR
 price: 10

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R4LSS6-es Temfly Webcam Webcam PC 1080P HD Webcam y Microfono Cámara...'
-tags: android
+tags: tole.es, android
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXMT36M-es Mini Proyector Tenswall Portátil DLP Video Proyectors...'
-tags: android
+tags: tole.es, android
 actualPrice: 209 EUR
 currency: EUR
 price: 209

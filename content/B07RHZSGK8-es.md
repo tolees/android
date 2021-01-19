@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHZSGK8-es YZPUSI USB 3.0 32gb Pendrive USB 3.0 32g Pendrive USB...'
-tags: android
+tags: tole.es, android
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

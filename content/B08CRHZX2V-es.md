@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRHZX2V-es Q88 7 "Tablet para niños 1G + 8GB A33 Quad Core 0.3MP...'
-tags: android
+tags: tole.es, android
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V1FCSZ-es Auriculares inalámbricos Bluetooth Auriculares 5.0...'
-tags: android
+tags: tole.es, android
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

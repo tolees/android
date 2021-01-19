@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHMV7W1-es ALCATEL 3X Smartphone Quad Core 1.28 GHz Android N 5.7"...'
-tags: android
+tags: tole.es, android
 actualPrice: 126.52 EUR
 currency: EUR
 price: 126.52

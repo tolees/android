@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1H49XX-es OurLeeme Video Timbre Inalámbrico WiFi Monitoreo Remoto...'
-tags: android
+tags: tole.es, android
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH1M75D-es Honor 20 Lite - Smartphone de 6.21" RAM de 4 GB Memoria de...'
-tags: android
+tags: tole.es, android
 actualPrice: 204.0 EUR
 currency: EUR
 price: 204.0

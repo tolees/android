@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXQJGBD-es Samsung Galaxy Note10+ SM-N975F Smartphone Dual Sim 12 GB...'
-tags: android
+tags: tole.es, android
 actualPrice: 939.0 EUR
 currency: EUR
 price: 939.0

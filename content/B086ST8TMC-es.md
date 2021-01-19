@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ST8TMC-es Mando para Android Inalámbrico Maegoo Bluetooth Movil...'
-tags: android
+tags: tole.es, android
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

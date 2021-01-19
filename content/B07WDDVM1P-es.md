@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDDVM1P-es CUBOT Quest Lite 4G IP68 Móvil Todorerreno para Viajes o...'
-tags: android
+tags: tole.es, android
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99
