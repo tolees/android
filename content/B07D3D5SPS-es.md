@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3D5SPS-es Sensei Photo Fluid 6 Estabilizador de Movil Gimbal de 3...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

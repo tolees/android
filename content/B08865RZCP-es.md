@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08865RZCP-es 4G Tablets 10.1Pulgadas Android 9.0 Pie Certificación...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

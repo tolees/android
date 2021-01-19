@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWFVJ6C-es YESTEL Tablet 10 Pulgadas Android Tableta 4GB RAM + 64GB...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 105.99 EUR
 currency: EUR
 price: 105.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DF7QSX3-es Gigaset GS180 - Smartphone 5" SIM Doble 4G 2GB 16GB...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

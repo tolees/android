@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PR44HV8-es Unidad Memoria Flash USB 3.0 128GB Memoria Lápiz Drive OTG...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

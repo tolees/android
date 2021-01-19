@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CF5V4J-es NAIXUES Smartwatch Reloj Inteligente IP67 con Presión...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

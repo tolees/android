@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S38RSQ8-es Memoria Flash 4 en 1 64 GB Compatible con iPhone y...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

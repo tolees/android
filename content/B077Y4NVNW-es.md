@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y4NVNW-es Xiaomi Mi A1 - Smartphone libre de 5.5" 4G WiFi Bluetooth...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM2SLM9-es Huawei Y7 2019 - Smartphone de 6.26" RAM de 3 GB Memoria...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 132.0 EUR
 currency: EUR
 price: 132.0

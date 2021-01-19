@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1WCJNX-es Huawei P30 - Smartphone de 6.1" Kirin 980 Octa-Core de...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 385.0 EUR
 currency: EUR
 price: 385.0

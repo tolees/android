@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VT3FK5T-es Moviles Libres Blackview A80 Pro Smartphone Libre 2020...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

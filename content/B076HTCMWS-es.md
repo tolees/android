@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HTCMWS-es Motorola termómetro inteligente de oído con seguimiento de...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

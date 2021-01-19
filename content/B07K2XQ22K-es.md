@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2XQ22K-es Samsung Galaxy A9 Smartphone 4G Octa-Core Ram de 6 GB...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 359.9 EUR
 currency: EUR
 price: 359.9

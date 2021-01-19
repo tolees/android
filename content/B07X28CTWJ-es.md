@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X28CTWJ-es HUION Inspiroy Ink H320M Rojo Tableta de Dibujo gráfico...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

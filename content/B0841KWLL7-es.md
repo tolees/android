@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0841KWLL7-es Panamami Para Android Receptor Cargador inalámbrico Qi...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

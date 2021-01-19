@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4KVBKF-es SSD 250GB Portátil TOPESEL Disco Estado Sólido Externo...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 58.64 EUR
 currency: EUR
 price: 58.64

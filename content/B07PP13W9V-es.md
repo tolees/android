@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP13W9V-es Android TV Box Android 8.1 TV Box Amlogic S905W Quad-Core...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

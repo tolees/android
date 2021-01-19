@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCMKPFW-es MAFENGWO Moviles Libres Baratos 4G Teléfono Móvil de 5 2...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 52.5 EUR
 currency: EUR
 price: 52.5

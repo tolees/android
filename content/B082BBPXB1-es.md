@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BBPXB1-es Smartwatch Impermeable Reloj Inteligente Android con...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

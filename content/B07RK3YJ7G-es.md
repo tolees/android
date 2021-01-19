@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK3YJ7G-es YZPUSI USB C OTG Android Pendrive USB 2.0 32gb USB Memoria...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

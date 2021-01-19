@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWJVMPJ-es Smartwatch Reloj Inteligente Deportivo Pulsera Actividad...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDVZ8JM-es Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 322.43 EUR
 currency: EUR
 price: 322.43

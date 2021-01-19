@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6GNGTY-es Trípode de teléfono móvil Trípodes de cámara Flexibles...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

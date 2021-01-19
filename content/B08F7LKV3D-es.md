@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F7LKV3D-es Tablet para Niños con WiFi 7.0 Pulgadas 3GB RAM 32GB/128GB...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 72.92 EUR
 currency: EUR
 price: 72.92

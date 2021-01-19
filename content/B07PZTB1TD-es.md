@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZTB1TD-es YUNTAB 7 Pulgadas Kids Tablet PC Q91 Juego y Aprendizaje...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

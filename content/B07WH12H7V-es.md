@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WH12H7V-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos - Mini...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

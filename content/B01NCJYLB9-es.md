@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCJYLB9-es My Way MWWFD009 - Disco Duro USB para iOS y Android WiFi...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

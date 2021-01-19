@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3HBPS8-es DOOGEE S68 Pro Movil Antigolpes Todoterreno Helio P70 Octa...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

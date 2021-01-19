@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WX6RT89-es TECLAST Tablet PC Android M8 Pantalla 2.5K de 8.4’’...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6DCHDF-es HUION 2019 Nuevo Inspiroy Ink H320M Tableta Gráfica Doble...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 64.79 EUR
 currency: EUR
 price: 64.79

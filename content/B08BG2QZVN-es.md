@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BG2QZVN-es Sami - Kids - Smartwatch Reloj Inteligente Infantil...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

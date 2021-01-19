@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z64YCL9-es Orit Auriculares Inalambricos Deportivos Auriculares...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

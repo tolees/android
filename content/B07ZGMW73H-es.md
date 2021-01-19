@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGMW73H-es Cable Micro USB Tujun [3 Unidades/3 pies+3 pies+6 pies]...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

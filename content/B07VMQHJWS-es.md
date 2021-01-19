@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMQHJWS-es Bluetooth Auricular Manos Libres Auriculares Deportivos...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NB7P1F-es Ticwatch S Sport - Reloj inteligente con GPS pantalla...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 120.97 EUR
 currency: EUR
 price: 120.97

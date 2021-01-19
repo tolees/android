@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WZFZ15-es Philips BT55A - Mini Altavoz Bluetooth inalámbrico...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTX9VBZ-es 4G LTE Tablet 10 Pulgadas YOTOPT - Android 9.0 4GB RAM y...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 89.98 EUR
 currency: EUR
 price: 89.98

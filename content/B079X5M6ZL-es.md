@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079X5M6ZL-es Samsung SM-G960FZKDPHE Galaxy S9 - Smartphone de 5.8" Wi-...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 559.0 EUR
 currency: EUR
 price: 559.0

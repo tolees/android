@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HV88RF-es Ayete Auriculares Bluetooth5.0 Auriculares inalámbricos...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

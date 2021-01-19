@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082R2XFWY-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

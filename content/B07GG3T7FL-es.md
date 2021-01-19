@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GG3T7FL-es Steelseries Arctis 3 Auriculares De Juego Multiplataforma...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

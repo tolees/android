@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W14F5CQ-es Blurams Snowman 1080p FHD Cámara de Vigilancia en Domo...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

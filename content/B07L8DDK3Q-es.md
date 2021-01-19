@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8DDK3Q-es MINLUK Pulsera de Actividad Inteligente Pulsera Bluetooth...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DBJM1Q-es Smartwatch con Whatsapp Bluetooth Smart Watch Pantalla...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

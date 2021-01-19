@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD4Q6RN-es KLIM ™ Rush - Auriculares Gaming + Diadema cómoda y...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

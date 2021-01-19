@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJC52FG-es Pulsera de Actividad Reloj Inteligente Impermeable IP68...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

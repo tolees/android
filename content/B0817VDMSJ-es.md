@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817VDMSJ-es Auricular Bluetooth Verdadero Deporte inalámbrico...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

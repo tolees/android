@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPLGMG3-es HolyHigh Auriculares Bluetooth Inalámbricos Cacos...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

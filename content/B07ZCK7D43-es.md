@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCK7D43-es Tableta de 10.1 Pulgadas 4g LTE con Funda Plateada Android...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

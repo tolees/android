@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QR9ZH9C-es Samsung Galagy Tab A - Tablet de 10.1" FullHD Wifi + 4G...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 247.11 EUR
 currency: EUR
 price: 247.11

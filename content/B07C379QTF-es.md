@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C379QTF-es Sharplace 1 Pieza de Adaptador Remoto Control IR...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

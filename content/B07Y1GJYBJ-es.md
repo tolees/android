@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1GJYBJ-es Tableta 10.1 Pulgadas Pantalla HD IPS Android 9.0 - Tablet...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

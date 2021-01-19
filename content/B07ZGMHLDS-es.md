@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGMHLDS-es Auriculares Bluetooth SYOSIN TWS Auriculares Inalambricos...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

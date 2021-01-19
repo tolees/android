@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z76RGQV-es LNMBBS 4G LTE Tablet 10.1" Full HD Tableta Android 10.0 OS...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

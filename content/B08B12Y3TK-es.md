@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B12Y3TK-es Estación de Carga USB Multifunción con 4 Puertos Qi...'
-tags: tole.es, android
+tags: [ 'tole.es','android', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99
