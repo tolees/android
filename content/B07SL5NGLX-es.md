@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL5NGLX-es LATEC Pulsera Actividad Reloj Inteligente Impermeable IP68...'
+sku: 'B07SL5NGLX-es'
 tags: [ 'android', ]
 actualPrice: 42.99 EUR
 currency: EUR

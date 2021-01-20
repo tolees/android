@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBSNTRZ-es Memoria Flash 4 en 1 128 GB Compatible con iPhone y...'
+sku: 'B07SBSNTRZ-es'
 tags: [ 'android', ]
 actualPrice: 42.49 EUR
 currency: EUR

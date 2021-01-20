@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H5KZ45Q-es Tarjeta Micro SD de alta velocidad de 256 GB diseñada para...'
+sku: 'B08H5KZ45Q-es'
 tags: [ 'android', ]
 actualPrice: 15.0 EUR
 currency: EUR

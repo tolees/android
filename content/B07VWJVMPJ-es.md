@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWJVMPJ-es Smartwatch Reloj Inteligente Deportivo Pulsera Actividad...'
+sku: 'B07VWJVMPJ-es'
 tags: [ 'android', ]
 actualPrice: 29.69 EUR
 currency: EUR

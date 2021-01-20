@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824LV5VM-es UMIDIGI Reloj Inteligente Uwatch3 5ATM Impermeable...'
+sku: 'B0824LV5VM-es'
 tags: [ 'android', ]
 actualPrice: 44.99 EUR
 currency: EUR

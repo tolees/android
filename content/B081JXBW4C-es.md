@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JXBW4C-es Looffy Memoria USB para iPhone y iPad Memoria Flash Drive...'
+sku: 'B081JXBW4C-es'
 tags: [ 'android', ]
 actualPrice: 32.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SW4NZCW-es iWalker Smart Pulsera Fitness Tracker Pulsera Actividad de...'
+sku: 'B07SW4NZCW-es'
 tags: [ 'android', ]
 actualPrice: 27.99 EUR
 currency: EUR

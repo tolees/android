@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGVKHWG-es HolyHigh Auriculares Inalambricos Bluetooth Auriculares...'
+sku: 'B07VGVKHWG-es'
 tags: [ 'android', ]
 actualPrice: 15.99 EUR
 currency: EUR

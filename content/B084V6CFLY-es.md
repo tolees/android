@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084V6CFLY-es Auriculares Inalámbricos Bluetooth 5.0 Deportivos...'
+sku: 'B084V6CFLY-es'
 tags: [ 'android', ]
 actualPrice: 45.99 EUR
 currency: EUR

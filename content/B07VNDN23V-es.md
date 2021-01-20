@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNDN23V-es 【Versión Actualizado】 Mpow S15 Dual EQ Auriculares...'
+sku: 'B07VNDN23V-es'
 tags: [ 'android', ]
 actualPrice: 19.99 EUR
 currency: EUR

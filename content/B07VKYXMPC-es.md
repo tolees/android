@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKYXMPC-es Moviles Baratos y buenos 4G J3 16GB ROM 5.0" HD Android...'
+sku: 'B07VKYXMPC-es'
 tags: [ 'android', ]
 actualPrice: 49.99 EUR
 currency: EUR

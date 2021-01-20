@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08747MBFY-es Smartwatch Reloj Inteligente Pantalla curva Impermeable...'
+sku: 'B08747MBFY-es'
 tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR

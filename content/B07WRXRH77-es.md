@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRXRH77-es Tablet 10 Pulgadas 4G Full HD 32GB ROM/64GB 4G/WiFi/OTG...'
+sku: 'B07WRXRH77-es'
 tags: [ 'android', ]
 actualPrice: 75.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM2SLM9-es Huawei Y7 2019 - Smartphone de 6.26" RAM de 3 GB Memoria...'
+sku: 'B07MM2SLM9-es'
 tags: [ 'android', ]
 actualPrice: 132.0 EUR
 currency: EUR

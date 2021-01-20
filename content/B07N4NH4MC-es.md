@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4NH4MC-es Motorola Moto G7 Plus - Smartphone Android 9 Pantalla 6.2...'
+sku: 'B07N4NH4MC-es'
 tags: [ 'android', ]
 actualPrice: 199.0 EUR
 currency: EUR

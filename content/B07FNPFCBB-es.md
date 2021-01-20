@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNPFCBB-es H96 MAX+ Android 9.0 TV Box 4GB RAM/32GB ROM 4K Ultra HD...'
+sku: 'B07FNPFCBB-es'
 tags: [ 'android', ]
 actualPrice: 48.99 EUR
 currency: EUR

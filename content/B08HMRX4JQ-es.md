@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HMRX4JQ-es Auriculares Inalambricos Bluetooth con Micrófono HiFi...'
+sku: 'B08HMRX4JQ-es'
 tags: [ 'android', ]
 actualPrice: 15.99 EUR
 currency: EUR

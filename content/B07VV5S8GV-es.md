@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VV5S8GV-es Abeyete Pulsera de Actividad Reloj Inteligente para Hombre...'
+sku: 'B07VV5S8GV-es'
 tags: [ 'android', ]
 actualPrice: 28.99 EUR
 currency: EUR

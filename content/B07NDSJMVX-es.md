@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDSJMVX-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide...'
+sku: 'B07NDSJMVX-es'
 tags: [ 'android', ]
 actualPrice: 208.13 EUR
 currency: EUR

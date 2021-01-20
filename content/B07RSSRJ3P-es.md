@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSSRJ3P-es HONOR 20 - Smartphone Android 9 6 26" FHD 48MP + 16MP +...'
+sku: 'B07RSSRJ3P-es'
 tags: [ 'android', ]
 actualPrice: 499.0 EUR
 currency: EUR

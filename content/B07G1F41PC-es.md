@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1F41PC-es Polaroid Mint Impresora de bolsillo con Tecnología Zink...'
+sku: 'B07G1F41PC-es'
 tags: [ 'android', ]
 actualPrice: 94.7 EUR
 currency: EUR

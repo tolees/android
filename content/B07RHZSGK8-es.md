@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHZSGK8-es YZPUSI USB 3.0 32gb Pendrive USB 3.0 32g Pendrive USB...'
+sku: 'B07RHZSGK8-es'
 tags: [ 'android', ]
 actualPrice: 9.99 EUR
 currency: EUR

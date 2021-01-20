@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS8NDZ3-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android...'
+sku: 'B07WS8NDZ3-es'
 tags: [ 'android', ]
 actualPrice: 99.92 EUR
 currency: EUR

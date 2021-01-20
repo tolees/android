@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WZGHLR-es Philips Audio BT55W/00 - Mini Altavoz Bluetooth...'
+sku: 'B075WZGHLR-es'
 tags: [ 'android', ]
 actualPrice: 12.5 EUR
 currency: EUR

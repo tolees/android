@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FJ3M9RQ-es Smartwatch Reloj Inteligente Hombre Mujer Niños Monitor...'
+sku: 'B08FJ3M9RQ-es'
 tags: [ 'android', ]
 actualPrice: 45.88 EUR
 currency: EUR

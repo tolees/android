@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM1HC98-es Dragon Ball Z - Figura de colección Android Número 18...'
+sku: 'B07PM1HC98-es'
 tags: [ 'android', ]
 actualPrice: 25.0 EUR
 currency: EUR

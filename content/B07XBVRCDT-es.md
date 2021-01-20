@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBVRCDT-es Muzili Auriculares Bluetooth Inalambricos V5.0 Auriculares...'
+sku: 'B07XBVRCDT-es'
 tags: [ 'android', ]
 actualPrice: 15.99 EUR
 currency: EUR

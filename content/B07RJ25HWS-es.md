@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ25HWS-es 7 Pulgadas Android Oreo 8.1OS 1G RAM 16G ROM Tablet PC...'
+sku: 'B07RJ25HWS-es'
 tags: [ 'android', ]
 actualPrice: 36.99 EUR
 currency: EUR

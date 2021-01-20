@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGTJFMP-es YZPUSI USB 2.0 64gb Pendrive 3 en 1 64 GB USB 2.0 OTG...'
+sku: 'B07PGTJFMP-es'
 tags: [ 'android', ]
 actualPrice: 27.99 EUR
 currency: EUR

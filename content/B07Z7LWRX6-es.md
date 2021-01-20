@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7LWRX6-es KUNGIX Pulsera de Inteligente Mujer Smartwatch Impermeable...'
+sku: 'B07Z7LWRX6-es'
 tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR

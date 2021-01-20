@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPVY8P1-es Moviles Libres 4G Smartphone Libres 5 Pulgadas 1 GB RAM y...'
+sku: 'B07RPVY8P1-es'
 tags: [ 'android', ]
 actualPrice: 49.88 EUR
 currency: EUR

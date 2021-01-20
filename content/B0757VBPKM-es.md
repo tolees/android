@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757VBPKM-es Sony Xperia XZ1 - Smartphone de 5.2" Bluetooth Octa Core...'
+sku: 'B0757VBPKM-es'
 tags: [ 'android', ]
 actualPrice: 259 EUR
 currency: EUR

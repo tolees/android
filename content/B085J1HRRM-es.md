@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085J1HRRM-es 4G Tablet 10 Pulgadas YESTEL X2 3GB+32GB Android 8.1...'
+sku: 'B085J1HRRM-es'
 tags: [ 'android', ]
 actualPrice: 78.98 EUR
 currency: EUR

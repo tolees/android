@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0843W2MSZ-es PRIXTON - Tablet Pantalla IPS 10 1 Pulgadas Android 9 Quad...'
+sku: 'B0843W2MSZ-es'
 tags: [ 'android', ]
 actualPrice: 87.95 EUR
 currency: EUR

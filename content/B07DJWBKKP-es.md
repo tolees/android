@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJWBKKP-es TEKKIWEAR. DMT185WHBRW. Smartwatch Deportivo N20...'
+sku: 'B07DJWBKKP-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D57YZQA-es OPPO Find X Lamborghini - Smartphone Libre Android 8.1...'
+sku: 'B00D57YZQA-es'
 tags: [ 'android', ]
 actualPrice: 967.91 EUR
 currency: EUR

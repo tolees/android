@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743GY1HS-es Auriculares Bluetooth V4.1 Inalámbricos Bluetooth Headset...'
+sku: 'B0743GY1HS-es'
 tags: [ 'android', ]
 actualPrice: 37.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLRHK6M-es Huawei P30 Smartphone 15 5 cm 6.1" 6 GB 128 GB Ranura...'
+sku: 'B07NLRHK6M-es'
 tags: [ 'android', ]
 actualPrice: 398.99 EUR
 currency: EUR

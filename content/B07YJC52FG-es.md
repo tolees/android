@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJC52FG-es Pulsera de Actividad Reloj Inteligente Impermeable IP68...'
+sku: 'B07YJC52FG-es'
 tags: [ 'android', ]
 actualPrice: 33.99 EUR
 currency: EUR

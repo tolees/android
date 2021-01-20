@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F3K9HM7-es Nuevo P35 Pro 6.3 Pantalla de Pulgadas Teléfono Android...'
+sku: 'B08F3K9HM7-es'
 tags: [ 'android', ]
 actualPrice: 41.45 EUR
 currency: EUR

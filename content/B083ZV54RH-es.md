@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZV54RH-es Moviles Libres DOOGEE X95 Smartphone Libre 2020 6.52...'
+sku: 'B083ZV54RH-es'
 tags: [ 'android', ]
 actualPrice: 79.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H46XKR5-es Beurer BF1000 - Báscula diagnóstica Bluetooth báscula de...'
+sku: 'B07H46XKR5-es'
 tags: [ 'android', ]
 actualPrice: 279.9 EUR
 currency: EUR

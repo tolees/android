@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JQ3YVV-es HONOR Magic Watch 2 46mm Smart Watch 15 Deportes...'
+sku: 'B084JQ3YVV-es'
 tags: [ 'android', ]
 actualPrice: 159.99 EUR
 currency: EUR

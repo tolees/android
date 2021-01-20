@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLJB1XQ-es PRIXTON – Reloj Inteligente Smartwatch para Android e iOS...'
+sku: 'B07PLJB1XQ-es'
 tags: [ 'android', ]
 actualPrice: 41.71 EUR
 currency: EUR

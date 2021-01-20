@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7TNX27-es Smartwatch Reloj Inteligente Mujer Hombre Pulsera de...'
+sku: 'B07Z7TNX27-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

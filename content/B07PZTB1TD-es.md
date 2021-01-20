@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZTB1TD-es YUNTAB 7 Pulgadas Kids Tablet PC Q91 Juego y Aprendizaje...'
+sku: 'B07PZTB1TD-es'
 tags: [ 'android', ]
 actualPrice: 53.99 EUR
 currency: EUR

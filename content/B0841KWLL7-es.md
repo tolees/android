@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0841KWLL7-es Panamami Para Android Receptor Cargador inalámbrico Qi...'
+sku: 'B0841KWLL7-es'
 tags: [ 'android', ]
 actualPrice: 4.16 EUR
 currency: EUR

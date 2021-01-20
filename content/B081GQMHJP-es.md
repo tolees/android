@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GQMHJP-es Moviles Libres 4G Android 9.0 Teléfono Móvil Libre de 5.5...'
+sku: 'B081GQMHJP-es'
 tags: [ 'android', ]
 actualPrice: 55.98 EUR
 currency: EUR

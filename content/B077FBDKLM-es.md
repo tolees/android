@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077FBDKLM-es Denver Sdq-52001G Tarjeta Dual Sim De 5 2" 3G Quad Core 1...'
+sku: 'B077FBDKLM-es'
 tags: [ 'android', ]
 actualPrice: 71.46 EUR
 currency: EUR

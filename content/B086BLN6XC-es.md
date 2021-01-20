@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BLN6XC-es Auriculares inalámbricos Tribit FlyBuds 1 Auriculares...'
+sku: 'B086BLN6XC-es'
 tags: [ 'android', ]
 actualPrice: 44.99 EUR
 currency: EUR

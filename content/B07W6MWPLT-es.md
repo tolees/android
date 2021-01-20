@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6MWPLT-es DOOGEE S60 Lite Smartphone Al Aire Libre Robusto 4G Face...'
+sku: 'B07W6MWPLT-es'
 tags: [ 'android', ]
 actualPrice: 159.99 EUR
 currency: EUR

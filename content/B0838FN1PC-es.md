@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0838FN1PC-es PICILOO Cargador USB de Pared Dos Enchufe USB Pared...'
+sku: 'B0838FN1PC-es'
 tags: [ 'android', ]
 actualPrice: 9.99 EUR
 currency: EUR

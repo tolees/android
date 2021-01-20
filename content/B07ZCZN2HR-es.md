@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCZN2HR-es Moviles Libres DOOGEE X90 Android 8.1 Smartphones Libres...'
+sku: 'B07ZCZN2HR-es'
 tags: [ 'android', ]
 actualPrice: 64.99 EUR
 currency: EUR

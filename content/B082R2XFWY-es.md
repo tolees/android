@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082R2XFWY-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
+sku: 'B082R2XFWY-es'
 tags: [ 'android', ]
 actualPrice: 24.99 EUR
 currency: EUR

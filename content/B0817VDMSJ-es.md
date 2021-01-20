@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817VDMSJ-es Auricular Bluetooth Verdadero Deporte inalámbrico...'
+sku: 'B0817VDMSJ-es'
 tags: [ 'android', ]
 actualPrice: 59 EUR
 currency: EUR

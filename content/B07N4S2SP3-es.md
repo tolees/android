@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4S2SP3-es Motorola Moto G7 Power – Smartphone Android 9 pantalla 6.2...'
+sku: 'B07N4S2SP3-es'
 tags: [ 'android', ]
 actualPrice: 149.0 EUR
 currency: EUR

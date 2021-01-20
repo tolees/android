@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFSP87B-es TedGem Webcam Full HD Webcam 4K/1080P Streaming Cámara Web...'
+sku: 'B07ZFSP87B-es'
 tags: [ 'android', ]
 actualPrice: 22.09 EUR
 currency: EUR

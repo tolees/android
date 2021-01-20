@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817VSDNW-es 2019 Nuevo Toque Auriculares Bluetooth Auriculares...'
+sku: 'B0817VSDNW-es'
 tags: [ 'android', ]
 actualPrice: 59 EUR
 currency: EUR

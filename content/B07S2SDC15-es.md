@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SDC15-es Inalámbricos Bluetooth Auriculares Bluetooth con Micrófono...'
+sku: 'B07S2SDC15-es'
 tags: [ 'android', ]
 actualPrice: 25.99 EUR
 currency: EUR

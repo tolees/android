@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6GNGTY-es Trípode de teléfono móvil Trípodes de cámara Flexibles...'
+sku: 'B07Z6GNGTY-es'
 tags: [ 'android', ]
 actualPrice: 12.96 EUR
 currency: EUR

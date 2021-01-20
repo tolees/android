@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMQHJWS-es Bluetooth Auricular Manos Libres Auriculares Deportivos...'
+sku: 'B07VMQHJWS-es'
 tags: [ 'android', ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074SZDMHJ-es Moto G5s - Smartphone Libre Android 7.1 Pantalla de 5.2...'
+sku: 'B074SZDMHJ-es'
 tags: [ 'android', ]
 actualPrice: 101.16 EUR
 currency: EUR

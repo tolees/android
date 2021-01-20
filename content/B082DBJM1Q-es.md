@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DBJM1Q-es Smartwatch con Whatsapp Bluetooth Smart Watch Pantalla...'
+sku: 'B082DBJM1Q-es'
 tags: [ 'android', ]
 actualPrice: 27.98 EUR
 currency: EUR

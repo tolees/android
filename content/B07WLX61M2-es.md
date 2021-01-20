@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLX61M2-es TOSCIDO 4G LTE Tablet 10 Pulgadas - Android 9.0...'
+sku: 'B07WLX61M2-es'
 tags: [ 'android', ]
 actualPrice: 119.98 EUR
 currency: EUR

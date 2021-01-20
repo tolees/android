@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FX66C6F-es Auriculares Bluetooth 5.0 auriculares con micrófono...'
+sku: 'B08FX66C6F-es'
 tags: [ 'android', ]
 actualPrice: 33.99 EUR
 currency: EUR

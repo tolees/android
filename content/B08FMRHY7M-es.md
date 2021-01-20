@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMRHY7M-es Smartwatch Reloj Inteligente Mujer Hombre Niños Fitness...'
+sku: 'B08FMRHY7M-es'
 tags: [ 'android', ]
 actualPrice: 43.99 EUR
 currency: EUR

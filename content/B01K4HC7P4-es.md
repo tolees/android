@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4HC7P4-es Moto G4 Play - Smartphone de 5 4G RAM de 2 GB memoria...'
+sku: 'B01K4HC7P4-es'
 tags: [ 'android', ]
 actualPrice: 39.95 EUR
 currency: EUR

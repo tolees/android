@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQL6ZKY-es Mando Inalámbrico para PS4 / PC / Android HONGLI Gamepad...'
+sku: 'B07ZQL6ZKY-es'
 tags: [ 'android', ]
 actualPrice: 31.99 EUR
 currency: EUR

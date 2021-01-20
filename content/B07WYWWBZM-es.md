@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WYWWBZM-es J5 Smartphone Libre 2019 Android 9.0 Teléfono móvil 3G sin...'
+sku: 'B07WYWWBZM-es'
 tags: [ 'android', ]
 actualPrice: 53.54 EUR
 currency: EUR

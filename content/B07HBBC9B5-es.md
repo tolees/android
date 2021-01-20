@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBBC9B5-es LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android...'
+sku: 'B07HBBC9B5-es'
 tags: [ 'android', ]
 actualPrice: 6.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N192KMF-es Doosl Puntero Laser Presentaciones Mando Inalámbrico...'
+sku: 'B07N192KMF-es'
 tags: [ 'android', ]
 actualPrice: 11.99 EUR
 currency: EUR

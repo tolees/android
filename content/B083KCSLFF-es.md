@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KCSLFF-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
+sku: 'B083KCSLFF-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

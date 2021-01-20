@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5JHTX6-es 4G LTE Tablet 10 Pulgadas - Android 9.0 4GB RAM y 64GB ROM...'
+sku: 'B07X5JHTX6-es'
 tags: [ 'android', ]
 actualPrice: 99.99 EUR
 currency: EUR

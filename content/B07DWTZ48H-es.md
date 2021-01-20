@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWTZ48H-es OTHA Proyector Mini Portátil Mini Proyector Android 7.1.2...'
+sku: 'B07DWTZ48H-es'
 tags: [ 'android', ]
 actualPrice: 239.99 EUR
 currency: EUR

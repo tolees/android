@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TFXWY3-es VicTsing Ratón Bluetooth Ratón Inalámbrico Ultra-Delgado...'
+sku: 'B083TFXWY3-es'
 tags: [ 'android', ]
 actualPrice: 9.99 EUR
 currency: EUR

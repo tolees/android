@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KG9RN4-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
+sku: 'B082KG9RN4-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

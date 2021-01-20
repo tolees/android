@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYH54VF-es MEBERRY Tablet 10 Pulgadas Android 9 Pie Ultrar-Rápido...'
+sku: 'B07VYH54VF-es'
 tags: [ 'android', ]
 actualPrice: 95.99 EUR
 currency: EUR

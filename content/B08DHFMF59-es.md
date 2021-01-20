@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHFMF59-es T-ZORE Auriculares inalámbricos Bluetooth 5.0 Auriculares...'
+sku: 'B08DHFMF59-es'
 tags: [ 'android', ]
 actualPrice: 43.99 EUR
 currency: EUR

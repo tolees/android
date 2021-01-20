@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085N2B7KV-es Tableta Android de 10 Pulgadas con Ranuras para Tarjetas...'
+sku: 'B085N2B7KV-es'
 tags: [ 'android', ]
 actualPrice: 75.54 EUR
 currency: EUR

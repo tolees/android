@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0837JTT7H-es Altavoz Bluetooth portátil con Bajos potentes Rango de...'
+sku: 'B0837JTT7H-es'
 tags: [ 'android', ]
 actualPrice: 13.0 EUR
 currency: EUR

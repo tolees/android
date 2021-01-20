@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG6SDDT-es ETEKCITY Pulsera de Actividad Inteligente Impermeable IP68...'
+sku: 'B07XG6SDDT-es'
 tags: [ 'android', ]
 actualPrice: 34.99 EUR
 currency: EUR

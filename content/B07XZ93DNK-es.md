@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZ93DNK-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
+sku: 'B07XZ93DNK-es'
 tags: [ 'android', ]
 actualPrice: 24.99 EUR
 currency: EUR

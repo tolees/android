@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y6CB4PJ-es 【2020 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
+sku: 'B07Y6CB4PJ-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

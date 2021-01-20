@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB2XDF4-es UMIDIGI One Pro Smartphone Libre 4G Volte 5.9" Incell 19:...'
+sku: 'B07GB2XDF4-es'
 tags: [ 'android', ]
 actualPrice: 149.99 EUR
 currency: EUR

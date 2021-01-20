@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y15QFYT-es TOSCIDO 4G LTE Tablet 10 Pulgadas1920*1200 IPS HD -...'
+sku: 'B07Y15QFYT-es'
 tags: [ 'android', ]
 actualPrice: 179.98 EUR
 currency: EUR

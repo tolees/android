@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6XQPBD-es Tablet 10.1 Pulgadas Android 7.0 Tablet PC WiFi Tableta...'
+sku: 'B07V6XQPBD-es'
 tags: [ 'android', ]
 actualPrice: 89.99 EUR
 currency: EUR

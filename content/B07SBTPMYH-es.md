@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBTPMYH-es Auriculares Bluetooth 5.0 Amazco XG-13 Auriculares...'
+sku: 'B07SBTPMYH-es'
 tags: [ 'android', ]
 actualPrice: 13.76 EUR
 currency: EUR

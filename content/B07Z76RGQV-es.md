@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z76RGQV-es LNMBBS 4G LTE Tablet 10.1" Full HD Tableta Android 10.0 OS...'
+sku: 'B07Z76RGQV-es'
 tags: [ 'android', ]
 actualPrice: 99.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVBR5XQ-es Smartwatch Reloj Inteligente Pulsera de Actividad...'
+sku: 'B07ZVBR5XQ-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

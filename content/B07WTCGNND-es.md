@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTCGNND-es TagoBee TB14 Pulsera Actividad Fitness Trackers IP68...'
+sku: 'B07WTCGNND-es'
 tags: [ 'android', ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2XQ2X1-es Batería Externa 25000mAh Power Bank Alta Capacidad con 2...'
+sku: 'B07P2XQ2X1-es'
 tags: [ 'android', ]
 actualPrice: 17.99 EUR
 currency: EUR

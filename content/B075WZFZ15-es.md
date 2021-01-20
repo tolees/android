@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WZFZ15-es Philips BT55A - Mini Altavoz Bluetooth inalámbrico...'
+sku: 'B075WZFZ15-es'
 tags: [ 'android', ]
 actualPrice: 13.15 EUR
 currency: EUR

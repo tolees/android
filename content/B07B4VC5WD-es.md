@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4VC5WD-es Sony Xperia XZ2 - Smartphone de 5.7" Octa-Core de 2.8 GHz...'
+sku: 'B07B4VC5WD-es'
 tags: [ 'android', ]
 actualPrice: 419.0 EUR
 currency: EUR

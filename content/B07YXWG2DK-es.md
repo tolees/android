@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXWG2DK-es 2020 Moviles Libres Baratos6.0’’ Pulgadas 4G Teléfono...'
+sku: 'B07YXWG2DK-es'
 tags: [ 'android', ]
 actualPrice: 69.88 EUR
 currency: EUR

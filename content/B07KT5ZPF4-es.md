@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KT5ZPF4-es Cable Lightning 3 en 1 iHaper Cable de Carga USB Cable de...'
+sku: 'B07KT5ZPF4-es'
 tags: [ 'android', ]
 actualPrice: 6.99 EUR
 currency: EUR

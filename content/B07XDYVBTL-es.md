@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDYVBTL-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pantalla...'
+sku: 'B07XDYVBTL-es'
 tags: [ 'android', ]
 actualPrice: 29.98 EUR
 currency: EUR

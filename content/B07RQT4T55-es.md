@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQT4T55-es Smartwatch Reloj Inteligente Impermeable IP68 Pulsera...'
+sku: 'B07RQT4T55-es'
 tags: [ 'android', ]
 actualPrice: 33.11 EUR
 currency: EUR

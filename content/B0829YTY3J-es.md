@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829YTY3J-es AVIWIS Cable USB Magnético Multi 3 en 1 Cable Magnetic de...'
+sku: 'B0829YTY3J-es'
 tags: [ 'android', ]
 actualPrice: 9.99 EUR
 currency: EUR

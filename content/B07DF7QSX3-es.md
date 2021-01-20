@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DF7QSX3-es Gigaset GS180 - Smartphone 5" SIM Doble 4G 2GB 16GB...'
+sku: 'B07DF7QSX3-es'
 tags: [ 'android', ]
 actualPrice: 83.99 EUR
 currency: EUR

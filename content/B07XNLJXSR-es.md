@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XNLJXSR-es Android 7.0 Nougat Tablet 10 Pulgadas con Ranuras para...'
+sku: 'B07XNLJXSR-es'
 tags: [ 'android', ]
 actualPrice: 64.59 EUR
 currency: EUR

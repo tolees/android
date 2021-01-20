@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKQHR7T-es Fiyapoo 4K Wireless Miracast Dongle 1080P Adaptador de TV...'
+sku: 'B08DKQHR7T-es'
 tags: [ 'android', ]
 actualPrice: 26.99 EUR
 currency: EUR

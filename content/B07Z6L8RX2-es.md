@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6L8RX2-es Oppo Reno 2 - Smartphone de 6.55" AMOLED 4G Dual Sim 8GB...'
+sku: 'B07Z6L8RX2-es'
 tags: [ 'android', ]
 actualPrice: 389.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYHSCX6-es Pritom Tablet para niños de 7 pulgadas | Quad Core Android...'
+sku: 'B07YYHSCX6-es'
 tags: [ 'android', ]
 actualPrice: 59.49 EUR
 currency: EUR

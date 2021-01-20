@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKVQHSP-es Xiaomi Mi 8 - Smartphone de 6.21" Octa-Core Kryo 2.8 GHz...'
+sku: 'B07GKVQHSP-es'
 tags: [ 'android', ]
 actualPrice: 453.1 EUR
 currency: EUR

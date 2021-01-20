@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKPQ381-es Willful Pulsera Actividad Pulsera Actividad Inteligente...'
+sku: 'B07NKPQ381-es'
 tags: [ 'android', ]
 actualPrice: 32.99 EUR
 currency: EUR

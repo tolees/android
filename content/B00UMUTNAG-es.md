@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UMUTNAG-es Yuntab Q88 A33 - Tablet de 7" WiFi Allwinner A33 1.5 GHz...'
+sku: 'B00UMUTNAG-es'
 tags: [ 'android', ]
 actualPrice: 53.99 EUR
 currency: EUR

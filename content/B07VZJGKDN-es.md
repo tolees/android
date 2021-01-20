@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZJGKDN-es Motorola Moto E6 Plus pantalla 6 1" max vision doble...'
+sku: 'B07VZJGKDN-es'
 tags: [ 'android', ]
 actualPrice: 119.9 EUR
 currency: EUR

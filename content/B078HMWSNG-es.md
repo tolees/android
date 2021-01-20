@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HMWSNG-es Yaufey Mini proyector proyector DLP inalámbrico portátil...'
+sku: 'B078HMWSNG-es'
 tags: [ 'android', ]
 actualPrice: 226.57 EUR
 currency: EUR

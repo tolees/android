@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGMGRH6-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
+sku: 'B07ZGMGRH6-es'
 tags: [ 'android', ]
 actualPrice: 55.99 EUR
 currency: EUR

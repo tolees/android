@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B12Y3TK-es Estación de Carga USB Multifunción con 4 Puertos Qi...'
+sku: 'B08B12Y3TK-es'
 tags: [ 'android', ]
 actualPrice: 18.99 EUR
 currency: EUR

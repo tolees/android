@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBFCMVZ-es HolyHigh Auriculares Bluetooth 5.0 Inalámbricos Deportivos...'
+sku: 'B07TBFCMVZ-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

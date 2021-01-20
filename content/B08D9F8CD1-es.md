@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D9F8CD1-es Blackview BV6300 Pro Móvil Libre Resistente Android 10...'
+sku: 'B08D9F8CD1-es'
 tags: [ 'android', ]
 actualPrice: 229.99 EUR
 currency: EUR

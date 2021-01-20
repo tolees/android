@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZ4KDHM-es 2019 Nuevo Toque Auriculares Bluetooth Auriculares...'
+sku: 'B07XZ4KDHM-es'
 tags: [ 'android', ]
 actualPrice: 59 EUR
 currency: EUR

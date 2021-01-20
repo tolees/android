@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J0RYDPQ-es Honor 8 - Smartphone Libre de 5.2" 4G WiFi Bluetooth Dual...'
+sku: 'B01J0RYDPQ-es'
 tags: [ 'android', ]
 actualPrice: 130.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKD6TCQ-es UMIDIGI A3 Pro Smartphone Libre Android 9.0 Pie Dual 4G...'
+sku: 'B07KKD6TCQ-es'
 tags: [ 'android', ]
 actualPrice: 94.99 EUR
 currency: EUR

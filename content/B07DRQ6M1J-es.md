@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRQ6M1J-es Enchufe Inteligente Wifi AISIRER Monitor de Energía...'
+sku: 'B07DRQ6M1J-es'
 tags: [ 'android', ]
 actualPrice: 24.99 EUR
 currency: EUR

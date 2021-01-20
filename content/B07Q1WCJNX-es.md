@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1WCJNX-es Huawei P30 - Smartphone de 6.1" Kirin 980 Octa-Core de...'
+sku: 'B07Q1WCJNX-es'
 tags: [ 'android', ]
 actualPrice: 385.0 EUR
 currency: EUR

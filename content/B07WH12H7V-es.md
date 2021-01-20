@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WH12H7V-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos - Mini...'
+sku: 'B07WH12H7V-es'
 tags: [ 'android', ]
 actualPrice: 16.99 EUR
 currency: EUR

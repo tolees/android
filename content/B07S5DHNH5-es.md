@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5DHNH5-es HalfSun Impermeable IP67 Smartwatch HD Color Screen...'
+sku: 'B07S5DHNH5-es'
 tags: [ 'android', ]
 actualPrice: 35.99 EUR
 currency: EUR

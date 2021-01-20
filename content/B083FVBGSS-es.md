@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FVBGSS-es Blackview® A80 Pro 2020 Teléfono Móvil Libres 4G Pantalla...'
+sku: 'B083FVBGSS-es'
 tags: [ 'android', ]
 actualPrice: 119.99 EUR
 currency: EUR

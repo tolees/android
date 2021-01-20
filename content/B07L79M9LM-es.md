@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L79M9LM-es Controlador de Juego móvil para PUBG 5 en 1 versión...'
+sku: 'B07L79M9LM-es'
 tags: [ 'android', ]
 actualPrice: 19.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0896HDDHT-es OPPO Find X2 PRO 5G – Smartphone de 6.7" OLED 12GB/512GB...'
+sku: 'B0896HDDHT-es'
 tags: [ 'android', ]
 actualPrice: 908.26 EUR
 currency: EUR

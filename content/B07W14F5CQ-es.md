@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W14F5CQ-es Blurams Snowman 1080p FHD Cámara de Vigilancia en Domo...'
+sku: 'B07W14F5CQ-es'
 tags: [ 'android', ]
 actualPrice: 36.0 EUR
 currency: EUR

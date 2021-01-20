@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2XQ22K-es Samsung Galaxy A9 Smartphone 4G Octa-Core Ram de 6 GB...'
+sku: 'B07K2XQ22K-es'
 tags: [ 'android', ]
 actualPrice: 359.9 EUR
 currency: EUR

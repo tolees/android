@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BG2QZVN-es Sami - Kids - Smartwatch Reloj Inteligente Infantil...'
+sku: 'B08BG2QZVN-es'
 tags: [ 'android', ]
 actualPrice: 32.4 EUR
 currency: EUR

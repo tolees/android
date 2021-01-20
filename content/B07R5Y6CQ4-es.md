@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5Y6CQ4-es Cámara Oculta inalámbrica con cámara Oculta de detección...'
+sku: 'B07R5Y6CQ4-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

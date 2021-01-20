@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNHDXCZ-es HOMSCAM Pulsera Inteligente Pulsera Actividad Impermeable...'
+sku: 'B07JNHDXCZ-es'
 tags: [ 'android', ]
 actualPrice: 35.99 EUR
 currency: EUR

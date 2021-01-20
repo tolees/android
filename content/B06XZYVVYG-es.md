@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XZYVVYG-es Energy Sistem Pro 3 - Smartphone Libre de 5.5 4G WiFi...'
+sku: 'B06XZYVVYG-es'
 tags: [ 'android', ]
 actualPrice: 143.18 EUR
 currency: EUR

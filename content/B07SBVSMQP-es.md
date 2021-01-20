@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVSMQP-es S&G Top Organizador para Asientos de Coches Organizador de...'
+sku: 'B07SBVSMQP-es'
 tags: [ 'android', ]
 actualPrice: 12.59 EUR
 currency: EUR

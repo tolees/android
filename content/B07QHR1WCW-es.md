@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHR1WCW-es Huyeta Smartwatch Reloj Inteligente 5ATM Impermeable...'
+sku: 'B07QHR1WCW-es'
 tags: [ 'android', ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LZWPKD-es Moviles Libres Baratos 4G Android 9.0 V·MOBILE M9 2019...'
+sku: 'B083LZWPKD-es'
 tags: [ 'android', ]
 actualPrice: 99.99 EUR
 currency: EUR

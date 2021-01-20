@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWVS3NC-es Tableta 10 Pulgadas LAMZIEN Android 8.1 Tablet Infantil...'
+sku: 'B07WWVS3NC-es'
 tags: [ 'android', ]
 actualPrice: 94.99 EUR
 currency: EUR

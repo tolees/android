@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1XJ5ZB-es Huawei P30 Pro - Smartphone de 6.47" Kirin 980 Octa-Core...'
+sku: 'B07Q1XJ5ZB-es'
 tags: [ 'android', ]
 actualPrice: 619.0 EUR
 currency: EUR

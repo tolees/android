@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S47ZTG9-es YESTEL Tablet para Niños 7 Pulgadas Android 8.1 Tableta...'
+sku: 'B07S47ZTG9-es'
 tags: [ 'android', ]
 actualPrice: 63.99 EUR
 currency: EUR

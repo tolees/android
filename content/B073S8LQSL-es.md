@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S8LQSL-es Tarjeta de Memoria SanDisk Ultra Android microSDHC UHS-I...'
+sku: 'B073S8LQSL-es'
 tags: [ 'android', ]
 actualPrice: 7.9 EUR
 currency: EUR

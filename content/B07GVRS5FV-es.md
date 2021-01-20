@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVRS5FV-es Xiaomi Mi MAX 3 - Smartphone DE 6.9" RAM de 4 GB Memoria...'
+sku: 'B07GVRS5FV-es'
 tags: [ 'android', ]
 actualPrice: 253.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P8MSAXY-es Hercules - Hercules Universal Dj - Controlador Dj - PC /...'
+sku: 'B00P8MSAXY-es'
 tags: [ 'android', ]
 actualPrice: 139.0 EUR
 currency: EUR

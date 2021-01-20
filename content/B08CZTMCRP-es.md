@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZTMCRP-es Eagle Smart Plug & Play - Convertidor de VHS a digital Hi8...'
+sku: 'B08CZTMCRP-es'
 tags: [ 'android', ]
 actualPrice: 20.99 EUR
 currency: EUR

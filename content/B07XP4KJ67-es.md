@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XP4KJ67-es DOOGEE S68 Pro Teléfono Móvil Todoterreno Helio P70 Octa...'
+sku: 'B07XP4KJ67-es'
 tags: [ 'android', ]
 actualPrice: 279.99 EUR
 currency: EUR

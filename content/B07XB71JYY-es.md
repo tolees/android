@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XB71JYY-es iPosible Batería Externa 26800mAh Power Bank Ultra...'
+sku: 'B07XB71JYY-es'
 tags: [ 'android', ]
 actualPrice: 20.01 EUR
 currency: EUR

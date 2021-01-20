@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G16JYLR-es Auricular Bluetooth V4.1 Magnético Auriculares Deportivos...'
+sku: 'B07G16JYLR-es'
 tags: [ 'android', ]
 actualPrice: 17.99 EUR
 currency: EUR

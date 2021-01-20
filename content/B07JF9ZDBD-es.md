@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JF9ZDBD-es Konesky Fitness Tracker Monitor de Ritmo cardíaco Pulsera...'
+sku: 'B07JF9ZDBD-es'
 tags: [ 'android', ]
 actualPrice: 13.99 EUR
 currency: EUR

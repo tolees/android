@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHC8BKG-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos con...'
+sku: 'B07ZHC8BKG-es'
 tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR

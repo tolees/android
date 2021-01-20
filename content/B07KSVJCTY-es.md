@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSVJCTY-es Tablet Android 9.0 de 10 Procesador de Cuatro núcleos 4GB...'
+sku: 'B07KSVJCTY-es'
 tags: [ 'android', ]
 actualPrice: 79.99 EUR
 currency: EUR

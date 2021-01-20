@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXQF162-es Samsung Galaxy Note10 Smartphone Dual SIM 8GB RAM 256GB...'
+sku: 'B07VXQF162-es'
 tags: [ 'android', ]
 actualPrice: 699.0 EUR
 currency: EUR

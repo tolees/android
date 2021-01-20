@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZCZ41P-es Joystick del Juego DOYO S501，Arcade Joysitck para SWITCH /...'
+sku: 'B07VZCZ41P-es'
 tags: [ 'android', ]
 actualPrice: 30.55 EUR
 currency: EUR

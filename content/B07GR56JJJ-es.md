@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GR56JJJ-es Energy eReader Pro 4 6" E-Ink Táctil Android Wi-Fi 8GB...'
+sku: 'B07GR56JJJ-es'
 tags: [ 'android', ]
 actualPrice: 95.78 EUR
 currency: EUR

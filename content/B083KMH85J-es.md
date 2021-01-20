@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KMH85J-es Reloj Inteligente Pulsómetro Pulsera de Actividad con...'
+sku: 'B083KMH85J-es'
 tags: [ 'android', ]
 actualPrice: 32.99 EUR
 currency: EUR

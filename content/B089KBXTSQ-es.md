@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KBXTSQ-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
+sku: 'B089KBXTSQ-es'
 tags: [ 'android', ]
 actualPrice: 14.99 EUR
 currency: EUR
