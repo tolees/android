@@ -26,10 +26,10 @@ Ahora mismo tienes [Sony MDR-AS210AP - Auriculares deportivos de botón con agar
 
 🔎:
 
-- Compatibilidad con los Smartphones Android y Apple iPhone, con mando de control y micrófono para la función manos libres
-- Cable con longitud de 1,2 m
 - Auriculares ligeros, 12 g de peso
 - Agarre alrededor del oído para una sujeción cómoda y sin molestias
+- Compatibilidad con los Smartphones Android y Apple iPhone, con mando de control y micrófono para la función manos libres
+- Cable con longitud de 1,2 m
 - Auriculares deportivos resistentes a salpicaduras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LD5GTS2/?tag=tolees-21)
