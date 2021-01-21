@@ -29,8 +29,8 @@ Ahora mismo tienes [Bascula de Baño  Báscula Inteligente Bluetooth Mpow Bá
 
 - ALTA PRECISIÓN Y ALTA CALIDAD - La bascula de baño tiene Certificación CE / FCC / ROHS, garantiza la precisión. Se puede medir en incrementos de 0.2 lb./0.05 kg con un máximo de 396lbs / 180kg. 4 electrodos sensibles, 3 pilas AAA incluidas.
 - SALUD PUEDE COMPARTIR EN FAMILIA - Se puede agregar 20 usuarios a una sola báscula grasa corporal, cuidando de la salud de la familia. Los recordatorios de medición de la aplicación te ayudan a mantenerte en forma.
-- 13 MEDIAS ESENCIALES - Bascula de baño con tecnología BIA para medir con precisión su información física incluyendo el Peso, BMI, Grasa corporal, Peso sin grasa, Grasa subcutánea, Grasa visceral, Agua corporal, Músculo esquelético, Masa muscular, Masa ósea, proteína, BMR, Edad metabólica.
 - PERMITE SEGUIMIENTO PARA AYUDARTE A PERDER PESO - Gracias a la conexión Bluetooth y el GPS del móvil permite generar gráficos para guiarte en el proceso de perder peso en un simple vistazo. También permite escoger tu peso objetivo, guiándote hacia tu cuerpo ideal gracias a la báscula digital.
 - COMPATIBILIDAD AMPLIA - La aplicación "Megafit" se sincroniza con Apple Health, Google Fit y Fitbit, registra automáticamente datos de salud reveladores, e progreso y las tendencias de salud se rastrean automáticamente a lo largo del tiempo. La báscula inteligente es compatible para el 4.3 / iOS 8.0 o posterior.
+- 13 MEDIAS ESENCIALES - Bascula de baño con tecnología BIA para medir con precisión su información física incluyendo el Peso, BMI, Grasa corporal, Peso sin grasa, Grasa subcutánea, Grasa visceral, Agua corporal, Músculo esquelético, Masa muscular, Masa ósea, proteína, BMR, Edad metabólica.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VZ4CYN2/?tag=tolees-21)
