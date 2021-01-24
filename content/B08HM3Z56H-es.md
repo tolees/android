@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto E7 Plus - 6.5" Max Vision  al 25.58 % de descuento'
-date: 2021-01-21 11:32:59
+date: 2021-01-24 01:21:58
 image: 'https://m.media-amazon.com/images/I/41tn7NWu0WL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08HM3Z56H/?tag=tolees-21'
 descuento: '25.58'
-average: '121.53'
+average: '121.3'
 ---
 
 Está [Motorola Moto E7 Plus - 6.5" Max Vision HD+  Qualcomm Snapdragon 460  48MP sistema de doble cámara  5000 mAH de batería  Dual SIM  4/64GB  Android 10 - Color Azul](https://www.amazon.es/dp/B08HM3Z56H/?tag=tolees-21) con 25.58 de descuento por 119.0 EUR (original: 159.9 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Motorola Moto E7 Plus - 6.5" Max Vision HD+  Qualcomm Snapdragon 460  48M
 ℹ️:
 
 - Cámara: Dual, 48MP+2MP
-- Procesador: Snapdragon 460 1.8GHz
-- Batería: 5000 mAh
 - Pantalla: 6.5", 720 x 1600 pixels
+- Batería: 5000 mAh
+- Procesador: Snapdragon 460 1.8GHz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HM3Z56H/?tag=tolees-21)
