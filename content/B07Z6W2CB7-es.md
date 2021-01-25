@@ -28,9 +28,9 @@ Ahora mismo tienes [OPPO A5 2020 – Pantalla de 6.5"  HD+  3 GB/ 64 GB  Snapdra
 🔎:
 
 - 3gb ram + 64gb rom
-- Pantalla waterdrop 6 5" hd+
-- Batería 5000mah + carga flash vooc
 - Cámara cuádruple (12mp + 8mp + 2mp + 2mp)
+- Batería 5000mah + carga flash vooc
 - Modo gaming (game boost 2 0) + dolby atmos + sonido estéreo
+- Pantalla waterdrop 6 5" hd+
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z6W2CB7/?tag=tolees-21)
