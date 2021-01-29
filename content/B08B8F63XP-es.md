@@ -27,10 +27,10 @@ En este momento está [Xiaomi Mi TV Stick Full HD  HDR HDMI Quad-Core DDR4  Blue
 
 🔎:
 
-- Asistente de Google: presione el botón del micrófono en su control remoto para acceder rápidamente al entretenimiento y obtener respuestas, control de voz con los dispositivos que funcionan con el asistente de Google, admite la mayoría de los dispositivos domésticos inteligentes Mi
-- Rápido e inteligente: Desarrollado por Android TV 9.0 para una funcionalidad superior, un sistema inteligente, una forma inteligente de ver.
-- Audio premium: DOLBY + DTS, preinstalación de Netflix y video Prime, acceso rápido con un botón, con Google Play Store, aplicaciones que te encantarán, desde Showtime hasta YouTube y muchos juegos
-- Portátil y simple: sin cable, fácil de quitar, nunca te pierdas un episodio cuando estés fuera de casa.
 - Smart Cast: Chromecast incorporado, transmita rápidamente fotos, videos, música y otros contenidos que ama desde su dispositivo favorito directamente a su televisor
+- Rápido e inteligente: Desarrollado por Android TV 9.0 para una funcionalidad superior, un sistema inteligente, una forma inteligente de ver.
+- Portátil y simple: sin cable, fácil de quitar, nunca te pierdas un episodio cuando estés fuera de casa.
+- Audio premium: DOLBY + DTS, preinstalación de Netflix y video Prime, acceso rápido con un botón, con Google Play Store, aplicaciones que te encantarán, desde Showtime hasta YouTube y muchos juegos
+- Asistente de Google: presione el botón del micrófono en su control remoto para acceder rápidamente al entretenimiento y obtener respuestas, control de voz con los dispositivos que funcionan con el asistente de Google, admite la mayoría de los dispositivos domésticos inteligentes Mi
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B8F63XP/?tag=tolees-21)
