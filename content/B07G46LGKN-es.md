@@ -27,11 +27,11 @@ Está [HUAWEI MediaPad T5 - Tablet de 10.1" FullHD  Wifi  RAM de 3GB  ROM de 32G
 
 ℹ️:
 
+- Procesador Octa-Core y altavoces estéreo duales
+- 3GB RAM, 32GB almacenamiento, batería de larga duración con 5100 mAh
 - Cuerpo metálico, diseño elegante, 460g, 7.8MM
 - Sistema Operativo Android 8.0+ EMUI 8.0
-- No incluye ranura para tarjeta SIM
-- Procesador Octa-Core y altavoces estéreo duales
 - Pantalla táctil IPS de 10.1 pulgadas FullHD, con una resolución de 1920x1200 pixeles, pantalla de 224 PPI, Relación de aspecto de 16:10
-- 3GB RAM, 32GB almacenamiento, batería de larga duración con 5100 mAh
+- No incluye ranura para tarjeta SIM
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G46LGKN/?tag=tolees-21)
