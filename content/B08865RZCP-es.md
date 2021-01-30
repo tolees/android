@@ -16,6 +16,7 @@ comparePrice: 379.96 EUR
 prodname: '4G Tablets 10.1Pulgadas Android 9.0 Pie  Certificación Google GMS  2 en1 Tablet con Teclado 4GB RAM +64GB/128 ROM  Type-C 8000mAh 5MP+8MP Tablet PC Quad Core Dual SIM Bluetooth/ Netflix Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08865RZCP/?tag=tolees-21'
 descuento: '73.68'
 average: '99.99'

@@ -16,6 +16,7 @@ comparePrice: 52.13 EUR
 prodname: 'Transmisor FM Bluetooth para Coche  Manoslibres y Asistente de Voz para Vehículos Música Bluetooth Coche Reproductor MP3 Adaptador Radio Coche  Cargador QC3.0 USB Compatible para iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9S7D2B/?tag=tolees-21'
 descuento: '56.82'
 average: '22.51'

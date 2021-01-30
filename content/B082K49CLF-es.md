@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: '2020 Auricular Bluetooth inalámbrico cancelación de Ruido  Mini Auricular Bluetooth Interno de 15 Horas para Android iOS # F4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082K49CLF/?tag=tolees-21'
 descuento: '41.78'
 average: '45.99'

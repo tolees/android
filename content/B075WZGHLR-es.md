@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Philips Audio BT55W/00 - Mini Altavoz Bluetooth Inalámbrico Portátil  Compatible con Smartphones  iPhone  Android y Tablet  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WZGHLR/?tag=tolees-21'
 descuento: '58.32'
 average: '11.225'

@@ -16,6 +16,7 @@ comparePrice: 40.5 EUR
 prodname: 'Sami - Kids - Smartwatch  Reloj Inteligente Infantil  Smartband  Pulsera de Actividad Deportiva. para Android y iOS. WiFi Número SOS GPS Función Valla Cámara y Escucha Remota Multideportivo. Azul.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BG2QZVN/?tag=tolees-21'
 descuento: '20.00'
 average: '32.4'

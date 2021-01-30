@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ETEKCITY Pulsera de Actividad Inteligente Impermeable IP68 con 14 Modos de Deporte  Pulsera Deporte con Pulsómetro  Sueño  Podómetro para Mujer Hombre Mayores  Arterial Reloj para Android y iOS Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XG6SDDT/?tag=tolees-21'
 descuento: '30.01'
 average: '34.99'

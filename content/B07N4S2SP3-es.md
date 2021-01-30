@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Motorola Moto G7 Power – Smartphone Android 9  pantalla 6.2   HD+ Max Vision  cámaras 12MP y 8MP  4GB de RAM  64 GB  Dual SIM   color violeta hielo [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4S2SP3/?tag=tolees-21'
 descuento: '28.71'
 average: '155.51083333333335'

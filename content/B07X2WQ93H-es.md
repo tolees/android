@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Palm PVG100 - Smartphone de 3.3"  4G  RAM de 3 GB  Memoria de 32 GB  cámara de 12 MP  Android 8.0 Oreo  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2WQ93H/?tag=tolees-21'
 descuento: '22.64'
 average: '270.0'

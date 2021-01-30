@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Tableta 10 Pulgadas LAMZIEN Android 8.1 Tablet Infantil 2GB RAM y 32GB ROM Quad-Core 1.8Ghz 3G Dual-Sim Wifi  Bluetooth Cámara Dual Google Play Juegos Educativos Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWVS3NC/?tag=tolees-21'
 descuento: '36.67'
 average: '94.99'

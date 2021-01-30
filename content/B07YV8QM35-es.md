@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Maegoo Auriculares Inalámbricos Bluetooth 5.0  Auriculares Bluetooth Mini TWS con Cancelación Ruido con Estuche Carga 24H Playtime Auriculares Deportivos para iPhone y Android Teléfonos  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YV8QM35/?tag=tolees-21'
 descuento: '61.44'
 average: '26.99'

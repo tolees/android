@@ -16,6 +16,7 @@ comparePrice: 12.09 EUR
 prodname: 'Ajcoflt Smartwatch  Un Reloj Deportivo Inteligente para Controlar La Frecuencia CardíAca Y El SueñO  Pulsera PodóMetro Impermeable Ip67  Medidor De CaloríAs  Compatible con Sistemas iOS Y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GN686ZM/?tag=tolees-21'
 descuento: '25.72'
 average: '11.466000000000001'

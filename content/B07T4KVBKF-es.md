@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'SSD 250GB Portátil  TOPESEL Disco Estado Sólido Externo Solid State Drive  USB 3.1 Tipo C Alta Velocidad 500MB/s  Ultra Delgado SSD Externo para Portátil MacBook Android Huawei Tipo C  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4KVBKF/?tag=tolees-21'
 descuento: '15.00'
 average: '58.64'

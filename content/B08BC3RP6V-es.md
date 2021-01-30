@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Moviles Libres 4G  Blackview A80 Smartphone Libre Android 10 GO con Cámara Trasera Cuádruple 13MP  6.21" HD+ Water-Drop Screen  2GB+16GB  SD 128GB   Batería 4200mAh Teléfono Móvil Libre  Face ID-Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BC3RP6V/?tag=tolees-21'
 descuento: '27.28'
 average: '79.99'

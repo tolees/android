@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'GRDE Smartwatch  Reloj Inteligente Impermeable IP68 con Monitor Sueño Pulsómetros Caloría Podómetro Operación con un Clic Deportivo Fitness Smartwatch Reloj Inteligente Mujer Hombre para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HB1RGR/?tag=tolees-21'
 descuento: '58.90'
 average: '36.99'

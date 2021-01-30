@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Smartwatch  Reloj Inteligente Impermeable con GPS Monitor de Ritmo Cardíaco Podómetro Cronómetro Pulsera Actividad de Fitness con Podómetro Smart Watch Mujer Hombre niños para iOS y Android  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PHDWWN/?tag=tolees-21'
 descuento: '99.69'
 average: '0.11'

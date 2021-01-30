@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Altavoz Bluetooth Portátil IP67 Impermeable Estéreo Altavoces Inalámbrico Bajo 360°Sonido Estéreo HD Construido en Micrófono Altavoz Inalámbrico Portátil Llamadas Manos Libres para iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZRVY84/?tag=tolees-21'
 descuento: '65.32'
 average: '25.59'

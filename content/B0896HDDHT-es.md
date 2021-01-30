@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'OPPO Find X2 PRO 5G – Smartphone de 6.7"  OLED  12GB/512GB  Octa-core  cámara trasera 48MP+48MP+13MP  cámara frontal 32MP  4.260 mAh  Android 10  Snapdragon 865  Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0896HDDHT/?tag=tolees-21'
 descuento: '24.25'
 average: '908.26'

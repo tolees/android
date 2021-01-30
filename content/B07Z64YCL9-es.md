@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Orit Auriculares Inalambricos Deportivos Auriculares Bluetooth 5.0 Impermeable 45H de Autonomía Auriculares Inalámbricos con Caja de Carga Micrófono para Correr  Gimnasio  Deporte para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z64YCL9/?tag=tolees-21'
 descuento: '26.11'
 average: '33.98'

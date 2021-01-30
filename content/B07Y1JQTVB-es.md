@@ -16,6 +16,7 @@ comparePrice: 119.98 EUR
 prodname: 'Tableta 10.1 Pulgadas Pantalla HD IPS Android 9.0 - Tablet 4G con Teclado 2 Ranuras para Tarjetas SIM 3GB RAM 32GB de Memoria Quad Core Batería 8000mAh - Soporte Netflix  WiFi  Bluetooth  GPS  OTG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1JQTVB/?tag=tolees-21'
 descuento: '26.68'
 average: '87.84499999999998'

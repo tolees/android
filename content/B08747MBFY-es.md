@@ -16,6 +16,7 @@ comparePrice: 39.47 EUR
 prodname: 'Smartwatch  Reloj Inteligente Pantalla curva Impermeable IP68 Pulsera de Actividad para Hombres y Mujeres  Inteligente con Pulsómetros Podómetro Contador de Caloría con Cronómetro para iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08747MBFY/?tag=tolees-21'
 descuento: '24.02'
 average: '29.99'

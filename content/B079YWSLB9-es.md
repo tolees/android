@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Samsung SM-G960F/DS Smartphone Samsung Galaxy S9  5.8"  Wi-Fi  Bluetooth 64 GB de ROM  4 GB RAM  Dual SIM  12 MP  Android 8.0 Oreo   Negro - otra versión internacional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YWSLB9/?tag=tolees-21'
 descuento: '22.37'
 average: '468.25'

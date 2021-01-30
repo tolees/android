@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: '2019 Nuevo Altavoz Bluetooth portátil  Altavoz Bluetooth a Prueba de Agua con reproducción de 6 h  Potente Sonido HD  Ventosa y Gancho Fuerte  Compatible con iOS  Android  PC  Almohadilla  Black-3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081ZZY6QQ/?tag=tolees-21'
 descuento: '32.22'
 average: '39.99'

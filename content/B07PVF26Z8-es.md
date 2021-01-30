@@ -16,6 +16,7 @@ comparePrice: 929.0 EUR
 prodname: 'Huawei P30 Pro 16 4 cm  6.47"  8 GB 256 GB Ranura híbrida Dual SIM 4G Negro 4200 mAh - Smartphone  16 4 cm  6.47"   8 GB  256 GB  40 MP  Android 9.0  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVF26Z8/?tag=tolees-21'
 descuento: '31.11'
 average: '653.5408333333334'

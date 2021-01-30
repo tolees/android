@@ -16,6 +16,7 @@ comparePrice: 325.99 EUR
 prodname: 'Samsung Galagy Tab A - Tablet de 10.1" FullHD  Wifi + 4G  Procesador Octa-core  3 GB de RAM  64 GB de almacenamiento  Android actualizable  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QR9ZH9C/?tag=tolees-21'
 descuento: '24.20'
 average: '273.40333333333336'

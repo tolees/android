@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'AIMIUVEI Smartwatch  Reloj Inteligente Mujer Hombre IP67 con Pulsómetro  1.4 Inch Smartwatch Presión Arterial Monitor de Sueño GPS Podómetro Pulsera Actividad Inteligente Compatible con iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZKRPP5/?tag=tolees-21'
 descuento: '23.34'
 average: '45.99'

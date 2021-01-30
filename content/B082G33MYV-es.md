@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LOZAYI Pulsera de Actividad  Pulsera Actividad Inteligente  IP67  Reloj Inteligente para Mujer y Hombre  con Pulsómetro  Blood Pressure  Monitor de Sueño  Podómetro  para Android y iOS Teléfono Móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082G33MYV/?tag=tolees-21'
 descuento: '54.03'
 average: '26.40857142857143'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Lenovo Tab E10  Tablet HD  Procesador Qualcomm APQ8009  2GB de RAM  16GB de Almacenamiento  WiFi + Bluetooth   USB  Adreno 304  Android 8.1  10.1"  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBWXD4S/?tag=tolees-21'
 descuento: '23.26'
 average: '102.52'

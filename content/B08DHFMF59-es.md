@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'T-ZORE Auriculares inalámbricos Bluetooth 5.0 Auriculares intrauditivos Auriculares Deportivos IPX5 Sonido de Alta fidelidad con Estuche de Carga portátil para Airpod Android iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DHFMF59/?tag=tolees-21'
 descuento: '56.01'
 average: '43.99'

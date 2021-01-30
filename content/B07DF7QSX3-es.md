@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Gigaset GS180 - Smartphone 5" SIM Doble 4G 2GB 16GB 3000mAh Champán - Smartphone  12 7 cm  5"   2 GB  16 GB  13 MP  Android 8.1  Champán '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DF7QSX3/?tag=tolees-21'
 descuento: '43.63'
 average: '83.99'

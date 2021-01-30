@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Plata [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDRGLXM/?tag=tolees-21'
 descuento: '25.50'
 average: '263.42666666666673'

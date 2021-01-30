@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Vigorun Smartwatch Reloj Inteligente Hombre Mujer  Pantalla Táctil Completa Relojes Deportivos  Monitor Ritmo Cardíaco y Sueño  Podómetro  5 ATM Impermeable Pulsera Actividad Inteligente Android Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087R2P3RT/?tag=tolees-21'
 descuento: '16.67'
 average: '49.99'

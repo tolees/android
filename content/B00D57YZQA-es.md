@@ -16,6 +16,7 @@ comparePrice: 1699.0 EUR
 prodname: 'OPPO Find X Lamborghini - Smartphone Libre Android 8.1  Pantalla de 6 7" Panoramic ARC; 6 4" Full HD Cámara 3D de 25MP'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D57YZQA/?tag=tolees-21'
 descuento: '43.03'
 average: '985.2425'

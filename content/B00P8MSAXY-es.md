@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Hercules - Hercules Universal Dj - Controlador Dj - PC / Mac / Tablets - Controlador Versatíl para Mezclar Desde Todos Tus Dispositivos  Android  IOS  PC y Mac  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P8MSAXY/?tag=tolees-21'
 descuento: '30.50'
 average: '135.66666666666666'

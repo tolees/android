@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Alcatel 1 - Smartphone de 5"  Quad-Core 1.28 MT6739  RAM de 1 GB  memoria de 8 GB  cámara de 5 MP  Android 8.0 GO   negro metálico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC8S8L7/?tag=tolees-21'
 descuento: '21.53'
 average: '54.92'

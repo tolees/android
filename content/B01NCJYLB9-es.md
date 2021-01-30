@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'My Way MWWFD009 - Disco Duro USB para iOS y Android  WiFi  64 GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCJYLB9/?tag=tolees-21'
 descuento: '44.50'
 average: '31.728'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Pulsera de Actividad Reloj Inteligente Impermeable IP68 con 14 Modos de Deporte Pulsera Inteligente con Pulsómetro  Blood Pressure  Sueño Podómetro Pulsera Deporte para Android y iOS Teléfono móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJC52FG/?tag=tolees-21'
 descuento: '26.09'
 average: '33.99'

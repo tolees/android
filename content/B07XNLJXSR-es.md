@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'Android 7.0 Nougat Tablet 10 Pulgadas con Ranuras para Tarjetas Dual Sim Quad Core 3G Teléfono Desbloqueado Tablet 4GB RAM 64GB ROM WiFi Incorporado Bluetooth GPS  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNLJXSR/?tag=tolees-21'
 descuento: '15.00'
 average: '73.13999999999999'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'HolyHigh Auriculares Inalambricos Bluetooth 5.0 Auriculares Bluetooth 48H de Reproducción Mini Cascos Bluetooth IPX5 Impermeable con Mic CVC 8.0 Cancelación de Ruido iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBZGJQV/?tag=tolees-21'
 descuento: '47.15'
 average: '33.1125'

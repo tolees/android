@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Smartphone Libre 4G  1GB +16GB Cámara 5MP+13MP Batería 3800mAh Android 7.0 Dual SIM Bluetooth/GPS/WiFi  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081C92ZLS/?tag=tolees-21'
 descuento: '16.68'
 average: '49.99'

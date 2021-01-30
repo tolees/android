@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'Go-Tcha Evolve LED-Touch Wristband Watch For Pokemon Go with Auto Catch and Spin - Black/Red  Android  [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7CW9QY/?tag=tolees-21'
 descuento: '25.10'
 average: '34.38'

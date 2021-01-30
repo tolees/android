@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TedGem Webcam  Full HD Webcam 4K/1080P Streaming Cámara Web con Micrófono USB Webcam para Video Chat y Grabación  Gaming  Pequeña  Flexible y Ajustable  Compatible con Windows  Android  Linux'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFSP87B/?tag=tolees-21'
 descuento: '15.01'
 average: '30.23444444444445'

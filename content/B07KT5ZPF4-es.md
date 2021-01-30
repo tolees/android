@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Cable Lightning 3 en 1  iHaper Cable de Carga USB Cable de sincronización de Datos de 1 m para iPhone 11 Pro MAX/X/XR/XS Max/8/7 Plus/6/6S Plus  iPad  y Dispositivos Micro Android  Samsung y Huawei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KT5ZPF4/?tag=tolees-21'
 descuento: '58.86'
 average: '9.489999999999998'

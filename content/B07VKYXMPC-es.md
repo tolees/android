@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Moviles Baratos y buenos 4G  J3 16GB ROM 5.0" HD Android 7.0 Smartphone Libres Batería 2800mAh Cámara 5 MP Dual SIM - Moviles Libres Baratos 4G  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKYXMPC/?tag=tolees-21'
 descuento: '18.04'
 average: '49.99'

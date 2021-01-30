@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Auriculares Inalambricos Bluetooth con Micrófono HiFi Estéreo Mini In-Ear Auriculares Impermeable Control Táctil con Tipo-C Cables y Caja de Carga Portátil para iPhone Android y Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HMRX4JQ/?tag=tolees-21'
 descuento: '44.84'
 average: '15.99'

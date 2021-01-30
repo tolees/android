@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'Controlador de Juego móvil para PUBG 5 en 1 versión Mejorada Gamepad Shoot y Aim Trigger Phone Cooling Pad Power Bank para Android y iOS Fortnite/Knives out'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L79M9LM/?tag=tolees-21'
 descuento: '23.09'
 average: '22.735'

@@ -16,6 +16,7 @@ comparePrice: 21.58 EUR
 prodname: 'Baoblaze 1 pc Smartwatch Reloj Digital Mano Unisex Muñequera Actividad Física Ritmo Cardiaco Podómetro Impermeable para Android Dispositivos iOS - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G27RXB2/?tag=tolees-21'
 descuento: '44.44'
 average: '13.967500000000001'

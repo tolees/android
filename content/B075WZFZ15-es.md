@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Philips BT55A - Mini Altavoz Bluetooth inalámbrico portatil  Compatible con Smartphones  iPhone  Android y Tablet  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WZFZ15/?tag=tolees-21'
 descuento: '56.15'
 average: '13.15'

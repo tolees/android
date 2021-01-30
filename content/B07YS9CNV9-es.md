@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: '2019 Auriculares Bluetooth  5.0 Auriculares inalámbricos Bluetooth co cancelación de Ruido de Micrófono estéreo en la Oreja para iOS Android Sports'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YS9CNV9/?tag=tolees-21'
 descuento: '64.06'
 average: '37.49166666666667'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'TedGem Webcam  Web CAM  Webcam 1080p Camara Web  Webcam Full HD con Micrófono para Videollamadas  Webcam para Windows  Android  Linux'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088MFLG7Z/?tag=tolees-21'
 descuento: '15.01'
 average: '23.115'

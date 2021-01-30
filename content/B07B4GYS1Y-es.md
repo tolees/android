@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Lenovo TAB10 - Tablet de 10.1" HD  Procesador Qualcomm Snapdragon 210  2GB de RAM  16GB de eMCP  Camara frontal de 5MP  SO Android 6.0  WiFi + Bluetooth 4.0  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4GYS1Y/?tag=tolees-21'
 descuento: '19.47'
 average: '101.282'

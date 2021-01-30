@@ -16,6 +16,7 @@ comparePrice: 28.31 EUR
 prodname: 'Adoric Báscula Diagnóstico Digital Inalámbrico para iOS y Android  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RK39PX/?tag=tolees-21'
 descuento: '26.39'
 average: '23.39'

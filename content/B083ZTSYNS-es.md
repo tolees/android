@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Moviles Libres  DOOGEE X95 Smartphone Libre 2020  6.52 Pulgadas 19.5:9 HD+ Pantalla 4G Telefonos  4350mAh  13MP+2MP+2MP+5MP  Android 10.0 Smartphone  16GB ROM 128GB SD  Dual SIM Face ID  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZTSYNS/?tag=tolees-21'
 descuento: '27.28'
 average: '79.99'

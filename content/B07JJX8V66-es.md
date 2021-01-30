@@ -16,6 +16,7 @@ comparePrice: 66.29 EUR
 prodname: 'QINTAIX 2.4G Teclado de ratón de Aire Remoto I63 inalámbrico Mini Teclado retroiluminación con función de Aprendizaje IR Fly Air Mouse para Android TV Box/PC/TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJX8V66/?tag=tolees-21'
 descuento: '56.27'
 average: '28.99'

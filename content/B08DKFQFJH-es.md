@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ratón Bluetooth  Ratón inalámbrico Bluetooth recargable silencioso de tres modos  BT5.0/ 3.0 + 2.4G inalámbrico   Ratón de viaje portátil 1600DPI para computadora portátil  Android  Windows MacBook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DKFQFJH/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

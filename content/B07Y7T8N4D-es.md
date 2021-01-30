@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tablet 10 Pulgadas 4G LTE Dual Sim - TOSCIDO Android 9.0 Certificado por Google GMS  Quad Core 64GM ROM 4GB RAM Doble Altavoz Estéreo WiFi/Bluetooth/GPS/OTG - Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7T8N4D/?tag=tolees-21'
 descuento: '51.77'
 average: '95.98'

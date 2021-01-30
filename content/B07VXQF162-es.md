@@ -16,6 +16,7 @@ comparePrice: 959.0 EUR
 prodname: 'Samsung Galaxy Note10  Smartphone  Dual SIM  8GB RAM  256GB Memoria  10 MP Dual Pixel AF   Android  256GB  Brillante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXQF162/?tag=tolees-21'
 descuento: '27.11'
 average: '718.0924489795918'

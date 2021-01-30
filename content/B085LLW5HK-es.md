@@ -16,6 +16,7 @@ comparePrice: 19.8 EUR
 prodname: 'MKTOSASA - Auriculares intraurales inalámbricos Bluetooth® 5.0  función Manos Libres y Caja de Carga a Juego para iOS y Android - 4.5x6.8x2.2 Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LLW5HK/?tag=tolees-21'
 descuento: '19.95'
 average: '15.85'

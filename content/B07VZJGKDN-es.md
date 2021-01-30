@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Motorola Moto E6 Plus  pantalla 6 1" max vision  doble cámara de 13 MP  64GB/4 GB  Android 9.0  Dual SIM  Gris Gunmetal + Funda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZJGKDN/?tag=tolees-21'
 descuento: '24.59'
 average: '120.810625'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Altavoz Bluetooth Portátil 5.0  Axloie Altavoz Inalámbrico con HD Sonido Estéreo 12 Horas de Reproducción Micrófono Incorporado Manos Libres Llamada y USB/TF Tarjeta/Conexión AUX para iPhone y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH4ZFPP/?tag=tolees-21'
 descuento: '66.69'
 average: '13.99'

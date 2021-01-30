@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Pioneer Club 5 Altavoz de Bluetooth  LED Iluminación  Voice Control  USB para reproducción de MP3  iPhone iOS y Android  App  2X 60 Watt RMS  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JPMC9H2/?tag=tolees-21'
 descuento: '49.88'
 average: '199.99'

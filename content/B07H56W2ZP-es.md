@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'TOUMEI Mini Proyector  Proyector Portátil Android 7.1 DLP Video Proyector 100ASIN Lúmenes  Soporte 1080P/ HDMI/ WiFi/ Bluetooth/ USB/ TF Tarjeta/ TV Stick  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H56W2ZP/?tag=tolees-21'
 descuento: '30.10'
 average: '209.0'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'RAMPOW Cable Micro USB 2 4A Carga Rápida [2 Pack] - Garantía De por Vida - Nylón Trenzado Cable USB Compatible con Android  Samsung Galaxy  Kindle  Sony  Nexus  Motorola y más - 1M Gris Espacia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A8IEG2G/?tag=tolees-21'
 descuento: '39.31'
 average: '8.34'

@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'Blukar Auriculares In Ear  Auriculares con Cable y Micrófono Headphone Sonido Estéreo para iPhone  Samsung  Huawei  XiaoMi  PC  MP3/MP4 Android y Todos los Dispositivos de Auriculares de 3 5 mm Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HYXRHG/?tag=tolees-21'
 descuento: '15.89'
 average: '10.59'

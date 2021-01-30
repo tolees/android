@@ -16,6 +16,7 @@ comparePrice: 874.58 EUR
 prodname: 'Huawei P9 Plus - Smartphone de 5.5"  Bluetooth 4.2  4 GB RAM  Memoria Interna de 64 GB  cámara 12 MP  Android 6.0 Marshmallow   Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWEG21G/?tag=tolees-21'
 descuento: '78.17'
 average: '226.48'

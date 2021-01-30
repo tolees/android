@@ -16,6 +16,7 @@ comparePrice: 24.65 EUR
 prodname: 'Q88 7 "Tablet para niños 1G + 8GB A33 Quad Core 0.3MP Cámara Dual 1024 * 600 Android 4.4 Tablet PC con Cubierta de Silicona Enchufe de la UE - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRHZX2V/?tag=tolees-21'
 descuento: '33.51'
 average: '16.39'

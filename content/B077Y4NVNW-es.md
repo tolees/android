@@ -16,6 +16,7 @@ comparePrice: 209 EUR
 prodname: 'Xiaomi Mi A1 - Smartphone libre de 5.5"  4G  WiFi  Bluetooth  Snapdragon 625 Octa Core  32 GB  4 GB de RAM  Android One   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y4NVNW/?tag=tolees-21'
 descuento: '18.67'
 average: '169.99'

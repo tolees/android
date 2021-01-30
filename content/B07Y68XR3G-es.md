@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: '【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth 5.0  Auriculares Bluetooth Deportivos IPX5 Impermeable  15H Autonomía Auriculares con Micrófonos Dual para iOS Android Sport BlackC25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y68XR3G/?tag=tolees-21'
 descuento: '55.07'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Radio 2 DIN Android  Auto Head Unit 1 + 16G Pantalla táctil de 9"para VW in Dash 2 DIN Car Radio Soporte Bluetooth  WiFi  FM  Video  Cámara de Respaldo  GPS  Mirror Link  Controles del Volante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DD7DWYK/?tag=tolees-21'
 descuento: '33.53'
 average: '118.99'

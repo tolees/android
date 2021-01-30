@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Alcatel 3  2019  smartphone  pantalla 5 94"  4GB RAM  64GB memoria interna  Dual SIM  doble cámara frontal 13 Mpx + 5 Mpx  cámara selfie 8 Mpx  batería 3.500 mAh  Android   Negro y Azul.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S12RQT2/?tag=tolees-21'
 descuento: '15.26'
 average: '160.99'

@@ -16,6 +16,7 @@ comparePrice: 62.33 EUR
 prodname: 'Nuevo P35 Pro 6.3 Pantalla de Pulgadas Teléfono Android 1GB + 16GB Cámara WiFi GPS Teléfono móvil Ten Core 4G Teléfono Inteligente-Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F3K9HM7/?tag=tolees-21'
 descuento: '33.50'
 average: '41.45'

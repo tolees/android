@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Campark Webcam PC 1080P Full HD con Micrófono Estéreo  USB 2.0 Plug & Play  Ideal para Videollamadas y Videoconferencias con Reducción de Ruido. Compatible con Windows  Mac y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C7CT1Y6/?tag=tolees-21'
 descuento: '15.00'
 average: '38.99'

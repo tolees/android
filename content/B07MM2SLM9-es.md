@@ -16,6 +16,7 @@ comparePrice: 202.3 EUR
 prodname: 'Huawei Y7 2019 - Smartphone de 6.26"  RAM de 3 GB  Memoria de 32 GB  Dual Nano  4000 mAh  Cámara de 13 MP  Android 9  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM2SLM9/?tag=tolees-21'
 descuento: '34.75'
 average: '131.055'

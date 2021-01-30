@@ -16,6 +16,7 @@ comparePrice: 189.49 EUR
 prodname: 'TECLAST Tablet PC Android M8 Pantalla 2.5K de 8.4’’ 3GB+32GB 2560*1600 Protección Ocular Cámara de Sonido Dulce 8h Reproducción de Video Mali-T760 Graphics Processor A63 Expansión TF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WX6RT89/?tag=tolees-21'
 descuento: '47.23'
 average: '106.86500000000001'

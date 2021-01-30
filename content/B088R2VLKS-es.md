@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Yobuno Webcam con micrófono 1080P Full HD  Cámara Web USB para videollamadas  Estudio  Conferencia  grabación  diseño Plegable y Giratorio de 360 °  Compatible con Windows  Mac y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088R2VLKS/?tag=tolees-21'
 descuento: '40.01'
 average: '22.79'

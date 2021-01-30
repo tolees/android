@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Pritom Tablet para niños de 7 pulgadas | Quad Core Android  1GB RAM + 16GB ROM | WiFi | Educación  juegos  control parental  software para niños preinstalado con estuche para tableta para niños  azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYHSCX6/?tag=tolees-21'
 descuento: '15.00'
 average: '59.49'

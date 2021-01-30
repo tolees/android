@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'Smartphone Libres 32GB ROM 3GB RAM Android 7 Quad Core Ofertas del Dia Face ID V mobile XS Pro Moviles Libres 5.85  HD+ 19:9 3G+ Dual Cámara 13MP 5MP Batería 3800mAh  Azul Aurora '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSHJJ9L/?tag=tolees-21'
 descuento: '17.44'
 average: '89.99'

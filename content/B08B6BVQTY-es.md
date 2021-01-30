@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Disco U teléfono móvil Disco Flash USB 3.0 para Apple Android Doble Uso Tres en uno Disco OTG Giratorio Metal U Disco de Memoria 16G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B6BVQTY/?tag=tolees-21'
 descuento: '33.33'
 average: '22.66'

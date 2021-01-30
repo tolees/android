@@ -16,6 +16,7 @@ comparePrice: 67.48 EUR
 prodname: 'Auriculares inalámbricos Tribit FlyBuds 1 Auriculares Bluetooth 5.0 IPX8 a Prueba de Agua. Carga inalámbrica USB-C Sonido Estéreo Deep Bass 36H Tiempo de reproducción Compatible con iPhone y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086BLN6XC/?tag=tolees-21'
 descuento: '33.33'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 325.99 EUR
 prodname: 'Samsung Galaxy Tab A - Tablet de 10.1" Full HD  Wifi + 4G  Procesador Octa-Core  Android Actualizable   3 GB RAM / 64 GB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRB82BK/?tag=tolees-21'
 descuento: '23.62'
 average: '277.5136363636363'

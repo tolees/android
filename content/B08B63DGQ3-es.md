@@ -16,6 +16,7 @@ comparePrice: 9.06 EUR
 prodname: 'Longspeed Universal C6 Pulsera Inteligente Multifuncional OLED Pantalla de 0 69 Pulgadas 4.0 Pulsera Sleep Track para Android - Negro y Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B63DGQ3/?tag=tolees-21'
 descuento: '34.99'
 average: '5.89'

@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'J5 Smartphone Libre 2019 Android 9.0 Teléfono móvil 3G sin contactos Dual Sim + Ranura TF Card 5 5 Pulgadas 16GB ROM 2GB RAM Quad-Core Procesador WiFi GPS 2800mAh CUBOT Oficial Color Aurora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYWWBZM/?tag=tolees-21'
 descuento: '15.00'
 average: '60.6275'

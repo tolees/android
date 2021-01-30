@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Inalámbricos Bluetooth Auriculares Bluetooth con Micrófono Estéreo para Deporte  Cargador de Manos Libres portátil Mini Auriculares Bluetooth para IOS Samsung Xiaomi Smartphone Android （For Prime Day）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2SDC15/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

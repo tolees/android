@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: '2020 Moviles Libres Baratos6.0’’ Pulgadas 4G Teléfono Móvil Libre 3GB RAM 16GB ROM Android 8.1 Moviles Barats y Buenos Quad-Core 4800mAh Batería Dual SIM 8MP Cámara Face ID（Púrpura）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXWG2DK/?tag=tolees-21'
 descuento: '30.11'
 average: '69.88'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Auriculares Bluetooth 5.0  Amazco XG-13 Auriculares Inalámbricos HD Micrófono Estéreo In-Ear Auriculares Deportivo con Caja de Carga Portátil y Micrófono Integrado Compatible con iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBTPMYH/?tag=tolees-21'
 descuento: '23.51'
 average: '18.57869565217391'

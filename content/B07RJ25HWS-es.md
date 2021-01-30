@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: '7 Pulgadas Android Oreo 8.1OS 1G RAM 16G ROM Tablet PC 1024x600 IPS Resolución WiFi Bluetooth Dual-Camera Cheap for Kids - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJ25HWS/?tag=tolees-21'
 descuento: '63.01'
 average: '39.656666666666666'

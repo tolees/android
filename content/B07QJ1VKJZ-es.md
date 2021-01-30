@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'WIKO View3 Lite - Smartphone de 6 09” HD+ IPS  Cámara Dual  4000mAh para 2 días de autonomía  Octa-Core 1.6 GHz  32GB de ROM  2GB RAM  Android 9  Dual SIM   Blush Gold '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJ1VKJZ/?tag=tolees-21'
 descuento: '17.93'
 average: '125.37222222222222'

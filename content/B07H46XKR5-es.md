@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Beurer BF1000 - Báscula diagnóstica Bluetooth  báscula de baño  corporal  compatible con la App en español  8 electrodos para zona inferior y superior  Android y iOs  silver negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H46XKR5/?tag=tolees-21'
 descuento: '43.91'
 average: '279.9'

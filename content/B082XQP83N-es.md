@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Auriculares Bluetooth  Mpow Auriculares Inalámbrico 5.0  Auriculares Deportivos IPX7 Impermeable  25H Caja de Carga  Mini Twins Sonido HD Estéreo con CVC 8.0 Cancalación de Ruido para iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XQP83N/?tag=tolees-21'
 descuento: '25.01'
 average: '25.990000000000002'

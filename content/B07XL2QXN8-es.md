@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'DEPSTECH Endoscopio Inalámbrico 5.0MP  Boroscopio HD Ultrafino de  Cámara de Inspección de Serpiente con Zoom Batería de 3350 mAh  Adaptado Teléfonos Inteligentes y Tabletas Android y iOS 16.5 Pies'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL2QXN8/?tag=tolees-21'
 descuento: '37.78'
 average: '62.989999999999995'

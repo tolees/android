@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android  Multicolor  Talla única  FFK36398 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21'
 descuento: '56.43'
 average: '9.36625'

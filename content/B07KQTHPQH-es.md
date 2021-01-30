@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Leelbox TV Stick Android TV Box Portátil 2GB/16GB con Dolby/Full HD/ 2.4G WiFi/ 3D/4K/H.265 Streaming Media Player'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQTHPQH/?tag=tolees-21'
 descuento: '27.28'
 average: '25.99'

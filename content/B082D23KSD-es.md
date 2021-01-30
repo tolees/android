@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'UMIDIGI Reloj Inteligente Uwatch3 Smartwatch 5ATM Impermeable con Cronómetro Pulsera Actividad Inteligente Reloj de Fitness con Podómetro Smartwatch Mujer Hombre niños para iOS y Android [Rojo]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082D23KSD/?tag=tolees-21'
 descuento: '55.14'
 average: '28.932857142857145'

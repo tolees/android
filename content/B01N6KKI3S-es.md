@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Sony MEXN4200BT - Radio CD  USB  Bluetooth  NFC y Control de Voz Compatible iPhone y Android  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6KKI3S/?tag=tolees-21'
 descuento: '36.47'
 average: '86.85499999999999'

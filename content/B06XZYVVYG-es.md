@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Energy Sistem Pro 3 - Smartphone Libre de 5.5    4G  WiFi  Bluetooth 4.1  32 GB de Memoria Interna  3 GB de RAM  cámara de 13 MP  Android 7.0   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XZYVVYG/?tag=tolees-21'
 descuento: '46.77'
 average: '149.04615384615386'

@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Huawei Mediapad T3 10 - Tablet de 9.6 pulgadas IPS HD  WiFi + 4G  Procesador quad-core Qualcomm Snapdragon 425  2 GB de RAM  16 GB de memoria interna  Android 7 Nougat   color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XX4WSLC/?tag=tolees-21'
 descuento: '43.82'
 average: '135.6003448275862'

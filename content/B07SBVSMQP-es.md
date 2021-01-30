@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'S&G Top Organizador para Asientos de Coches Organizador de Coche con Sostenedor de Tablet- Universal Android y iOS  Multifuncional-Protector de Asiento Trasero de Automóvil 2packs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVSMQP/?tag=tolees-21'
 descuento: '33.70'
 average: '12.59'

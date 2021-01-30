@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HolyHigh Auriculares Bluetooth Auriculares Inalambricos Bluetooth 5.0 con 5000mAh Estuche de Carga Inalámbrico Portáctil Batería Externa con Mic Cascos Bluetooth Impermeables IPX5 para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJWTHN1/?tag=tolees-21'
 descuento: '50.14'
 average: '39.982307692307685'

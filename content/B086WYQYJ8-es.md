@@ -16,6 +16,7 @@ comparePrice: 197.96 EUR
 prodname: 'Moviles Libres 4G  16GB ROM Android 9.0 Pie 5MP+8MP  4800mAh 5.5 Pulgadas Smartphone Libre Dual SIM  Quad Core Face ID por Huella Digital Moviles Buenos  2 x Micro SIM +1 MicroSD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WYQYJ8/?tag=tolees-21'
 descuento: '70.71'
 average: '57.99'

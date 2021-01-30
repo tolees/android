@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'FKANT Batería Externa 10000mAh Power Bank con 2 Salidas/Entradas Carga Rápida  QC 3.0 / PD 18W  Cargador Portátil Movil 4 Indicadores de LED para iPhone iPad Samsung Android Smartphones Tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXZWDQX/?tag=tolees-21'
 descuento: '66.24'
 average: '17.09'

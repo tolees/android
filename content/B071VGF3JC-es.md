@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Sony Xperia XA1 Ultra - Smartphone con pantalla FULL HD de 6"  Octa Core 2 4 Ghz  RAM de 4 GB  memoria interna de 32 GB  cámara de 23 MP  Android   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VGF3JC/?tag=tolees-21'
 descuento: '52.63'
 average: '200.77791666666667'

@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'Huawei P30 Pro - Smartphone de 6.47"  Kirin 980 Octa-Core de 2.6GHz  RAM de 8 GB  Memoria Interna de 128 GB  cámara de 40 MP  Android  Mystic Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WL7CCWV/?tag=tolees-21'
 descuento: '34.77'
 average: '621.278'

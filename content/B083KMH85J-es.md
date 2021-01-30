@@ -16,6 +16,7 @@ comparePrice: 114.61 EUR
 prodname: 'Reloj Inteligente Pulsómetro Pulsera de Actividad con Monitor de Sueño Podómetro Pronóstico del Tiempo Reloj Deportivo Mujer Hombre Compatible Android y iOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KMH85J/?tag=tolees-21'
 descuento: '71.22'
 average: '32.99'

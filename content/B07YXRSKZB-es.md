@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: '2020 Moviles Libres 4G  Teléfono Móvil de 6.0’’ Pulgadas 18:9 HD 3GB RAM 16GB ROM/64GB Android 8.1 Quad-Core Smartphone Libres 4800mAh Batería Dual SIM Dual Cámara 8MP Face ID（Oro）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXRSKZB/?tag=tolees-21'
 descuento: '30.11'
 average: '69.88'

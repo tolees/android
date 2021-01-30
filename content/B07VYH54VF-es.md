@@ -16,6 +16,7 @@ comparePrice: 115.98 EUR
 prodname: 'MEBERRY Tablet 10 Pulgadas Android 9 Pie Ultrar-Rápido Tablets 4GB RAM + 64GB ROM - Certificación Google GSM - 4G Dual SIM - 8000mAh |WI-FI|Bluetooth|GPS| Type-C Tablet  5.0+8.0 MP Cámara  - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYH54VF/?tag=tolees-21'
 descuento: '17.24'
 average: '97.76222222222222'

@@ -16,6 +16,7 @@ comparePrice: 69.04 EUR
 prodname: 'Cámara Oculta inalámbrica con cámara Oculta de detección de Movimiento  Control de aplicación para Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5Y6CQ4/?tag=tolees-21'
 descuento: '42.08'
 average: '41.847142857142856'

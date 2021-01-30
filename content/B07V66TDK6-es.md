@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Moviles Libres 4G  Smartphone Libre 6 0 Pulgadas Android 8.1 Quad Core 3GB RAM + 16GB ROM  Escalable 128 GB  Moviles 4800mAh Batería Cámara 8MP+5MP Dual SIM WiFi BT GPS  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V66TDK6/?tag=tolees-21'
 descuento: '30.19'
 average: '69.8'

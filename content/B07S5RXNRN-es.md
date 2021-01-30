@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'HalfSun Impermeable IP67 Smartwatch  HD Color Screen Pulsera Inteligente con Pulsómetro  Monitor de Presión Arterial，Monitor de Calorías  Sueño  Podómetro，Pulsera Actividad para Android y iOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5RXNRN/?tag=tolees-21'
 descuento: '20.02'
 average: '31.9925'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Tarjeta de Memoria SanDisk Ultra Android microSDHC UHS-I de 32 GB con Adaptador SD  Velocidad de Lectura hasta 98 MB/s  Clase 10  U1 y A1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S8LQSL/?tag=tolees-21'
 descuento: '34.11'
 average: '7.9'

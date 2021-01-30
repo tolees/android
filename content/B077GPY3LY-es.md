@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'WOWGO Pulsera Monitor de Actividad Pulsómetro y Podómetro para Mujeres Impermeable IP67  con Bluetooth Contador de Pasos y Monitor de Sueño para Smartphones con Android e iOS: iPhone  Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GPY3LY/?tag=tolees-21'
 descuento: '16.22'
 average: '29.626363636363635'

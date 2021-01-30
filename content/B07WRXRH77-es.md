@@ -16,6 +16,7 @@ comparePrice: 311.96 EUR
 prodname: 'Tablet 10 Pulgadas 4G Full HD  32GB ROM/64GB  4G/WiFi/OTG  Soporte: Netflix  Android 8.1 Tablet PC Octa-Core 8500mAh Dual SIM 8MP Cámara 3GB de RAM Bluetooth/GPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRXRH77/?tag=tolees-21'
 descuento: '75.64'
 average: '75.99'

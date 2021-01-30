@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Sony Xperia X 12 7 cm  5"  3 GB 32 GB 4G Oro 2620 mAh - Smartphone  12 7 cm  5"   3 GB  32 GB  23 MP  Android 6.0  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BU29SI6/?tag=tolees-21'
 descuento: '20.79'
 average: '99.0'

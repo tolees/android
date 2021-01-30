@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Abeyete Pulsera de Actividad Reloj Inteligente para Hombre y Mujer IP68 Impermeable con 14 Modos de Deportivo con Pulsómetro Sueño Podómetro Calorías Pulsera Deporte para iOS y Android Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VV5S8GV/?tag=tolees-21'
 descuento: '50.86'
 average: '28.99'

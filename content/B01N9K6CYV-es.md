@@ -16,6 +16,7 @@ comparePrice: 314.56 EUR
 prodname: 'FiiO X5 III - Reproductor de Audio portátil  Alta definición  Pantalla táctil  Sistema operativo Android '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9K6CYV/?tag=tolees-21'
 descuento: '20.34'
 average: '251.345'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Yuntab K17 Tablet táctil IPS 10.1 pulgadas 3G Wifi PC Aleación Metal atrás Quad-Core Android 1GB + 16GB Dual SIM Card Slots GPS WIFI Youtube Netflix Batería 5000Mha oro rosa sin cargador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHV9GT4/?tag=tolees-21'
 descuento: '55.63'
 average: '70.99'

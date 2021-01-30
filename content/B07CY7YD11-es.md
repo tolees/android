@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Motorola Moto G6  – Smartphone libre Android  pantalla de 5.7’’  4G  doble cámara de 12MP  3GB de RAM  32GB  Dual Sim   color azul índigo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CY7YD11/?tag=tolees-21'
 descuento: '19.77'
 average: '160.26'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Honor 20 Lite - Smartphone de 6.21"  RAM de 4 GB  Memoria de 128 GB  Dual SIM  Cámara Frontal de 32 MP  Triple Cámara Trasera 24+8+2MP  Android   Color Azul [Versión Española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFYP5H6/?tag=tolees-21'
 descuento: '34.78'
 average: '191.48214285714295'

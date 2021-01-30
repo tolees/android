@@ -16,6 +16,7 @@ comparePrice: 76.99 EUR
 prodname: 'YESTEL Tablet para Niños 7 Pulgadas Android 8.1 Tableta Infantil y Quad Core 2GB RAM y  32GB ROM de WiFi y Bluetooth IPS HD 1024 * 600 Dual Camera Entertainment Education-Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S47ZTG9/?tag=tolees-21'
 descuento: '16.89'
 average: '70.84714285714286'

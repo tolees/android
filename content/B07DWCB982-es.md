@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'mysunny Ratón Bluetooth Raton Recargable inalámbrico ratón silencioso Ratones ópticos para computadora portátil  PC  Macbook  Windows  Android  Mac OS  Linux - Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWCB982/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

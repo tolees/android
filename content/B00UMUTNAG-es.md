@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: 'Yuntab Q88 A33 - Tablet de 7"  WiFi  Allwinner A33 1.5 GHz  Quad Core  512 MB de RAM  8 GB de ROM  Android 4.4.2 KitKat   Rose '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UMUTNAG/?tag=tolees-21'
 descuento: '33.34'
 average: '53.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'iWalker Smart Pulsera Fitness Tracker  Pulsera Actividad de Frecuencia Cardíaca  Impermeable IP68  Podómetro Deportiva Reloj para Xiaomi  Huawei  iPhone y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SW4NZCW/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

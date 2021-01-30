@@ -16,6 +16,7 @@ comparePrice: 359.99 EUR
 prodname: 'DOOGEE S68 Pro Teléfono Móvil Libre Resistente  Helio P70 Octa Core 6GB + 128GB  4G IP68 Smartphone Antigolpes Android 9.0  6300mAh  Cámara 21MP+16MP  5.9 Inch FHD+  NFC Carga Inalámbrica  Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08132FVDH/?tag=tolees-21'
 descuento: '22.22'
 average: '279.99'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'VicTsing Ratón Bluetooth  Ratón Inalámbrico Ultra-Delgado con Rueda de Metal  Multi-Device Ratón PC con Bluetooth3.0/5.0/2.4G  Clic Silencioso con 2400 dpi para Notebook  Android  Mac  Windows  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TFXWY3/?tag=tolees-21'
 descuento: '16.68'
 average: '11.323333333333334'

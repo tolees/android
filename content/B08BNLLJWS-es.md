@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth 5.0  ZEALOT H6 Auriculares Bluetooth Deportivos con Reducción de Ruido de Micrófono Estéreo In-Ear Impermeable Auriculares para iPhone  Android y PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNLLJWS/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

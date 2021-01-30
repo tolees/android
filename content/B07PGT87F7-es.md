@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Samsung Galaxy Tab S5e - Tablet de 10.5" UltraHD  WiFi + 4G  Procesador Octa-Core  6GB de RAM  128GB de Almacenamiento  Android 9.0 actualizable  Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGT87F7/?tag=tolees-21'
 descuento: '19.26'
 average: '502.155'

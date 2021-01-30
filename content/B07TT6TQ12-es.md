@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Motorola One Action - Smartphone Dual SIM  Triple cámara: 12 MP + 5 MP y video de 16 MP con ultra gran angular  128 GB/4 GB  Pantalla 6 3” FHD+  Android 9.0  - Color Azul Denim [Versión Española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT6TQ12/?tag=tolees-21'
 descuento: '35.48'
 average: '181.59696969696967'

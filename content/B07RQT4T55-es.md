@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Smartwatch  Reloj Inteligente Impermeable IP68 Pulsera Actividad Hombre Mujer  Inteligente Reloj Deportivo Reloj Fitness con Pantalla Táctil Completa Pulsómetro Cronómetros para iPhone iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQT4T55/?tag=tolees-21'
 descuento: '28.01'
 average: '37.40333333333333'

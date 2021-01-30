@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Memoria Flash 4 en 1 128 GB Compatible con iPhone y Dispositivos Android Memory Stick Expansión para iPhone Android teléfono Tablet PC y Dispositivos con USB/Micro USB/Type C/iOS L-Port-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBSNTRZ/?tag=tolees-21'
 descuento: '15.00'
 average: '47.88285714285715'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Doosl Puntero Laser Presentaciones Mando Inalámbrico Remoto Mando para Powerpoint Presentación  Keynote  Prezi  Windows XP/7/8  Linux  Android  Pila AAA - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N192KMF/?tag=tolees-21'
 descuento: '33.35'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 92.49 EUR
 prodname: 'Auriculares Bluetooth 5.0 Auriculares Inalámbricos - Mini Twins Estéreo In-Ear Auriculares con Caja de Carga de 3500mAh para iPhone y Android  160h reproducción  IPX7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WH12H7V/?tag=tolees-21'
 descuento: '81.63'
 average: '16.99'

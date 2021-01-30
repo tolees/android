@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Xiaomi Redmi Note 7 16 cm  6.3"  4 GB 64 GB Ranura híbrida Dual SIM 4G Rojo 4000 mAh - Smartphone  16 cm  6.3"   4 GB  64 GB  48 MP  Android 9.0  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFQCW92/?tag=tolees-21'
 descuento: '35.00'
 average: '157.376'

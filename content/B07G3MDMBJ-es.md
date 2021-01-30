@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Motorola One - Smartphone Android One  pantalla de 5.9’’ ratio 19:9  cámara dual de 13 MP  4 GB de RAM  64 GB  Dual Sim   color negro [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3MDMBJ/?tag=tolees-21'
 descuento: '44.73'
 average: '165.25'

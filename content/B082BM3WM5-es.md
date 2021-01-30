@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Cable Micro USB  4 Pack [0.5m+1m+2m+3m] Trenzado de Nylon Cable Carga Rápida y Sincronizació Compatible con Android  Samsung Galaxy S6 S7 J5 J7  Kindle  Sony  Nexus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BM3WM5/?tag=tolees-21'
 descuento: '15.03'
 average: '6.901111111111112'

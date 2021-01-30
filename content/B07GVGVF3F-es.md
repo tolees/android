@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LIFEGOO Mini T Auriculares inalambricos Bluetooth 5.0 Reducción de Ruido con Estuche de Carga Portátil para iPhone y Android Samsung LG Huawei  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVGVF3F/?tag=tolees-21'
 descuento: '83.33'
 average: '10'

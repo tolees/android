@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: ' Estación de Carga USB Multifunción con 4 Puertos  Qi Certificación con Interruptor Cargador Base de Carga  Compatible con iPhone  Android  Galaxy Samsungs  Huawei  Tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B12Y3TK/?tag=tolees-21'
 descuento: '40.66'
 average: '18.99'

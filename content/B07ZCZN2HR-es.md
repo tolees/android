@@ -16,6 +16,7 @@ comparePrice: 102.39 EUR
 prodname: 'Moviles Libres  DOOGEE X90 Android 8.1 Smartphones Libres Doble SIM Pantalla 19:9 6 1 Pulgadas  3G Teléfono Móvil Libre 3400mAh Quad Core 1GB RAM+16GB ROM  Cámara de 8MP+5MP  Face ID  Bluetooth  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCZN2HR/?tag=tolees-21'
 descuento: '36.53'
 average: '64.99'

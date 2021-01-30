@@ -16,6 +16,7 @@ comparePrice: 399 EUR
 prodname: 'Mini Proyector  Tenswall Portátil DLP Video Proyectors Android 7.1 Pico Projector 1080P Full HD Home Cinema  Entrada HDMI a Su Ordenador Portátil/PC/PS4  Conectividad Inalámbrica Bluetooth Wi-Fi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXMT36M/?tag=tolees-21'
 descuento: '47.62'
 average: '195.0'

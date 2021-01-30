@@ -16,6 +16,7 @@ comparePrice: 395.99 EUR
 prodname: 'OTHA Proyector Mini Portátil  Mini Proyector Android 7.1.2  Proyector DLP  Soporte 1080P Bluetooth HDMI Airplay Wifidisplay Eshare  para Cine en Casa Inalámbrico  Compatible con Fire TV Stick/PS3/PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWTZ48H/?tag=tolees-21'
 descuento: '39.39'
 average: '214.0809090909091'

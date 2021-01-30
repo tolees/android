@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Android TV Box  Android 8.1 TV Box Amlogic S905W Quad-Core Cortex-A53 2GB RAM 16GB ROM Android Box Soporte 2.4G WiFi Ethernet 4K 3D con Control Remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP13W9V/?tag=tolees-21'
 descuento: '51.68'
 average: '28.99'

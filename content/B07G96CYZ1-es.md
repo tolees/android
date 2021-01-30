@@ -16,6 +16,7 @@ comparePrice: 8.54 EUR
 prodname: 'La Herramienta de Escaneo OBD  con Lector de Códigos OBD2 Inalámbrico para Coches se conecta a través de WiFi con IOS  Android y dispositivos Windows  cuenta con una base de datos de 3000 códigos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G96CYZ1/?tag=tolees-21'
 descuento: '18.62'
 average: '8.5225'

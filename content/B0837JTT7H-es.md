@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Altavoz Bluetooth portátil con Bajos potentes  Rango de conexión Bluetooth y guía de Voz para Android iOS PC y otros-YSYX19'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0837JTT7H/?tag=tolees-21'
 descuento: '81.16'
 average: '41.0'

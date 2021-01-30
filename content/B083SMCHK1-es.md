@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: '2020 Touch Auriculares inalámbricos Bluetooth con cancelación de Ruido para Android iOS-BY4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SMCHK1/?tag=tolees-21'
 descuento: '39.40'
 average: '59.99'

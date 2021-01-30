@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Tarjeta Micro SD de alta velocidad de 256 GB diseñada para teléfonos inteligentes Android  tabletas Clase 10 SDXC Tarjeta de memoria con adaptador  256 GB-X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H5KZ45Q/?tag=tolees-21'
 descuento: '21.01'
 average: '15.0'

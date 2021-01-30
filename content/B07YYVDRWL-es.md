@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'CUBOT R15 Pro Smartphone 4G Teléfono del Juego | Quad Core 2Ghz Procesador 3GB+32GB Android 9.0 Dual Nano SIM 3000 mAh 6 26" HD+ Monitor  1520 * 720  Cámara 16MP+13MP -Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYVDRWL/?tag=tolees-21'
 descuento: '30.00'
 average: '69.99'

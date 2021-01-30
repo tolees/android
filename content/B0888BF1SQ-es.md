@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Tablet 10 Pulgadas 4G Android 9.0 Tableta 4GB RAM 64GB ROM GPS/WiFi/Bluetooth/Soporte  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0888BF1SQ/?tag=tolees-21'
 descuento: '27.76'
 average: '70.75'

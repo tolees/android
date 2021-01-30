@@ -16,6 +16,7 @@ comparePrice: 89.86 EUR
 prodname: 'Pantalla IPS de 11 Pulgadas Android 8.0 Tablet PC de Diez núcleos 1 + 8G Ranuras para Tarjeta SIM Dual Llamada telefónica 3G con GPS FM/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZXMCZ4/?tag=tolees-21'
 descuento: '33.50'
 average: '59.76'

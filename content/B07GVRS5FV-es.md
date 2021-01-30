@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Xiaomi Mi MAX 3 - Smartphone DE 6.9"  RAM de 4 GB  Memoria de 64 GB  cámara DE 12+5 MP  Android 8.1  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVRS5FV/?tag=tolees-21'
 descuento: '15.38'
 average: '245.48'

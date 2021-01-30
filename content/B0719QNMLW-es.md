@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'NAKOSITE SB2433 Reloj inteligente mujer hombre Smartwatch Pulsera actividad relojes Inteligentes deportivo  Podometro Contador de Pasos  Calorías  Sueño Distancia  Android 5.0 o IOS 8.0 y posteriors'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719QNMLW/?tag=tolees-21'
 descuento: '59.99'
 average: '14.659999999999998'

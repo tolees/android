@@ -16,6 +16,7 @@ comparePrice: 28.6 EUR
 prodname: 'TP-LINK - Router N300  Android '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RK5VU5M/?tag=tolees-21'
 descuento: '19.23'
 average: '23.1'

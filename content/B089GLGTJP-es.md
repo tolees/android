@@ -16,6 +16,7 @@ comparePrice: 5.65 EUR
 prodname: '8LED 3.5mm Jack Smart Cellphone Selfie LED Luz de Flash de cámara para Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089GLGTJP/?tag=tolees-21'
 descuento: '40.00'
 average: '3.39'

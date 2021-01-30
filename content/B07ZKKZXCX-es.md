@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'INPHIC Ratón Bluetooth  Ratón inalámbrico Bluetooth Recargable silencioso multidispositivo  Modo Triple: BT 5.0/3.0 + 2.4G   Ratón ergonómico 1600DPI para computadora portátil Android  Mac OS  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKKZXCX/?tag=tolees-21'
 descuento: '38.48'
 average: '16.58833333333333'

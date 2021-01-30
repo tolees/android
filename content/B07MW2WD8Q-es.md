@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Willful Pulsera de Actividad  Pulsera Inteligente con Pulsómetro Reloj Inteligente Impermeable IP68 Pulsera para Deporte Pulsera Actividad Inteligente para Mujer Hombre Niño para Android iOS Teléfono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW2WD8Q/?tag=tolees-21'
 descuento: '43.40'
 average: '29.5'

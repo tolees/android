@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Seneo Reloj Inteligente Hombre  Reloj de Seguimiento de Actividad  Podómetro Deportivo con Monitor de Ritmo Cardíaco Monitor de Sueño para Teléfonos Inteligentes Android o iOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L54MVM3/?tag=tolees-21'
 descuento: '29.28'
 average: '33.49'

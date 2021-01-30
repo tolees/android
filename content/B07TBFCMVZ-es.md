@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'HolyHigh Auriculares Bluetooth 5.0 Inalámbricos Deportivos Auriculares In-Ear Impermeable IPX7 6+30H Autonomía Auto-On/Off Emparejamiento Siri Sonido Estéreo con Mic para iPhone Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBFCMVZ/?tag=tolees-21'
 descuento: '50.01'
 average: '40.10904761904761'

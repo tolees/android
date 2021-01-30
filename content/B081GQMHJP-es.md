@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Moviles Libres 4G Android 9.0 Teléfono Móvil Libre de 5.5 Pulgadas 16GB ROM/128GB TF  8MP Cámara Identificación de Cara Smartphone Libre Dual SIM 4G Moviles Buenos 4800mAh'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081GQMHJP/?tag=tolees-21'
 descuento: '20.02'
 average: '55.98'

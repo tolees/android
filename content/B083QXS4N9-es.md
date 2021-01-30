@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'RAVIAD Cable USB Magnético  1M Nylon Multi Cargador Magnetico Micro USB Tipo C Carga y Sincronización Cable Cargador iman Compatible con Android Galaxy  Huawei  Honor  LG  Kindle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QXS4N9/?tag=tolees-21'
 descuento: '15.02'
 average: '7.940000000000001'

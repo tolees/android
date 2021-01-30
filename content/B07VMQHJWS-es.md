@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Bluetooth Auricular Manos Libres Auriculares Deportivos con Cancelación de Ruido avanzado y Sweatproof Incorporado Micrófono para iOS y Otros Android Smartphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMQHJWS/?tag=tolees-21'
 descuento: '29.43'
 average: '11.99'

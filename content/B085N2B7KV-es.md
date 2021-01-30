@@ -16,6 +16,7 @@ comparePrice: 88.88 EUR
 prodname: 'Tableta Android de 10 Pulgadas con Ranuras para Tarjetas Sim - 10.1 "4GB RAM 64GB ROM Ocho nucleos 3G Teléfono gsm Desbloqueado Tableta PC con WiFi Bluetooth FM GPS Youtube Netflix  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085N2B7KV/?tag=tolees-21'
 descuento: '15.01'
 average: '75.54'

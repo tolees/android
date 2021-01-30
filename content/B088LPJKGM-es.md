@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Looffy Pendrive 32GB Memoria USB para iPhone y iPad Pen Drive USB 3.0 Flash Drive Photo Stick Tipo C para iOS Android Computadora móvil Tableta Macbook Dispositivos 4 en 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LPJKGM/?tag=tolees-21'
 descuento: '59.22'
 average: '19.98'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Newseego PUBG Mobile Game Finger Sleeve [Paquete de 10]  Pantalla táctil Dedo Manga Transpirable Anti-Sudor Disparos sensibles y Teclas de apuntar para PUBG/Cuchillos Fuera para Android y iOS  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1DWMCB/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

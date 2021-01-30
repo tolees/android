@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'YUNMAI Pro Báscula Cargador USB 10 Datos Corporales Pantalla LED Oculta Compatible con Bluetooth iOS y Android Apple Health Google Fit con Aplicación Gratuita  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VVPLGX/?tag=tolees-21'
 descuento: '42.51'
 average: '45.99'

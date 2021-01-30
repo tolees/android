@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Lenovo M10 FHD Plus- Tablet de 10.3" Full HD/IPS  MediaTek Helio P22T  4 GB de RAM  64 GB ampliables hasta 256 GB  Android 9  WiFi + Bluetooth 5.0   Platinum Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WMCH4T/?tag=tolees-21'
 descuento: '20.00'
 average: '186.67800000000003'

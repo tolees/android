@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Smartwatch con Whatsapp Bluetooth Smart Watch Pantalla táctil Reloj Inteligente Hombre con Cámara  Impermeable Smartwatches Telefono Sport Fitness Tracker Compatible Android iOS para Hombre Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082DBJM1Q/?tag=tolees-21'
 descuento: '60.02'
 average: '27.485'

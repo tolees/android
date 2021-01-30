@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Tableta 10.1 Pulgadas 4G WiFi Android 9.0 Tablets PC 3GB de RAM 32GB de Memoria Interna con Procesador Quad-Core y Doble Ranuras de Tarjeta SIM Doble Cámara  GPS Bluetooth - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NP9PJQ/?tag=tolees-21'
 descuento: '21.82'
 average: '83.83000000000001'

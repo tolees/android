@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cascos Bluetooth Inalámbricos  OLTA Auriculares Plegable con Micrófono  Manos Libres  Almohadillas de Protección Cómodo  MicroSD  para iPhone y Android Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FC18TKS/?tag=tolees-21'
 descuento: '52.01'
 average: '21.99'

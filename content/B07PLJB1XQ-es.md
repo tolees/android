@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PRIXTON – Reloj Inteligente Smartwatch para Android e iOS con Electrocardiograma  Presión en Sangre  Pulsometro  Resistente a Salpicaduras  Pulsera de Actividad para Hombre y Mujer | SWB28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLJB1XQ/?tag=tolees-21'
 descuento: '30.43'
 average: '41.254'

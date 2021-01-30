@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Tablet 10 Pulgadas 4G Dual SIM 64GB de Memoria 3GB de RAM Android 8.1 Cámara de 8MP OTG/WiFi Tablets Teclado  64GB-Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHJ9L88/?tag=tolees-21'
 descuento: '40.50'
 average: '113.03999999999999'

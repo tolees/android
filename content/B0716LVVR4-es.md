@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Sony Xperia L1 - Smartphone de 5.5"  Quad Core 1.45 GHz  RAM de 2 GB  memoria interna de 16 GB  cámara de 13 MP  Android   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716LVVR4/?tag=tolees-21'
 descuento: '47.39'
 average: '106.62311111111111'

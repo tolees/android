@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares Bluetooth 5.0  auriculares con micrófono  estéreo HiFi de graves profundos  con caja de carga portátil [24 h]  IPX7 a prueba de agua  adecuado para Android / iPhone / Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FX66C6F/?tag=tolees-21'
 descuento: '15.00'
 average: '33.99'

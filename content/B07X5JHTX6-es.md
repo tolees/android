@@ -16,6 +16,7 @@ comparePrice: 120.99 EUR
 prodname: '4G LTE Tablet 10 Pulgadas - Android 9.0 4GB RAM y 64GB ROM Quad Core Tablet Batería de 8000mAh Dual SIM /WiFi 8MP Cámara Tablet PC  GPS  Bluetooth  OTG  Netfilix '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5JHTX6/?tag=tolees-21'
 descuento: '17.36'
 average: '99.99'

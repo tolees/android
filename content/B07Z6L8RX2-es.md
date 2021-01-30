@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Oppo Reno 2 - Smartphone de 6.55" AMOLED  4G Dual Sim  8GB  256GB  Qualcomm Snapdragon 730G  cámara trasera 48 MP + 8 MP  gran angular  + 13 MP + 2 MP  4.000 mAh  Android 9  Negro  Luminous Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6L8RX2/?tag=tolees-21'
 descuento: '22.04'
 average: '388.7085714285714'

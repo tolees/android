@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Sennheiser URBANITE - Auriculares de diadema abiertos  compatible Android   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M1TS63Q/?tag=tolees-21'
 descuento: '56.87'
 average: '59.95'

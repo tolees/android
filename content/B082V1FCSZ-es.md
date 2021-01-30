@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Auriculares inalámbricos Bluetooth Auriculares 5.0 Reducción de Ruido inalámbrica Hi-Fi Deportes inalámbricos Estéreo en la Oreja Auriculares Bluetooth Mini Auriculares para iOS Android （Negro-3）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V1FCSZ/?tag=tolees-21'
 descuento: '25.32'
 average: '59.0'

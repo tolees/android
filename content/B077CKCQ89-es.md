@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Motorola Moto Z2 Force - Smartphone de 5.5"  WiFi  4G  Octa Core Snapdragon 835  RAM de 6 GB  Memoria Interna de 64 GB  cámara de 12 MP  Dual SIM  Android 7.1.1 Nougat  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077CKCQ89/?tag=tolees-21'
 descuento: '55.07'
 average: '363.00000000000017'

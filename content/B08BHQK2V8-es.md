@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Moviles Libres CUBOT P40  6.2" Pantalla Android 10  4GB RAM 128GB ROM Smartphone  Cámara Frontal 20MP  Cámara Trasera 12MP+5MP  Batería 4200 mAh  Dual SIM 4G  NFC  Face ID  Tipo C  EU Versión '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHQK2V8/?tag=tolees-21'
 descuento: '23.53'
 average: '129.99'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Auriculares Bluetooth  Orit Auriculares inalámbricos Bluetooth 5.0 Sonido Estéreo Auricular Mini Twins In-Ear Auriculares Carga Rapida Resistente al Agua con Caja de Carga para iPhone y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W96J8SD/?tag=tolees-21'
 descuento: '40.01'
 average: '45.50333333333334'

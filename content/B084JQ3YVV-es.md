@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'HONOR Magic Watch 2 46mm Smart Watch 15 Deportes Diferentes Monitor de frecuencia cardíaca y estrés Larga duración de batería  Altavoz Incorporado y micrófono Compatible con Android iOS  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JQ3YVV/?tag=tolees-21'
 descuento: '20.00'
 average: '159.99'

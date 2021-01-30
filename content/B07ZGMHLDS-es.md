@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Auriculares Bluetooth  SYOSIN TWS Auriculares Inalambricos Bluetooth 5.0 Impermeables IPX6 HiFi Cascos Deportivos In-Ear Estéreo Inalámbricos con Mic para iPhone y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGMHLDS/?tag=tolees-21'
 descuento: '78.34'
 average: '25.166666666666664'

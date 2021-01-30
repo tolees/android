@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Tablet 10.1 Pulgadas YESTEL Android 8.1 Tablets con 3GB RAM & 32GB ROM y LTE Dual SIM Call  5.0 MP + 8.0 MP HD la Cámara y 8000mAH-Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HJ2Q6Z/?tag=tolees-21'
 descuento: '28.19'
 average: '78.98'

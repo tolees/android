@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'CBGGQ Auriculares in-ear con micrófono  3 5 mm con cable para ajustar el volumen  estéreo  graves profundos  Aislamiento de Ruido  para IOS y Android smartphones（Negro+blanco+rosa+verde 4 Pares）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRXHHMP/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Alcatel 3v - Smartphone de 6"  Quad-Core 1.45 GHz  Memoria 16 GB Ampliable hasta MicroSD de 128 GB  cámara DE 16 MP AF + 2 MP  Android 8.0  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SFY5ZM/?tag=tolees-21'
 descuento: '36.12'
 average: '113.39659090909093'

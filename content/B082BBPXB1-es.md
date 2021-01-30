@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Smartwatch  Impermeable Reloj Inteligente Android con Ranura para Tarjeta SIM Bluetooth Smart Watch con Whatsapp Cámara  Podómetro Telefono Sport Fitness Tracker Compatible iOS para Hombre Mujer niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BBPXB1/?tag=tolees-21'
 descuento: '22.97'
 average: '19.99'

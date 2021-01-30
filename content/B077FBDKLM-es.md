@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Denver Sdq-52001G Tarjeta Dual Sim De 5 2"  3G  Quad Core 1 3 GHz  RAM De 1 GB  Memoria De 8 GB  Cámara De 5 MP  Android 6.0  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077FBDKLM/?tag=tolees-21'
 descuento: '27.82'
 average: '71.46'

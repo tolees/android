@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'DOOGEE N20 2019 Smartphone Libre 4G  Android 9.0 Telefono Movil Libres Dual Sim Octa Core 4GB RAM+64GB ROM  6.3 Pulgadas FHD+  Cámara 16MP+8MP+8MP+16MP  4350mAh Face ID+Huella Digital - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQWSQBL/?tag=tolees-21'
 descuento: '40.00'
 average: '119.99'

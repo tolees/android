@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Tarjeta de Memoria SanDisk Ultra Android microSDXC UHS-I de 64 GB con Adaptador SD  Velocidad de Lectura hasta 100 MB/s  Clase 10  U1 y A1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073SB2L3C/?tag=tolees-21'
 descuento: '53.36'
 average: '11.162142857142857'

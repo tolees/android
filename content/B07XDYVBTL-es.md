@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pantalla táctil con Ranura para Tarjeta SIM Cámara Podómetro Moviles Buenos Pulsera de Actividad para Android Xiaomi Samsung Huawei  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDYVBTL/?tag=tolees-21'
 descuento: '69.72'
 average: '29.98'

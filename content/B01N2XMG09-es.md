@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Sony MEXN5200BT - Radio CD  USB  Bluetooth  NFC  iluminación Variable  Micro Externo y Control de Voz Compatible iPhone y Android  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2XMG09/?tag=tolees-21'
 descuento: '28.99'
 average: '92.61666666666666'

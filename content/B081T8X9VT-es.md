@@ -16,6 +16,7 @@ comparePrice: 21.88 EUR
 prodname: 'SWEYE Batería Externa Movil 24800mAH  Power Bank Carga Ultra Velocidad Cargador Portátil de Alta Capacidad con 2 Puertos USB y Pantalla LCD  Adecuado para Android Smartphones  Tabletas y etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081T8X9VT/?tag=tolees-21'
 descuento: '15.04'
 average: '19.71'

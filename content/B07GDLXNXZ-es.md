@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Xiaomi MI A2 - Smartphone DE 5.9"  Qualcomm Snapdragon 660 a 2.2 GHz  RAM de 4 GB  Memoria de 64 GB  cámara Dual de 12/20MP  Android  Color Azul [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDLXNXZ/?tag=tolees-21'
 descuento: '25.09'
 average: '210.29999999999998'

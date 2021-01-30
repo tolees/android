@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Batería Externa 25000mAh  Power Bank Alta Capacidad con 2 USB Puertos  Linterna LED de 4 Modos Cargador Portátil Movil para iPhone  Huawei  Samsung  Android  Tabletas y más Dispositivos-Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2XQ2X1/?tag=tolees-21'
 descuento: '61.72'
 average: '19.615'

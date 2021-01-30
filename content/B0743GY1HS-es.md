@@ -16,6 +16,7 @@ comparePrice: 69.97 EUR
 prodname: 'Auriculares Bluetooth V4.1  Inalámbricos Bluetooth Headset con cancelación de ruido auriculares deportivos con micrófono para el iPhone Android Cellphone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743GY1HS/?tag=tolees-21'
 descuento: '46.29'
 average: '37.58'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Tablets 10 Pulgadas Android 8.0 3GB RAM 64GB Memoria Tablet con 4G Dual SIM 8.0 MP Cámara Quad Core Batería de 7000mAh WiFi Bluetooth GPS  Netflix'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYW3FNH/?tag=tolees-21'
 descuento: '23.24'
 average: '75.99'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Auriculares inalámbricos Bluetooth 5.0 con Reproductor  [Último diseño 2020] Pantalla Táctil LCD estéreo HD Mini Auriculares Bluetooth movil con micrófono Impermeable IPX7 para Android  iOS  TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QCFTG2/?tag=tolees-21'
 descuento: '15.00'
 average: '44.03'

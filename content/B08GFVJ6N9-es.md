@@ -16,6 +16,7 @@ comparePrice: 1.25 EUR
 prodname: 'Nowakk Cable Micro USB Trenzado de Nailon Colorido Cable de Cargador USB de sincronización de Datos para teléfono Android Micro Cables USB Cargador USB de sincronización - Rosa Rojo - 1 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GFVJ6N9/?tag=tolees-21'
 descuento: '15.20'
 average: '1.06'

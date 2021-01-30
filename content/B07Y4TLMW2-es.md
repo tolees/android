@@ -16,6 +16,7 @@ comparePrice: 39.31 EUR
 prodname: 'Super HD Android 7.1 MK809 IV TV Dongle 2G + 8G 4K RK3229 Quad Core H.265 WiFi Media Totalmente Compatible Alto Almacenamiento - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4TLMW2/?tag=tolees-21'
 descuento: '33.50'
 average: '26.14'

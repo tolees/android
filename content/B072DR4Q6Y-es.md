@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Sony Xperia XA1 - Smartphone con pantalla HD de 5"  Octa Core 2.3 GHz  RAM de 3 GB  memoria interna de 32 GB  cámara de 23 MP  Android  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072DR4Q6Y/?tag=tolees-21'
 descuento: '46.61'
 average: '150.02894736842106'

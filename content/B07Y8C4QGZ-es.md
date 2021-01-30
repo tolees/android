@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'TOOBUR Smartwatch  IP68 Impermeable Reloj Inteligente con Pulsómetro  1.3 Pulgada Pulsera Actividad Inteligente con Podómetro Monitor de Sueño  Reloj Actividad Mujer Hombre Niño para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8C4QGZ/?tag=tolees-21'
 descuento: '15.14'
 average: '35.75'

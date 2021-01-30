@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Auriculares Bluetooth  Auriculares Inalambricos Bluetooth Mini Twins Estéreo In-Ear Sport Bluetooth 5.0 con Caja de Carga de 3000mAh  IPX8 Impermeable Cascos Bluetooth con Mic  para iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1CV4FN/?tag=tolees-21'
 descuento: '83.34'
 average: '29.99'

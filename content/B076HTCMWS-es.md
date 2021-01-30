@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Motorola termómetro inteligente de oído con seguimiento de la temperatura - Sincronización en tiempo real con su teléfono inteligente a través de Bluetooth - Compatible con iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HTCMWS/?tag=tolees-21'
 descuento: '42.03'
 average: '30.937'

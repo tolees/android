@@ -16,6 +16,7 @@ comparePrice: 95.99 EUR
 prodname: 'HOPESUNIN Tableta Android de 10.1 Pulgadas con Sistema operativo Android 9 Pie  4GB RAM 64GB ROM-certificación gsm de Google  WiFi / 5MP + 8MP / Tipo-C Tableta Ultrafina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811CTDZR/?tag=tolees-21'
 descuento: '20.31'
 average: '84.36272727272727'

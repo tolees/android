@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HolyHigh Auriculares Inalambricos Bluetooth Auriculares Bluetooth 5.0 Sonido Estéreo HiFi con Caja de Carga Micrófono Incorporado Cascos Bluetooth Inalámbricos para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGVKHWG/?tag=tolees-21'
 descuento: '46.68'
 average: '24.704285714285714'

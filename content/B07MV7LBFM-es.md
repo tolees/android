@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Omars PowerBank Carga Rápida PD - 10000 mAh Batería Externa Ultrafina  Cargador Portátil con 1 USB-C & 2 USB-A para Moviles Android & iOS  Tabletas  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV7LBFM/?tag=tolees-21'
 descuento: '40.02'
 average: '14.656666666666666'

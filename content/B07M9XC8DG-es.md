@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: '4 en 1 Unidad Flash 128 GB Compatible con iPhone y Dispositivos Android Memory Stick Expansión para iPhone Android teléfono Tablet PC y Dispositivos con USB/Micro USB/Type C/iOS L-Port-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9XC8DG/?tag=tolees-21'
 descuento: '24.25'
 average: '49.99'

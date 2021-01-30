@@ -16,6 +16,7 @@ comparePrice: 220 EUR
 prodname: 'Tableta de 10.1 Pulgadas 4g LTE con Funda Plateada  Android 9.0 Tablet K8  4GB RAM y 64 GB ROM  Cámara 5MP + 8MP  Dual Sim  Batería 7500 mAh  Altavoz Bluetooth y Stylus  Gold '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCK7D43/?tag=tolees-21'
 descuento: '59.10'
 average: '89.99'

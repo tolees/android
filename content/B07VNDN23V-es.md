@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: '【Versión Actualizado】 Mpow S15 Dual EQ Auriculares Bluetooth Magnéticos IPX7 Auricular In-Ear Running Deporte HD Sonido con Micrófono Cascos Deportivos Correr para iPhone Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNDN23V/?tag=tolees-21'
 descuento: '20.01'
 average: '24.41857142857143'

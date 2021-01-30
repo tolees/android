@@ -16,6 +16,7 @@ comparePrice: 11.18 EUR
 prodname: 'Sharplace 1 Pieza de Adaptador Remoto Control IR Compatible con Móvil Inteligente Android - Blanco Negro Interfaz Micro USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C379QTF/?tag=tolees-21'
 descuento: '44.45'
 average: '6.21'

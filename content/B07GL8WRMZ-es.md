@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Xiaomi Mi 8 - Smartphone de 6.21"  Octa-Core Kryo 2.8 GHz  RAM de 6 GB  Memoria de 128 GB  cámara de 20 MP  Android 8.0  Color Negro [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL8WRMZ/?tag=tolees-21'
 descuento: '56.29'
 average: '418.1546666666667'

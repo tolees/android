@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Moviles Libres 4G  Smartphone Libres 5 Pulgadas 1 GB RAM y 16 GB ROM  Escalable 32 GB  Android 7.0 Quad Core Teléfono Libres 2800mAh Batería Cámara 5MP + 2MP Dual SIM WiFi BT  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPVY8P1/?tag=tolees-21'
 descuento: '18.22'
 average: '49.88'

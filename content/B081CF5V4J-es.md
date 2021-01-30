@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'NAIXUES Smartwatch  Reloj Inteligente IP67 con Presión Arterial  10 Modos de Deporte  Pulsómetro  Monitor de Sueño  Notificaciones Inteligentes  Smartwatch Hombre Mujer para iOS y Android  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CF5V4J/?tag=tolees-21'
 descuento: '52.39'
 average: '51.49'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'YZPUSI USB 2.0 64gb Pendrive  3 en 1 64 GB USB 2.0 OTG Memoria USB Flash Drive Stick Conector para Android PC Cell Phone  64gb Micro USB Flash Drive'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGTJFMP/?tag=tolees-21'
 descuento: '44.01'
 average: '27.99'

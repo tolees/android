@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado  Ultra Slim y Ligero Teclado Compatible with Tablet  Smartphone  Portable Teclado  Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLKX4XN/?tag=tolees-21'
 descuento: '57.51'
 average: '16.99'

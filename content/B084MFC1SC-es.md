@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: '【2 Packs】 3.5mm Auriculares con micrófono y micrófono Control de Volumen estéreo Aislamiento de Sonido para iOS Android MP3- YX '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084MFC1SC/?tag=tolees-21'
 descuento: '55.07'
 average: '39.99'

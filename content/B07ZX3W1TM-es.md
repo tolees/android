@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Tablets 10 Pulgadas 64GB  3GB RAM 4G Dual SIM/WiFi Tablet con Teclado Android 8.1 8MP Cámara Google Play/Office/Netflix/GPS/OTG/Bluetooth Tablet PC Buenas Voukou Negro+Teclado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZX3W1TM/?tag=tolees-21'
 descuento: '32.51'
 average: '80.99'

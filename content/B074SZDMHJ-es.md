@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Moto G5s - Smartphone Libre Android 7.1  Pantalla de 5.2   Full HD  4G  cámara de 16 MP  3 GB de RAM  32 GB  Qualcomm Snapdragon 1.4 GHz  Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074SZDMHJ/?tag=tolees-21'
 descuento: '59.37'
 average: '101.16'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'CUBOT P30 Smartphone 4G LTE  Cámara Trasera  AI  20MP+ 12MP+ 8MP Cámara Selfie 13MP  6 3" FHD Monitor  1080 * 2340  Octa-Core 4GB RAM 64GB ROM Dual Nano SIM 4000mAh Android 9.0 -Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819RWZ4S/?tag=tolees-21'
 descuento: '25.00'
 average: '119.99'

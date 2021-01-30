@@ -16,6 +16,7 @@ comparePrice: 125.57 EUR
 prodname: 'Ofertas móviles 4.0 pulgadas HD Teeno Smartphone Oferta Teléfono 1GB RAM 8GB ROM Dual SIM Dual Camera Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PK2CJ9R/?tag=tolees-21'
 descuento: '66.40'
 average: '42.19'

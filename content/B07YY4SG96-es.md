@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Telefono Resistentes  Blackview BV5500 Pro Android 9.0 Dual SIM 4G Movil Robusto  3GB+16GB  8/0.3MP+5MP  4400mAh Batería  Pantalla 5.5" HD+ IPS Movil Todoterreno  MT6739  NFC/Face ID/GPS - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY4SG96/?tag=tolees-21'
 descuento: '15.39'
 average: '114.99'

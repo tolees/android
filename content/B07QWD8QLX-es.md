@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Dragon Touch Tablet para Niños con WiFi Bluetooth 7 Pulgadas 1024x600 Tablet Infantil de Android 8.1 Quad Core 1GB 16GB Doble Cámara Kid-Proof Funda Tablet Niños Educativo Y88X Plus Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWD8QLX/?tag=tolees-21'
 descuento: '16.63'
 average: '71.30481481481479'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'LAST LEVEL- Pop Vinyl: Dragonball Z S5: Android 18 Figura Dragon Ball: C18  Multicolor  FFK36403 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HBBC9D3/?tag=tolees-21'
 descuento: '31.41'
 average: '10.033333333333333'

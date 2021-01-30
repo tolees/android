@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'GRDE Auriculares Bluetooth  Auriculares Inalámbricos IPX7 Impermeable  TWS Auriculares 180H Reproducción con CVC8.0 Cancelación de Ruido   Pantalla LED con Control Táctil de Micrófono para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0888BML8X/?tag=tolees-21'
 descuento: '20.01'
 average: '38.99'

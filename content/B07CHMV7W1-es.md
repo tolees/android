@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'ALCATEL 3X Smartphone Quad Core 1.28 GHz  Android N  5.7" HD+ 18:9  1440x720p  4G  Cámara DE 13+5 Mpx y Frontal 5Mpx  3GB de RAM  32GB de ROM   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHMV7W1/?tag=tolees-21'
 descuento: '20.92'
 average: '119.08285714285714'

@@ -16,6 +16,7 @@ comparePrice: 752.08 EUR
 prodname: 'Huawei P30 Smartphone 15 5 cm  6.1"  6 GB 128 GB Ranura hibrida Dual SIM 4G Multicolor 3650 mAh 40 MP  Android 9.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLRHK6M/?tag=tolees-21'
 descuento: '46.95'
 average: '415.24499999999995'

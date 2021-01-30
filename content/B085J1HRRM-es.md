@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: '4G Tablet 10 Pulgadas YESTEL X2  3GB+32GB  Android 8.1  Tableta  con Funda   4 Core  8000mAh  1280X800 HD IPS  Soporte WiFi/Dobles SIM  FM  Type-C  Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085J1HRRM/?tag=tolees-21'
 descuento: '28.19'
 average: '78.98'

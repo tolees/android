@@ -16,6 +16,7 @@ comparePrice: 399.9 EUR
 prodname: 'Honor 8 - Smartphone Libre de 5.2"  4G  WiFi  Bluetooth  Dual Nano SIM  4 GB de RAM  32 GB de Memoria Interna  cámara de 12 MP/8 MP  Android   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J0RYDPQ/?tag=tolees-21'
 descuento: '67.49'
 average: '188.5722222222222'

@@ -16,6 +16,7 @@ comparePrice: 91.99 EUR
 prodname: 'Tablet 10 Pulgadas Android 8.1 Tablet Procesador Quad-Core  3GB de RAM  32GB de Memoria Interna  Escalable 64GB Doble Tarjeta SIM Doble HD Cámara 8000mAh Batería  Wi-Fi Bluetooth  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJSSKZM/?tag=tolees-21'
 descuento: '15.00'
 average: '84.08999999999999'

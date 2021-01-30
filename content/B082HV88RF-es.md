@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Ayete Auriculares Bluetooth5.0 Auriculares inalámbricos Mini Twins Estéreo In-Ear Bluetooth Sport Auriculares IPX6 Impermeable con Caja de Carga Portátil para iPhone y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HV88RF/?tag=tolees-21'
 descuento: '18.92'
 average: '29.99'

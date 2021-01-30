@@ -16,6 +16,7 @@ comparePrice: 382.21 EUR
 prodname: 'Yaufey Mini proyector  proyector DLP inalámbrico portátil para cine en casa con bolsa de transporte y trípode  soporte de batería integrado sistema Android  Wifi  1080P  altavoz Bluetooth  HDMI USB TF dispositivos DLP Projector 120 lúmenes ANSI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HMWSNG/?tag=tolees-21'
 descuento: '40.72'
 average: '226.57'

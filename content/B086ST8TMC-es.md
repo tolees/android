@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Mando para Android Inalámbrico  Maegoo Bluetooth Movil Android Mando Gamepad Joystick con Soporte Retráctil Compatible para Android Teléfono Tableta Smartphone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ST8TMC/?tag=tolees-21'
 descuento: '51.68'
 average: '28.99'

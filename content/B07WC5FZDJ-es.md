@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Auriculares Inalambricos Blutetooth  Auriculares Blutetooth Deporte Magnéticos Hi-Fi Sonido Estéreo In-Ear Micrófono Incorporado Cancelación de Ruido CVC 6.0 Sweatproof IPX4 Siri iPhone y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC5FZDJ/?tag=tolees-21'
 descuento: '20.01'
 average: '19.19'

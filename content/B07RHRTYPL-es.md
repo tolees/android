@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'LATEC Pulsera Actividad Inteligente Pulsómetro y Presión Arterial Relojes Deportivos Impermeable IP68 Podómetro Pulsera Deportiva Reloj para Xiaomi Samsung Huawei Android iPhone iOS Teléfono  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHRTYPL/?tag=tolees-21'
 descuento: '38.60'
 average: '34.99'

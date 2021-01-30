@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Blackview® A80 Pro 2020 Teléfono Móvil Libres 4G  Pantalla HD + de 6.49"  4GB RAM+64GB ROM  Cuatro Cámaras  Batería de 4680 mAh  Grosor de 8.8 mm  Smartphone Android 9.0  Dual SIM Tipo C  EU Versión '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FVBGSS/?tag=tolees-21'
 descuento: '20.00'
 average: '110.99'

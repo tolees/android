@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'IPOTCH 1 Pieza Reloj Digital Unisex Muñequera de Actividad Física Dispositivos GPS Conecta con Android Dispositivos iOS - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWHZQWC/?tag=tolees-21'
 descuento: '33.35'
 average: '12.314285714285715'

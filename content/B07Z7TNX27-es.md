@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Smartwatch  Reloj Inteligente Mujer Hombre Pulsera de Actividad Inteligente Impermeable IP68 Pulsómetros Podómetro Monitor de para Sueño Calorías para iPhone Android Xiaomi Samsung Huawei  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7TNX27/?tag=tolees-21'
 descuento: '33.35'
 average: '39.99'

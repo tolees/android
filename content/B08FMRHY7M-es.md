@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Smartwatch  Reloj Inteligente Mujer Hombre Niños Fitness Tracker  Pulsera de Actividad Inteligente Contador de Caloría Monitoreo Pulsómetros Auriculares Bluetooth Deportivos  para Android iOS  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FMRHY7M/?tag=tolees-21'
 descuento: '74.12'
 average: '43.99'

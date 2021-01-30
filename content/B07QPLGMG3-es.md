@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'HolyHigh Auriculares Bluetooth Inalámbricos Cacos Bluetooth 5.0 Auriculares Inalambricos con Caja de Carga y Micrófono a Prueba de Agua/Sudor para iPhone y Android Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPLGMG3/?tag=tolees-21'
 descuento: '45.73'
 average: '24.323333333333334'

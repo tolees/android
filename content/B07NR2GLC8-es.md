@@ -16,6 +16,7 @@ comparePrice: 369.99 EUR
 prodname: 'Xiaomi Mi 9 – Smartphone de AMOLED de 6 39"  4G  Octa Core Qualcomm SD 855 2.8 GHz  RAM de 6 GB  memoria de 64 GB  cámara triple de 12 + 48 + 16 MP  Android  color azul océano [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NR2GLC8/?tag=tolees-21'
 descuento: '15.54'
 average: '344.434'

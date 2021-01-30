@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'DUODUOGO Tablet 10 Pulgadas Buenas 4GB RAM 64GB ROM Android 9.0 Pie Tablet PC 2 en 1 con Teclado y Mouse Quad-Core Dual SIM Buenas Tabletas de función de Llamada 4G 8000mAh'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTVQ5DZ/?tag=tolees-21'
 descuento: '15.00'
 average: '98.03999999999999'

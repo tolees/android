@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HolyHigh Auriculares Inalambricos Deportivos Auriculares Bluetooth 5.0 IPX7 Impermeable 26H de Autonomía Auriculares Inalámbricos con Caja de Carga Micrófono para Correr Deporte para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGFN4B6/?tag=tolees-21'
 descuento: '23.51'
 average: '33.81399999999999'

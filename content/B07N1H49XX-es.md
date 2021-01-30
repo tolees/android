@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'OurLeeme Video Timbre  Inalámbrico  WiFi  Monitoreo Remoto  Timbre de la Puerta  Visor de Puerta con cámara de Seguridad con visión Nocturna por Infrarrojos  Soporte para Android y iOS  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1H49XX/?tag=tolees-21'
 descuento: '21.06'
 average: '29.99'

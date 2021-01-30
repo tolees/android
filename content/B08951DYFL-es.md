@@ -16,6 +16,7 @@ comparePrice: 30.9 EUR
 prodname: 'Disco Flash teléfono móvil u Disco USB 3.0 Giratorio OTG computadora para automóvil Android teléfono móvil USB 8/16/32/64 / 128GB Material de Metal Creativo con Buena conducción de Calor y rápida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08951DYFL/?tag=tolees-21'
 descuento: '38.54'
 average: '18.99'

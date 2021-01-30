@@ -16,6 +16,7 @@ comparePrice: 29.49 EUR
 prodname: 'Eagle Smart Plug & Play - Convertidor de VHS a digital Hi8 AV DVD RCA S-video a USB tarjeta de captura de vídeo compatible con Windows Mac OS sistema Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZTMCRP/?tag=tolees-21'
 descuento: '28.82'
 average: '20.99'

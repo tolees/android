@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'ANKEWAY Android 9.1 Car Radio 2 DIN GPS Navigation 7 Pulgadas 1080P HD Pantalla Táctil Multimedia Car Player 1G/16G +WiFi Internet+Llamada Manos Libres Bluetooth+Cámara de Visión Trasera+Mirror Link'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F996NPW/?tag=tolees-21'
 descuento: '26.93'
 average: '89.99'

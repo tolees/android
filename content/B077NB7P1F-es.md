@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Ticwatch S Sport - Reloj inteligente con GPS  pantalla táctil OLED y resistente al agua  compatible con iOS y Android  sistema Android Wear 2.0  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NB7P1F/?tag=tolees-21'
 descuento: '39.51'
 average: '143.116'

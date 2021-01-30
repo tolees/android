@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Looffy Memoria USB para iPhone y iPad Memoria Flash Drive 64GB USB 3.0 con Tipo C para iPhone iPad Android Móvil Tableta PC Macbook 4 in 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JXBW4C/?tag=tolees-21'
 descuento: '45.10'
 average: '32.39'

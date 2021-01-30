@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Moviles Libres Barats 4G 6.0" Pulgadas  2020  16GB ROM/Extendida 128GB 3GB RAM 8MP Android 8.1 Smartphone Libre Dual SIM 4G WiFi Moviles Buenos Smartphone Batería 4800mAh J6 Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NSSXTL/?tag=tolees-21'
 descuento: '29.44'
 average: '69.91999999999999'

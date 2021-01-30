@@ -16,6 +16,7 @@ comparePrice: 529.99 EUR
 prodname: 'DOOGEE S95 Pro Moviles Libres Todoterreno  Helio P90 Octa Core 8GB +256GB  48MP AI Cámara Triple  6.3 Pantalla FHD+  Android IP68 4G Telefonos Antigolpes  Batería 5150mAh  Carga Inalámbrica NFC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JQ9YH4/?tag=tolees-21'
 descuento: '18.87'
 average: '429.99'

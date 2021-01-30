@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Ulefone Armor X5  2020   4G IP68 Impermeable Smartphone  Moviles Resistentes con Modo Submarino  Android 10 5.5-Pulgadas  Dual SIM  3GB 32GB  5000mAh Batería  Desbloqueo Facial GPS  Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYZR6QK/?tag=tolees-21'
 descuento: '21.54'
 average: '101.99'

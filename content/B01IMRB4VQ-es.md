@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Webcam 1080P HD  PAPALOOK Web Cámara con Micrófono para Skype  USB Web Cam Plug and Play para Computadora PC y Laptop  Compatible con Windows  Mac OS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IMRB4VQ/?tag=tolees-21'
 descuento: '30.24'
 average: '37.80428571428572'

@@ -16,6 +16,7 @@ comparePrice: 22.79 EUR
 prodname: 'BINKE Batería Externa 26800mAh  Power Bank con 2 Salidas USB y 4 Indicadores de LED Bateria Externa Movil Ultra Capacidad Cargador para Android Smartphones Tabletas y Más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFGBDXR/?tag=tolees-21'
 descuento: '17.81'
 average: '20.189999999999998'

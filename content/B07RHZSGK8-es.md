@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'YZPUSI USB 3.0 32gb Pendrive  USB 3.0 32g Pendrive USB Stick con Micro USB OTG para Android Smartphone e Tablet  Esterna Memoria USB Flash Drive'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHZSGK8/?tag=tolees-21'
 descuento: '44.50'
 average: '9.99'

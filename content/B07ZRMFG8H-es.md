@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'AUKEY Auriculares Bluetooth Deportivos  Auriculares Inalámbricos Bluetooth 5 In-Ear con CVC 6.0 Micrófono Reducción  IPX5 Impermeable  Reproducción de 8 Horas para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRMFG8H/?tag=tolees-21'
 descuento: '26.10'
 average: '19.74'

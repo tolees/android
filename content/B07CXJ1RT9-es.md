@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'LG LMX210 K9 - Smartphone 5"  Memoria Interna de 16 GB  RAM de 2 GB  Display HD IPS  cámara de 8 MP  Android 7.1.2  Nougat    Color Aurora Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXJ1RT9/?tag=tolees-21'
 descuento: '18.18'
 average: '91.77428571428572'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Muzili Auriculares Bluetooth Inalambricos V5.0 Auriculares Bluetooth Movil CVC 8.0 LED Auriculares Deportivos con Sonido Estéreo Hi-Fi con Cancelación de Ruido y Micrófono Incorporado para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBVRCDT/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Szsinocam IP Cámara Exterior Seguridad Vigilancia WiFi P2P 720P ONVIF CCTV  Detección de Movimiento  IR-Cut Vision Nocturna  Compatible con iOS  Android  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGZ33TK/?tag=tolees-21'
 descuento: '17.50'
 average: '32.99'

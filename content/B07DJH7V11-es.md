@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'DAM TEKKIWEAR. DMX127BL. Brazalete Inteligente P4 con Pantalla A Color  para iOS Y Android con Monitor Cardíaco Y Presión Sanguínea. Bluetooth: 4.0. Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJH7V11/?tag=tolees-21'
 descuento: '64.50'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'PRIXTON - Tablet Pantalla IPS 10 1 Pulgadas  Android 9  Quad Core Spreadtrum 773IE  RAM 2GB  ROM 32GB  Entrada MicroSD  Tarjeta SIM y Aux in  Conexión WiFi  Bluetooth y 3G | T9120'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0843W2MSZ/?tag=tolees-21'
 descuento: '55.80'
 average: '87.95'

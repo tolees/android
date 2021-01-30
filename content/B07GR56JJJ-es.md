@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Energy eReader Pro 4  6"  E-Ink  Táctil  Android  Wi-Fi  8GB  Screenlight '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GR56JJJ/?tag=tolees-21'
 descuento: '25.75'
 average: '95.78'

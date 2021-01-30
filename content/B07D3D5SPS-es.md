@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Sensei Photo Fluid 6 Estabilizador de Movil Gimbal de 3 Ejes Versión 2020 - App para Móviles iPhone y Android - Seguimiento Facial Grabación Video Continuo 12h - Modo Panorámico Zoom'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3D5SPS/?tag=tolees-21'
 descuento: '33.34'
 average: '79.99'

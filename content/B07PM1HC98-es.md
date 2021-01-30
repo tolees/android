@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Dragon Ball Z - Figura de colección Android Número 18 versión B  Bandai 85452 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PM1HC98/?tag=tolees-21'
 descuento: '28.57'
 average: '25.0'

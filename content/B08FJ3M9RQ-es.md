@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Smartwatch Reloj Inteligente Hombre Mujer Niños Monitor Pulso Cardiaco Pulsera Actividad Reloj Inteligente Cardio Podómetro Bluetooth Reloj Deportivo Impermeable Cronómetro para Android iOS Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FJ3M9RQ/?tag=tolees-21'
 descuento: '53.66'
 average: '45.88'

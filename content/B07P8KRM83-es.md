@@ -16,6 +16,7 @@ comparePrice: 259.98 EUR
 prodname: 'LNMBBS X30 Tablet 10.1 Pulgadas  6GB de RAM y 128GB Memoria Tableta 10 Núcleos Procesador Android 9.0 Tablet 8000mAh Batería y 2560 * 1600 FHD IPS  Doble 4G y Doble Banda WiFi  Tipo C  Negro  …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8KRM83/?tag=tolees-21'
 descuento: '26.93'
 average: '161.98'

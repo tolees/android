@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Niños Tablet 7 Pulgadas  Android 7.1 OS  iwawa pre-installed  Pantalla táctil  1 GB de RAM  8 GB de memoria  WiFi  Bluetooth  Dual de cámara con kindgerechte funda de silicona（azul）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FT872TN/?tag=tolees-21'
 descuento: '30.77'
 average: '46.2'

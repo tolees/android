@@ -16,6 +16,7 @@ comparePrice: 95.78 EUR
 prodname: 'Auriculares Bluetooth  WOOKRAYS inalámbricos Bluetooth 5.0 Sonido Estéreo Auricular  120H&3000mAh Caja de Carga de Metal con IPX7 Impermeable  Control Táctil  Auricular Deportivo para iOS Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTH1FL4/?tag=tolees-21'
 descuento: '63.47'
 average: '32.99'

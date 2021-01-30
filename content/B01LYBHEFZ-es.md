@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Sony Xperia XZ Mineral Black - Telefono movil con pantalla de 5.2"  Qualcomm Snapdragon 820 64 bits  memoria interna de 32 GB  memoria RAM de 3 GB  camara de 23 MP  1920x1080  4G  Android  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYBHEFZ/?tag=tolees-21'
 descuento: '77.98'
 average: '174.05100000000002'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'UMIDIGI A3 Pro Smartphone Libre Android 9.0 Pie Dual 4G Volte 5.7" Incell 19: 9 Face Unlock 3GB + 32GB  2 + 1 Ranura Triple 12MP + 5MP Doble cámara[Negro]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKD6TCQ/?tag=tolees-21'
 descuento: '32.15'
 average: '94.99'

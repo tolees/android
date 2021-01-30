@@ -16,6 +16,7 @@ comparePrice: 82.59 EUR
 prodname: 'Tablet 10.1 Pulgadas barats 4G Android 9.0 Pie 32GB ROM/3GB RAM 8000mAh Tableta Dual SIM y 128GB TF Certificado por Google Tablet 10.1 Pulgadas Buenas Soporte Netflix WiFi Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZNDH98/?tag=tolees-21'
 descuento: '17.75'
 average: '67.93'

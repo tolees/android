@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Konesky Fitness Tracker Monitor de Ritmo cardíaco Pulsera de presión Arterial Actividad Reloj Podómetro Contador de calorías Pulsera para Android iOS Smartphone  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JF9YCFC/?tag=tolees-21'
 descuento: '25.38'
 average: '12.806666666666667'

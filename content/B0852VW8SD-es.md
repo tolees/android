@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android 9.0 Certificado por Google GMS Tablet PC Procesador de Quad Core Batería 8500mAh Dual SIM 8MP Cámara WiFi Bluetooth GPS OTG Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0852VW8SD/?tag=tolees-21'
 descuento: '54.81'
 average: '89.92'

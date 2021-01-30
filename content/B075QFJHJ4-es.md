@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'AAB Selfie Pilot Negro 1 - piloto inalámbrico para realizar selfies  disparador a distancia para smartphones con el sistema iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QFJHJ4/?tag=tolees-21'
 descuento: '75.57'
 average: '1.83'

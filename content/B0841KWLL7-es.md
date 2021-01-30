@@ -16,6 +16,7 @@ comparePrice: 6.4 EUR
 prodname: 'Panamami Para Android Receptor Cargador inalámbrico Qi portátil Adaptador de Carga Ligera Bobina de Almohadilla para Sistema Android/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0841KWLL7/?tag=tolees-21'
 descuento: '35.00'
 average: '4.16'

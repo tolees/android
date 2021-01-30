@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Dragon Ball Z - Figura de colección Android Número 18 versión A  Bandai 85451 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PM1YR54/?tag=tolees-21'
 descuento: '26.00'
 average: '25.9'

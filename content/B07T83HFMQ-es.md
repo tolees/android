@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'DOOGEE S40 Movil Libres Resistente 4G Telefonos  IP68 Antigolpes Impermeable Robusto Smartphone 4650mAh Batería  Android 9.0 Movil Todoterreno 3GB+32GB  8MP+5MP Doble Cámara 5.5   NFC Movil  Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T83HFMQ/?tag=tolees-21'
 descuento: '45.00'
 average: '109.99'

@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Logitech K400 Plus Teclado Inalámbrico con Touchpad para Televisores Conectados a PC  Teclas Especiales Multi-Media  Windows  Android  Ordenador/Tablet  Disposición QWERTZ Alemán  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VHHWOU4/?tag=tolees-21'
 descuento: '38.03'
 average: '32.22'

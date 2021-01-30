@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Auriculares Bluetooth 5.0  Auriculares Inalámbricos con Micrófono Integrado APTX CVC 8.0 Cancelación de Ruido HI-FI IPX5 Deportivos Auriculares Prueba de Sudor con Estuche de Carga para Android iOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHC8BKG/?tag=tolees-21'
 descuento: '42.04'
 average: '39.99'

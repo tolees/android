@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth 5.0  Deportivos Auriculares In-Ear Impermeable IPX7 8+40H Autonomía Emparejamiento Siri Sonido Estéreo con Mic para iPhone Android  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084V6CFLY/?tag=tolees-21'
 descuento: '30.31'
 average: '45.99'

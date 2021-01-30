@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android 9.0 Tablet PC Procesador de Quad Core Batería de 8500mAh Dual SIM Dual 8MP Cámara WiFi Bluetooth GPS OTG  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T68PNN7/?tag=tolees-21'
 descuento: '44.76'
 average: '112.94333333333333'

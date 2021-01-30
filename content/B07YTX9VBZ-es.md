@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: '4G LTE Tablet 10 Pulgadas YOTOPT - Android 9.0  4GB RAM y 64GB ROM  GPS/Bluetooth/WiFi Soporte  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTX9VBZ/?tag=tolees-21'
 descuento: '52.64'
 average: '89.98'

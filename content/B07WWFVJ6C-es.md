@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'YESTEL Tablet 10 Pulgadas Android Tableta 4GB RAM + 64GB ROM + Expandido 128G Pantalla HD IPS y Quad Core Dual SIM LTE/WiFi 8000mAh Batería con Mouse y Teclado-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWFVJ6C/?tag=tolees-21'
 descuento: '33.75'
 average: '109.386'

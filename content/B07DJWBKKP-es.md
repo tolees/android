@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'TEKKIWEAR. DMT185WHBRW. Smartwatch Deportivo N20 Analógico. Compatible con Android Y iPhone. Correa De TPE. Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJWBKKP/?tag=tolees-21'
 descuento: '71.23'
 average: '39.99'

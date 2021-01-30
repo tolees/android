@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'LINKCOOL Trípode para teléfono Trípode de cámara portátil de aluminio ligero de 42 "para iPhone  Android  Cámara de acción DSLR con soporte para teléfono y control remoto inalámbrico Bluetooth -Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSPM4Z7/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

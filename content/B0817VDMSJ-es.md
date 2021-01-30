@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Auricular Bluetooth Verdadero Deporte inalámbrico Auricular Bluetooth Estéreo inalámbrico Auriculares inalámbricos con Caja de Carga portátil Compatible con iOS Android  Blanco -61'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817VDMSJ/?tag=tolees-21'
 descuento: '40.40'
 average: '59'

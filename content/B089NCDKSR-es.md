@@ -16,6 +16,7 @@ comparePrice: 90.6 EUR
 prodname: 'Timmy P7000 Pro Quad Core Dual SIM para Android 5.0 Smartphone 5.5 Pulgadas HD Teléfono móvil Herramientas de comunicación Enchufe de la UE - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NCDKSR/?tag=tolees-21'
 descuento: '35.00'
 average: '58.89'

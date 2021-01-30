@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'DOOGEE S95 Pro Super Mod Móvil Antigolpes  Helio P90 Octa-Core 8GB RAM 128GB ROM 4G Full Netcom  48MP AI Cámara Triple  5150mAh+3500mAh  Android 9.0 IP68 Móviles Todoterreno Resistentes 6.3 Inch  NFC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811R7VJY/?tag=tolees-21'
 descuento: '16.67'
 average: '499.99'

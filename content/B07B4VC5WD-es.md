@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Sony Xperia XZ2 - Smartphone de 5.7"  Octa-Core de 2.8 GHz  RAM de 4 GB  Memoria Interna de 64 GB  cámara de 19 MP  Android  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4VC5WD/?tag=tolees-21'
 descuento: '47.56'
 average: '475.4781818181818'

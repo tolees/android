@@ -16,6 +16,7 @@ comparePrice: 349 EUR
 prodname: 'Xiaomi POCOPHONE F1 - Smartphone Dual SIM de 6 18"  4G  Qualcomm Snapdragon 845 2 8 GHz  RAM de 6 GB  Memoria de 64 GB  Cámara Dual  Android  Color Negro grafito [Versión Española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3KGXZT/?tag=tolees-21'
 descuento: '16.27'
 average: '292.5241666666667'

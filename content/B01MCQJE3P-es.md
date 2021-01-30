@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Pioneer SE-MJ553BT-R - Auriculares inalámbricos Bluetooth externos para smartphones Android  Windows y Apple  estéreo  con micrófono  10 Hz a 22000 Hz  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCQJE3P/?tag=tolees-21'
 descuento: '31.47'
 average: '37.68'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Soporte Móvil Coche hanmir Soporte Móvil Coche para Salpicadero/Parabrisas/Rejillas del Aire de Coche 360° Rotación Telescópico para iPhone x/8/7/6 Plus/6s/5s/SE  Android Smartphone y GPS Dispositivo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R22YGPR/?tag=tolees-21'
 descuento: '68.99'
 average: '9.323333333333334'

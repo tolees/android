@@ -16,6 +16,7 @@ comparePrice: 4899.0 EUR
 prodname: 'MINLUK Pulsera de Actividad Inteligente  Pulsera Bluetooth Impermeable IP67 con Pantalla Color  Monitor de Dormir  Calorías  Ritmo Cardiáco Podómetro  Notificación de Mensaje para Android y iOS Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8DDK3Q/?tag=tolees-21'
 descuento: '99.79'
 average: '10.2'

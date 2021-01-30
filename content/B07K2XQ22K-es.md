@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Samsung Galaxy A9  Smartphone  4G  Octa-Core  Ram de 6 GB  Memoria de 128 GB  4 Cámaras de 24+5+10+8 MP   Bluetooth  Android  6.3"  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2XQ22K/?tag=tolees-21'
 descuento: '39.92'
 average: '367.35764705882355'

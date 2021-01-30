@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares Bluetooth Inalámbricos  Vigorun Auriculares Deportivos Mini in-Ear Auricular  Bluetooth 5.0  3000mAh Caja de Carga  IPX6 Impermeable Reducción de Ruido CVC8.0  para iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HVT3B5C/?tag=tolees-21'
 descuento: '50.01'
 average: '39.49'

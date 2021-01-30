@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Tableta Yuntab H8 LTE - Teléfono de 8 pulgadas  Quad-core  64 bits  Android 7.0  GPS  2 + 16GB  WiFi + 4G  IPS 800 x 1280  DuaL SIM y cámara  Bluetooth4.0  Google Play Store   Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071L7XHWJ/?tag=tolees-21'
 descuento: '49.45'
 average: '90.99'

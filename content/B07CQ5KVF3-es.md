@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'LNMBBS 3G Tablet de 10.1 Pulgadas HD  WiFi  2 GB de RAM  32GB de Memoria Interna  Quad-Core  Android 7.0   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ5KVF3/?tag=tolees-21'
 descuento: '46.12'
 average: '96.98'

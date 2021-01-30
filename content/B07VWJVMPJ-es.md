@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Smartwatch Reloj Inteligente Deportivo Pulsera Actividad Inteligente IP67 Duración Batería 10-15 días 1.3   a Color Cronómetro Podómetro Monitor de Calorías y Sueño SMS SNS para iOS y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWJVMPJ/?tag=tolees-21'
 descuento: '35.44'
 average: '33.730000000000004'

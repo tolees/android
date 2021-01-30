@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Willful Pulsera Actividad Impermeable IP68 con 14 Modos de Deporte Pulsera Inteligente con Pulsómetro  Monitor de Calorías  Sueño Podómetro Pulsera Deporte para Android y iOS Teléfono móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQMDLNW/?tag=tolees-21'
 descuento: '36.72'
 average: '37.96'

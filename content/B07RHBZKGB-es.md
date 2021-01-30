@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Alcatel 3 - Smartphone  RAM de 3 GB  Camara 13 MP  bateria 3500 mAh  Android   Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHBZKGB/?tag=tolees-21'
 descuento: '28.12'
 average: '120.42285714285714'

@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pulsera de Actividad Inteligente Impermeable IP68 Pulsómetros Podómetro Monitor de Sueño Calorías para iPhone Android Xiaomi Samsung Huawei  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTD5GZH/?tag=tolees-21'
 descuento: '23.51'
 average: '32.70571428571428'

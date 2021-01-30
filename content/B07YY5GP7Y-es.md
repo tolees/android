@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'Android Tablet Pritom Tablet Android OS 9.0 de 10 pulgadas con 2 GB de RAM  32 GB de ROM  procesador Quad Core  pantalla HD IPS  cámara frontal 2.0 y cámara trasera de 8.0 MP  Wi-Fi  Tablet PC  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY5GP7Y/?tag=tolees-21'
 descuento: '19.81'
 average: '88.26333333333334'

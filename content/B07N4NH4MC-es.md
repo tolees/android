@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Motorola Moto G7 Plus - Smartphone Android 9  Pantalla 6.2   FHD+ Max Vision  Cámara Trasera 16MP con Estabilizador  Cámara Selfie 12MP  4GB RAM  64 GB  Dual SIM  Versión Española  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4NH4MC/?tag=tolees-21'
 descuento: '33.44'
 average: '211.15375'

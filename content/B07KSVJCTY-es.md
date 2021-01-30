@@ -16,6 +16,7 @@ comparePrice: 96.99 EUR
 prodname: 'Tablet Android 9.0 de 10   Procesador de Cuatro núcleos 4GB de RAM y 64 GB de Memoria Tablet PC WiFi Cámara GPS y Doble Ranuras de Tarjeta SIM Internet 3G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSVJCTY/?tag=tolees-21'
 descuento: '17.53'
 average: '79.99'

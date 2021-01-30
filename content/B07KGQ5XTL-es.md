@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Lenovo PHAB 2 - Tablet de 7" HD  Procesador MediaTek 8735  RAM de 3GB  Memoria Interna de 32GB  Android  Bluetooth 4.0 + WiFi  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGQ5XTL/?tag=tolees-21'
 descuento: '49.75'
 average: '107.13285714285713'

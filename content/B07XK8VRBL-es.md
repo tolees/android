@@ -16,6 +16,7 @@ comparePrice: 803.25 EUR
 prodname: 'OnePlus 7T Pro  Pantalla AMOLED de 90Hz  8GB RAM + 256GB de Almacenamiento  Triple Cámara + Pop-Up Cámara  Warp Charge 30T  Bluetooth  Android  16.9"  Haze Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XK8VRBL/?tag=tolees-21'
 descuento: '20.32'
 average: '699.5'

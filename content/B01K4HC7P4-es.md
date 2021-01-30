@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Moto G4 Play - Smartphone de 5  4G  RAM de 2 GB  memoria interna de 16 GB  cámara de 8 MP  Android 6   blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K4HC7P4/?tag=tolees-21'
 descuento: '76.36'
 average: '226.67000000000002'

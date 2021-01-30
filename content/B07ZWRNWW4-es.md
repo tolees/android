@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: '2019 Nuevo Toque Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5.0 con Micrófono 3D Estéreo y Estuche de Carga portátil para iOS Android PC Sport Support Carga inalambrica  Blanco-R1. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZWRNWW4/?tag=tolees-21'
 descuento: '49.17'
 average: '29.99'

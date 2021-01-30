@@ -16,6 +16,7 @@ comparePrice: 168.0 EUR
 prodname: 'MAFENGWO Moviles Libres Baratos 4G  Teléfono Móvil de 5 2  Pulgadas 16GB ROM Android 8.1 Quad Core Smartphone Libres Baratos 2800mAh Batería Dual SIM Cámara Moviles Baratos y Buenos  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCMKPFW/?tag=tolees-21'
 descuento: '68.75'
 average: '52.5'

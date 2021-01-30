@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'YZPUSI USB C OTG Android Pendrive  USB 2.0 32gb USB Memoria Double Dual Flash Drive USB Stick para PC  Notebook  Smartphones Huawei  Tableta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK3YJ7G/?tag=tolees-21'
 descuento: '46.73'
 average: '7.99'

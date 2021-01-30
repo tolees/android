@@ -16,6 +16,7 @@ comparePrice: 265.99 EUR
 prodname: 'Samsung Galaxy Tab A - Tablet PC  USB  MALI-G71 MP2  Android  3 GB RAM | 64 GB  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRB829C/?tag=tolees-21'
 descuento: '21.43'
 average: '216.13500000000002'

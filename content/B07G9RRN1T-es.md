@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Mpow Manos Libres Auricular Bluetooth Manos Libres Oreja con Cancelación de Ruido Auricular Bluetooth Telefono 16H de Llamda Clara Manos Libres Bluetooth para iOS Android  Negocios/Oficina/Conducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9RRN1T/?tag=tolees-21'
 descuento: '37.51'
 average: '19.99'

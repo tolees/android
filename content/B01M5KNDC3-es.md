@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Honor 6X - Smartphone libre de 5.5"  lector de huellas  3 GB RAM  32 GB ROM  EMUI 4.1 compatible con Android M  Full HD 1080p  Kirin 655 octa core  cámara 12 MP + 2 MP AF  frontal 8 MP   plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5KNDC3/?tag=tolees-21'
 descuento: '55.76'
 average: '108.334'

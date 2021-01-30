@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'FITFORT Pulsera de Actividad Reloj Inteligente para Hombre y Mujer  IP68 Impermeable Reloj Deportivo con Rtmo Cardíaco  Presión Sanguínea  Sueño Monitor  Contador y Calorías para Android y iOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB16JKR/?tag=tolees-21'
 descuento: '34.79'
 average: '33.99'

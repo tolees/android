@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'Sony Xperia XZ1 - Smartphone de 5.2"  Bluetooth  Octa Core Snapdragon 835  4 GB de RAM  Memoria Interna de 64 GB  cámara de 19 MP  Android  Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757Y2LFK/?tag=tolees-21'
 descuento: '66.46'
 average: '241.94307692307692'

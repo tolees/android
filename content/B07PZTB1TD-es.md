@@ -16,6 +16,7 @@ comparePrice: 96.99 EUR
 prodname: 'YUNTAB 7 Pulgadas Kids Tablet PC Q91 Juego y Aprendizaje Android 8.1 A50 1.5GHz Quad Core WiFi Doble cámara 3D Juego con Estuche para Tableta  Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZTB1TD/?tag=tolees-21'
 descuento: '44.33'
 average: '56.32333333333334'

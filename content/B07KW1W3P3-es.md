@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Baseus Cargador de Coche 5A 30W Tipo C con PD Carga rápida QC4.0 Car Charger de Puerto Dual Compatible con Apple  Samsung y Otros teléfonos móviles y tabletas iOS o Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW1W3P3/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

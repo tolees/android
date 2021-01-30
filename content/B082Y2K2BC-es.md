@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Ticwatch Pro 2020 Reloj Inteligente 1GB RAM  Pantalla en Capas  NFC  24H frecuencia cardíaca  GPS  Seguimiento del sueño  Música  IP68 Compatible con Android iOS  Metal Silver'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Y2K2BC/?tag=tolees-21'
 descuento: '20.97'
 average: '224.48000000000002'

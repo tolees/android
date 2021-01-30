@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'H96 MAX+ Android 9.0 TV Box 4GB RAM/32GB ROM 4K Ultra HD RK3328 Quad Core Soporte 2.4GHz WiFi con Wireless Mini Backlight Keyboard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNPFCBB/?tag=tolees-21'
 descuento: '45.56'
 average: '48.99'

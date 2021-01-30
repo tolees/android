@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'TEKKIWEAR. DMX121BK. Smartwatch Phone H1 Dual Core con Sistema Operativo Android 4.4 con Cámara  GPS Y Wi-Fi. Varios Idiomas Disponibles. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJX8WL5/?tag=tolees-21'
 descuento: '62.94'
 average: '159.0'

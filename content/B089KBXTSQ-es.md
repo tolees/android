@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Auricular Bluetooth 5.0  Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares Apple iPhone Android Samsung Huawei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089KBXTSQ/?tag=tolees-21'
 descuento: '40.02'
 average: '21.49'

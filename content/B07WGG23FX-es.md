@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'CUBOT Quest 4G Smartphone IP68 Robusto 4GB RAM + 64GB ROM Pantalla 5.5" HD Android 9.0 procesador Octa-Core Dual SIM Triple Cámara12+2+8MP 4000 mAh Oat/NFC/Face ID/Huella Digital/Type-C Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGG23FX/?tag=tolees-21'
 descuento: '15.16'
 average: '144.22'

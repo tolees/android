@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joystick del Juego   DOYO S501，Arcade Joysitck para SWITCH / PC XInput / PC Directinput/ PS3 / NEOGEO / RPI / Android Joystick multifunctión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZCZ41P/?tag=tolees-21'
 descuento: '23.61'
 average: '34.52'

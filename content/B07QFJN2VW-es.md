@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Huyeta Smartwatch Reloj Inteligente 5ATM Impermeable Pulsera Actividad Inteligente Reloj Deportivo con Pantalla Táctil Completa Pulsómetro Cronómetros para iPhone iOS Android  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFJN2VW/?tag=tolees-21'
 descuento: '28.01'
 average: '39.24'

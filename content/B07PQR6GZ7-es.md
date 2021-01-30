@@ -16,6 +16,7 @@ comparePrice: 507.92 EUR
 prodname: 'AUCARY Proyector  Mini Proyector T7  Proyector Portátil  854x480  3D DLP-Link  Proyector LED Android  Soporte USB/IR / 4K / HDMI  4K Proyector con Sonido Dolby para Proyector Cine en Casa  16G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQR6GZ7/?tag=tolees-21'
 descuento: '37.00'
 average: '323.3233333333333'

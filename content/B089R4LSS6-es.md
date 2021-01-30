@@ -16,6 +16,7 @@ comparePrice: 57.25 EUR
 prodname: 'Temfly Webcam  Webcam PC 1080P HD Webcam y Microfono Cámara Web USB 2.0 Gran Angular de 360 °Webcam para Ordenador  Video Chat y Grabación  Compatible con Windows  Mac y Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R4LSS6/?tag=tolees-21'
 descuento: '24.91'
 average: '42.99'

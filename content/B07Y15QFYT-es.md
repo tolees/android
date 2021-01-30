@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'TOSCIDO 4G LTE Tablet 10 Pulgadas1920*1200 IPS HD - Android 10.0 Certificado por Google GMS 4GB RAM 128GB ROM Octa Core 2GHz CPU de Alta Velocidad Doule Sim WiFi Doble Altavoz Estéreo - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y15QFYT/?tag=tolees-21'
 descuento: '17.82'
 average: '179.98'

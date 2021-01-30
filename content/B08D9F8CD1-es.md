@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Blackview BV6300 Pro Móvil Libre Resistente Android 10 Smartphone 4G con Cámara Cuádruple 16MP+13MP  Helio P70 Octa-Core  6GB+128GB-SD 128GB  Batería 4380mAh  5.7” HD+ Teléfono Robusto  NFC/GPS-Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D9F8CD1/?tag=tolees-21'
 descuento: '23.33'
 average: '245.99'

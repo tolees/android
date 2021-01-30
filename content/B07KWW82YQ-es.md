@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'L&WB Una Pantalla inalámbrica Adaptador WiFi dongle 1080P HDMI Support/Chromecast TV/DLNA/Airplay/Miracast  para MacBook Android y PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWW82YQ/?tag=tolees-21'
 descuento: '17.53'
 average: '32.97'

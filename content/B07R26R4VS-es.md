@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Motorola One Vision - Smartphone Android One  4 GB de RAM  128 GB  Cámara 48 MP Quad Pixel  Pantalla 6.3   FHD+ CinemaVision  ratio 21:9  Dual SIM   color bronce [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R26R4VS/?tag=tolees-21'
 descuento: '30.80'
 average: '225.99'

@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'HONOR 20  - Smartphone Android 9  6 26" FHD  48MP + 16MP + 2MP + 2MP  frontal 32MP  6 GB de RAM  128 GB memoria  batería 3750 mAh   color Negro + Honor Band 4 + Honor Sport Bluetooth Earphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RSSRJ3P/?tag=tolees-21'
 descuento: '16.69'
 average: '499.0'

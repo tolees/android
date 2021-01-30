@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tablet para Niños con WiFi 9.0 Pulgadas 3GB RAM 32GB/128GB ROM Android 9.0 Pie Certificado por Google GMS Tablet Infantil 1.5Ghz Quad Core Batería 6000mAh Tablet PC Netflix Juegos Educativos Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CKK4WG2/?tag=tolees-21'
 descuento: '60.31'
 average: '78.99'

@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'UMIDIGI One Pro Smartphone Libre 4G Volte 5.9" Incell 19: 9 Soporte Cargador inalámbrico de 15W Batería 4150mAh 4GBRAM+64GB ROM Doble Cámara12MP+5MP Face Unlock Android 8.1[Crepúsculo]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB2XDF4/?tag=tolees-21'
 descuento: '34.78'
 average: '149.99'
