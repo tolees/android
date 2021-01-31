@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.16 % en Huawei Mediapad T3 10 - Tableta 9.6"  HD'
-date: 2021-01-29 18:02:35
+title: 'Descuento del 26.27 % en Huawei Mediapad T3 10 - Tableta 9.6"  HD'
+date: 2021-01-31 15:46:51
 image: 'https://m.media-amazon.com/images/I/41s9E0yFeIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,30 @@ author: ring
 slug: 'B06XWJ5HMY-es Huawei Mediapad T3 10 - Tableta 9.6" HD IPS WiFi...'
 sku: 'B06XWJ5HMY-es'
 tags: [ 'android', ]
-actualPrice: 119.0 EUR
+actualPrice: 117.23 EUR
 currency: EUR
-price: 119.0
+price: 117.23
 comparePrice: 159.0 EUR
 prodname: 'Huawei Mediapad T3 10 - Tableta 9.6"  HD IPS  WiFi  Procesador Quad-Core Snapdragon 425  2GB RAM  16GB Memoria Interna  Android 7  color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B06XWJ5HMY/?tag=tolees-21'
-descuento: '25.16'
-average: '115.408468468468'
+descuento: '26.27'
+average: '115.440707964602'
 ---
 
-Tienes [Huawei Mediapad T3 10 - Tableta 9.6"  HD IPS  WiFi  Procesador Quad-Core Snapdragon 425  2GB RAM  16GB Memoria Interna  Android 7  color Gris](https://www.amazon.es/dp/B06XWJ5HMY/?tag=tolees-21) con un 25.16 % de descuento con precio de oferta de 119.0 EUR (original: 159.0 EUR) en el siguiente enlace!
+Tienes [Huawei Mediapad T3 10 - Tableta 9.6"  HD IPS  WiFi  Procesador Quad-Core Snapdragon 425  2GB RAM  16GB Memoria Interna  Android 7  color Gris](https://www.amazon.es/dp/B06XWJ5HMY/?tag=tolees-21) con un 26.27 % de descuento con precio de oferta de 117.23 EUR (original: 159.0 EUR) en el siguiente enlace!
 
 [![Huawei Mediapad T3 10 - Tableta 9.6"  HD](https://m.media-amazon.com/images/I/41s9E0yFeIL._SL200_.jpg)](https://www.amazon.es/dp/B06XWJ5HMY/?tag=tolees-21)
 
 ℹ️:
 
-- Sistema Operativo Android 7 Nougat + EMUI 5.1 Lite
-- 2 GB RAM, 16 GB almacenamiento, Batería de 4800 mAh
 - Procesador Quad-Core Qualcomm Snapdragon 425 hasta 1.4 GHz (4xA53@1.4 GHz)
-- No incluye ranura para SIM (sólo WiFi)
 - Cámara trasera de 5 Mp con enfoque automático y delantera de 2 Mp
+- No incluye ranura para SIM (sólo WiFi)
+- Sistema Operativo Android 7 Nougat + EMUI 5.1 Lite
 - Pantalla táctil IPS de 9.6 pulgadas con una resolución de 1280x800 pixeles
+- 2 GB RAM, 16 GB almacenamiento, Batería de 4800 mAh
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XWJ5HMY/?tag=tolees-21)
