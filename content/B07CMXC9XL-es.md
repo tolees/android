@@ -28,10 +28,10 @@ Tienes [Memoria USB Pendrive 128GB 64GB 32GB Wansenda S100 OTG USB 2.0 para Disp
 
 🔎:
 
-- New concept style, 2-in-1 design with a Micro-USB and USB 2.0 connector, easy for data transmission between computers, tablets and smart phones.
 - Plug and play, no need to install any software.
-- ✔ NOTE : * 12 months worry free warranty * You could get the premium usb memory stick and better service from us.We could make great efforts to solve any problems as soon as possible.
 - Provides additional storage for your Android devices.
+- New concept style, 2-in-1 design with a Micro-USB and USB 2.0 connector, easy for data transmission between computers, tablets and smart phones.
+- ✔ NOTE : * 12 months worry free warranty * You could get the premium usb memory stick and better service from us.We could make great efforts to solve any problems as soon as possible.
 - Portable, lightweight, 360 degree swivel design.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CMXC9XL/?tag=tolees-21)
