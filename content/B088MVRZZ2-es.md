@@ -28,11 +28,11 @@ Ahora mismo tienes [Motorola Edge - Smartphone 5G  pantalla curva o-notch 90 gra
 
 🔎:
 
-- Hasta dos días de batería; Disfruta de hasta dos días con la batería de 4500 mAh líder en su clase gama, y de la carga rápida con TurboPower
-- Pantalla envolvente Endless Edge; Disfruta de unas vistas impresionantes en una pantalla OLED de 6.7" que se extiende por incluye los bordes
-- Sistema de triple cámara de 64 MP; La resolución de la cámara te permite capturarlo todo: desde una resolución alta hasta una luz nítida con poca luz, y desde el ultra gran angular hasta el ultra zoom
-- Móvil compatible con Portugal
 - El sonido estéreo alto y potente; La potencia alta y la reconocida tecnología de ajuste de sonido ofrecen un rendimiento sonoro con calidad de estudio
+- Hasta dos días de batería; Disfruta de hasta dos días con la batería de 4500 mAh líder en su clase gama, y de la carga rápida con TurboPower
 - Rendimiento ultra potente 5G; Experimenta la velocidad en estado puro con la red inalámbrica, más un procesador asombrosamente rápido, 6 GB de memoria y 128 GB de almacenamiento
+- Móvil compatible con Portugal
+- Sistema de triple cámara de 64 MP; La resolución de la cámara te permite capturarlo todo: desde una resolución alta hasta una luz nítida con poca luz, y desde el ultra gran angular hasta el ultra zoom
+- Pantalla envolvente Endless Edge; Disfruta de unas vistas impresionantes en una pantalla OLED de 6.7" que se extiende por incluye los bordes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088MVRZZ2/?tag=tolees-21)
