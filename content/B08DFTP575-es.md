@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 20.41 % en Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.'
-date: 2021-01-31 07:34:31
+title: 'Descuento del 24.39 % en Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.'
+date: 2021-02-08 16:44:08
 image: 'https://m.media-amazon.com/images/I/41zeTjNtgTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B08DFTP575-es Xiaomi Mi Note 10 Lite Pantalla FHD+ 6.47" 6GB + 64GB;...'
 sku: 'B08DFTP575-es'
 tags: [ 'android', ]
-actualPrice: 293.7 EUR
+actualPrice: 279.0 EUR
 currency: EUR
-price: 293.7
+price: 279.0
 comparePrice: 369.0 EUR
 prodname: 'Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 64GB; Cámara 64MP  Snapdragon 730G  Dual 4G  5260mAh con Carga rápida 30W  Android 10  Negro [versión española]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08DFTP575/?tag=tolees-21'
-descuento: '20.41'
-average: '303.228571428572'
+descuento: '24.39'
+average: '279.0'
 ---
 
-Tienes [Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 64GB; Cámara 64MP  Snapdragon 730G  Dual 4G  5260mAh con Carga rápida 30W  Android 10  Negro [versión española]](https://www.amazon.es/dp/B08DFTP575/?tag=tolees-21) con un 20.41 % de descuento con precio de oferta de 293.7 EUR (original: 369.0 EUR) en el siguiente enlace!
+Tienes [Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 64GB; Cámara 64MP  Snapdragon 730G  Dual 4G  5260mAh con Carga rápida 30W  Android 10  Negro [versión española]](https://www.amazon.es/dp/B08DFTP575/?tag=tolees-21) con un 24.39 % de descuento con precio de oferta de 279.0 EUR (original: 369.0 EUR) en el siguiente enlace!
 
 [![Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.](https://m.media-amazon.com/images/I/41zeTjNtgTL._SL200_.jpg)](https://www.amazon.es/dp/B08DFTP575/?tag=tolees-21)
 
 ℹ️:
 
-- Procesador Snapdragon 730G; ofrece un rendimiento rápido, perfecto para una experiencia ininterrumpida; frecuencia de la CPU: Procesador Kyrio de 8 núcleos, hasta 2.2GHz; gPU: Adreno 618
-- Batería enorme de 5260mAh proporcionando suficiente energía para durar 2 días de uso; carga rápida de 30W, podrás recargar la batería de 0% a 100% en 64 minutos
 - Pantalla AMOLED Full HD+ de 6.47", diseño elegante con cubierta 3D curvada en la parte delantera y trasera; con una relación pantalla-cuerpo del 91.4% lo que ofrece una inmensa capacidad de visualización junto con un agarre cómodo
-- Cámara cuádruple de 64MP con vídeo 4K y cámara frontal selfie de 16MP
 - Mi Note 10 Lite es el teléfono perfecto para tu día a día trabajar y jugar
+- Batería enorme de 5260mAh proporcionando suficiente energía para durar 2 días de uso; carga rápida de 30W, podrás recargar la batería de 0% a 100% en 64 minutos
+- Procesador Snapdragon 730G; ofrece un rendimiento rápido, perfecto para una experiencia ininterrumpida; frecuencia de la CPU: Procesador Kyrio de 8 núcleos, hasta 2.2GHz; gPU: Adreno 618
+- Cámara cuádruple de 64MP con vídeo 4K y cámara frontal selfie de 16MP
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DFTP575/?tag=tolees-21)
