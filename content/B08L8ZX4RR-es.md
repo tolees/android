@@ -30,8 +30,8 @@ Tienes [AIKELA Smartwatch Relojes Inteligentes Mujer Hombre Deporte Reloj de Fit
 
 - 【Pantalla táctil HD de 1.3 pulgadas】Smartwatch Aikela equipado con pantalla táctil de 1.3. Pantalla grande y tacto suave que le permite ver los datos deportivos de forma clara y sencilla.La pantalla tiene 3 modos de brillos ajustables para adaptarse a cada situación,tanto interior como exterior.
 - 【Monitor de datos de salud personal】 Reloj de actividad inteligente con sueño / frecuencia cardíaca / presión arterial / oxígeno en sangre / frecuencia cardíaca / monitor de ciclo menstrual femenino, monitoreo integral de sus datos de salud. De acuerdo con los datos y su acción, se le recordará que relaje su estado de ánimo y regule la respiración. （Los datos solo son de referencia.）
+- 【9 modos deportivos】 Sea su entrenador de entrenamiento personal. Puede controlar sus datos de carrera, caminata, ciclismo, senderismo, escalada, cinta de correr, spinning, yoga, que pueden proporcionar datos de referencia para su análisis y mejora diaria de la salud.
 - 【Batería liviana y de larga duración】 Solo pesa 39 gy la batería puede durar de 5 a 7 días después de 2,5 horas de carga.
 - 【Impermeable IP68 y batería】 Capacidad resistente hasta una profundidad de 50 metros bajo agua, perfecto para vida cotidiana sin quitarse de tu mano, como lavarse las manos, la ducha y piscina.
-- 【9 modos deportivos】 Sea su entrenador de entrenamiento personal. Puede controlar sus datos de carrera, caminata, ciclismo, senderismo, escalada, cinta de correr, spinning, yoga, que pueden proporcionar datos de referencia para su análisis y mejora diaria de la salud.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L8ZX4RR/?tag=tolees-21)
