@@ -28,8 +28,8 @@ Tienes [HMP / Infomir - MAG 410 Original Infomir & HMP Android IPTV Set Top Box 
 
 🔎:
 
-- Fuentes de contenido multimedia: PC y NAS en red local, protocolos multimedia en stream (RTSP, RTP, UDP, IGMP, HTTP), dispositivos USB. No hay emisoras IPTV preinstaladas en el dispositivo.
 - Rendimiento 15 000 DMIPS Memoria RAM 2 Gb Flash Memoria 8 Gb
 - Chipset AmL S905X procesador ARM Cortex A53 Quad Core CPU 1500 ?? ? Procesador gráfico Mali 450MP
+- Fuentes de contenido multimedia: PC y NAS en red local, protocolos multimedia en stream (RTSP, RTP, UDP, IGMP, HTTP), dispositivos USB. No hay emisoras IPTV preinstaladas en el dispositivo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078BMVJ9N/?tag=tolees-21)
