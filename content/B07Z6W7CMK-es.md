@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO A5 2020 – Pantalla de 6.5"  HD+  3  al 30.16 % de descuento'
-date: 2021-02-08 14:57:41
+date: 2021-02-09 16:17:03
 image: 'https://m.media-amazon.com/images/I/41Itlw1tTYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oppo'
 buyurl: 'https://www.amazon.es/dp/B07Z6W7CMK/?tag=tolees-21'
 descuento: '30.16'
-average: '139.474310344828'
+average: '139.458166666667'
 ---
 
 Ahora mismo tienes [OPPO A5 2020 – Pantalla de 6.5"  HD+  3 GB/ 64 GB  Snapdragon 665  5.000 mAh  cámara trasera 12 Mpx + 8 Mpx  gran angular  + 2 Mpx + 2 Mpx  Android 9  Blanco](https://www.amazon.es/dp/B07Z6W7CMK/?tag=tolees-21) a 138.99 EUR (original: 199.0 EUR) (30.16 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [OPPO A5 2020 – Pantalla de 6.5"  HD+  3 GB/ 64 GB  Snapdra
 
 🔎:
 
-- 3gb ram + 64gb rom
-- Pantalla waterdrop 6 5" hd+
 - Modo gaming (game boost 2 0) + dolby atmos + sonido estéreo
 - Cámara cuádruple (12mp + 8mp + 2mp + 2mp)
+- Pantalla waterdrop 6 5" hd+
+- 3gb ram + 64gb rom
 - Batería 5000mah + carga flash vooc
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z6W7CMK/?tag=tolees-21)
