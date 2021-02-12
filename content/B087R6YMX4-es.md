@@ -28,10 +28,10 @@ Tienes [HAFURY Smartwatch  Reloj Inteligentecon Impermeable IP68 con Pulsómetro
 
 🔎:
 
-- 【Pantalla táctil de 1.3 pulgadas】 Este reloj utiliza una pantalla táctil de 1.3 pulgadas. Es capaz de controlar su actividad diaria, como contar pasos, calorías quemadas, distancia y tiempo de entrenamiento, etc. Cada vez que reciba una notificación push, SMS, llamadas o mensajes suyos. Adecuado para mujeres hombres niños, este será el mejor regalo.
 - 【Aplicación para teléfono inteligente】 Los entrenamientos son grabados por la aplicación VeryFitPro, que monitorea con precisión y entiende su salud de una manera más simple e intuitiva.
-- 【5ATM a prueba de agua】 HAFURY Smartwatch 5ATM a prueba de agua, como IP68, también el más alto nivel de impermeabilidad. Se puede usar mientras se nada, y también puede registrar varios datos.
 - 【8 modos deportivos】 Este rastreador de actividad física puede controlar la actividad de 8 deportes: estado físico, caminar, correr, yoga, senderismo, escalada, cinta de correr, bicicleta. Al hacer deporte, puedes controlar tu música, la música es el mejor compañero.
 - 【Batería de reloj inteligente】 Utiliza un chip Bluetooth de baja potencia incorporado, capacidad de batería de 210 mAh, el rastreador de actividad es fácil de cargar rápidamente y una batería de larga duración. Después de una carga de 2.5 horas, el reloj se puede usar durante 8-10 días.
+- 【5ATM a prueba de agua】 HAFURY Smartwatch 5ATM a prueba de agua, como IP68, también el más alto nivel de impermeabilidad. Se puede usar mientras se nada, y también puede registrar varios datos.
+- 【Pantalla táctil de 1.3 pulgadas】 Este reloj utiliza una pantalla táctil de 1.3 pulgadas. Es capaz de controlar su actividad diaria, como contar pasos, calorías quemadas, distancia y tiempo de entrenamiento, etc. Cada vez que reciba una notificación push, SMS, llamadas o mensajes suyos. Adecuado para mujeres hombres niños, este será el mejor regalo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087R6YMX4/?tag=tolees-21)
