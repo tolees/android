@@ -28,10 +28,10 @@ En este momento está [CatShin Reloj Inteligente Mujer smartwatch Mujer Android 
 
 🔎:
 
-- ⌚ compatibilidad : relojes smartwatch bluetooth 4.2~5.0,batería de 140 mah(el tiempo de carga es de 2 horas, la carga completa puede admitir 3-5 días de uso o 30 días de tiempo de espera)Admite iOS 9.0 o superior y sistema Android 4.4 o superior(iphone,samsung,huawei,xiaomi,google,HTC,Sony, LG, ZTE ecc).
-- ⌚ smart watch reloj inteligente : ip68 a prueba de agua,es completamente a prueba de polvo e impermeable.puede acompañarte perfectamente en la vida cotidiana.donde quiera que vaya,como lavarse las manos,caminar bajo la lluvia,ducharse (SIN AGUA CALIENTE),nadar,etc.
 - ⌚ smartwatch mujer android : monitores de actividad función de monitore de conteo de pasos,monitore de frecuencia cardíaca,monitore de presión arterial,monitore de oxígeno en sangre,monitore del sueño,monitore de calorías,recordatorio de llamadas,recordatorio de mensajes,recordatorio sedentario,recordatorio de despertador,temporizador,control de música,búsqueda de reloj,visualización de hora y fecha.¡el reloj inteligente tiene un pequeño juego que se puede entretener en el reloj!
 - ⌚ reloj inteligente mujer : pantalla táctil smartwatch hecho de correa de acero inoxidable,vidrio templado 2.5D,combinación de aleación de zinc y carcasa redondo de plástico.pantalla TFT-LCD de 1.09 pulgadas,resolución de 240 * 240 píxeles,el reloj inteligente tiene 24 idiomas,incluido el español.Hay varias esferas de reloj para elegir y también se pueden personalizar para descargar.
+- ⌚ compatibilidad : relojes smartwatch bluetooth 4.2~5.0,batería de 140 mah(el tiempo de carga es de 2 horas, la carga completa puede admitir 3-5 días de uso o 30 días de tiempo de espera)Admite iOS 9.0 o superior y sistema Android 4.4 o superior(iphone,samsung,huawei,xiaomi,google,HTC,Sony, LG, ZTE ecc).
 - ⌚relojes inteligentes hombre : smartwatch 6 opciones de modo deportivo（corriendo,caminando,excursionismo,columpio,saltar cuerda,ejercicio）podómetro,calorías,velocidad,distancia,proporcionará datos de referencia para su análisis y mejora de salud diarios. Puedes comprobar el detalle en el reloj y la aplicación.
+- ⌚ smart watch reloj inteligente : ip68 a prueba de agua,es completamente a prueba de polvo e impermeable.puede acompañarte perfectamente en la vida cotidiana.donde quiera que vaya,como lavarse las manos,caminar bajo la lluvia,ducharse (SIN AGUA CALIENTE),nadar,etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08J3XTKBM/?tag=tolees-21)
