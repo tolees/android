@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 24.39 % en Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.'
-date: 2021-02-12 05:55:04
+date: 2021-02-13 05:57:41
 image: 'https://m.media-amazon.com/images/I/41zeTjNtgTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 64GB; Cámara 64MP  S
 
 ℹ️:
 
+- Batería enorme de 5260mAh proporcionando suficiente energía para durar 2 días de uso; carga rápida de 30W, podrás recargar la batería de 0% a 100% en 64 minutos
 - Pantalla AMOLED Full HD+ de 6.47", diseño elegante con cubierta 3D curvada en la parte delantera y trasera; con una relación pantalla-cuerpo del 91.4% lo que ofrece una inmensa capacidad de visualización junto con un agarre cómodo
 - Cámara cuádruple de 64MP con vídeo 4K y cámara frontal selfie de 16MP
-- Mi Note 10 Lite es el teléfono perfecto para tu día a día trabajar y jugar
-- Batería enorme de 5260mAh proporcionando suficiente energía para durar 2 días de uso; carga rápida de 30W, podrás recargar la batería de 0% a 100% en 64 minutos
 - Procesador Snapdragon 730G; ofrece un rendimiento rápido, perfecto para una experiencia ininterrumpida; frecuencia de la CPU: Procesador Kyrio de 8 núcleos, hasta 2.2GHz; gPU: Adreno 618
+- Mi Note 10 Lite es el teléfono perfecto para tu día a día trabajar y jugar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DFTP575/?tag=tolees-21)
