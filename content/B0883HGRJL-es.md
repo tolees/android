@@ -28,13 +28,13 @@ En este momento está [Samsung Galaxy M21 - Smartphone Dual SIM de 6.4" sAMOLED 
 
 🔎:
 
+- Procesador Exynos 9611 Octa core 2.3GHz + 1.7GHz Chipset
+- Smartphone con Dual-SIM (Nano-SIM -4FF-), Wi-Fi, NFC y Bluetooth 5.0. Contiene NFC
 - Su configuración de 4 GB de RAM y 64 GB de almacenamiento interno, ampliable con una tarjeta microSD hasta 512 GB, permite poder almacenar gran cantidad de contenidos y archivos en tu Smartphone
+- Funciones premium en un teléfono asequible. Acelerómetro, sensor de huellas dactilares, desbloqueo facial, sensor giroscópico, sensor geomagnético, sensor de proximidad y sensor de luz virtual.
+- El teléfono móvil Galaxy M21 incluye conectores USB tipo C, USB 2.0 y 3.5.
 - Triple cámara: cámara principal de 48 MP, cámara de profundidad de 5MP , cámara Ultra Gran Angular de 8MP y cámara frontal de 20MP
 - Smartphone con sistema operativo Android V10
-- Funciones premium en un teléfono asequible. Acelerómetro, sensor de huellas dactilares, desbloqueo facial, sensor giroscópico, sensor geomagnético, sensor de proximidad y sensor de luz virtual.
 - El Galaxy M21 cuenta con una batería de iones de litio de 6000 mAh de alto rendimiento, con función de carga rápida móvil de 15 vatios
-- Procesador Exynos 9611 Octa core 2.3GHz + 1.7GHz Chipset
-- El teléfono móvil Galaxy M21 incluye conectores USB tipo C, USB 2.0 y 3.5.
-- Smartphone con Dual-SIM (Nano-SIM -4FF-), Wi-Fi, NFC y Bluetooth 5.0. Contiene NFC
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0883HGRJL/?tag=tolees-21)
