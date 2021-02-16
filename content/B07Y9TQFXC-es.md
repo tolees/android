@@ -28,10 +28,10 @@ Tienes [Blackview Smartwatch  Reloj Inteligente con Pulsómetro Mujer Hombre Ni�
 
 🔎:
 
-- 👍 [24/7 monitor cardiaca y actividades de seguimiento] -avanzado sensor HR, precisa y eficaz de la frecuencia cardíaca para detectar, sueño seguimiento automatizado, y UN análisis exhaustivo de su sueño (sueño profundo, sueño ligero y tiempo de vigilia), y se centra sobre su estado de salud.
-- 👍 [Smartwatch Mujer Hombre niños] -El reloj inteligente Blackview BV-SW01 utiliza una pantalla táctil a color TFT-LCD de 1.3 pulgadas, pantalla más clara, más conveniente de operar, le brinda una nueva experiencia de actualización.
-- 👍 [Garantía de devolución del 100% del dinero] Nuestro servicio postventa garantiza su disfrute a largo plazo. Si tiene alguna pregunta sobre el Blackview smartwatch, comuníquese con nosotros. Respondemos en menos de 24 horas para resolver tus dudas con el producto.
-- 👍 [SUMERGIBLE 5ATM] Este smartwatch cumple con los requisitos para soportar hasta una presión de 5 ATM, 50 metros, puedes usarlo para lavarte las manos, nadar o hacer ejercicio bajo la lluvia, (no es adecuado usarlo con agua caliente , ni agua de mar)
 - 👍 [Reloj de Fitness para iOS y Android ] -reciba notificaciones de llamadas, mensajes de texto, calendario y aplicaciones (Facebook, WhatsApp, LinkedIn, Instagram y Twitter) cuando su teléfono se conecta al smart watch, incluso puede colgar las llamadas entrantes de su .
+- 👍 [24/7 monitor cardiaca y actividades de seguimiento] -avanzado sensor HR, precisa y eficaz de la frecuencia cardíaca para detectar, sueño seguimiento automatizado, y UN análisis exhaustivo de su sueño (sueño profundo, sueño ligero y tiempo de vigilia), y se centra sobre su estado de salud.
+- 👍 [Garantía de devolución del 100% del dinero] Nuestro servicio postventa garantiza su disfrute a largo plazo. Si tiene alguna pregunta sobre el Blackview smartwatch, comuníquese con nosotros. Respondemos en menos de 24 horas para resolver tus dudas con el producto.
+- 👍 [Smartwatch Mujer Hombre niños] -El reloj inteligente Blackview BV-SW01 utiliza una pantalla táctil a color TFT-LCD de 1.3 pulgadas, pantalla más clara, más conveniente de operar, le brinda una nueva experiencia de actualización.
+- 👍 [SUMERGIBLE 5ATM] Este smartwatch cumple con los requisitos para soportar hasta una presión de 5 ATM, 50 metros, puedes usarlo para lavarte las manos, nadar o hacer ejercicio bajo la lluvia, (no es adecuado usarlo con agua caliente , ni agua de mar)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y9TQFXC/?tag=tolees-21)
