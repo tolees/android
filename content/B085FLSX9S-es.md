@@ -28,9 +28,9 @@ Tienes [HUAWEI P40 Lite - Smartphone con Pantalla de 16.3 cm  6.4"  6 GB 128 GB 
 
 🔎:
 
-- Procesador: Kirin 810 2.27Ghz
-- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
-- Batería: 4200 mAh
 - Pantalla: 6.4", 1080 x 2310 pixels
+- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
+- Procesador: Kirin 810 2.27Ghz
+- Batería: 4200 mAh
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085FLSX9S/?tag=tolees-21)
