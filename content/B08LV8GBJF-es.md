@@ -28,10 +28,10 @@ En este momento está [ZONMAI - Tablet para Niños 7 Pulgadas Android 10.0 Googl
 
 🔎:
 
-- El último Sistema Operativo: Certificado por Google GMS, tablet con sistema operativo Android 10 con el que podrás acceder completamente a Google Play, Netflix, Youtube. Equipada con un procesador de cuatro núcleos a 1.6 GHz para darte una respuesta rápida a tus APP diarias con operaciones fluidas.
 - Memoria Ampliable: Con 2 GB RAM + 32 GB de memoria ROM ampliables a 128GB mediante una tarjeta micro SD para que puedas descargar y almacenar gran cantidad de vídeos, juegos y fotos, etc.
+- Garantía Postventa: El mejor regalo para sus hijos, deje que sea su asistente para acompañar a sus hijos y una herramienta educativa para facilitar su aprendizaje. Con 1 año de garantía (excepto por daños provocados por el hombre) y servicio de devolución incondicional de 30 días. Si tiene alguna pregunta, no dude en contactarnos.
+- El último Sistema Operativo: Certificado por Google GMS, tablet con sistema operativo Android 10 con el que podrás acceder completamente a Google Play, Netflix, Youtube. Equipada con un procesador de cuatro núcleos a 1.6 GHz para darte una respuesta rápida a tus APP diarias con operaciones fluidas.
 - Funda Protectora de Silicona: Protege de las caídas, abrasión y polvo. La parte posterior viene equipada con un soporte ajustable, para que usted y su hijo puedan "sostener" la tableta sin usar ambas manos.
 - Control Parental Premium: La tablet es adecuada para niños de 2 a 12 años. La aplicación preinstalada iWawa brinda a los padres más control, con el modo “Control parental”, puedes elegir manualmente que aplicaciones podrán usar tus hijos, incluidos los juegos de puzle, vídeos educacionales y webs.
-- Garantía Postventa: El mejor regalo para sus hijos, deje que sea su asistente para acompañar a sus hijos y una herramienta educativa para facilitar su aprendizaje. Con 1 año de garantía (excepto por daños provocados por el hombre) y servicio de devolución incondicional de 30 días. Si tiene alguna pregunta, no dude en contactarnos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LV8GBJF/?tag=tolees-21)
