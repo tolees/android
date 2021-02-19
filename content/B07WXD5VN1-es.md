@@ -29,8 +29,8 @@ Está [Lenovo Tab M8 - Tablet  3 cm/8"  HD IPS Touch  Mediatek A22 Tab Quad-Core
 ℹ️:
 
 - 8,15 mm de grosor, una cubierta posterior metálica y bordes redondeados
-- Batería que proporciona hasta 18 horas de navegación web
 - Pantalla táctil IPS HD
+- Batería que proporciona hasta 18 horas de navegación web
 - Diseño de gama alta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WXD5VN1/?tag=tolees-21)
