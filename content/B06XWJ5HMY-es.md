@@ -29,10 +29,10 @@ Tienes [Huawei Mediapad T3 10 - Tableta 9.6"  HD IPS  WiFi  Procesador Quad-Core
 ℹ️:
 
 - 2 GB RAM, 16 GB almacenamiento, Batería de 4800 mAh
-- Cámara trasera de 5 Mp con enfoque automático y delantera de 2 Mp
-- Procesador Quad-Core Qualcomm Snapdragon 425 hasta 1.4 GHz (4xA53@1.4 GHz)
 - Sistema Operativo Android 7 Nougat + EMUI 5.1 Lite
 - Pantalla táctil IPS de 9.6 pulgadas con una resolución de 1280x800 pixeles
+- Procesador Quad-Core Qualcomm Snapdragon 425 hasta 1.4 GHz (4xA53@1.4 GHz)
 - No incluye ranura para SIM (sólo WiFi)
+- Cámara trasera de 5 Mp con enfoque automático y delantera de 2 Mp
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XWJ5HMY/?tag=tolees-21)
