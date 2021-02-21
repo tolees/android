@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony Xperia XA1 - Smartphone con pantall al 46.61 % de descuento'
 date: 2020-04-14 22:33:19
-image: 'https://m.media-amazon.com/images/I/31SZKjw8NHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SZKjw8NHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '150.02894736842106'
 
 Está [Sony Xperia XA1 - Smartphone con pantalla HD de 5"  Octa Core 2.3 GHz  RAM de 3 GB  memoria interna de 32 GB  cámara de 23 MP  Android  Blanco](https://www.amazon.es/dp/B072DR4Q6Y/?tag=tolees-21) con 46.61 de descuento por 148.95 EUR (original: 279.0 EUR) en el siguiente enlace!
 
-[![Sony Xperia XA1 - Smartphone con pantall](https://m.media-amazon.com/images/I/31SZKjw8NHL._SL200_.jpg)](https://www.amazon.es/dp/B072DR4Q6Y/?tag=tolees-21)
+[![Sony Xperia XA1 - Smartphone con pantall](https://m.media-amazon.com/images/I/31SZKjw8NHL._SL400_.jpg)](https://www.amazon.es/dp/B072DR4Q6Y/?tag=tolees-21)
 
 ℹ️:
 

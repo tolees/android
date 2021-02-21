@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony Xperia L1 - Smartphone de 5.5"  Qua al 47.24 % de descuento'
 date: 2020-01-27 21:12:35
-image: 'https://m.media-amazon.com/images/I/31UDTyjc+XL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UDTyjc+XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '115.42'
 
 Está [Sony Xperia L1 - Smartphone de 5.5"  Quad Core 1.45 GHz  RAM de 2 GB  memoria interna de 16 GB  cámara de 13 MP  Android  Blanco](https://www.amazon.es/dp/B071NPQYBK/?tag=tolees-21) con 47.24 de descuento por 105.0 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Sony Xperia L1 - Smartphone de 5.5"  Qua](https://m.media-amazon.com/images/I/31UDTyjc+XL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071NPQYBK/?tag=tolees-21)
+[![Sony Xperia L1 - Smartphone de 5.5"  Qua](https://m.media-amazon.com/images/I/31UDTyjc+XL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071NPQYBK/?tag=tolees-21)
 
 ℹ️:
 

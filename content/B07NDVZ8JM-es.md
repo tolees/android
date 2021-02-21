@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony Xperia 10 Plus - Smartphone de 6 5" con un 24.84 % de descuento'
 date: 2020-09-25 10:04:27
-image: 'https://m.media-amazon.com/images/I/41uz7DmMFwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uz7DmMFwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '301.49333333333334'
 
 En este momento está [Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9 CinemaWide  Octa-Core de 1 8 Ghz  4 GB de RAM  64 GB de ROM  cámara dual de 12+8 MP  Android P  Dual Sim   Color Azul [Versión española]](https://www.amazon.es/dp/B07NDVZ8JM/?tag=tolees-21) a 322.43 EUR (original: 429.0 EUR) (24.84 %  de descuento) en el siguiente enlace!
 
-[![Sony Xperia 10 Plus - Smartphone de 6 5"](https://m.media-amazon.com/images/I/41uz7DmMFwL._SL200_.jpg)](https://www.amazon.es/dp/B07NDVZ8JM/?tag=tolees-21)
+[![Sony Xperia 10 Plus - Smartphone de 6 5"](https://m.media-amazon.com/images/I/41uz7DmMFwL._SL400_.jpg)](https://www.amazon.es/dp/B07NDVZ8JM/?tag=tolees-21)
 
 🔎:
 

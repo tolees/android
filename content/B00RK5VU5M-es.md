@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 19.23 % en TP-LINK - Router N300  Android '
 date: 2020-06-28 10:25:58
-image: 'https://m.media-amazon.com/images/I/31YjtC6MSrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YjtC6MSrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.1'
 
 Tienes [TP-LINK - Router N300  Android ](https://www.amazon.es/dp/B00RK5VU5M/?tag=tolees-21) con un 19.23 % de descuento con precio de oferta de 23.1 EUR (original: 28.6 EUR) en el siguiente enlace!
 
-[![TP-LINK - Router N300  Android ](https://m.media-amazon.com/images/I/31YjtC6MSrL._SL200_.jpg)](https://www.amazon.es/dp/B00RK5VU5M/?tag=tolees-21)
+[![TP-LINK - Router N300  Android ](https://m.media-amazon.com/images/I/31YjtC6MSrL._SL400_.jpg)](https://www.amazon.es/dp/B00RK5VU5M/?tag=tolees-21)
 
 ℹ️:
 

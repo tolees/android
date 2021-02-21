@@ -2,7 +2,7 @@
 layout: post
 title: 'FKANT Batería Externa 10000mAh Power Ban al 66.24 % de descuento'
 date: 2020-07-02 00:35:41
-image: 'https://m.media-amazon.com/images/I/41MjwDaF3iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MjwDaF3iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.09'
 
 Ahora mismo tienes [FKANT Batería Externa 10000mAh Power Bank con 2 Salidas/Entradas Carga Rápida  QC 3.0 / PD 18W  Cargador Portátil Movil 4 Indicadores de LED para iPhone iPad Samsung Android Smartphones Tabletas](https://www.amazon.es/dp/B07XXZWDQX/?tag=tolees-21) a 15.19 EUR (original: 44.99 EUR) (66.24 %  de descuento) en el siguiente enlace!
 
-[![FKANT Batería Externa 10000mAh Power Ban](https://m.media-amazon.com/images/I/41MjwDaF3iL._SL200_.jpg)](https://www.amazon.es/dp/B07XXZWDQX/?tag=tolees-21)
+[![FKANT Batería Externa 10000mAh Power Ban](https://m.media-amazon.com/images/I/41MjwDaF3iL._SL400_.jpg)](https://www.amazon.es/dp/B07XXZWDQX/?tag=tolees-21)
 
 🔎:
 

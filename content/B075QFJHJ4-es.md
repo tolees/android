@@ -2,7 +2,7 @@
 layout: post
 title: 'AAB Selfie Pilot Negro 1 - piloto inalám al 75.57 % de rebaja'
 date: 2020-05-30 14:16:01
-image: 'https://m.media-amazon.com/images/I/41CzScWstQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CzScWstQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.83'
 
 Tienes [AAB Selfie Pilot Negro 1 - piloto inalámbrico para realizar selfies  disparador a distancia para smartphones con el sistema iOS y Android](https://www.amazon.es/dp/B075QFJHJ4/?tag=tolees-21) con precio final de  1.83 EUR (original: 7.49 EUR) (75.57 %  de rebaja) aqui!
 
-[![AAB Selfie Pilot Negro 1 - piloto inalám](https://m.media-amazon.com/images/I/41CzScWstQL._SL200_.jpg)](https://www.amazon.es/dp/B075QFJHJ4/?tag=tolees-21)
+[![AAB Selfie Pilot Negro 1 - piloto inalám](https://m.media-amazon.com/images/I/41CzScWstQL._SL400_.jpg)](https://www.amazon.es/dp/B075QFJHJ4/?tag=tolees-21)
 
 🔎:
 

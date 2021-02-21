@@ -2,7 +2,7 @@
 layout: post
 title: 'TOUMEI Mini Proyector  Proyector Portáti al 30.10 % de descuento'
 date: 2020-03-18 15:01:09
-image: 'https://m.media-amazon.com/images/I/41fPcn1c5bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fPcn1c5bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '209.0'
 
 Ahora mismo tienes [TOUMEI Mini Proyector  Proyector Portátil Android 7.1 DLP Video Proyector 100ASIN Lúmenes  Soporte 1080P/ HDMI/ WiFi/ Bluetooth/ USB/ TF Tarjeta/ TV Stick  Negro ](https://www.amazon.es/dp/B07H56W2ZP/?tag=tolees-21) a 209.0 EUR (original: 299.0 EUR) (30.10 %  de descuento) en el siguiente enlace!
 
-[![TOUMEI Mini Proyector  Proyector Portáti](https://m.media-amazon.com/images/I/41fPcn1c5bL._SL200_.jpg)](https://www.amazon.es/dp/B07H56W2ZP/?tag=tolees-21)
+[![TOUMEI Mini Proyector  Proyector Portáti](https://m.media-amazon.com/images/I/41fPcn1c5bL._SL400_.jpg)](https://www.amazon.es/dp/B07H56W2ZP/?tag=tolees-21)
 
 🔎:
 

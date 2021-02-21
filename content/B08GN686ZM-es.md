@@ -2,7 +2,7 @@
 layout: post
 title: 'Ajcoflt Smartwatch  Un Reloj Deportivo I al 25.72 % de descuento'
 date: 2020-09-04 21:06:10
-image: 'https://m.media-amazon.com/images/I/411nENO4fHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411nENO4fHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.466000000000001'
 
 Está [Ajcoflt Smartwatch  Un Reloj Deportivo Inteligente para Controlar La Frecuencia CardíAca Y El SueñO  Pulsera PodóMetro Impermeable Ip67  Medidor De CaloríAs  Compatible con Sistemas iOS Y Android](https://www.amazon.es/dp/B08GN686ZM/?tag=tolees-21) con 25.72 de descuento por 8.98 EUR (original: 12.09 EUR) en el siguiente enlace!
 
-[![Ajcoflt Smartwatch  Un Reloj Deportivo I](https://m.media-amazon.com/images/I/411nENO4fHL._SL200_.jpg)](https://www.amazon.es/dp/B08GN686ZM/?tag=tolees-21)
+[![Ajcoflt Smartwatch  Un Reloj Deportivo I](https://m.media-amazon.com/images/I/411nENO4fHL._SL400_.jpg)](https://www.amazon.es/dp/B08GN686ZM/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Huawei P9 Plus - Smartphone de 5.5"  Blu al 78.17 % de descuento'
 date: 2020-05-29 00:53:00
-image: 'https://m.media-amazon.com/images/I/41fkBP2pi+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fkBP2pi+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '226.48'
 
 Está [Huawei P9 Plus - Smartphone de 5.5"  Bluetooth 4.2  4 GB RAM  Memoria Interna de 64 GB  cámara 12 MP  Android 6.0 Marshmallow   Color Gris](https://www.amazon.es/dp/B01DWEG21G/?tag=tolees-21) con 78.17 de descuento por 190.94 EUR (original: 874.58 EUR) en el siguiente enlace!
 
-[![Huawei P9 Plus - Smartphone de 5.5"  Blu](https://m.media-amazon.com/images/I/41fkBP2pi+L._SL200_.jpg)](https://www.amazon.es/dp/B01DWEG21G/?tag=tolees-21)
+[![Huawei P9 Plus - Smartphone de 5.5"  Blu](https://m.media-amazon.com/images/I/41fkBP2pi+L._SL400_.jpg)](https://www.amazon.es/dp/B01DWEG21G/?tag=tolees-21)
 
 ℹ️:
 

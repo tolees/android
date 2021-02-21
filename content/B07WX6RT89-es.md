@@ -2,7 +2,7 @@
 layout: post
 title: 'TECLAST Tablet PC Android M8 Pantalla 2. al 47.23 % de rebaja'
 date: 2020-04-09 09:49:10
-image: 'https://m.media-amazon.com/images/I/41j8qLvw6SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j8qLvw6SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.86500000000001'
 
 Tienes [TECLAST Tablet PC Android M8 Pantalla 2.5K de 8.4’’ 3GB+32GB 2560*1600 Protección Ocular Cámara de Sonido Dulce 8h Reproducción de Video Mali-T760 Graphics Processor A63 Expansión TF](https://www.amazon.es/dp/B07WX6RT89/?tag=tolees-21) con precio final de  99.99 EUR (original: 189.49 EUR) (47.23 %  de rebaja) aqui!
 
-[![TECLAST Tablet PC Android M8 Pantalla 2.](https://m.media-amazon.com/images/I/41j8qLvw6SL._SL200_.jpg)](https://www.amazon.es/dp/B07WX6RT89/?tag=tolees-21)
+[![TECLAST Tablet PC Android M8 Pantalla 2.](https://m.media-amazon.com/images/I/41j8qLvw6SL._SL400_.jpg)](https://www.amazon.es/dp/B07WX6RT89/?tag=tolees-21)
 
 🔎:
 

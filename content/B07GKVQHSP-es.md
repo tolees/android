@@ -2,7 +2,7 @@
 layout: post
 title: 'Xiaomi Mi 8 - Smartphone de 6.21"  Octa- al 17.47 % de descuento'
 date: 2020-06-01 03:45:27
-image: 'https://m.media-amazon.com/images/I/41z88TEv--L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41z88TEv--L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '387.6500000000001'
 
 Ahora mismo tienes [Xiaomi Mi 8 - Smartphone de 6.21"  Octa-Core Kryo 2.8 GHz  RAM de 6 GB  Memoria de 128 GB  cámara de 20 MP  Android 8.0  Color Azul [Versión española]](https://www.amazon.es/dp/B07GKVQHSP/?tag=tolees-21) a 453.1 EUR (original: 549.0 EUR) (17.47 %  de descuento) en el siguiente enlace!
 
-[![Xiaomi Mi 8 - Smartphone de 6.21"  Octa-](https://m.media-amazon.com/images/I/41z88TEv--L._SL200_.jpg)](https://www.amazon.es/dp/B07GKVQHSP/?tag=tolees-21)
+[![Xiaomi Mi 8 - Smartphone de 6.21"  Octa-](https://m.media-amazon.com/images/I/41z88TEv--L._SL400_.jpg)](https://www.amazon.es/dp/B07GKVQHSP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Radio 2 DIN Android  Auto Head Unit 1 +  al 33.53 % de descuento'
 date: 2020-08-31 00:19:34
-image: 'https://m.media-amazon.com/images/I/51DtPaYeetL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DtPaYeetL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '118.99'
 
 Ahora mismo tienes [Radio 2 DIN Android  Auto Head Unit 1 + 16G Pantalla táctil de 9"para VW in Dash 2 DIN Car Radio Soporte Bluetooth  WiFi  FM  Video  Cámara de Respaldo  GPS  Mirror Link  Controles del Volante](https://www.amazon.es/dp/B08DD7DWYK/?tag=tolees-21) a 118.99 EUR (original: 179.0 EUR) (33.53 %  de descuento) en el siguiente enlace!
 
-[![Radio 2 DIN Android  Auto Head Unit 1 + ](https://m.media-amazon.com/images/I/51DtPaYeetL._SL200_.jpg)](https://www.amazon.es/dp/B08DD7DWYK/?tag=tolees-21)
+[![Radio 2 DIN Android  Auto Head Unit 1 + ](https://m.media-amazon.com/images/I/51DtPaYeetL._SL400_.jpg)](https://www.amazon.es/dp/B08DD7DWYK/?tag=tolees-21)
 
 🔎:
 

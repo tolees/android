@@ -2,7 +2,7 @@
 layout: post
 title: '4G LTE Tablet 10 Pulgadas YOTOPT - Andro al 52.64 % de rebaja'
 date: 2020-05-25 23:54:30
-image: 'https://m.media-amazon.com/images/I/51OgQVGUNkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OgQVGUNkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '89.98'
 
 Tienes [4G LTE Tablet 10 Pulgadas YOTOPT - Android 9.0  4GB RAM y 64GB ROM  GPS/Bluetooth/WiFi Soporte  Oro ](https://www.amazon.es/dp/B07YTX9VBZ/?tag=tolees-21) con precio final de  89.98 EUR (original: 189.99 EUR) (52.64 %  de rebaja) aqui!
 
-[![4G LTE Tablet 10 Pulgadas YOTOPT - Andro](https://m.media-amazon.com/images/I/51OgQVGUNkL._SL200_.jpg)](https://www.amazon.es/dp/B07YTX9VBZ/?tag=tolees-21)
+[![4G LTE Tablet 10 Pulgadas YOTOPT - Andro](https://m.media-amazon.com/images/I/51OgQVGUNkL._SL400_.jpg)](https://www.amazon.es/dp/B07YTX9VBZ/?tag=tolees-21)
 
 🔎:
 

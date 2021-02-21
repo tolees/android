@@ -2,7 +2,7 @@
 layout: post
 title: 'Ticwatch S Sport - Reloj inteligente con al 39.51 % de descuento'
 date: 2020-10-07 13:44:36
-image: 'https://m.media-amazon.com/images/I/51XNKax715L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XNKax715L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '143.116'
 
 Está [Ticwatch S Sport - Reloj inteligente con GPS  pantalla táctil OLED y resistente al agua  compatible con iOS y Android  sistema Android Wear 2.0  color negro](https://www.amazon.es/dp/B077NB7P1F/?tag=tolees-21) con 39.51 de descuento por 120.97 EUR (original: 199.99 EUR) en el siguiente enlace!
 
-[![Ticwatch S Sport - Reloj inteligente con](https://m.media-amazon.com/images/I/51XNKax715L._SL200_.jpg)](https://www.amazon.es/dp/B077NB7P1F/?tag=tolees-21)
+[![Ticwatch S Sport - Reloj inteligente con](https://m.media-amazon.com/images/I/51XNKax715L._SL400_.jpg)](https://www.amazon.es/dp/B077NB7P1F/?tag=tolees-21)
 
 ℹ️:
 

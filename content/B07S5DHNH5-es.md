@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 47.84 % en HalfSun Impermeable IP67 Smartwatch  HD '
 date: 2020-07-21 08:35:51
-image: 'https://m.media-amazon.com/images/I/41SxCo-s7dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SxCo-s7dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.495000000000005'
 
 Tienes [HalfSun Impermeable IP67 Smartwatch  HD Color Screen Pulsera Inteligente con Pulsómetro  Monitor de Presión Arterial，Monitor de Calorías  Sueño  Podómetro，Pulsera Actividad para Android y iOS](https://www.amazon.es/dp/B07S5DHNH5/?tag=tolees-21) con un 47.84 % de descuento con precio de oferta de 35.99 EUR (original: 69.0 EUR) en el siguiente enlace!
 
-[![HalfSun Impermeable IP67 Smartwatch  HD ](https://m.media-amazon.com/images/I/41SxCo-s7dL._SL200_.jpg)](https://www.amazon.es/dp/B07S5DHNH5/?tag=tolees-21)
+[![HalfSun Impermeable IP67 Smartwatch  HD ](https://m.media-amazon.com/images/I/41SxCo-s7dL._SL400_.jpg)](https://www.amazon.es/dp/B07S5DHNH5/?tag=tolees-21)
 
 ℹ️:
 

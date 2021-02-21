@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony MEXN4200BT - Radio CD  USB  Bluetoo con un 36.47 % de descuento'
 date: 2020-03-01 15:20:00
-image: 'https://m.media-amazon.com/images/I/410n0ZipyNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410n0ZipyNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.85499999999999'
 
 En este momento está [Sony MEXN4200BT - Radio CD  USB  Bluetooth  NFC y Control de Voz Compatible iPhone y Android  Negro](https://www.amazon.es/dp/B01N6KKI3S/?tag=tolees-21) a 85.77 EUR (original: 135.0 EUR) (36.47 %  de descuento) en el siguiente enlace!
 
-[![Sony MEXN4200BT - Radio CD  USB  Bluetoo](https://m.media-amazon.com/images/I/410n0ZipyNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N6KKI3S/?tag=tolees-21)
+[![Sony MEXN4200BT - Radio CD  USB  Bluetoo](https://m.media-amazon.com/images/I/410n0ZipyNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N6KKI3S/?tag=tolees-21)
 
 🔎:
 

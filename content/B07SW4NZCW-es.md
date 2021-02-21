@@ -2,7 +2,7 @@
 layout: post
 title: 'iWalker Smart Pulsera Fitness Tracker  P al 30.01 % de rebaja'
 date: 2020-02-11 16:39:12
-image: 'https://m.media-amazon.com/images/I/51yVp5fCtwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yVp5fCtwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Tienes [iWalker Smart Pulsera Fitness Tracker  Pulsera Actividad de Frecuencia Cardíaca  Impermeable IP68  Podómetro Deportiva Reloj para Xiaomi  Huawei  iPhone y Android](https://www.amazon.es/dp/B07SW4NZCW/?tag=tolees-21) con precio final de  27.99 EUR (original: 39.99 EUR) (30.01 %  de rebaja) aqui!
 
-[![iWalker Smart Pulsera Fitness Tracker  P](https://m.media-amazon.com/images/I/51yVp5fCtwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SW4NZCW/?tag=tolees-21)
+[![iWalker Smart Pulsera Fitness Tracker  P](https://m.media-amazon.com/images/I/51yVp5fCtwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SW4NZCW/?tag=tolees-21)
 
 🔎:
 

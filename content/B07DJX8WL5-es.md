@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.94 % en TEKKIWEAR. DMX121BK. Smartwatch Phone H1'
 date: 2020-04-01 11:45:03
-image: 'https://m.media-amazon.com/images/I/51nbwItCmLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nbwItCmLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.0'
 
 Tienes [TEKKIWEAR. DMX121BK. Smartwatch Phone H1 Dual Core con Sistema Operativo Android 4.4 con Cámara  GPS Y Wi-Fi. Varios Idiomas Disponibles. Negro](https://www.amazon.es/dp/B07DJX8WL5/?tag=tolees-21) con un 62.94 % de descuento con precio de oferta de 159.0 EUR (original: 429.0 EUR) en el siguiente enlace!
 
-[![TEKKIWEAR. DMX121BK. Smartwatch Phone H1](https://m.media-amazon.com/images/I/51nbwItCmLL._SL200_.jpg)](https://www.amazon.es/dp/B07DJX8WL5/?tag=tolees-21)
+[![TEKKIWEAR. DMX121BK. Smartwatch Phone H1](https://m.media-amazon.com/images/I/51nbwItCmLL._SL400_.jpg)](https://www.amazon.es/dp/B07DJX8WL5/?tag=tolees-21)
 
 ℹ️:
 

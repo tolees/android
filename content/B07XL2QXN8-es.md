@@ -2,7 +2,7 @@
 layout: post
 title: 'DEPSTECH Endoscopio Inalámbrico 5.0MP  B con un 37.78 % de descuento'
 date: 2020-01-15 10:03:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51aRL9VD1pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aRL9VD1pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.989999999999995'
 
 En este momento está [DEPSTECH Endoscopio Inalámbrico 5.0MP  Boroscopio HD Ultrafino de  Cámara de Inspección de Serpiente con Zoom Batería de 3350 mAh  Adaptado Teléfonos Inteligentes y Tabletas Android y iOS 16.5 Pies](https://www.amazon.es/dp/B07XL2QXN8/?tag=tolees-21) a 55.99 EUR (original: 89.99 EUR) (37.78 %  de descuento) en el siguiente enlace!
 
-[![DEPSTECH Endoscopio Inalámbrico 5.0MP  B](https://images-eu.ssl-images-amazon.com/images/I/51aRL9VD1pL._SL200_.jpg)](https://www.amazon.es/dp/B07XL2QXN8/?tag=tolees-21)
+[![DEPSTECH Endoscopio Inalámbrico 5.0MP  B](https://images-eu.ssl-images-amazon.com/images/I/51aRL9VD1pL._SL400_.jpg)](https://www.amazon.es/dp/B07XL2QXN8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'SWEYE Batería Externa Movil 24800mAH  Po al 15.04 % de rebaja'
 date: 2020-10-10 07:44:35
-image: 'https://m.media-amazon.com/images/I/313d1ZW0B6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313d1ZW0B6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.71'
 
 Tienes [SWEYE Batería Externa Movil 24800mAH  Power Bank Carga Ultra Velocidad Cargador Portátil de Alta Capacidad con 2 Puertos USB y Pantalla LCD  Adecuado para Android Smartphones  Tabletas y etc](https://www.amazon.es/dp/B081T8X9VT/?tag=tolees-21) con precio final de  18.59 EUR (original: 21.88 EUR) (15.04 %  de rebaja) aqui!
 
-[![SWEYE Batería Externa Movil 24800mAH  Po](https://m.media-amazon.com/images/I/313d1ZW0B6L._SL200_.jpg)](https://www.amazon.es/dp/B081T8X9VT/?tag=tolees-21)
+[![SWEYE Batería Externa Movil 24800mAH  Po](https://m.media-amazon.com/images/I/313d1ZW0B6L._SL400_.jpg)](https://www.amazon.es/dp/B081T8X9VT/?tag=tolees-21)
 
 🔎:
 

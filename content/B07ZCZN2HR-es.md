@@ -2,7 +2,7 @@
 layout: post
 title: 'Moviles Libres  DOOGEE X90 Android 8.1 S al 36.53 % de descuento'
 date: 2020-05-13 06:32:03
-image: 'https://m.media-amazon.com/images/I/41DvnT1EhYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DvnT1EhYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.99'
 
 Ahora mismo tienes [Moviles Libres  DOOGEE X90 Android 8.1 Smartphones Libres Doble SIM Pantalla 19:9 6 1 Pulgadas  3G Teléfono Móvil Libre 3400mAh Quad Core 1GB RAM+16GB ROM  Cámara de 8MP+5MP  Face ID  Bluetooth  Azul](https://www.amazon.es/dp/B07ZCZN2HR/?tag=tolees-21) a 64.99 EUR (original: 102.39 EUR) (36.53 %  de descuento) en el siguiente enlace!
 
-[![Moviles Libres  DOOGEE X90 Android 8.1 S](https://m.media-amazon.com/images/I/41DvnT1EhYL._SL200_.jpg)](https://www.amazon.es/dp/B07ZCZN2HR/?tag=tolees-21)
+[![Moviles Libres  DOOGEE X90 Android 8.1 S](https://m.media-amazon.com/images/I/41DvnT1EhYL._SL400_.jpg)](https://www.amazon.es/dp/B07ZCZN2HR/?tag=tolees-21)
 
 🔎:
 

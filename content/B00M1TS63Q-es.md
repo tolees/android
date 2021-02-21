@@ -2,7 +2,7 @@
 layout: post
 title: 'Sennheiser URBANITE - Auriculares de dia con un 56.87 % de descuento'
 date: 2020-04-01 11:58:04
-image: 'https://m.media-amazon.com/images/I/41rYNN7RIbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rYNN7RIbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.95'
 
 En este momento está [Sennheiser URBANITE - Auriculares de diadema abiertos  compatible Android   negro](https://www.amazon.es/dp/B00M1TS63Q/?tag=tolees-21) a 59.95 EUR (original: 139.0 EUR) (56.87 %  de descuento) en el siguiente enlace!
 
-[![Sennheiser URBANITE - Auriculares de dia](https://m.media-amazon.com/images/I/41rYNN7RIbL._SL200_.jpg)](https://www.amazon.es/dp/B00M1TS63Q/?tag=tolees-21)
+[![Sennheiser URBANITE - Auriculares de dia](https://m.media-amazon.com/images/I/41rYNN7RIbL._SL400_.jpg)](https://www.amazon.es/dp/B00M1TS63Q/?tag=tolees-21)
 
 🔎:
 

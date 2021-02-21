@@ -2,7 +2,7 @@
 layout: post
 title: 'DUODUOGO Smartwatch Reloj Resistente Muj al 49.73 % de descuento'
 date: 2020-07-06 13:03:23
-image: 'https://m.media-amazon.com/images/I/512qqesKM9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512qqesKM9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.66'
 
 Está [DUODUOGO Smartwatch Reloj Resistente Mujer Hombre Niños Impermeable IP67 Pulsera Deportiva Monitor con Pulsómetros Reloj Inteligente Buenos 0.96"para iOS Android](https://www.amazon.es/dp/B085KZHWW1/?tag=tolees-21) con 49.73 de descuento por 29.66 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![DUODUOGO Smartwatch Reloj Resistente Muj](https://m.media-amazon.com/images/I/512qqesKM9L._SL200_.jpg)](https://www.amazon.es/dp/B085KZHWW1/?tag=tolees-21)
+[![DUODUOGO Smartwatch Reloj Resistente Muj](https://m.media-amazon.com/images/I/512qqesKM9L._SL400_.jpg)](https://www.amazon.es/dp/B085KZHWW1/?tag=tolees-21)
 
 ℹ️:
 

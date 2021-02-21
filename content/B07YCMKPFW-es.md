@@ -2,7 +2,7 @@
 layout: post
 title: 'MAFENGWO Moviles Libres Baratos 4G  Telé al 68.75 % de descuento'
 date: 2020-04-02 13:18:53
-image: 'https://m.media-amazon.com/images/I/41bX2cfkDoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bX2cfkDoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.5'
 
 Ahora mismo tienes [MAFENGWO Moviles Libres Baratos 4G  Teléfono Móvil de 5 2  Pulgadas 16GB ROM Android 8.1 Quad Core Smartphone Libres Baratos 2800mAh Batería Dual SIM Cámara Moviles Baratos y Buenos  Oro ](https://www.amazon.es/dp/B07YCMKPFW/?tag=tolees-21) a 52.5 EUR (original: 168.0 EUR) (68.75 %  de descuento) en el siguiente enlace!
 
-[![MAFENGWO Moviles Libres Baratos 4G  Telé](https://m.media-amazon.com/images/I/41bX2cfkDoL._SL200_.jpg)](https://www.amazon.es/dp/B07YCMKPFW/?tag=tolees-21)
+[![MAFENGWO Moviles Libres Baratos 4G  Telé](https://m.media-amazon.com/images/I/41bX2cfkDoL._SL400_.jpg)](https://www.amazon.es/dp/B07YCMKPFW/?tag=tolees-21)
 
 🔎:
 

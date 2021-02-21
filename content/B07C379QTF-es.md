@@ -2,7 +2,7 @@
 layout: post
 title: 'Sharplace 1 Pieza de Adaptador Remoto Co al 44.45 % de rebaja'
 date: 2020-01-07 18:02:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cm8N8gRaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cm8N8gRaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.21'
 
 Tienes [Sharplace 1 Pieza de Adaptador Remoto Control IR Compatible con Móvil Inteligente Android - Blanco Negro Interfaz Micro USB](https://www.amazon.es/dp/B07C379QTF/?tag=tolees-21) con precio final de  6.21 EUR (original: 11.18 EUR) (44.45 %  de rebaja) aqui!
 
-[![Sharplace 1 Pieza de Adaptador Remoto Co](https://images-eu.ssl-images-amazon.com/images/I/31Cm8N8gRaL._SL200_.jpg)](https://www.amazon.es/dp/B07C379QTF/?tag=tolees-21)
+[![Sharplace 1 Pieza de Adaptador Remoto Co](https://images-eu.ssl-images-amazon.com/images/I/31Cm8N8gRaL._SL400_.jpg)](https://www.amazon.es/dp/B07C379QTF/?tag=tolees-21)
 
 🔎:
 
