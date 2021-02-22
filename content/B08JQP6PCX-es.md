@@ -28,10 +28,10 @@ Está [OPPO Reno 4Z 5G – Pantalla de 6.57"  120 Hz de pantalla  8GB/128GB  MTK
 
 ℹ️:
 
-- Pantalla: experiencia y comodidad, disfruta de la mayor fluidez gracias a su pantalla de 120 Hz. increíble ratio pantalla de 93.4%. disfruta de todo tu contenido multimedia favorito con esta increíble pantalla amoled y sonido estéreo. gorilla glass 3+. resolución fhd+ 2040x1080
-- Cámara: una cámara de cine en tus manos. cámara principal 48mp, gran angular 8mp, lente bw 2mp, lente retrato 2mp. cámara frontal 16mp/2mp
-- Rendimiento: la velocidad importa. potencia y capacidad para que nada te pare con su modo dual 5g, redes sa y nsa y dual sim. mediatek 800 5g y 8gb ram+128gb ROM
 - Batería: la carga más rápida y segura del mercado gracias a su carga por amperaje y sus 5 niveles de seguridad. 4000mah
+- Cámara: una cámara de cine en tus manos. cámara principal 48mp, gran angular 8mp, lente bw 2mp, lente retrato 2mp. cámara frontal 16mp/2mp
 - Diseño: lo hemos vuelto a hacer. oppo reno glow recién salido de nuestros laboratorios para darte el diseño más atractivo y resistente a las huellas y los arañazos
+- Pantalla: experiencia y comodidad, disfruta de la mayor fluidez gracias a su pantalla de 120 Hz. increíble ratio pantalla de 93.4%. disfruta de todo tu contenido multimedia favorito con esta increíble pantalla amoled y sonido estéreo. gorilla glass 3+. resolución fhd+ 2040x1080
+- Rendimiento: la velocidad importa. potencia y capacidad para que nada te pare con su modo dual 5g, redes sa y nsa y dual sim. mediatek 800 5g y 8gb ram+128gb ROM
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JQP6PCX/?tag=tolees-21)
