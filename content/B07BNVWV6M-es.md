@@ -28,9 +28,9 @@ Está [Willful Smartwatch con Pulsómetro Impermeable IP68 Reloj Inteligente con
 
 ℹ️:
 
+- 【 IP68 Impermeable】Lo podrá llevar puesto mientras se lave las manos, tome una ducha, nade o cuando bucee bajo el agua(hasta 3 metros bajo el agua), se adaptará totalmente a sus necesidades diarias.
 - 【Multilenguaje】Tiene varios tipos de lenguaje incluyendo castellano, solo necesitará configurarlo acorde a sus necesidades.
 - 【Vibración o notificación de sonido】Cuando recibe una llamada telefónica, SMS o mensajes de la aplicación como Facebook, Twitter, WhatsApp, LinkedIn, Instagram, Messenger, etc.te recordará,No perderá ningún mensaje ni llamada.
-- 【 IP68 Impermeable】Lo podrá llevar puesto mientras se lave las manos, tome una ducha, nade o cuando bucee bajo el agua(hasta 3 metros bajo el agua), se adaptará totalmente a sus necesidades diarias.
 - 【Multifunción】Pulsómetro, monitor de sueño, podómetro, distancia, calorías, control remoto para cámara, anti perdida, calendario, cronómetro, calculadora, control remoto de música, capturas, lista de llamadas, notificación de SMS y contactos.
 - 【Compatibilidad】Compatible con Android 4.5 o superior y con iOS 7.1 o superior teléfonos inteligentes,(no para PC y tableta).
 
