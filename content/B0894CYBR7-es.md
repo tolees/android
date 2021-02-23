@@ -28,9 +28,9 @@ Ahora mismo tienes [HonShoop Auricular Bluetooth manos libres inalámbrico V5.0 
 
 🔎:
 
-- Función inteligente: nuestro auricular Bluetooth para teléfonos móviles es compatible con el asistente de voz SIRI, el interruptor de silencio, un botón para encender y activar el modo de emparejamiento y una conexión de 1 a 2. 8-10 horas de tiempo de trabajo, 1,5 horas de carga rápida.
 - Audio nítido – Altavoz dinámico que transmite claramente tu voz cuando te mueves y realiza tus tareas mientras realizas una conversación telefónica o hablas con una multitud.
 - Compatibilidad universal: los auriculares Bluetooth V5.0 son compatibles con hablar y escuchar las funciones de música, así como el emparejamiento fácil y rápido con smartphones y tabletas y es compatible con iPhone, LG, Samsung, Motorola y otros teléfonos Android.
 - Diseño amigable: nuestro auricular Bluetooth con micrófono está equipado con un gancho de oreja ajustable y se adapta a la mayoría de tamaños de oreja de personas. Diseño ergonómico, carcasa de PC ligera con color metálico y auriculares de silicona suave que ofrecen una gran comodidad.
+- Función inteligente: nuestro auricular Bluetooth para teléfonos móviles es compatible con el asistente de voz SIRI, el interruptor de silencio, un botón para encender y activar el modo de emparejamiento y una conexión de 1 a 2. 8-10 horas de tiempo de trabajo, 1,5 horas de carga rápida.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0894CYBR7/?tag=tolees-21)
