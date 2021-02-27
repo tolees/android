@@ -28,9 +28,9 @@ Tienes [Primux - Gamepad GP2  Android ](https://www.amazon.es/dp/B019NABKXS/?tag
 
 🔎:
 
-- Batería con una capacidad de 350 mAh para una autonomía de hasta 10 horas
 - A prueba de caídas
 - Compatible con sistemas operativas Android (v3 en adelante), iOS (hasta v8.0)
+- Batería con una capacidad de 350 mAh para una autonomía de hasta 10 horas
 - Rango del Bluetooth de hasta 20 metros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019NABKXS/?tag=tolees-21)
