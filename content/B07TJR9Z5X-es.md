@@ -28,9 +28,9 @@ Tienes [TaoTronics Auriculares Bluetooth 5.0 Inalámbrico 40 Horas de Reproducci
 
 ℹ️:
 
+- Control Táctil Inteligente: Responda y cuelgue llamadas o acceda a otras funciones tocando los auriculares,soporte para asistente de voz, como Siri y Google Assistant.
 - IPX7 - Podría usarlo durante el ejercicio
 - Sonido Bueno - Auriculares Bluetooth con Altavoz de 6 mm brindan sonido claro e Bajo profundo. Bluetooth 5.0 garantiza una conexión rápida y confiable.
-- Control Táctil Inteligente: Responda y cuelgue llamadas o acceda a otras funciones tocando los auriculares,soporte para asistente de voz, como Siri y Google Assistant.
 - Cómodo de Usar - Diseño ergonómico, pesan solo 4.2 g cada uno, se ajustan cómodamente en los oídos. 3 pares de puntas para los oídos incluidos, no es fácil caerse.
 - 40 Horas de Reproducción - Auriculares Inalámbricos Bluetooth pueden reproducir 5 horas con una sola carga, el estuche de carga de 650 mAh puede proporcionar energía adicional.
 
