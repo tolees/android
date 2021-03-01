@@ -28,8 +28,8 @@ Ahora mismo tienes [Aibecy mini impresora para movil PeriPage Mini Pocket Impres
 
 🔎:
 
-- ➤[Imprimiendo todo lo que quiera]: admite múltiples funciones, puede imprimir fotos, etiquetas, mensajes, listas, registros, código QR, impresión web, reconocimiento de texto OCR, foto AR, etc. La APLICACIÓN ofrece una variedad de fuentes y temas para que sus fotos sean elegantes.
 - ➤[Respetuoso con el medio ambiente]: batería recargable incorporada de 1000 mAh, que funciona con poco ruido, la impresora térmica no necesita cartuchos de tinta cuando se usa, bajo costo de operación.
+- ➤[Imprimiendo todo lo que quiera]: admite múltiples funciones, puede imprimir fotos, etiquetas, mensajes, listas, registros, código QR, impresión web, reconocimiento de texto OCR, foto AR, etc. La APLICACIÓN ofrece una variedad de fuentes y temas para que sus fotos sean elegantes.
 - ➤[Conveniente para su vida]: puede grabar el paisaje que ve, grabar sus dulces palabras, recopilar los ejercicios que ha hecho mal, divertidos y prácticos. Cuerpo pequeño y liviano, se puede poner en su bolsillo o bolso, fácil de llevar a cualquier lugar.
 - ➤ [Método de vinculación]: admite Wireless BT 4.0 conectado con un teléfono inteligente y un cable USB conectado con una PC. Siga la guía del usuario para descargar la aplicación (PeriPage) / controlador correspondiente en sus dispositivos.
 - ➤[Especificaciones del papel térmico]: Impresora con cabezal de impresión de alta calidad, puede imprimir papel térmico de 57 mm (ancho) x 30 mm (diámetro del rollo), resolución 203DPI, buena calidad de impresión.
