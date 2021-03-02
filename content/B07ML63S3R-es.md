@@ -28,10 +28,10 @@ En este momento está [BOZLUN - reloj inteligente mujer reloj de monitor de ritm
 
 🔎:
 
-- 【Diseño especial para mujeres】 Después de configurar a las usuarias "femeninas" en la aplicación "Banda H", puede ver la gestión del período fisiológico femenino y le pedirá que configure la función del ciclo femenino: solo el período menstrual, que prepara el período de embarazo , período de gestación y período de madre. Es tu asistente personal y saludable.
-- 【No se pierda nunca el Mensaje importante】 - Vea Llamadas y mensajes en su muñeca: reciba notificaciones de llamadas, calendario, SMS y SNS (Facebook, WhatsApp, LinkedIn, Instagram y Twitter) en pantalla; nunca te pierdas los mensajes importantes
 - 【Compatibilidad amplia】: este reloj inteligente es compatible con Bluetooth 4.0, Android 4.4, IOS8 o superior, como iPhone, Samsung Galaxy, Samsung Note, Sony, HTC, Huawei, Xiaomi, ZTE, Lenovo, Oppo, etc.
-- 【IP68 y batería de larga duración: fácil de conectar a sus teléfonos inteligentes, el tiempo de uso promedio es de 3-4 días según el uso. Tiempo de espera largo 2-3 semanas. Usando IP68 a prueba de agua, disponible para usarlo, lavarse las manos, bañarse e incluso nadar.
 - 【Buen ayudante para su estado físico】: Pantalla colorida le permitirá ver la hora claramente incluso bajo el sol. Realiza un seguimiento de tus pasos, distancia, calorías quemadas, frecuencia cardíaca y sueño; y grabar datos tanto en la aplicación de teléfono inteligente como en el reloj.
+- 【IP68 y batería de larga duración: fácil de conectar a sus teléfonos inteligentes, el tiempo de uso promedio es de 3-4 días según el uso. Tiempo de espera largo 2-3 semanas. Usando IP68 a prueba de agua, disponible para usarlo, lavarse las manos, bañarse e incluso nadar.
+- 【No se pierda nunca el Mensaje importante】 - Vea Llamadas y mensajes en su muñeca: reciba notificaciones de llamadas, calendario, SMS y SNS (Facebook, WhatsApp, LinkedIn, Instagram y Twitter) en pantalla; nunca te pierdas los mensajes importantes
+- 【Diseño especial para mujeres】 Después de configurar a las usuarias "femeninas" en la aplicación "Banda H", puede ver la gestión del período fisiológico femenino y le pedirá que configure la función del ciclo femenino: solo el período menstrual, que prepara el período de embarazo , período de gestación y período de madre. Es tu asistente personal y saludable.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ML63S3R/?tag=tolees-21)
