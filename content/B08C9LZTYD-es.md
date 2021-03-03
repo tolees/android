@@ -28,9 +28,9 @@ Tienes [AGPTEK Smartwatch Hombre  Reloj Inteligente de HD Pantalla Táctil Compl
 
 🔎:
 
-- ⌚【Diseño Clásico & Elegante】El smartwatch hombre hecho con pantalla IPS a color táctil TFT de 1.3. HD, pantalla táctil completa. Además del diseño de predeterminado, también puede personalizar la interfaz en línea a través de la APP, use diferentes estilos para definir sus necesidades. Viene con correa deportiva de silicona + Correa de cuero para adcuado vario situación.
 - ⌚【Impermeable IP68 y Inteligente Notificación de Mensaje】 El smart watch lo podrá llevar puesto mientras se lave las manos, tome una ducha, nade. 【Nota: No apto para agua caliente y agua de mar】Despúes de conetar con la APP, puede recibir notificaciones en tiempo real de WhatsApp, LinkedIn, Instagram y Twitter, y no se pierda las notificaciones de llamadas importantes.
 - ⌚【Monitoreo de la Frecuencia Cardíaca】La pulsera actividad inteligente con pulsómetro puede monitar su salud en tiempo real. Con estas funciones practicas, puede analizar bien su estado físico y enumerar su plan de entrenamiento.
+- ⌚【Diseño Clásico & Elegante】El smartwatch hombre hecho con pantalla IPS a color táctil TFT de 1.3. HD, pantalla táctil completa. Además del diseño de predeterminado, también puede personalizar la interfaz en línea a través de la APP, use diferentes estilos para definir sus necesidades. Viene con correa deportiva de silicona + Correa de cuero para adcuado vario situación.
 - ⌚【Funciones más Prácticas】 El reloj inteligente, se puede como monitores de actividad, tiene Modo multi-deporte. Monitar el sueño, la frecuencia cardíaca, los pasos y consumo de calorías, el clima, recordatorio de salud, recordatorio de sedentario, recordatorio de llamadas, recordatorio de reuniones, alarma etc.. Todo es crear un estilo de vida más saludable.
 - ⌚【Batería Duradable y Compatibilidad】Carga 2 horas, se puede satisfacer usar durante 7 días o más. Compatible con IOS 9.0 y superior, Andrior 4.4 y superio y Bluetooth 4.0 y superior de smartphone.
 
