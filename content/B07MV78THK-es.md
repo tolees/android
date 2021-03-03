@@ -28,8 +28,8 @@ En este momento está [ccsfrgtrh ELM327 - Escáner para Coche OBDII OBD2 Bluetoo
 
 🔎:
 
-- Indicar los datos del sensor:
-- El dispositivo funciona con coches de gasolina OBD2 (a partir de 1998 y coches más nuevos en los Estados Unidos) y EOBD (coches europeos de gasolina a partir de 2001). Conexión Bluetooth, sin pilas, cable o interruptor. - Wireless (Bluetooth) 5 ~ 10 metros.
 - Nota: 1. NOT para iOS. Para iPhone y iPad, selecciona "WiFi para iOS y Android". 2. No apto para vehículos. 3. Para que su vehículo sea compatible con OBD II, debe tener un DLC de 16 pines (Data Link Connector) bajo el salpicadero y la etiqueta de información de control de emisión del vehículo debe indicar que el vehículo es compatible con OBD II.
+- El dispositivo funciona con coches de gasolina OBD2 (a partir de 1998 y coches más nuevos en los Estados Unidos) y EOBD (coches europeos de gasolina a partir de 2001). Conexión Bluetooth, sin pilas, cable o interruptor. - Wireless (Bluetooth) 5 ~ 10 metros.
+- Indicar los datos del sensor:
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MV78THK/?tag=tolees-21)
