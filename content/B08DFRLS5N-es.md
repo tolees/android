@@ -28,11 +28,11 @@ Tienes [Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 64GB; Cámara 64MP  S
 
 ℹ️:
 
-- Batería enorme de 5260mah proporcionando suficiente energía para durar 2 días de uso; carga rápida de 30w, podrás recargar la batería de 0% a 100% en 64 minutos
-- Procesador Snapdragon 730g; ofrece un rendimiento rápido, perfecto para una experiencia ininterrumpida; frecuencia de la CPU: procesador kyrio de 8 núcleos, hasta 2.2ghz; gpu: adreno 618
-- Tamaño de pantalla: 6.5 inches
-- Pantalla amoled full hd+ de 6.47", diseño elegante con cubierta 3D curvada en la parte delantera y trasera; con una relación pantalla-cuerpo del 91.4% lo que ofrece una inmesa capacidad de visualización junto con un agarre cómodo
-- Cámara cuádruple de 64mp con vídeo 4k y cámara frontal selfie de 16mp
 - Mi note 10 lite es el teléfono perfecto para tu día a día trabajar y jugar
+- Pantalla amoled full hd+ de 6.47", diseño elegante con cubierta 3D curvada en la parte delantera y trasera; con una relación pantalla-cuerpo del 91.4% lo que ofrece una inmesa capacidad de visualización junto con un agarre cómodo
+- Batería enorme de 5260mah proporcionando suficiente energía para durar 2 días de uso; carga rápida de 30w, podrás recargar la batería de 0% a 100% en 64 minutos
+- Cámara cuádruple de 64mp con vídeo 4k y cámara frontal selfie de 16mp
+- Tamaño de pantalla: 6.5 inches
+- Procesador Snapdragon 730g; ofrece un rendimiento rápido, perfecto para una experiencia ininterrumpida; frecuencia de la CPU: procesador kyrio de 8 núcleos, hasta 2.2ghz; gpu: adreno 618
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DFRLS5N/?tag=tolees-21)
