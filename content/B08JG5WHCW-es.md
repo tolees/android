@@ -28,10 +28,10 @@ Tienes [CMD - Android T95H - Smart TV Box  Android 10.0  2 GB de RAM/16 GB de RO
 
 ℹ️:
 
-- ❤Último sistema operativo Android 10.0: mejore el rendimiento y la usabilidad, la compatibilidad con las últimas aplicaciones y aplicaciones de Android sin problemas, sin retrasos ni bloqueos.
-- ❤2 GB de RAM 16GB de ROM: admite un funcionamiento más rápido y estable. La memoria interna de 16 GB le brinda espacio y libertad para instalar aplicaciones sin preocuparse por quedarse sin espacio.
+- ❤Conexión conveniente: WiFi de 2.4GHz, soporte para mouse y teclado a través de USB, puede usarlo de manera más conveniente. Muchas más opciones de conexión al ver videos y jugar juegos, etc.
 - ❤SUPPORTS 6K y 3D: esta última versión de Android TV admite la decodificación y reproduce casi todos los formatos de audio y video populares; puede disfrutar de video HD en 6K, que es más claro que 4K. Puede jugar miles de juegos de Android en una gran pantalla de 6K y disfrutar de una experiencia de mayor calidad con menos almacenamiento en búfer. Además, esta caja de TV es compatible con 3D, puede disfrutar de la fiesta visual.
 - ❤Potente chip: T95H Android 10.0 TV BOX con la nueva CPU de cuatro núcleos Cortex-A53 Allwinner H616, Mali-G31 MP2 GPU, es mejor en el procesamiento de imágenes. Ofrece a los usuarios una mejor experiencia de velocidad de ejecución ultrarrápida y capacidad de procesamiento de imágenes profesional.
-- ❤Conexión conveniente: WiFi de 2.4GHz, soporte para mouse y teclado a través de USB, puede usarlo de manera más conveniente. Muchas más opciones de conexión al ver videos y jugar juegos, etc.
+- ❤2 GB de RAM 16GB de ROM: admite un funcionamiento más rápido y estable. La memoria interna de 16 GB le brinda espacio y libertad para instalar aplicaciones sin preocuparse por quedarse sin espacio.
+- ❤Último sistema operativo Android 10.0: mejore el rendimiento y la usabilidad, la compatibilidad con las últimas aplicaciones y aplicaciones de Android sin problemas, sin retrasos ni bloqueos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08JG5WHCW/?tag=tolees-21)
