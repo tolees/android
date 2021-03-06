@@ -28,10 +28,10 @@ Está [Motorola Moto E7 Plus - 6.5" Max Vision HD+  Qualcomm Snapdragon 460  48M
 
 ℹ️:
 
-- Sistema de cámara de 48 MP.* Captura fotos más nítidas y luminosas incluso de noche y añade un bonito efecto difuminado a tus retratos.
-- 64 GB de almacenamiento interno. No te quedes nunca sin espacio para fotos, canciones y películas gracias a su gran espacio de almacenamiento, ampliable hasta 512 GB.2
-- Pantalla de 6,5" HD+ Max Vision. Déjate llevar jugando, viendo películas y hablando con tus amigos en una pantalla ultra ancha.
 - Rendimiento habilitado para IA un 50 % más rápido.# Saca tus mejores fotos y siente la potencia de un procesador Qualcomm Snapdragon de ocho núcleos y 4 GB de memoria.
+- Pantalla de 6,5" HD+ Max Vision. Déjate llevar jugando, viendo películas y hablando con tus amigos en una pantalla ultra ancha.
+- 64 GB de almacenamiento interno. No te quedes nunca sin espacio para fotos, canciones y películas gracias a su gran espacio de almacenamiento, ampliable hasta 512 GB.2
+- Sistema de cámara de 48 MP.* Captura fotos más nítidas y luminosas incluso de noche y añade un bonito efecto difuminado a tus retratos.
 - Tecla específica para el Asistente de Google. Inicia fácilmente el Asistente de Google con una tecla situada en el lateral del teléfono.
 - Batería de más de dos días de duración.1 Sigue divirtiéndote sin tener que cargar el móvil gracias a una batería de 5000 mAh llena de energía.
 
