@@ -28,10 +28,10 @@ En este momento está [Anker Nebula Solar Proyector FHD 1080p  Dolby Digital Plu
 
 🔎:
 
-- Imágenes impresionantes: con resolución FHD 1080p, una imagen de 120 pulgadas, 400 lúmenes ANSI y HDR10, todo contenido en un único dispositivo elegante, puedes recrear la experiencia del cine desde la comodidad de tu sofá.
-- Soporte integrado: en lugar de tener que utilizar más objetos en tu salón, como un trípode poco estético, el soporte integrado del proyector Solar 1080p te permite ajustar el ángulo de proyección en hasta 13 grados para conseguir una imagen perfecta.
-- Sonido cinematográfico: Dolby Digital Plus, junto con los dos altavoces de 3 W, generan un sonido inmersivo que llega hasta el último rincón de la habitación. La potencia del sistema de sonido de Solar es tal que incluso puede funcionar como un altavoz Bluetooth.
-- Apto para cualquier espacio: el proyector Solar 1080p se ha diseñado para adaptarse a tu espacio a la perfección. Utiliza el zoom digital para alterar el tamaño de la imagen sin necesidad de mover el proyector: siéntate, relájate y ajusta la imagen con el mando a distancia.
 - Android TV 9: personaliza tu entretenimiento según tus preferencias. Elige entre más de 5000 aplicaciones, que incluyen tus favoritas, como YouTube, Hulu, Twitch y muchas más. Incluso puedes duplicar el contenido de tu smartphone u otros dispositivos a través del proyector Solar 1080p.
+- Soporte integrado: en lugar de tener que utilizar más objetos en tu salón, como un trípode poco estético, el soporte integrado del proyector Solar 1080p te permite ajustar el ángulo de proyección en hasta 13 grados para conseguir una imagen perfecta.
+- Apto para cualquier espacio: el proyector Solar 1080p se ha diseñado para adaptarse a tu espacio a la perfección. Utiliza el zoom digital para alterar el tamaño de la imagen sin necesidad de mover el proyector: siéntate, relájate y ajusta la imagen con el mando a distancia.
+- Sonido cinematográfico: Dolby Digital Plus, junto con los dos altavoces de 3 W, generan un sonido inmersivo que llega hasta el último rincón de la habitación. La potencia del sistema de sonido de Solar es tal que incluso puede funcionar como un altavoz Bluetooth.
+- Imágenes impresionantes: con resolución FHD 1080p, una imagen de 120 pulgadas, 400 lúmenes ANSI y HDR10, todo contenido en un único dispositivo elegante, puedes recrear la experiencia del cine desde la comodidad de tu sofá.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089GWS7Y3/?tag=tolees-21)
