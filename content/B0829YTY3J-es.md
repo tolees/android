@@ -28,8 +28,8 @@ En este momento está [AVIWIS Cable USB Magnético  Multi 3 en 1 Cable Magnetic 
 
 🔎:
 
-- 【Diseño de luz LED】El indicador LED interno mostrará una luz azul cuando se está cargando o en modo de espera. El diseño LED especial y magnético más fuerte, incluso en la oscuridad, aún puede encontrar el teléfono y cargarlo fácilmente.
 - 【Lo Que Obtienes】AVIWIS Garantía de 24-Meses. Servicio al cliente eficiente y fácil de contactar para resolver el problema en 24 horas.
+- 【Diseño de luz LED】El indicador LED interno mostrará una luz azul cuando se está cargando o en modo de espera. El diseño LED especial y magnético más fuerte, incluso en la oscuridad, aún puede encontrar el teléfono y cargarlo fácilmente.
 - 【Compatibilidad Perfecta】Perfecta compatible phone 8/ 8 Plus/ 7 Plus/ 7/ 6 Plus/ 6/ SE/ 5s/ 5c/ 5; Android Samsung Galaxy S9 S8 A8 A3 A5, Huawei P20/ P10/ P9, Honor View10/ 9/ 8, Xiaomi Mi A1/ Mix 2, Nexus 5X 6P, LG G6, HTC, PS4.
 - 【Cargador Magnetico Multiple Cable】El magnética cable carga y el adaptador se conectarán automáticamente, especialmente conveniente durante la conducción y sólo tienen una mano para manejar su problema de carga.
 - 【El último Diseño】La adsorción magnética reversible facilita la adsorción del cable al conector ( iP, Micro, Type C )en la dirección correcta en todo momento, más conveniente para cargar o sincronizar datos.
