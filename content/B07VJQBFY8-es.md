@@ -28,10 +28,10 @@ En este momento está [Samsung Galaxy Tab A  2019  - Tablet de 8"  Wi-Fi  RAM de
 
 🔎:
 
-- Batería de 5100 mAh y sistema operativo Android actualizable
+- Procesador Qualcomm Snapdragon 429 (Quad 2.0 Ghz)
 - Memoria RAM de 2GB, Almacenamiento de 32GB con ranura microsd ampliable hasta 512GB
 - Cámara trasera de 8MP y delantera de 2MP
+- Batería de 5100 mAh y sistema operativo Android actualizable
 - Pantalla de 8" con una resolución de 1280 x 800 píxeles
-- Procesador Qualcomm Snapdragon 429 (Quad 2.0 Ghz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VJQBFY8/?tag=tolees-21)
