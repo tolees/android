@@ -5,7 +5,7 @@ date: 2020-03-04 14:54:38
 image: 'https://m.media-amazon.com/images/I/51a2yxV+9UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UMUTNAG-es Yuntab Q88 A33 - Tablet de 7" WiFi Allwinner A33 1.5 GHz...'
 sku: 'B00UMUTNAG-es'
 tags: [ 'android', ]

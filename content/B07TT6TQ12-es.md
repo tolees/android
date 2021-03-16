@@ -5,7 +5,7 @@ date: 2020-10-09 08:16:10
 image: 'https://m.media-amazon.com/images/I/41NBePs9BzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT6TQ12-es Motorola One Action - Smartphone Dual SIM Triple cámara:...'
 sku: 'B07TT6TQ12-es'
 tags: [ 'android', ]

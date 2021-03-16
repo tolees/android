@@ -5,7 +5,7 @@ date: 2020-02-12 16:32:29
 image: 'https://m.media-amazon.com/images/I/516dlxwKcVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYW3FNH-es Tablets 10 Pulgadas Android 8.0 3GB RAM 64GB Memoria...'
 sku: 'B07XYW3FNH-es'
 tags: [ 'android', ]

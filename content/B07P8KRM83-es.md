@@ -5,7 +5,7 @@ date: 2020-08-23 14:25:23
 image: 'https://m.media-amazon.com/images/I/411isZ-OsIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8KRM83-es LNMBBS X30 Tablet 10.1 Pulgadas 6GB de RAM y 128GB Memoria...'
 sku: 'B07P8KRM83-es'
 tags: [ 'android', ]

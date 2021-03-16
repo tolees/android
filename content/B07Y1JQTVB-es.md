@@ -5,7 +5,7 @@ date: 2020-07-04 08:40:53
 image: 'https://m.media-amazon.com/images/I/51ATXWHPNML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1JQTVB-es Tableta 10.1 Pulgadas Pantalla HD IPS Android 9.0 - Tablet...'
 sku: 'B07Y1JQTVB-es'
 tags: [ 'android', ]

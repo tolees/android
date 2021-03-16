@@ -5,7 +5,7 @@ date: 2020-08-15 06:38:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dgBjJA04L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSHJJ9L-es Smartphone Libres 32GB ROM 3GB RAM Android 7 Quad Core...'
 sku: 'B07MSHJJ9L-es'
 tags: [ 'android', ]

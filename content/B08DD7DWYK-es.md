@@ -5,7 +5,7 @@ date: 2020-08-31 00:19:34
 image: 'https://m.media-amazon.com/images/I/51DtPaYeetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DD7DWYK-es Radio 2 DIN Android Auto Head Unit 1 + 16G Pantalla táctil...'
 sku: 'B08DD7DWYK-es'
 tags: [ 'android', ]

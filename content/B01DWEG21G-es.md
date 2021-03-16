@@ -5,7 +5,7 @@ date: 2020-05-29 00:53:00
 image: 'https://m.media-amazon.com/images/I/41fkBP2pi+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWEG21G-es Huawei P9 Plus - Smartphone de 5.5" Bluetooth 4.2 4 GB RAM...'
 sku: 'B01DWEG21G-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-03-01 12:09:50
 image: 'https://m.media-amazon.com/images/I/41bbpk80BcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWCB982-es mysunny Ratón Bluetooth Raton Recargable inalámbrico ratón...'
 sku: 'B07DWCB982-es'
 tags: [ 'android', ]

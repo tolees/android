@@ -5,7 +5,7 @@ date: 2020-06-02 08:32:57
 image: 'https://m.media-amazon.com/images/I/41DsEHIveOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXJ1RT9-es LG LMX210 K9 - Smartphone 5" Memoria Interna de 16 GB RAM...'
 sku: 'B07CXJ1RT9-es'
 tags: [ 'android', ]

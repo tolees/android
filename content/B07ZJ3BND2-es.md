@@ -5,7 +5,7 @@ date: 2020-01-04 08:09:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hv-hlDd8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJ3BND2-es Auriculares Bluetooth inalámbricos BT5.0 Touch Control...'
 sku: 'B07ZJ3BND2-es'
 tags: [ 'android', ]

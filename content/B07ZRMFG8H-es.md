@@ -5,7 +5,7 @@ date: 2020-09-07 05:26:49
 image: 'https://m.media-amazon.com/images/I/311dStGn7tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRMFG8H-es AUKEY Auriculares Bluetooth Deportivos Auriculares...'
 sku: 'B07ZRMFG8H-es'
 tags: [ 'android', ]

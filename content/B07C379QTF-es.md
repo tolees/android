@@ -5,7 +5,7 @@ date: 2020-01-07 18:02:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cm8N8gRaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C379QTF-es Sharplace 1 Pieza de Adaptador Remoto Control IR...'
 sku: 'B07C379QTF-es'
 tags: [ 'android', ]

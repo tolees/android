@@ -5,7 +5,7 @@ date: 2020-03-14 06:04:19
 image: 'https://m.media-amazon.com/images/I/41BfFn+ei9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074SZDMHJ-es Moto G5s - Smartphone Libre Android 7.1 Pantalla de 5.2...'
 sku: 'B074SZDMHJ-es'
 tags: [ 'android', ]

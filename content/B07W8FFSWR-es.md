@@ -5,7 +5,7 @@ date: 2020-01-24 13:10:16
 image: 'https://m.media-amazon.com/images/I/51TyG8fmG8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8FFSWR-es TOSCIDO 4G LTE Tablet 10 Pulgadas - Android 9.0...'
 sku: 'B07W8FFSWR-es'
 tags: [ 'android', ]

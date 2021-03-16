@@ -5,7 +5,7 @@ date: 2020-03-22 04:02:44
 image: 'https://m.media-amazon.com/images/I/41DbWQYRdeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNLJXSR-es Android 7.0 Nougat Tablet 10 Pulgadas con Ranuras para...'
 sku: 'B07XNLJXSR-es'
 tags: [ 'android', ]

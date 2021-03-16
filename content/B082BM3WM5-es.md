@@ -5,7 +5,7 @@ date: 2020-08-24 21:30:42
 image: 'https://m.media-amazon.com/images/I/51aa7gqOutL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BM3WM5-es Cable Micro USB 4 Pack [0.5m+1m+2m+3m] Trenzado de Nylon...'
 sku: 'B082BM3WM5-es'
 tags: [ 'android', ]

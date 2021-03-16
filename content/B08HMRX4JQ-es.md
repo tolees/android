@@ -5,7 +5,7 @@ date: 2020-10-09 12:37:18
 image: 'https://m.media-amazon.com/images/I/41lfbbrwUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HMRX4JQ-es Auriculares Inalambricos Bluetooth con Micrófono HiFi...'
 sku: 'B08HMRX4JQ-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-04-27 07:47:51
 image: 'https://m.media-amazon.com/images/I/41LKBGOlF0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5Y6CQ4-es Cámara Oculta inalámbrica con cámara Oculta de detección...'
 sku: 'B07R5Y6CQ4-es'
 tags: [ 'android', ]

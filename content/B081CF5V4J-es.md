@@ -5,7 +5,7 @@ date: 2020-01-28 12:20:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iC6k0nMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CF5V4J-es NAIXUES Smartwatch Reloj Inteligente IP67 con Presión...'
 sku: 'B081CF5V4J-es'
 tags: [ 'android', ]

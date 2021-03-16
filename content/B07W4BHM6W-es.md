@@ -5,7 +5,7 @@ date: 2020-05-15 06:35:35
 image: 'https://m.media-amazon.com/images/I/51RReKjuXcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4BHM6W-es DOOGEE N20 Smartphone Libres 2019 Android 9.0 4G Teléfono...'
 sku: 'B07W4BHM6W-es'
 tags: [ 'android', ]

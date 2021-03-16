@@ -5,7 +5,7 @@ date: 2020-07-27 06:12:33
 image: 'https://m.media-amazon.com/images/I/41ZsegQxroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBTPMYH-es Auriculares Bluetooth 5.0 Amazco XG-13 Auriculares...'
 sku: 'B07SBTPMYH-es'
 tags: [ 'android', ]

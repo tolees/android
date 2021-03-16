@@ -5,7 +5,7 @@ date: 2020-05-23 09:08:15
 image: 'https://m.media-amazon.com/images/I/51hW08C7-oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S47ZTG9-es YESTEL Tablet para Niños 7 Pulgadas Android 8.1 Tableta...'
 sku: 'B07S47ZTG9-es'
 tags: [ 'android', ]

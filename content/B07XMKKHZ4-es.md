@@ -5,7 +5,7 @@ date: 2020-01-12 17:17:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-pGn-mUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMKKHZ4-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
 sku: 'B07XMKKHZ4-es'
 tags: [ 'android', ]

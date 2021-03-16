@@ -5,7 +5,7 @@ date: 2020-04-27 09:47:15
 image: 'https://m.media-amazon.com/images/I/415rxF3pLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV7LBFM-es Omars PowerBank Carga Rápida PD - 10000 mAh Batería...'
 sku: 'B07MV7LBFM-es'
 tags: [ 'android', ]

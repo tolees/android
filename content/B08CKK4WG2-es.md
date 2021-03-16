@@ -5,7 +5,7 @@ date: 2020-08-29 18:05:36
 image: 'https://m.media-amazon.com/images/I/51PTa9Vo8ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKK4WG2-es Tablet para Niños con WiFi 9.0 Pulgadas 3GB RAM 32GB/128GB...'
 sku: 'B08CKK4WG2-es'
 tags: [ 'android', ]

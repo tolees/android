@@ -5,7 +5,7 @@ date: 2020-10-05 00:58:18
 image: 'https://m.media-amazon.com/images/I/41FC6uOFvmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWD8QLX-es Dragon Touch Tablet para Niños con WiFi Bluetooth 7...'
 sku: 'B07QWD8QLX-es'
 tags: [ 'android', ]

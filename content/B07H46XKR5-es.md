@@ -5,7 +5,7 @@ date: 2020-02-02 03:30:26
 image: 'https://m.media-amazon.com/images/I/21EBMdatuVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H46XKR5-es Beurer BF1000 - Báscula diagnóstica Bluetooth báscula de...'
 sku: 'B07H46XKR5-es'
 tags: [ 'android', ]

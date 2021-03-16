@@ -5,7 +5,7 @@ date: 2020-04-14 22:33:19
 image: 'https://m.media-amazon.com/images/I/31SZKjw8NHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072DR4Q6Y-es Sony Xperia XA1 - Smartphone con pantalla HD de 5" Octa...'
 sku: 'B072DR4Q6Y-es'
 tags: [ 'android', ]

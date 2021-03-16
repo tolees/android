@@ -5,7 +5,7 @@ date: 2020-07-13 00:31:43
 image: 'https://m.media-amazon.com/images/I/41VT++ROkOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZNDH98-es Tablet 10.1 Pulgadas barats 4G Android 9.0 Pie 32GB...'
 sku: 'B07WZNDH98-es'
 tags: [ 'android', ]

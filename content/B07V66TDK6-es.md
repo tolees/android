@@ -5,7 +5,7 @@ date: 2020-01-20 20:33:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BIF4nlONL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V66TDK6-es Moviles Libres 4G Smartphone Libre 6 0 Pulgadas Android...'
 sku: 'B07V66TDK6-es'
 tags: [ 'android', ]

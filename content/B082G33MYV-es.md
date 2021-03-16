@@ -5,7 +5,7 @@ date: 2020-08-06 13:29:48
 image: 'https://m.media-amazon.com/images/I/41a2qzvenUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082G33MYV-es LOZAYI Pulsera de Actividad Pulsera Actividad Inteligente...'
 sku: 'B082G33MYV-es'
 tags: [ 'android', ]

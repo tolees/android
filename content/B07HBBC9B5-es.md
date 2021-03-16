@@ -5,7 +5,7 @@ date: 2020-10-10 09:15:39
 image: 'https://m.media-amazon.com/images/I/41457hHTOvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBBC9B5-es LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android...'
 sku: 'B07HBBC9B5-es'
 tags: [ 'android', ]

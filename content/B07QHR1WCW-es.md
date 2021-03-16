@@ -5,7 +5,7 @@ date: 2020-05-01 13:40:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W0Ma4fneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHR1WCW-es Huyeta Smartwatch Reloj Inteligente 5ATM Impermeable...'
 sku: 'B07QHR1WCW-es'
 tags: [ 'android', ]

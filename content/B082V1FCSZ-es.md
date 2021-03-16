@@ -5,7 +5,7 @@ date: 2020-06-02 12:47:48
 image: 'https://m.media-amazon.com/images/I/41A0s4Jh4wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V1FCSZ-es Auriculares inalámbricos Bluetooth Auriculares 5.0...'
 sku: 'B082V1FCSZ-es'
 tags: [ 'android', ]

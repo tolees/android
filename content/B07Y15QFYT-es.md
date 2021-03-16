@@ -5,7 +5,7 @@ date: 2020-07-19 06:45:30
 image: 'https://m.media-amazon.com/images/I/51lPBulCMRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y15QFYT-es TOSCIDO 4G LTE Tablet 10 Pulgadas1920*1200 IPS HD -...'
 sku: 'B07Y15QFYT-es'
 tags: [ 'android', ]

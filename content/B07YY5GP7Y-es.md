@@ -5,7 +5,7 @@ date: 2020-08-02 23:05:10
 image: 'https://m.media-amazon.com/images/I/51WKDko5bML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY5GP7Y-es Android Tablet Pritom Tablet Android OS 9.0 de 10 pulgadas...'
 sku: 'B07YY5GP7Y-es'
 tags: [ 'android', ]

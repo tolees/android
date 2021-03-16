@@ -5,7 +5,7 @@ date: 2020-08-09 11:19:17
 image: 'https://m.media-amazon.com/images/I/41FgmySpTKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNLLJWS-es Auriculares Inalámbricos Bluetooth 5.0 ZEALOT H6...'
 sku: 'B08BNLLJWS-es'
 tags: [ 'android', ]

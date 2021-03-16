@@ -5,7 +5,7 @@ date: 2020-03-01 15:20:00
 image: 'https://m.media-amazon.com/images/I/410n0ZipyNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6KKI3S-es Sony MEXN4200BT - Radio CD USB Bluetooth NFC y Control de...'
 sku: 'B01N6KKI3S-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-01-16 11:24:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bl6W7q5-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCK7D43-es Tableta de 10.1 Pulgadas 4g LTE con Funda Plateada Android...'
 sku: 'B07ZCK7D43-es'
 tags: [ 'android', ]

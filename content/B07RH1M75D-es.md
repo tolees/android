@@ -5,7 +5,7 @@ date: 2020-07-10 21:36:09
 image: 'https://m.media-amazon.com/images/I/41Lz-WJ54dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH1M75D-es Honor 20 Lite - Smartphone de 6.21" RAM de 4 GB Memoria de...'
 sku: 'B07RH1M75D-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 17:08:43
 image: 'https://m.media-amazon.com/images/I/41HN-bbId3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JF9YCFC-es Konesky Fitness Tracker Monitor de Ritmo cardíaco Pulsera...'
 sku: 'B07JF9YCFC-es'
 tags: [ 'android', ]

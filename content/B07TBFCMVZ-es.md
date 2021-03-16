@@ -5,7 +5,7 @@ date: 2020-06-16 12:32:40
 image: 'https://m.media-amazon.com/images/I/412II8tkvcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBFCMVZ-es HolyHigh Auriculares Bluetooth 5.0 Inalámbricos Deportivos...'
 sku: 'B07TBFCMVZ-es'
 tags: [ 'android', ]

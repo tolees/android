@@ -5,7 +5,7 @@ date: 2020-06-14 03:50:33
 image: 'https://m.media-amazon.com/images/I/41oSGoj7XtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGFN4B6-es HolyHigh Auriculares Inalambricos Deportivos Auriculares...'
 sku: 'B07XGFN4B6-es'
 tags: [ 'android', ]

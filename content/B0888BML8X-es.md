@@ -5,7 +5,7 @@ date: 2020-08-26 06:31:01
 image: 'https://m.media-amazon.com/images/I/4123vBe8F+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0888BML8X-es GRDE Auriculares Bluetooth Auriculares Inalámbricos IPX7...'
 sku: 'B0888BML8X-es'
 tags: [ 'android', ]

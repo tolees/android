@@ -5,7 +5,7 @@ date: 2020-04-06 08:56:08
 image: 'https://m.media-amazon.com/images/I/512X72GDwrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WH12H7V-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos - Mini...'
 sku: 'B07WH12H7V-es'
 tags: [ 'android', ]

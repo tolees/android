@@ -5,7 +5,7 @@ date: 2020-03-24 08:52:23
 image: 'https://m.media-amazon.com/images/I/51Qf15U2pkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHC8BKG-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos con...'
 sku: 'B07ZHC8BKG-es'
 tags: [ 'android', ]

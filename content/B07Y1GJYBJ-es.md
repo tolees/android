@@ -5,7 +5,7 @@ date: 2020-02-03 08:26:46
 image: 'https://m.media-amazon.com/images/I/51e5ciAfCrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1GJYBJ-es Tableta 10.1 Pulgadas Pantalla HD IPS Android 9.0 - Tablet...'
 sku: 'B07Y1GJYBJ-es'
 tags: [ 'android', ]

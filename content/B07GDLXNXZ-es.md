@@ -5,7 +5,7 @@ date: 2020-03-15 13:39:39
 image: 'https://m.media-amazon.com/images/I/51FplfIiZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDLXNXZ-es Xiaomi MI A2 - Smartphone DE 5.9" Qualcomm Snapdragon 660...'
 sku: 'B07GDLXNXZ-es'
 tags: [ 'android', ]

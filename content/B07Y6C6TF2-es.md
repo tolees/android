@@ -5,7 +5,7 @@ date: 2020-01-08 14:46:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413BeBm2l%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y6C6TF2-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
 sku: 'B07Y6C6TF2-es'
 tags: [ 'android', ]

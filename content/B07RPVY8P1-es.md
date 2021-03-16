@@ -5,7 +5,7 @@ date: 2020-02-14 09:03:56
 image: 'https://m.media-amazon.com/images/I/41Eua8eWjtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPVY8P1-es Moviles Libres 4G Smartphone Libres 5 Pulgadas 1 GB RAM y...'
 sku: 'B07RPVY8P1-es'
 tags: [ 'android', ]

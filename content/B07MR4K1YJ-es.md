@@ -5,7 +5,7 @@ date: 2020-08-11 14:45:57
 image: 'https://m.media-amazon.com/images/I/41scyPVGLOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR4K1YJ-es Memoria Flash 4 en 1 de 32 GB Compatible con iPhone y...'
 sku: 'B07MR4K1YJ-es'
 tags: [ 'android', ]

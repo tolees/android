@@ -5,7 +5,7 @@ date: 2020-02-01 05:21:20
 image: 'https://m.media-amazon.com/images/I/41fJYEYQaqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4NH4MC-es Motorola Moto G7 Plus - Smartphone Android 9 Pantalla 6.2...'
 sku: 'B07N4NH4MC-es'
 tags: [ 'android', ]

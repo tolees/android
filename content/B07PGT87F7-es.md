@@ -5,7 +5,7 @@ date: 2020-02-14 14:49:46
 image: 'https://m.media-amazon.com/images/I/31K0dK94COL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGT87F7-es Samsung Galaxy Tab S5e - Tablet de 10.5" UltraHD WiFi + 4G...'
 sku: 'B07PGT87F7-es'
 tags: [ 'android', ]

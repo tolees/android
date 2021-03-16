@@ -5,7 +5,7 @@ date: 2020-03-31 00:21:45
 image: 'https://m.media-amazon.com/images/I/515zOd699aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5JHTX6-es 4G LTE Tablet 10 Pulgadas - Android 9.0 4GB RAM y 64GB ROM...'
 sku: 'B07X5JHTX6-es'
 tags: [ 'android', ]

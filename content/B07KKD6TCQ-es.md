@@ -5,7 +5,7 @@ date: 2020-10-12 13:29:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y4NSbTpeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKD6TCQ-es UMIDIGI A3 Pro Smartphone Libre Android 9.0 Pie Dual 4G...'
 sku: 'B07KKD6TCQ-es'
 tags: [ 'android', ]

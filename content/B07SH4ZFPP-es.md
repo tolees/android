@@ -5,7 +5,7 @@ date: 2020-04-14 20:24:12
 image: 'https://m.media-amazon.com/images/I/51OaT4jVReL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH4ZFPP-es Altavoz Bluetooth Portátil 5.0 Axloie Altavoz Inalámbrico...'
 sku: 'B07SH4ZFPP-es'
 tags: [ 'android', ]

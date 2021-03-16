@@ -5,7 +5,7 @@ date: 2020-03-27 19:13:12
 image: 'https://m.media-amazon.com/images/I/41HtBIRKggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WZGHLR-es Philips Audio BT55W/00 - Mini Altavoz Bluetooth...'
 sku: 'B075WZGHLR-es'
 tags: [ 'android', ]

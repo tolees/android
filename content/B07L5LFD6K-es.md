@@ -5,7 +5,7 @@ date: 2020-07-12 21:27:26
 image: 'https://m.media-amazon.com/images/I/51gLy+JCCZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5LFD6K-es LATEC Pulsera Actividad Inteligente Pulsómetro y Presión...'
 sku: 'B07L5LFD6K-es'
 tags: [ 'android', ]

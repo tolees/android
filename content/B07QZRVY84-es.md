@@ -5,7 +5,7 @@ date: 2020-03-15 13:38:48
 image: 'https://m.media-amazon.com/images/I/51b0pp0+9JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZRVY84-es Altavoz Bluetooth Portátil IP67 Impermeable Estéreo...'
 sku: 'B07QZRVY84-es'
 tags: [ 'android', ]

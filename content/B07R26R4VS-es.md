@@ -5,7 +5,7 @@ date: 2020-02-07 21:18:43
 image: 'https://m.media-amazon.com/images/I/5122u7x5YwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R26R4VS-es Motorola One Vision - Smartphone Android One 4 GB de RAM...'
 sku: 'B07R26R4VS-es'
 tags: [ 'android', ]

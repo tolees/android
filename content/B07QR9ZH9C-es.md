@@ -5,7 +5,7 @@ date: 2020-09-20 09:44:22
 image: 'https://m.media-amazon.com/images/I/31Jh5JpHK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QR9ZH9C-es Samsung Galagy Tab A - Tablet de 10.1" FullHD Wifi + 4G...'
 sku: 'B07QR9ZH9C-es'
 tags: [ 'android', ]

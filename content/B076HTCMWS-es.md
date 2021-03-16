@@ -5,7 +5,7 @@ date: 2020-02-25 10:01:41
 image: 'https://m.media-amazon.com/images/I/418Cy5rAfvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HTCMWS-es Motorola termómetro inteligente de oído con seguimiento de...'
 sku: 'B076HTCMWS-es'
 tags: [ 'android', ]

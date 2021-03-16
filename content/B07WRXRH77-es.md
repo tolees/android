@@ -5,7 +5,7 @@ date: 2020-02-15 09:19:37
 image: 'https://m.media-amazon.com/images/I/51x6eRA84qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRXRH77-es Tablet 10 Pulgadas 4G Full HD 32GB ROM/64GB 4G/WiFi/OTG...'
 sku: 'B07WRXRH77-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 11:07:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41j1UYufEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A8IEG2G-es RAMPOW Cable Micro USB 2 4A Carga Rápida [2 Pack] -...'
 sku: 'B01A8IEG2G-es'
 tags: [ 'android', ]

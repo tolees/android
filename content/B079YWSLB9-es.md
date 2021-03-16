@@ -5,7 +5,7 @@ date: 2020-07-06 21:48:52
 image: 'https://m.media-amazon.com/images/I/31ae76sZ1cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YWSLB9-es Samsung SM-G960F/DS Smartphone Samsung Galaxy S9 5.8" Wi-...'
 sku: 'B079YWSLB9-es'
 tags: [ 'android', ]

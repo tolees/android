@@ -5,7 +5,7 @@ date: 2020-10-05 00:06:09
 image: 'https://m.media-amazon.com/images/I/31Z-Bv-PkLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4KVBKF-es SSD 250GB Portátil TOPESEL Disco Estado Sólido Externo...'
 sku: 'B07T4KVBKF-es'
 tags: [ 'android', ]

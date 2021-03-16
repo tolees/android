@@ -5,7 +5,7 @@ date: 2020-08-08 01:05:41
 image: 'https://m.media-amazon.com/images/I/51mlOsdRMVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXWG2DK-es 2020 Moviles Libres Baratos6.0’’ Pulgadas 4G Teléfono...'
 sku: 'B07YXWG2DK-es'
 tags: [ 'android', ]

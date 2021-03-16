@@ -5,7 +5,7 @@ date: 2020-07-17 13:03:15
 image: 'https://m.media-amazon.com/images/I/311mupBtLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08951DYFL-es Disco Flash teléfono móvil u Disco USB 3.0 Giratorio OTG...'
 sku: 'B08951DYFL-es'
 tags: [ 'android', ]

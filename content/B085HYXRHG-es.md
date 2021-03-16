@@ -5,7 +5,7 @@ date: 2020-05-27 09:39:36
 image: 'https://m.media-amazon.com/images/I/41HITQC9EOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HYXRHG-es Blukar Auriculares In Ear Auriculares con Cable y...'
 sku: 'B085HYXRHG-es'
 tags: [ 'android', ]

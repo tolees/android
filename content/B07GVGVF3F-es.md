@@ -5,7 +5,7 @@ date: 2020-01-17 07:16:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CnArCMIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVGVF3F-es LIFEGOO Mini T Auriculares inalambricos Bluetooth 5.0...'
 sku: 'B07GVGVF3F-es'
 tags: [ 'android', ]

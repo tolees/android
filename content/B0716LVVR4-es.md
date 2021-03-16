@@ -5,7 +5,7 @@ date: 2020-05-03 05:07:41
 image: 'https://m.media-amazon.com/images/I/3165O1sA7dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716LVVR4-es Sony Xperia L1 - Smartphone de 5.5" Quad Core 1.45 GHz RAM...'
 sku: 'B0716LVVR4-es'
 tags: [ 'android', ]

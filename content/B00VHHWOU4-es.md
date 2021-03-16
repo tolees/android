@@ -5,7 +5,7 @@ date: 2020-05-13 11:35:54
 image: 'https://m.media-amazon.com/images/I/41MV9clhq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VHHWOU4-es Logitech K400 Plus Teclado Inalámbrico con Touchpad para...'
 sku: 'B00VHHWOU4-es'
 tags: [ 'android', ]

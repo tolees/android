@@ -5,7 +5,7 @@ date: 2020-07-30 03:38:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-KtNuyZSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y4NVNW-es Xiaomi Mi A1 - Smartphone libre de 5.5" 4G WiFi Bluetooth...'
 sku: 'B077Y4NVNW-es'
 tags: [ 'android', ]

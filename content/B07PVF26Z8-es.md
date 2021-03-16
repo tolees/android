@@ -5,7 +5,7 @@ date: 2020-05-05 18:10:43
 image: 'https://m.media-amazon.com/images/I/41Gg0eZ5uxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVF26Z8-es Huawei P30 Pro 16 4 cm 6.47" 8 GB 256 GB Ranura híbrida...'
 sku: 'B07PVF26Z8-es'
 tags: [ 'android', ]

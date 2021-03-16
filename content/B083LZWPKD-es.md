@@ -5,7 +5,7 @@ date: 2020-04-06 06:15:26
 image: 'https://m.media-amazon.com/images/I/41wxP4cIYuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LZWPKD-es Moviles Libres Baratos 4G Android 9.0 V·MOBILE M9 2019...'
 sku: 'B083LZWPKD-es'
 tags: [ 'android', ]

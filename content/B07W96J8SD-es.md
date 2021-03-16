@@ -5,7 +5,7 @@ date: 2020-06-21 20:43:35
 image: 'https://m.media-amazon.com/images/I/41ZbxqqY88L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W96J8SD-es Auriculares Bluetooth Orit Auriculares inalámbricos...'
 sku: 'B07W96J8SD-es'
 tags: [ 'android', ]

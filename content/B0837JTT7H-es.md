@@ -5,7 +5,7 @@ date: 2020-03-23 18:43:25
 image: 'https://m.media-amazon.com/images/I/41y8aNZ-m6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0837JTT7H-es Altavoz Bluetooth portátil con Bajos potentes Rango de...'
 sku: 'B0837JTT7H-es'
 tags: [ 'android', ]

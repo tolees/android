@@ -5,7 +5,7 @@ date: 2020-04-14 14:06:22
 image: 'https://m.media-amazon.com/images/I/516ekvaDk8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB16JKR-es FITFORT Pulsera de Actividad Reloj Inteligente para Hombre...'
 sku: 'B07RB16JKR-es'
 tags: [ 'android', ]

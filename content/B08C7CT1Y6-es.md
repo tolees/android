@@ -5,7 +5,7 @@ date: 2020-08-26 11:26:28
 image: 'https://m.media-amazon.com/images/I/41MD4DsK9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C7CT1Y6-es Campark Webcam PC 1080P Full HD con Micrófono Estéreo USB...'
 sku: 'B08C7CT1Y6-es'
 tags: [ 'android', ]

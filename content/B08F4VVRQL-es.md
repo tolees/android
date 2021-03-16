@@ -5,7 +5,7 @@ date: 2020-08-26 16:23:43
 image: 'https://m.media-amazon.com/images/I/51iR-F9W8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F4VVRQL-es Android Radio de Coche para VW GPS Navigation CAMECHO 7"...'
 sku: 'B08F4VVRQL-es'
 tags: [ 'android', ]

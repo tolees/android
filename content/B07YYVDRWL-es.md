@@ -5,7 +5,7 @@ date: 2020-03-11 12:40:04
 image: 'https://m.media-amazon.com/images/I/41QBwGX4tEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYVDRWL-es CUBOT R15 Pro Smartphone 4G Teléfono del Juego | Quad Core...'
 sku: 'B07YYVDRWL-es'
 tags: [ 'android', ]

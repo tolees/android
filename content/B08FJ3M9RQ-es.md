@@ -5,7 +5,7 @@ date: 2020-09-10 13:06:31
 image: 'https://m.media-amazon.com/images/I/51+xOsvxMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FJ3M9RQ-es Smartwatch Reloj Inteligente Hombre Mujer Niños Monitor...'
 sku: 'B08FJ3M9RQ-es'
 tags: [ 'android', ]

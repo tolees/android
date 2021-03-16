@@ -5,7 +5,7 @@ date: 2020-03-30 11:32:45
 image: 'https://m.media-amazon.com/images/I/41CFU+YYOgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHZSGK8-es YZPUSI USB 3.0 32gb Pendrive USB 3.0 32g Pendrive USB...'
 sku: 'B07RHZSGK8-es'
 tags: [ 'android', ]

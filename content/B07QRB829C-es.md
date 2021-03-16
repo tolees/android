@@ -5,7 +5,7 @@ date: 2020-08-11 16:27:00
 image: 'https://m.media-amazon.com/images/I/31Jh5JpHK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRB829C-es Samsung Galaxy Tab A - Tablet PC USB MALI-G71 MP2 Android...'
 sku: 'B07QRB829C-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-01-06 20:46:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cQ9ngNRuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817VDMSJ-es Auricular Bluetooth Verdadero Deporte inalámbrico...'
 sku: 'B0817VDMSJ-es'
 tags: [ 'android', ]

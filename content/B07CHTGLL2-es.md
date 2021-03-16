@@ -5,7 +5,7 @@ date: 2020-01-15 20:05:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GPJ6fkaOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHTGLL2-es ALCATEL 3X Smartphone Quad Core 1.28 GHz Android N 5.7"...'
 sku: 'B07CHTGLL2-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 10:05:02
 image: 'https://m.media-amazon.com/images/I/41ldXTuWGbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZJGKDN-es Motorola Moto E6 Plus pantalla 6 1" max vision doble...'
 sku: 'B07VZJGKDN-es'
 tags: [ 'android', ]

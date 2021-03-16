@@ -5,7 +5,7 @@ date: 2020-08-17 07:31:23
 image: 'https://m.media-amazon.com/images/I/41Mdw5p+aiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK2CJ9R-es Ofertas móviles 4.0 pulgadas HD Teeno Smartphone Oferta...'
 sku: 'B07PK2CJ9R-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-08-28 15:30:50
 image: 'https://m.media-amazon.com/images/I/51rcra4xh9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FT872TN-es Niños Tablet 7 Pulgadas Android 7.1 OS iwawa pre-installed...'
 sku: 'B07FT872TN-es'
 tags: [ 'android', ]

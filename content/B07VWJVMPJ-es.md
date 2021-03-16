@@ -5,7 +5,7 @@ date: 2020-06-19 12:34:38
 image: 'https://m.media-amazon.com/images/I/515Xj17-cZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWJVMPJ-es Smartwatch Reloj Inteligente Deportivo Pulsera Actividad...'
 sku: 'B07VWJVMPJ-es'
 tags: [ 'android', ]

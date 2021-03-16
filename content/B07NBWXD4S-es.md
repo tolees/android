@@ -5,7 +5,7 @@ date: 2020-08-15 09:02:49
 image: 'https://m.media-amazon.com/images/I/41m+A7vY4AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBWXD4S-es Lenovo Tab E10 Tablet HD Procesador Qualcomm APQ8009 2GB...'
 sku: 'B07NBWXD4S-es'
 tags: [ 'android', ]

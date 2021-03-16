@@ -5,7 +5,7 @@ date: 2020-08-15 13:57:43
 image: 'https://m.media-amazon.com/images/I/51YrLBvGUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NSSXTL-es Moviles Libres Barats 4G 6.0" Pulgadas 2020 16GB...'
 sku: 'B083NSSXTL-es'
 tags: [ 'android', ]

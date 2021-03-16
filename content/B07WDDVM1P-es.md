@@ -5,7 +5,7 @@ date: 2020-04-15 13:05:35
 image: 'https://m.media-amazon.com/images/I/51w9W6fgF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDDVM1P-es CUBOT Quest Lite 4G IP68 Móvil Todorerreno para Viajes o...'
 sku: 'B07WDDVM1P-es'
 tags: [ 'android', ]

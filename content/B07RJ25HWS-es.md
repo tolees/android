@@ -5,7 +5,7 @@ date: 2020-07-12 11:24:24
 image: 'https://m.media-amazon.com/images/I/41ysABDW5cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ25HWS-es 7 Pulgadas Android Oreo 8.1OS 1G RAM 16G ROM Tablet PC...'
 sku: 'B07RJ25HWS-es'
 tags: [ 'android', ]

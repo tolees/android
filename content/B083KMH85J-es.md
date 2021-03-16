@@ -5,7 +5,7 @@ date: 2020-05-03 16:05:52
 image: 'https://m.media-amazon.com/images/I/41R0nop84oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KMH85J-es Reloj Inteligente Pulsómetro Pulsera de Actividad con...'
 sku: 'B083KMH85J-es'
 tags: [ 'android', ]

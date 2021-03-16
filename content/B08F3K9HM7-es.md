@@ -5,7 +5,7 @@ date: 2020-08-05 19:25:13
 image: 'https://m.media-amazon.com/images/I/41j2YOLQ39L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F3K9HM7-es Nuevo P35 Pro 6.3 Pantalla de Pulgadas Teléfono Android...'
 sku: 'B08F3K9HM7-es'
 tags: [ 'android', ]

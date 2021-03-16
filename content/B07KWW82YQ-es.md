@@ -5,7 +5,7 @@ date: 2020-05-24 18:32:59
 image: 'https://m.media-amazon.com/images/I/31wp6TDHx8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWW82YQ-es L&WB Una Pantalla inalámbrica Adaptador WiFi dongle 1080P...'
 sku: 'B07KWW82YQ-es'
 tags: [ 'android', ]

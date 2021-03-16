@@ -5,7 +5,7 @@ date: 2020-09-12 22:00:41
 image: 'https://m.media-amazon.com/images/I/31cJAw1gYIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCJYLB9-es My Way MWWFD009 - Disco Duro USB para iOS y Android WiFi...'
 sku: 'B01NCJYLB9-es'
 tags: [ 'android', ]

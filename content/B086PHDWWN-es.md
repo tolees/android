@@ -5,7 +5,7 @@ date: 2020-04-24 15:28:51
 image: 'https://m.media-amazon.com/images/I/51xjrAZ32eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PHDWWN-es Smartwatch Reloj Inteligente Impermeable con GPS Monitor...'
 sku: 'B086PHDWWN-es'
 tags: [ 'android', ]

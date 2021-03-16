@@ -5,7 +5,7 @@ date: 2020-02-02 16:15:04
 image: 'https://m.media-amazon.com/images/I/41bLILh11FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BNHWZ8-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B082BNHWZ8-es'
 tags: [ 'android', ]

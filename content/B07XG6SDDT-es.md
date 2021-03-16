@@ -5,7 +5,7 @@ date: 2020-02-23 18:34:19
 image: 'https://m.media-amazon.com/images/I/51DW+PD3zHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG6SDDT-es ETEKCITY Pulsera de Actividad Inteligente Impermeable IP68...'
 sku: 'B07XG6SDDT-es'
 tags: [ 'android', ]

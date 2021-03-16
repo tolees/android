@@ -5,7 +5,7 @@ date: 2020-03-09 10:24:30
 image: 'https://m.media-amazon.com/images/I/41RhAfzzdAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IMRB4VQ-es Webcam 1080P HD PAPALOOK Web Cámara con Micrófono para...'
 sku: 'B01IMRB4VQ-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-03-19 11:15:05
 image: 'https://m.media-amazon.com/images/I/51UZTcM0MTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08132FVDH-es DOOGEE S68 Pro Teléfono Móvil Libre Resistente Helio P70...'
 sku: 'B08132FVDH-es'
 tags: [ 'android', ]

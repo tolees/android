@@ -5,7 +5,7 @@ date: 2020-02-05 23:51:14
 image: 'https://m.media-amazon.com/images/I/41lIXdu0TJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4VC5WD-es Sony Xperia XZ2 - Smartphone de 5.7" Octa-Core de 2.8 GHz...'
 sku: 'B07B4VC5WD-es'
 tags: [ 'android', ]

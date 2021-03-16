@@ -5,7 +5,7 @@ date: 2020-01-29 16:32:25
 image: 'https://m.media-amazon.com/images/I/51pIyM8qaGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BBPXB1-es Smartwatch Impermeable Reloj Inteligente Android con...'
 sku: 'B082BBPXB1-es'
 tags: [ 'android', ]

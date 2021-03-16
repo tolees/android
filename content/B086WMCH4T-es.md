@@ -5,7 +5,7 @@ date: 2020-07-22 13:43:47
 image: 'https://m.media-amazon.com/images/I/41fH62culJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WMCH4T-es Lenovo M10 FHD Plus- Tablet de 10.3" Full HD/IPS MediaTek...'
 sku: 'B086WMCH4T-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-09-03 09:41:21
 image: 'https://m.media-amazon.com/images/I/41qjUQg3KAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFSP87B-es TedGem Webcam Full HD Webcam 4K/1080P Streaming Cámara Web...'
 sku: 'B07ZFSP87B-es'
 tags: [ 'android', ]

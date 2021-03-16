@@ -5,7 +5,7 @@ date: 2020-07-19 14:34:11
 image: 'https://m.media-amazon.com/images/I/51+UdVZpV-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087R2P3RT-es Vigorun Smartwatch Reloj Inteligente Hombre Mujer Pantalla...'
 sku: 'B087R2P3RT-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-01-05 08:47:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ah4gUAacL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1CV4FN-es Auriculares Bluetooth Auriculares Inalambricos Bluetooth...'
 sku: 'B07Z1CV4FN-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-02-27 13:56:23
 image: 'https://m.media-amazon.com/images/I/31-v7kiq1vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9K6CYV-es FiiO X5 III - Reproductor de Audio portátil Alta...'
 sku: 'B01N9K6CYV-es'
 tags: [ 'android', ]

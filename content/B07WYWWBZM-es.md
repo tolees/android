@@ -5,7 +5,7 @@ date: 2020-09-14 08:02:12
 image: 'https://m.media-amazon.com/images/I/41Ei6qfLfUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WYWWBZM-es J5 Smartphone Libre 2019 Android 9.0 Teléfono móvil 3G sin...'
 sku: 'B07WYWWBZM-es'
 tags: [ 'android', ]

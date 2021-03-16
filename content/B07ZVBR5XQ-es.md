@@ -5,7 +5,7 @@ date: 2020-01-09 12:24:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BtpaYPexL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVBR5XQ-es Smartwatch Reloj Inteligente Pulsera de Actividad...'
 sku: 'B07ZVBR5XQ-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-09-10 18:46:30
 image: 'https://m.media-amazon.com/images/I/41p1ZFqmEFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08747MBFY-es Smartwatch Reloj Inteligente Pantalla curva Impermeable...'
 sku: 'B08747MBFY-es'
 tags: [ 'android', ]

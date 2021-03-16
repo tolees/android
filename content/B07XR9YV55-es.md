@@ -5,7 +5,7 @@ date: 2020-09-06 12:31:04
 image: 'https://m.media-amazon.com/images/I/41tuPqjsVFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XR9YV55-es Auriculares Bluetooth Inalambrico 5.0 Auriculares...'
 sku: 'B07XR9YV55-es'
 tags: [ 'android', ]

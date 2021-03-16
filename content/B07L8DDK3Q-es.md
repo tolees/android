@@ -5,7 +5,7 @@ date: 2020-06-27 19:15:39
 image: 'https://m.media-amazon.com/images/I/41+ACqNTloL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8DDK3Q-es MINLUK Pulsera de Actividad Inteligente Pulsera Bluetooth...'
 sku: 'B07L8DDK3Q-es'
 tags: [ 'android', ]

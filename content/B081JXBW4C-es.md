@@ -5,7 +5,7 @@ date: 2020-01-13 01:08:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415EjWocxLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JXBW4C-es Looffy Memoria USB para iPhone y iPad Memoria Flash Drive...'
 sku: 'B081JXBW4C-es'
 tags: [ 'android', ]

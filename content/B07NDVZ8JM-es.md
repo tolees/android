@@ -5,7 +5,7 @@ date: 2020-09-25 10:04:27
 image: 'https://m.media-amazon.com/images/I/41uz7DmMFwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDVZ8JM-es Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9...'
 sku: 'B07NDVZ8JM-es'
 tags: [ 'android', ]

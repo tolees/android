@@ -5,7 +5,7 @@ date: 2020-07-06 21:45:11
 image: 'https://m.media-amazon.com/images/I/51ZUL82IjwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Y2K2BC-es Ticwatch Pro 2020 Reloj Inteligente 1GB RAM Pantalla en...'
 sku: 'B082Y2K2BC-es'
 tags: [ 'android', ]

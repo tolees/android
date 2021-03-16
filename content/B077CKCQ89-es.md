@@ -5,7 +5,7 @@ date: 2020-04-27 18:22:53
 image: 'https://m.media-amazon.com/images/I/41BP84B9+kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077CKCQ89-es Motorola Moto Z2 Force - Smartphone de 5.5" WiFi 4G Octa...'
 sku: 'B077CKCQ89-es'
 tags: [ 'android', ]

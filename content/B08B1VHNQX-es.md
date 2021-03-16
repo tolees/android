@@ -5,7 +5,7 @@ date: 2020-08-23 15:07:56
 image: 'https://m.media-amazon.com/images/I/51rqG3ZbDDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B1VHNQX-es Tablets 10.1 Pulgadas Android 9.0 Tablet PC 64Go ROM 4Go...'
 sku: 'B08B1VHNQX-es'
 tags: [ 'android', ]

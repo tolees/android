@@ -5,7 +5,7 @@ date: 2020-05-23 16:24:22
 image: 'https://m.media-amazon.com/images/I/41jFrUspcEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085J1HRRM-es 4G Tablet 10 Pulgadas YESTEL X2 3GB+32GB Android 8.1...'
 sku: 'B085J1HRRM-es'
 tags: [ 'android', ]

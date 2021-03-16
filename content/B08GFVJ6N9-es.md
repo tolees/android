@@ -5,7 +5,7 @@ date: 2020-09-09 09:01:07
 image: 'https://m.media-amazon.com/images/I/41o6DL3YP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFVJ6N9-es Nowakk Cable Micro USB Trenzado de Nailon Colorido Cable...'
 sku: 'B08GFVJ6N9-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-07-20 09:54:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HvUtJHKzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ5KVF3-es LNMBBS 3G Tablet de 10.1 Pulgadas HD WiFi 2 GB de RAM 32GB...'
 sku: 'B07CQ5KVF3-es'
 tags: [ 'android', ]

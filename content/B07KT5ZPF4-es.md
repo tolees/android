@@ -5,7 +5,7 @@ date: 2020-01-14 18:33:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416Hg%2BeyznL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KT5ZPF4-es Cable Lightning 3 en 1 iHaper Cable de Carga USB Cable de...'
 sku: 'B07KT5ZPF4-es'
 tags: [ 'android', ]

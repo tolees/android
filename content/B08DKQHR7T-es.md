@@ -5,7 +5,7 @@ date: 2020-08-27 02:58:03
 image: 'https://m.media-amazon.com/images/I/31Oq+Nl34RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKQHR7T-es Fiyapoo 4K Wireless Miracast Dongle 1080P Adaptador de TV...'
 sku: 'B08DKQHR7T-es'
 tags: [ 'android', ]

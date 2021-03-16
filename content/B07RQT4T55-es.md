@@ -5,7 +5,7 @@ date: 2020-02-16 18:32:41
 image: 'https://m.media-amazon.com/images/I/414-Rr9ojEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQT4T55-es Smartwatch Reloj Inteligente Impermeable IP68 Pulsera...'
 sku: 'B07RQT4T55-es'
 tags: [ 'android', ]

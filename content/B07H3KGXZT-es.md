@@ -5,7 +5,7 @@ date: 2020-01-08 10:56:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41j09r9Dq7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3KGXZT-es Xiaomi POCOPHONE F1 - Smartphone Dual SIM de 6 18" 4G...'
 sku: 'B07H3KGXZT-es'
 tags: [ 'android', ]

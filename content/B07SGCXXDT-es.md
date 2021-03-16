@@ -5,7 +5,7 @@ date: 2020-07-27 00:05:21
 image: 'https://m.media-amazon.com/images/I/51MB-PiQDtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGCXXDT-es Cable Micro USB Aioneus 4 Pack [0.5M 1M 1.5M 2M] Nylon...'
 sku: 'B07SGCXXDT-es'
 tags: [ 'android', ]

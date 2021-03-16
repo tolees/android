@@ -5,7 +5,7 @@ date: 2020-07-18 12:33:04
 image: 'https://m.media-amazon.com/images/I/41Wtk-4UiLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRHZX2V-es Q88 7 "Tablet para niños 1G + 8GB A33 Quad Core 0.3MP...'
 sku: 'B08CRHZX2V-es'
 tags: [ 'android', ]

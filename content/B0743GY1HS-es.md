@@ -5,7 +5,7 @@ date: 2020-05-07 10:02:52
 image: 'https://m.media-amazon.com/images/I/51Kpz1TUCvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743GY1HS-es Auriculares Bluetooth V4.1 Inalámbricos Bluetooth Headset...'
 sku: 'B0743GY1HS-es'
 tags: [ 'android', ]

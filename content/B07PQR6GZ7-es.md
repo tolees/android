@@ -5,7 +5,7 @@ date: 2020-01-10 20:07:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41808fnaY0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQR6GZ7-es AUCARY Proyector Mini Proyector T7 Proyector Portátil...'
 sku: 'B07PQR6GZ7-es'
 tags: [ 'android', ]

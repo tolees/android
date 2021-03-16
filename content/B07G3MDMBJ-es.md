@@ -5,7 +5,7 @@ date: 2020-08-25 02:09:30
 image: 'https://m.media-amazon.com/images/I/412X33Yx4LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3MDMBJ-es Motorola One - Smartphone Android One pantalla de 5.9’’...'
 sku: 'B07G3MDMBJ-es'
 tags: [ 'android', ]

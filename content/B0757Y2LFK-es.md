@@ -5,7 +5,7 @@ date: 2020-03-01 00:57:10
 image: 'https://m.media-amazon.com/images/I/31YjkC-3yEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757Y2LFK-es Sony Xperia XZ1 - Smartphone de 5.2" Bluetooth Octa Core...'
 sku: 'B0757Y2LFK-es'
 tags: [ 'android', ]

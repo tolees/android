@@ -5,7 +5,7 @@ date: 2020-08-27 18:14:40
 image: 'https://m.media-amazon.com/images/I/41HfpE-XflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZTMCRP-es Eagle Smart Plug & Play - Convertidor de VHS a digital Hi8...'
 sku: 'B08CZTMCRP-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-02-06 02:08:15
 image: 'https://m.media-amazon.com/images/I/418f54D8CLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY7YD11-es Motorola Moto G6 – Smartphone libre Android pantalla de...'
 sku: 'B07CY7YD11-es'
 tags: [ 'android', ]

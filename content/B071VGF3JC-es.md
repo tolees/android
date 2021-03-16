@@ -5,7 +5,7 @@ date: 2020-05-14 23:27:02
 image: 'https://m.media-amazon.com/images/I/41KJxp5xn5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VGF3JC-es Sony Xperia XA1 Ultra - Smartphone con pantalla FULL HD de...'
 sku: 'B071VGF3JC-es'
 tags: [ 'android', ]

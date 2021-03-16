@@ -5,7 +5,7 @@ date: 2020-09-04 18:03:44
 image: 'https://m.media-amazon.com/images/I/31HN3Xr3bmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRB82BK-es Samsung Galaxy Tab A - Tablet de 10.1" Full HD Wifi + 4G...'
 sku: 'B07QRB82BK-es'
 tags: [ 'android', ]

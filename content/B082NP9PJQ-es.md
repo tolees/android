@@ -5,7 +5,7 @@ date: 2020-03-28 09:44:52
 image: 'https://m.media-amazon.com/images/I/41xX226HE1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NP9PJQ-es Tableta 10.1 Pulgadas 4G WiFi Android 9.0 Tablets PC 3GB...'
 sku: 'B082NP9PJQ-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-08-13 09:41:16
 image: 'https://m.media-amazon.com/images/I/41iH9tSQlvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2XQ2X1-es Batería Externa 25000mAh Power Bank Alta Capacidad con 2...'
 sku: 'B07P2XQ2X1-es'
 tags: [ 'android', ]

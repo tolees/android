@@ -5,7 +5,7 @@ date: 2020-06-28 10:25:58
 image: 'https://m.media-amazon.com/images/I/31YjtC6MSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RK5VU5M-es TP-LINK - Router N300 Android'
 sku: 'B00RK5VU5M-es'
 tags: [ 'android', ]

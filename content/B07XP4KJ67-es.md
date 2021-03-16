@@ -5,7 +5,7 @@ date: 2020-04-17 15:05:59
 image: 'https://m.media-amazon.com/images/I/516mIt5TMvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XP4KJ67-es DOOGEE S68 Pro Teléfono Móvil Todoterreno Helio P70 Octa...'
 sku: 'B07XP4KJ67-es'
 tags: [ 'android', ]

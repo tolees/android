@@ -5,7 +5,7 @@ date: 2020-06-21 13:32:16
 image: 'https://m.media-amazon.com/images/I/51zIlRTLlQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZXMCZ4-es Pantalla IPS de 11 Pulgadas Android 8.0 Tablet PC de Diez...'
 sku: 'B083ZXMCZ4-es'
 tags: [ 'android', ]

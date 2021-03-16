@@ -5,7 +5,7 @@ date: 2020-07-01 10:28:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417jwuQXfhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2SDC15-es Inalámbricos Bluetooth Auriculares Bluetooth con Micrófono...'
 sku: 'B07S2SDC15-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-03-04 12:24:58
 image: 'https://m.media-amazon.com/images/I/513681SLtKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084JQ3YVV-es HONOR Magic Watch 2 46mm Smart Watch 15 Deportes...'
 sku: 'B084JQ3YVV-es'
 tags: [ 'android', ]

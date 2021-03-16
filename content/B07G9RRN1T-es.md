@@ -5,7 +5,7 @@ date: 2020-02-14 07:11:41
 image: 'https://m.media-amazon.com/images/I/41g4zCg4rFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9RRN1T-es Mpow Manos Libres Auricular Bluetooth Manos Libres Oreja...'
 sku: 'B07G9RRN1T-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 17:40:58
 image: 'https://m.media-amazon.com/images/I/51DOHZL2FQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVSMQP-es S&G Top Organizador para Asientos de Coches Organizador de...'
 sku: 'B07SBVSMQP-es'
 tags: [ 'android', ]

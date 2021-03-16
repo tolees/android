@@ -5,7 +5,7 @@ date: 2020-05-03 16:01:32
 image: 'https://m.media-amazon.com/images/I/41PxsHp8v2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S12RQT2-es Alcatel 3 2019 smartphone pantalla 5 94" 4GB RAM 64GB...'
 sku: 'B07S12RQT2-es'
 tags: [ 'android', ]

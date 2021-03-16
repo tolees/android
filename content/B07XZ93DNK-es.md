@@ -5,7 +5,7 @@ date: 2020-01-04 10:07:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413BeBm2l%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZ93DNK-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
 sku: 'B07XZ93DNK-es'
 tags: [ 'android', ]

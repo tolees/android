@@ -5,7 +5,7 @@ date: 2020-09-12 00:46:11
 image: 'https://m.media-amazon.com/images/I/41nIK6mHxdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSPM4Z7-es LINKCOOL Trípode para teléfono Trípode de cámara portátil...'
 sku: 'B07WSPM4Z7-es'
 tags: [ 'android', ]

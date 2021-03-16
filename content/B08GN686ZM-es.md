@@ -5,7 +5,7 @@ date: 2020-09-04 21:06:10
 image: 'https://m.media-amazon.com/images/I/411nENO4fHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GN686ZM-es Ajcoflt Smartwatch Un Reloj Deportivo Inteligente para...'
 sku: 'B08GN686ZM-es'
 tags: [ 'android', ]

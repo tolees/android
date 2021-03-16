@@ -5,7 +5,7 @@ date: 2020-07-14 13:44:48
 image: 'https://m.media-amazon.com/images/I/41GILREKoYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYH54VF-es MEBERRY Tablet 10 Pulgadas Android 9 Pie Ultrar-Rápido...'
 sku: 'B07VYH54VF-es'
 tags: [ 'android', ]

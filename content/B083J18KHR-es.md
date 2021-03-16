@@ -5,7 +5,7 @@ date: 2020-07-09 17:41:17
 image: 'https://m.media-amazon.com/images/I/41Xw5KN2PbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J18KHR-es Blackview® A80 Pro 2020 Teléfono Móvil Libres 4G Pantalla...'
 sku: 'B083J18KHR-es'
 tags: [ 'android', ]

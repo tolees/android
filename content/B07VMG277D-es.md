@@ -5,7 +5,7 @@ date: 2020-04-11 10:06:34
 image: 'https://m.media-amazon.com/images/I/415wloc6MXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMG277D-es DOOGEE N20 2019 Dual SIM Telefonos Moviles Libres 4g Octa-...'
 sku: 'B07VMG277D-es'
 tags: [ 'android', ]

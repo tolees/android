@@ -5,7 +5,7 @@ date: 2020-08-15 18:52:34
 image: 'https://m.media-amazon.com/images/I/41QZK3laKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z64YCL9-es Orit Auriculares Inalambricos Deportivos Auriculares...'
 sku: 'B07Z64YCL9-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-04-02 13:18:53
 image: 'https://m.media-amazon.com/images/I/41bX2cfkDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCMKPFW-es MAFENGWO Moviles Libres Baratos 4G Teléfono Móvil de 5 2...'
 sku: 'B07YCMKPFW-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-06-27 18:49:21
 image: 'https://m.media-amazon.com/images/I/41tQ3XJlmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SCN3RW-es TOOBUR Smartwatch IP68 Impermeable Reloj Inteligente con...'
 sku: 'B082SCN3RW-es'
 tags: [ 'android', ]

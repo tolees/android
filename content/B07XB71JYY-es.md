@@ -5,7 +5,7 @@ date: 2020-10-08 11:18:15
 image: 'https://m.media-amazon.com/images/I/41ZzyD-rJiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB71JYY-es iPosible Batería Externa 26800mAh Power Bank Ultra...'
 sku: 'B07XB71JYY-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-01-25 18:35:21
 image: 'https://m.media-amazon.com/images/I/51qbamaxEZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGG23FX-es CUBOT Quest 4G Smartphone IP68 Robusto 4GB RAM + 64GB ROM...'
 sku: 'B07WGG23FX-es'
 tags: [ 'android', ]

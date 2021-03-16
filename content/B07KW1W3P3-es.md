@@ -5,7 +5,7 @@ date: 2020-03-18 14:40:42
 image: 'https://m.media-amazon.com/images/I/41jAgOn022L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW1W3P3-es Baseus Cargador de Coche 5A 30W Tipo C con PD Carga rápida...'
 sku: 'B07KW1W3P3-es'
 tags: [ 'android', ]

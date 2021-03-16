@@ -5,7 +5,7 @@ date: 2020-09-23 06:54:50
 image: 'https://m.media-amazon.com/images/I/31ZtZh9wtLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0896HDDHT-es OPPO Find X2 PRO 5G – Smartphone de 6.7" OLED 12GB/512GB...'
 sku: 'B0896HDDHT-es'
 tags: [ 'android', ]

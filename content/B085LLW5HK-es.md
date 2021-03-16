@@ -5,7 +5,7 @@ date: 2020-07-21 12:20:52
 image: 'https://m.media-amazon.com/images/I/31KS49+UTqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LLW5HK-es MKTOSASA - Auriculares intraurales inalámbricos Bluetooth®...'
 sku: 'B085LLW5HK-es'
 tags: [ 'android', ]

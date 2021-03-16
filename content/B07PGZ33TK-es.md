@@ -5,7 +5,7 @@ date: 2020-04-02 17:44:35
 image: 'https://m.media-amazon.com/images/I/41ESd8MZ0QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGZ33TK-es Szsinocam IP Cámara Exterior Seguridad Vigilancia WiFi P2P...'
 sku: 'B07PGZ33TK-es'
 tags: [ 'android', ]

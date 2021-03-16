@@ -5,7 +5,7 @@ date: 2020-06-24 15:33:31
 image: 'https://m.media-amazon.com/images/I/51LGibqK1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081PRCBHR-es Tablet 10 Pulgadas 4G Full HD 4GB de RAM 64GB de ROM...'
 sku: 'B081PRCBHR-es'
 tags: [ 'android', ]

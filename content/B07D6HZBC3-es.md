@@ -5,7 +5,7 @@ date: 2020-04-17 10:46:38
 image: 'https://m.media-amazon.com/images/I/51ISJ4oqroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6HZBC3-es LiuShan BQ Aquaris M10 Funda Folio Soporte PU Cuero Con...'
 sku: 'B07D6HZBC3-es'
 tags: [ 'android', ]

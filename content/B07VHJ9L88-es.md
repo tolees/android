@@ -5,7 +5,7 @@ date: 2020-02-03 11:18:29
 image: 'https://m.media-amazon.com/images/I/41nPa8uBUTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHJ9L88-es Tablet 10 Pulgadas 4G Dual SIM 64GB de Memoria 3GB de RAM...'
 sku: 'B07VHJ9L88-es'
 tags: [ 'android', ]

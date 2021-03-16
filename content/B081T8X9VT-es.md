@@ -5,7 +5,7 @@ date: 2020-10-10 07:44:35
 image: 'https://m.media-amazon.com/images/I/313d1ZW0B6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081T8X9VT-es SWEYE Batería Externa Movil 24800mAH Power Bank Carga...'
 sku: 'B081T8X9VT-es'
 tags: [ 'android', ]

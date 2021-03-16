@@ -5,7 +5,7 @@ date: 2020-08-07 08:02:27
 image: 'https://m.media-amazon.com/images/I/41O7FmcFHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6MWPLT-es DOOGEE S60 Lite Smartphone Al Aire Libre Robusto 4G Face...'
 sku: 'B07W6MWPLT-es'
 tags: [ 'android', ]

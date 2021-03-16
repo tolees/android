@@ -5,7 +5,7 @@ date: 2020-07-29 12:02:22
 image: 'https://m.media-amazon.com/images/I/41ggCir4oUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NCDKSR-es Timmy P7000 Pro Quad Core Dual SIM para Android 5.0...'
 sku: 'B089NCDKSR-es'
 tags: [ 'android', ]

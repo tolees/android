@@ -5,7 +5,7 @@ date: 2020-08-20 09:11:19
 image: 'https://m.media-amazon.com/images/I/51u0ciRDmJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F996NPW-es ANKEWAY Android 9.1 Car Radio 2 DIN GPS Navigation 7...'
 sku: 'B08F996NPW-es'
 tags: [ 'android', ]

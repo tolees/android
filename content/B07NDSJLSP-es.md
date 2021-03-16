@@ -5,7 +5,7 @@ date: 2020-05-27 12:38:42
 image: 'https://m.media-amazon.com/images/I/311MgrMNZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDSJLSP-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide...'
 sku: 'B07NDSJLSP-es'
 tags: [ 'android', ]

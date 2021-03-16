@@ -5,7 +5,7 @@ date: 2020-04-21 17:10:31
 image: 'https://m.media-amazon.com/images/I/41hjn2ucD1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MW2WD8Q-es Willful Pulsera de Actividad Pulsera Inteligente con...'
 sku: 'B07MW2WD8Q-es'
 tags: [ 'android', ]

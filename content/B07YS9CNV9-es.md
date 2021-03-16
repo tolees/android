@@ -5,7 +5,7 @@ date: 2020-02-27 06:27:28
 image: 'https://m.media-amazon.com/images/I/41bfhNJbtWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YS9CNV9-es 2019 Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
 sku: 'B07YS9CNV9-es'
 tags: [ 'android', ]

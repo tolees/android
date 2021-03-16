@@ -5,7 +5,7 @@ date: 2020-03-19 22:26:53
 image: 'https://m.media-amazon.com/images/I/51WO5lzaL7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFQCW92-es Xiaomi Redmi Note 7 16 cm 6.3" 4 GB 64 GB Ranura híbrida...'
 sku: 'B07PFQCW92-es'
 tags: [ 'android', ]

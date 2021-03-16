@@ -5,7 +5,7 @@ date: 2020-01-10 17:04:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cQ9ngNRuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZWRNWW4-es 2019 Nuevo Toque Auriculares Bluetooth Auriculares...'
 sku: 'B07ZWRNWW4-es'
 tags: [ 'android', ]

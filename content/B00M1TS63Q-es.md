@@ -5,7 +5,7 @@ date: 2020-04-01 11:58:04
 image: 'https://m.media-amazon.com/images/I/41rYNN7RIbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M1TS63Q-es Sennheiser URBANITE - Auriculares de diadema abiertos...'
 sku: 'B00M1TS63Q-es'
 tags: [ 'android', ]

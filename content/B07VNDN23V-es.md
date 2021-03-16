@@ -5,7 +5,7 @@ date: 2020-09-02 16:55:55
 image: 'https://m.media-amazon.com/images/I/41uQK3lKIOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNDN23V-es 【Versión Actualizado】 Mpow S15 Dual EQ Auriculares...'
 sku: 'B07VNDN23V-es'
 tags: [ 'android', ]

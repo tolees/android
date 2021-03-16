@@ -5,7 +5,7 @@ date: 2020-05-05 07:02:31
 image: 'https://m.media-amazon.com/images/I/41dlnucKWUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G96CYZ1-es La Herramienta de Escaneo OBD con Lector de Códigos OBD2...'
 sku: 'B07G96CYZ1-es'
 tags: [ 'android', ]

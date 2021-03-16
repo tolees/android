@@ -5,7 +5,7 @@ date: 2020-07-08 13:34:39
 image: 'https://m.media-amazon.com/images/I/31yaDT0JsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YV8QM35-es Maegoo Auriculares Inalámbricos Bluetooth 5.0 Auriculares...'
 sku: 'B07YV8QM35-es'
 tags: [ 'android', ]

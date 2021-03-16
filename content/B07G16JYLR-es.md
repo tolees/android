@@ -5,7 +5,7 @@ date: 2020-04-08 15:03:52
 image: 'https://m.media-amazon.com/images/I/41tw-iW9TML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G16JYLR-es Auricular Bluetooth V4.1 Magnético Auriculares Deportivos...'
 sku: 'B07G16JYLR-es'
 tags: [ 'android', ]

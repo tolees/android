@@ -5,7 +5,7 @@ date: 2020-03-05 19:16:26
 image: 'https://m.media-amazon.com/images/I/41bLILh11FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KH9PP5-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B082KH9PP5-es'
 tags: [ 'android', ]

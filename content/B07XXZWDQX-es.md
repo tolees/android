@@ -5,7 +5,7 @@ date: 2020-07-02 00:35:41
 image: 'https://m.media-amazon.com/images/I/41MjwDaF3iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXZWDQX-es FKANT Batería Externa 10000mAh Power Bank con 2...'
 sku: 'B07XXZWDQX-es'
 tags: [ 'android', ]

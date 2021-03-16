@@ -5,7 +5,7 @@ date: 2020-03-22 13:31:50
 image: 'https://m.media-amazon.com/images/I/411q3S9koBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HVT3B5C-es Auriculares Bluetooth Inalámbricos Vigorun Auriculares...'
 sku: 'B07HVT3B5C-es'
 tags: [ 'android', ]

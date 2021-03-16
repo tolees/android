@@ -5,7 +5,7 @@ date: 2020-01-14 10:22:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Dn6uAeufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZX3W1TM-es Tablets 10 Pulgadas 64GB 3GB RAM 4G Dual SIM/WiFi Tablet...'
 sku: 'B07ZX3W1TM-es'
 tags: [ 'android', ]

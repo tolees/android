@@ -5,7 +5,7 @@ date: 2020-01-15 10:03:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51aRL9VD1pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL2QXN8-es DEPSTECH Endoscopio Inalámbrico 5.0MP Boroscopio HD...'
 sku: 'B07XL2QXN8-es'
 tags: [ 'android', ]

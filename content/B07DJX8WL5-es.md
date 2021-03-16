@@ -5,7 +5,7 @@ date: 2020-04-01 11:45:03
 image: 'https://m.media-amazon.com/images/I/51nbwItCmLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJX8WL5-es TEKKIWEAR. DMX121BK. Smartwatch Phone H1 Dual Core con...'
 sku: 'B07DJX8WL5-es'
 tags: [ 'android', ]

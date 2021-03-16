@@ -5,7 +5,7 @@ date: 2020-02-10 00:05:16
 image: 'https://m.media-amazon.com/images/I/51vFp4EklUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZTB1TD-es YUNTAB 7 Pulgadas Kids Tablet PC Q91 Juego y Aprendizaje...'
 sku: 'B07PZTB1TD-es'
 tags: [ 'android', ]

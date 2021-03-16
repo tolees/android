@@ -5,7 +5,7 @@ date: 2020-07-27 08:35:53
 image: 'https://m.media-amazon.com/images/I/51-ZOeYf4vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JQ9YH4-es DOOGEE S95 Pro Moviles Libres Todoterreno Helio P90 Octa...'
 sku: 'B086JQ9YH4-es'
 tags: [ 'android', ]

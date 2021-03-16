@@ -5,7 +5,7 @@ date: 2020-01-20 13:09:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ly6n7rzsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L54MVM3-es Seneo Reloj Inteligente Hombre Reloj de Seguimiento de...'
 sku: 'B07L54MVM3-es'
 tags: [ 'android', ]

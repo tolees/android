@@ -5,7 +5,7 @@ date: 2020-06-19 17:33:12
 image: 'https://m.media-amazon.com/images/I/41nGwTAmgpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GLGTJP-es 8LED 3.5mm Jack Smart Cellphone Selfie LED Luz de Flash de...'
 sku: 'B089GLGTJP-es'
 tags: [ 'android', ]

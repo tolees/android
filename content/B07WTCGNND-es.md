@@ -5,7 +5,7 @@ date: 2020-08-27 06:41:34
 image: 'https://m.media-amazon.com/images/I/415zecSnc3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTCGNND-es TagoBee TB14 Pulsera Actividad Fitness Trackers IP68...'
 sku: 'B07WTCGNND-es'
 tags: [ 'android', ]

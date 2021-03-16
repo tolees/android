@@ -5,7 +5,7 @@ date: 2020-01-17 07:53:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z38CBrUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824LV5VM-es UMIDIGI Reloj Inteligente Uwatch3 5ATM Impermeable...'
 sku: 'B0824LV5VM-es'
 tags: [ 'android', ]

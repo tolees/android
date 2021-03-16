@@ -5,7 +5,7 @@ date: 2020-08-19 13:56:39
 image: 'https://m.media-amazon.com/images/I/51EJwkj142L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYZR6QK-es Ulefone Armor X5 2020 4G IP68 Impermeable Smartphone...'
 sku: 'B07YYZR6QK-es'
 tags: [ 'android', ]

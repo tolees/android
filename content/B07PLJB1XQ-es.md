@@ -5,7 +5,7 @@ date: 2020-07-17 15:21:09
 image: 'https://m.media-amazon.com/images/I/412KHUX9vqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLJB1XQ-es PRIXTON – Reloj Inteligente Smartwatch para Android e iOS...'
 sku: 'B07PLJB1XQ-es'
 tags: [ 'android', ]

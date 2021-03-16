@@ -5,7 +5,7 @@ date: 2020-02-17 19:31:04
 image: 'https://m.media-amazon.com/images/I/51dJ8EuWZbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PP13W9V-es Android TV Box Android 8.1 TV Box Amlogic S905W Quad-Core...'
 sku: 'B07PP13W9V-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-08-18 09:54:33
 image: 'https://m.media-amazon.com/images/I/41qGqNkyWlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GPY3LY-es WOWGO Pulsera Monitor de Actividad Pulsómetro y Podómetro...'
 sku: 'B077GPY3LY-es'
 tags: [ 'android', ]

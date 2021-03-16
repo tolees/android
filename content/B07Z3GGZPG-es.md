@@ -5,7 +5,7 @@ date: 2020-07-05 13:50:21
 image: 'https://m.media-amazon.com/images/I/51Ff3BXaG4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3GGZPG-es DOOGEE S68 Pro Android 9.0 Teléfono Móvil Libre Resistente...'
 sku: 'B07Z3GGZPG-es'
 tags: [ 'android', ]

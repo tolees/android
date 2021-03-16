@@ -5,7 +5,7 @@ date: 2020-06-20 05:55:19
 image: 'https://m.media-amazon.com/images/I/41nt1aAZdJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S38RSQ8-es Memoria Flash 4 en 1 64 GB Compatible con iPhone y...'
 sku: 'B07S38RSQ8-es'
 tags: [ 'android', ]

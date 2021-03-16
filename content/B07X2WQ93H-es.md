@@ -5,7 +5,7 @@ date: 2020-05-27 16:56:30
 image: 'https://m.media-amazon.com/images/I/31WnQq5ZuEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2WQ93H-es Palm PVG100 - Smartphone de 3.3" 4G RAM de 3 GB Memoria de...'
 sku: 'B07X2WQ93H-es'
 tags: [ 'android', ]

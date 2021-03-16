@@ -5,7 +5,7 @@ date: 2020-04-05 09:41:58
 image: 'https://m.media-amazon.com/images/I/51oA76LEAPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L7XHWJ-es Tableta Yuntab H8 LTE - Teléfono de 8 pulgadas Quad-core...'
 sku: 'B071L7XHWJ-es'
 tags: [ 'android', ]

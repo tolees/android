@@ -5,7 +5,7 @@ date: 2020-06-21 18:02:18
 image: 'https://m.media-amazon.com/images/I/410ukTMIdTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM2SLM9-es Huawei Y7 2019 - Smartphone de 6.26" RAM de 3 GB Memoria...'
 sku: 'B07MM2SLM9-es'
 tags: [ 'android', ]

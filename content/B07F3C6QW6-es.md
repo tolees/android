@@ -5,7 +5,7 @@ date: 2020-09-02 16:37:38
 image: 'https://m.media-amazon.com/images/I/41vRJ6Gp3RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3C6QW6-es Catapult PLAYR Smart Football Tracker - Fútbol GPS Vest y...'
 sku: 'B07F3C6QW6-es'
 tags: [ 'android', ]

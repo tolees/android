@@ -5,7 +5,7 @@ date: 2020-08-03 18:03:38
 image: 'https://m.media-amazon.com/images/I/41APUd6zGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNT6J3Q-es Samsung Galaxy Tab S4 - Tablet de 10.5" WQXGA Wi-Fi...'
 sku: 'B07GNT6J3Q-es'
 tags: [ 'android', ]

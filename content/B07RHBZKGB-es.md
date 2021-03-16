@@ -5,7 +5,7 @@ date: 2020-02-27 09:28:54
 image: 'https://m.media-amazon.com/images/I/41RpJywzlGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHBZKGB-es Alcatel 3 - Smartphone RAM de 3 GB Camara 13 MP bateria...'
 sku: 'B07RHBZKGB-es'
 tags: [ 'android', ]

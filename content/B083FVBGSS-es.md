@@ -5,7 +5,7 @@ date: 2020-08-05 11:21:05
 image: 'https://m.media-amazon.com/images/I/51diBsBMeEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FVBGSS-es Blackview® A80 Pro 2020 Teléfono Móvil Libres 4G Pantalla...'
 sku: 'B083FVBGSS-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-09-28 13:43:22
 image: 'https://m.media-amazon.com/images/I/414JF1HxBpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H5KZ45Q-es Tarjeta Micro SD de alta velocidad de 256 GB diseñada para...'
 sku: 'B08H5KZ45Q-es'
 tags: [ 'android', ]

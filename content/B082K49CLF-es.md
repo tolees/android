@@ -5,7 +5,7 @@ date: 2020-02-03 11:09:48
 image: 'https://m.media-amazon.com/images/I/41TIWQjfbjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082K49CLF-es 2020 Auricular Bluetooth inalámbrico cancelación de Ruido...'
 sku: 'B082K49CLF-es'
 tags: [ 'android', ]

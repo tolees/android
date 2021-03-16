@@ -5,7 +5,7 @@ date: 2020-06-25 14:54:21
 image: 'https://m.media-amazon.com/images/I/41yoz13mPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0838FN1PC-es PICILOO Cargador USB de Pared Dos Enchufe USB Pared...'
 sku: 'B0838FN1PC-es'
 tags: [ 'android', ]

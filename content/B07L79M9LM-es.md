@@ -5,7 +5,7 @@ date: 2020-08-07 19:25:29
 image: 'https://m.media-amazon.com/images/I/515AlbiRY3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L79M9LM-es Controlador de Juego móvil para PUBG 5 en 1 versión...'
 sku: 'B07L79M9LM-es'
 tags: [ 'android', ]

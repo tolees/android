@@ -5,7 +5,7 @@ date: 2020-04-30 14:50:54
 image: 'https://m.media-amazon.com/images/I/31e3FGk9B6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D57YZQA-es OPPO Find X Lamborghini - Smartphone Libre Android 8.1...'
 sku: 'B00D57YZQA-es'
 tags: [ 'android', ]

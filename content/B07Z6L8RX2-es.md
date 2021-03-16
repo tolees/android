@@ -5,7 +5,7 @@ date: 2020-10-02 19:19:29
 image: 'https://m.media-amazon.com/images/I/41zRzXBlE-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6L8RX2-es Oppo Reno 2 - Smartphone de 6.55" AMOLED 4G Dual Sim 8GB...'
 sku: 'B07Z6L8RX2-es'
 tags: [ 'android', ]

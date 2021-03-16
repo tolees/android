@@ -5,7 +5,7 @@ date: 2020-01-02 10:21:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ROaWMmqjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VV5S8GV-es Abeyete Pulsera de Actividad Reloj Inteligente para Hombre...'
 sku: 'B07VV5S8GV-es'
 tags: [ 'android', ]

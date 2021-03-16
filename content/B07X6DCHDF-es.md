@@ -5,7 +5,7 @@ date: 2020-03-26 11:09:50
 image: 'https://m.media-amazon.com/images/I/41kg-UoLYZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6DCHDF-es HUION 2019 Nuevo Inspiroy Ink H320M Tableta Gráfica Doble...'
 sku: 'B07X6DCHDF-es'
 tags: [ 'android', ]

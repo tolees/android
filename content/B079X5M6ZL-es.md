@@ -5,7 +5,7 @@ date: 2020-05-30 11:45:35
 image: 'https://m.media-amazon.com/images/I/31ae76sZ1cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079X5M6ZL-es Samsung SM-G960FZKDPHE Galaxy S9 - Smartphone de 5.8" Wi-...'
 sku: 'B079X5M6ZL-es'
 tags: [ 'android', ]

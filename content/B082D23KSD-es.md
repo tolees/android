@@ -5,7 +5,7 @@ date: 2020-03-16 14:36:14
 image: 'https://m.media-amazon.com/images/I/51s9flD6T4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D23KSD-es UMIDIGI Reloj Inteligente Uwatch3 Smartwatch 5ATM...'
 sku: 'B082D23KSD-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-01-05 20:20:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414L7piMPkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6XQPBD-es Tablet 10.1 Pulgadas Android 7.0 Tablet PC WiFi Tableta...'
 sku: 'B07V6XQPBD-es'
 tags: [ 'android', ]

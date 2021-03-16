@@ -5,7 +5,7 @@ date: 2020-02-04 11:17:08
 image: 'https://m.media-amazon.com/images/I/516OlJGOkDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB8NGKX-es Reloj Inteligente 1.4 Inch Smartwatch with Monitoreo de...'
 sku: 'B07TB8NGKX-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-02-17 13:38:31
 image: 'https://m.media-amazon.com/images/I/51neT4YzIFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4GYS1Y-es Lenovo TAB10 - Tablet de 10.1" HD Procesador Qualcomm...'
 sku: 'B07B4GYS1Y-es'
 tags: [ 'android', ]

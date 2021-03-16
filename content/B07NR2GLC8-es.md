@@ -5,7 +5,7 @@ date: 2020-04-17 06:50:57
 image: 'https://m.media-amazon.com/images/I/41ndhtD3jmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR2GLC8-es Xiaomi Mi 9 – Smartphone de AMOLED de 6 39" 4G Octa Core...'
 sku: 'B07NR2GLC8-es'
 tags: [ 'android', ]

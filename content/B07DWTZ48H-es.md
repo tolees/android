@@ -5,7 +5,7 @@ date: 2020-08-13 06:58:31
 image: 'https://m.media-amazon.com/images/I/41l8cYtghfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWTZ48H-es OTHA Proyector Mini Portátil Mini Proyector Android 7.1.2...'
 sku: 'B07DWTZ48H-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-02-21 18:32:16
 image: 'https://m.media-amazon.com/images/I/41ANlTx1-KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZD2CSCR-es DOOGEE X90 Móviles Libres Android 8.1 Smartphones Libres...'
 sku: 'B07ZD2CSCR-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 19:16:39
 image: 'https://m.media-amazon.com/images/I/41d028yMQ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ1VKJZ-es WIKO View3 Lite - Smartphone de 6 09” HD+ IPS Cámara Dual...'
 sku: 'B07QJ1VKJZ-es'
 tags: [ 'android', ]

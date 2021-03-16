@@ -5,7 +5,7 @@ date: 2020-03-31 18:31:59
 image: 'https://m.media-amazon.com/images/I/41y4Mo67edL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY4SG96-es Telefono Resistentes Blackview BV5500 Pro Android 9.0 Dual...'
 sku: 'B07YY4SG96-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 13:45:14
 image: 'https://m.media-amazon.com/images/I/418EKMkhA4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3D5SPS-es Sensei Photo Fluid 6 Estabilizador de Movil Gimbal de 3...'
 sku: 'B07D3D5SPS-es'
 tags: [ 'android', ]

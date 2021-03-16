@@ -5,7 +5,7 @@ date: 2020-10-04 11:23:16
 image: 'https://m.media-amazon.com/images/I/41DA+KinMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G27RXB2-es Baoblaze 1 pc Smartwatch Reloj Digital Mano Unisex...'
 sku: 'B07G27RXB2-es'
 tags: [ 'android', ]

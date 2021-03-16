@@ -5,7 +5,7 @@ date: 2020-07-02 03:56:41
 image: 'https://m.media-amazon.com/images/I/41ymcbTWGoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC5FZDJ-es Auriculares Inalambricos Blutetooth Auriculares Blutetooth...'
 sku: 'B07WC5FZDJ-es'
 tags: [ 'android', ]

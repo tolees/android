@@ -5,7 +5,7 @@ date: 2020-07-18 03:21:23
 image: 'https://m.media-amazon.com/images/I/41SRp1tcVGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJWTHN1-es HolyHigh Auriculares Bluetooth Auriculares Inalambricos...'
 sku: 'B07XJWTHN1-es'
 tags: [ 'android', ]

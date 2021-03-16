@@ -5,7 +5,7 @@ date: 2020-05-12 11:29:51
 image: 'https://m.media-amazon.com/images/I/51UGe55Pu-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHRTYPL-es LATEC Pulsera Actividad Inteligente Pulsómetro y Presión...'
 sku: 'B07RHRTYPL-es'
 tags: [ 'android', ]

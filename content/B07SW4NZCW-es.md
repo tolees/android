@@ -5,7 +5,7 @@ date: 2020-02-11 16:39:12
 image: 'https://m.media-amazon.com/images/I/51yVp5fCtwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SW4NZCW-es iWalker Smart Pulsera Fitness Tracker Pulsera Actividad de...'
 sku: 'B07SW4NZCW-es'
 tags: [ 'android', ]

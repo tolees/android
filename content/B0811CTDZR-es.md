@@ -5,7 +5,7 @@ date: 2020-07-17 03:09:36
 image: 'https://m.media-amazon.com/images/I/511ZDTX44jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811CTDZR-es HOPESUNIN Tableta Android de 10.1 Pulgadas con Sistema...'
 sku: 'B0811CTDZR-es'
 tags: [ 'android', ]

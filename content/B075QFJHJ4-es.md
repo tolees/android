@@ -5,7 +5,7 @@ date: 2020-05-30 14:16:01
 image: 'https://m.media-amazon.com/images/I/41CzScWstQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QFJHJ4-es AAB Selfie Pilot Negro 1 - piloto inalámbrico para...'
 sku: 'B075QFJHJ4-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-04-05 19:46:25
 image: 'https://m.media-amazon.com/images/I/41z8nWD4jIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2XMG09-es Sony MEXN5200BT - Radio CD USB Bluetooth NFC iluminación...'
 sku: 'B01N2XMG09-es'
 tags: [ 'android', ]

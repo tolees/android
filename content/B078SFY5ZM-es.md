@@ -5,7 +5,7 @@ date: 2020-03-06 20:11:09
 image: 'https://m.media-amazon.com/images/I/41+-h7hGuTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SFY5ZM-es Alcatel 3v - Smartphone de 6" Quad-Core 1.45 GHz Memoria...'
 sku: 'B078SFY5ZM-es'
 tags: [ 'android', ]

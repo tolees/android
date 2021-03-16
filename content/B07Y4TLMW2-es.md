@@ -5,7 +5,7 @@ date: 2020-06-06 19:33:30
 image: 'https://m.media-amazon.com/images/I/41EaOvxD22L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4TLMW2-es Super HD Android 7.1 MK809 IV TV Dongle 2G + 8G 4K RK3229...'
 sku: 'B07Y4TLMW2-es'
 tags: [ 'android', ]

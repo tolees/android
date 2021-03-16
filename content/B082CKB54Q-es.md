@@ -5,7 +5,7 @@ date: 2020-01-14 09:23:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bLILh11FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CKB54Q-es 2019 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B082CKB54Q-es'
 tags: [ 'android', ]

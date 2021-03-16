@@ -5,7 +5,7 @@ date: 2020-07-06 13:03:23
 image: 'https://m.media-amazon.com/images/I/512qqesKM9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085KZHWW1-es DUODUOGO Smartwatch Reloj Resistente Mujer Hombre Niños...'
 sku: 'B085KZHWW1-es'
 tags: [ 'android', ]

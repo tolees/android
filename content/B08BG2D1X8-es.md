@@ -5,7 +5,7 @@ date: 2020-09-18 12:49:34
 image: 'https://m.media-amazon.com/images/I/41Newy5G-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BG2D1X8-es Sami - Running 3 - Smartwatch Smartband Pulsera de...'
 sku: 'B08BG2D1X8-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-03-10 11:09:49
 image: 'https://m.media-amazon.com/images/I/412cReJVjEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVRS5FV-es Xiaomi Mi MAX 3 - Smartphone DE 6.9" RAM de 4 GB Memoria...'
 sku: 'B07GVRS5FV-es'
 tags: [ 'android', ]

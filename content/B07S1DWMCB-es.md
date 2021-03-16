@@ -5,7 +5,7 @@ date: 2020-06-30 18:45:53
 image: 'https://m.media-amazon.com/images/I/51PMI7YbU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1DWMCB-es Newseego PUBG Mobile Game Finger Sleeve [Paquete de 10]...'
 sku: 'B07S1DWMCB-es'
 tags: [ 'android', ]

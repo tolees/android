@@ -5,7 +5,7 @@ date: 2020-04-16 12:15:23
 image: 'https://m.media-amazon.com/images/I/41tykRh58qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPMC9H2-es Pioneer Club 5 Altavoz de Bluetooth LED Iluminación Voice...'
 sku: 'B07JPMC9H2-es'
 tags: [ 'android', ]

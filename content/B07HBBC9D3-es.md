@@ -5,7 +5,7 @@ date: 2020-02-18 04:06:29
 image: 'https://m.media-amazon.com/images/I/41xDi8Ps6uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBBC9D3-es LAST LEVEL- Pop Vinyl: Dragonball Z S5: Android 18 Figura...'
 sku: 'B07HBBC9D3-es'
 tags: [ 'android', ]

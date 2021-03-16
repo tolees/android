@@ -5,7 +5,7 @@ date: 2020-04-13 12:04:20
 image: 'https://m.media-amazon.com/images/I/4154-id4lQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJX8V66-es QINTAIX 2.4G Teclado de ratón de Aire Remoto I63...'
 sku: 'B07JJX8V66-es'
 tags: [ 'android', ]

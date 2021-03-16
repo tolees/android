@@ -5,7 +5,7 @@ date: 2020-03-12 18:54:49
 image: 'https://m.media-amazon.com/images/I/31RKjvaNwTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N192KMF-es Doosl Puntero Laser Presentaciones Mando Inalámbrico...'
 sku: 'B07N192KMF-es'
 tags: [ 'android', ]

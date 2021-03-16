@@ -5,7 +5,7 @@ date: 2020-08-30 16:43:12
 image: 'https://m.media-amazon.com/images/I/511UaZ7ED7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F7LKV3D-es Tablet para Niños con WiFi 7.0 Pulgadas 3GB RAM 32GB/128GB...'
 sku: 'B08F7LKV3D-es'
 tags: [ 'android', ]

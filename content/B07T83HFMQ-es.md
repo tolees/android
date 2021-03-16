@@ -5,7 +5,7 @@ date: 2020-01-09 14:25:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413dUba8h%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T83HFMQ-es DOOGEE S40 Movil Libres Resistente 4G Telefonos IP68...'
 sku: 'B07T83HFMQ-es'
 tags: [ 'android', ]

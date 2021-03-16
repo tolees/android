@@ -5,7 +5,7 @@ date: 2020-05-25 23:54:30
 image: 'https://m.media-amazon.com/images/I/51OgQVGUNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTX9VBZ-es 4G LTE Tablet 10 Pulgadas YOTOPT - Android 9.0 4GB RAM y...'
 sku: 'B07YTX9VBZ-es'
 tags: [ 'android', ]

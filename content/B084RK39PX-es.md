@@ -5,7 +5,7 @@ date: 2020-09-19 20:25:42
 image: 'https://m.media-amazon.com/images/I/41+xPZwoncL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RK39PX-es Adoric Báscula Diagnóstico Digital Inalámbrico para iOS y...'
 sku: 'B084RK39PX-es'
 tags: [ 'android', ]

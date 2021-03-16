@@ -5,7 +5,7 @@ date: 2020-02-04 11:39:40
 image: 'https://m.media-amazon.com/images/I/41qxp7fiDLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZB5DLWJ-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
 sku: 'B07ZB5DLWJ-es'
 tags: [ 'android', ]

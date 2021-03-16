@@ -5,7 +5,7 @@ date: 2020-04-30 15:05:43
 image: 'https://m.media-amazon.com/images/I/41VAzOWL0fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BU29SI6-es Sony Xperia X 12 7 cm 5" 3 GB 32 GB 4G Oro 2620 mAh -...'
 sku: 'B01BU29SI6-es'
 tags: [ 'android', ]

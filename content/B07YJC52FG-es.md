@@ -5,7 +5,7 @@ date: 2020-03-12 14:31:45
 image: 'https://m.media-amazon.com/images/I/51pzyjrJI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJC52FG-es Pulsera de Actividad Reloj Inteligente Impermeable IP68...'
 sku: 'B07YJC52FG-es'
 tags: [ 'android', ]

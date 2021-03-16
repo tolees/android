@@ -5,7 +5,7 @@ date: 2020-09-17 22:23:01
 image: 'https://m.media-amazon.com/images/I/41P9wqK7D9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9S7D2B-es Transmisor FM Bluetooth para Coche Manoslibres y Asistente...'
 sku: 'B07R9S7D2B-es'
 tags: [ 'android', ]

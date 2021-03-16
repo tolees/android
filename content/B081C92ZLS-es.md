@@ -5,7 +5,7 @@ date: 2020-01-01 07:32:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GC6LvnmCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081C92ZLS-es Smartphone Libre 4G 1GB +16GB Cámara 5MP+13MP Batería...'
 sku: 'B081C92ZLS-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-06-26 18:12:10
 image: 'https://m.media-amazon.com/images/I/51WFDNB7eRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085N2B7KV-es Tableta Android de 10 Pulgadas con Ranuras para Tarjetas...'
 sku: 'B085N2B7KV-es'
 tags: [ 'android', ]

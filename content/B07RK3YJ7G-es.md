@@ -5,7 +5,7 @@ date: 2020-03-30 09:49:46
 image: 'https://m.media-amazon.com/images/I/41doVYxj46L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK3YJ7G-es YZPUSI USB C OTG Android Pendrive USB 2.0 32gb USB Memoria...'
 sku: 'B07RK3YJ7G-es'
 tags: [ 'android', ]

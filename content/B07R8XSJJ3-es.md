@@ -5,7 +5,7 @@ date: 2020-06-17 02:46:27
 image: 'https://m.media-amazon.com/images/I/411iH6MEfiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8XSJJ3-es Arbily Reloj Inteligente Pantalla Táctil Completa Pulsera...'
 sku: 'B07R8XSJJ3-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-06-22 12:33:44
 image: 'https://m.media-amazon.com/images/I/41ZBTN2k6ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7T8N4D-es Tablet 10 Pulgadas 4G LTE Dual Sim - TOSCIDO Android 9.0...'
 sku: 'B07Y7T8N4D-es'
 tags: [ 'android', ]

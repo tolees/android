@@ -5,7 +5,7 @@ date: 2020-05-09 08:41:38
 image: 'https://m.media-amazon.com/images/I/41thACfT-tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084MFC1SC-es 【2 Packs】 3.5mm Auriculares con micrófono y micrófono...'
 sku: 'B084MFC1SC-es'
 tags: [ 'android', ]

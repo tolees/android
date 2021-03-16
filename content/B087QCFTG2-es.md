@@ -5,7 +5,7 @@ date: 2020-08-20 21:28:45
 image: 'https://m.media-amazon.com/images/I/41NT5ABgGuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QCFTG2-es Auriculares inalámbricos Bluetooth 5.0 con Reproductor...'
 sku: 'B087QCFTG2-es'
 tags: [ 'android', ]

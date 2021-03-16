@@ -5,7 +5,7 @@ date: 2020-09-07 19:00:56
 image: 'https://m.media-amazon.com/images/I/41Jvv5DZcSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWHZQWC-es IPOTCH 1 Pieza Reloj Digital Unisex Muñequera de Actividad...'
 sku: 'B07JWHZQWC-es'
 tags: [ 'android', ]

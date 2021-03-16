@@ -5,7 +5,7 @@ date: 2020-02-12 07:04:18
 image: 'https://m.media-amazon.com/images/I/41pWQLISTmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0843W2MSZ-es PRIXTON - Tablet Pantalla IPS 10 1 Pulgadas Android 9 Quad...'
 sku: 'B0843W2MSZ-es'
 tags: [ 'android', ]

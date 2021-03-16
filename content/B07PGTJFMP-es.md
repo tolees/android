@@ -5,7 +5,7 @@ date: 2020-07-10 10:37:45
 image: 'https://m.media-amazon.com/images/I/41Yt2b5gxGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGTJFMP-es YZPUSI USB 2.0 64gb Pendrive 3 en 1 64 GB USB 2.0 OTG...'
 sku: 'B07PGTJFMP-es'
 tags: [ 'android', ]

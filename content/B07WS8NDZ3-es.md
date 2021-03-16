@@ -5,7 +5,7 @@ date: 2020-08-02 11:25:35
 image: 'https://m.media-amazon.com/images/I/51QSuO5FuCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS8NDZ3-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android...'
 sku: 'B07WS8NDZ3-es'
 tags: [ 'android', ]

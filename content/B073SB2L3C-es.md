@@ -5,7 +5,7 @@ date: 2020-06-25 18:22:15
 image: 'https://m.media-amazon.com/images/I/41ML8ZbPiiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073SB2L3C-es Tarjeta de Memoria SanDisk Ultra Android microSDXC UHS-I...'
 sku: 'B073SB2L3C-es'
 tags: [ 'android', ]

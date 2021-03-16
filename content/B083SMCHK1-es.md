@@ -5,7 +5,7 @@ date: 2020-03-17 20:45:58
 image: 'https://m.media-amazon.com/images/I/41J9fc3JgwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SMCHK1-es 2020 Touch Auriculares inalámbricos Bluetooth con...'
 sku: 'B083SMCHK1-es'
 tags: [ 'android', ]

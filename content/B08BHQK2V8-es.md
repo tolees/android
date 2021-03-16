@@ -5,7 +5,7 @@ date: 2020-07-01 11:48:36
 image: 'https://m.media-amazon.com/images/I/41KD+bbeAHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHQK2V8-es Moviles Libres CUBOT P40 6.2" Pantalla Android 10 4GB RAM...'
 sku: 'B08BHQK2V8-es'
 tags: [ 'android', ]

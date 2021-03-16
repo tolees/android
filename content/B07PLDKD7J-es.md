@@ -5,7 +5,7 @@ date: 2020-02-09 05:27:11
 image: 'https://m.media-amazon.com/images/I/31ODmDZPxAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLDKD7J-es Samsung Galaxy A50 Smartphone FHD sAmoled Infinity U...'
 sku: 'B07PLDKD7J-es'
 tags: [ 'android', ]

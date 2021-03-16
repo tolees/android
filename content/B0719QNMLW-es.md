@@ -5,7 +5,7 @@ date: 2020-07-06 11:32:15
 image: 'https://m.media-amazon.com/images/I/51Hr5eGS59L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719QNMLW-es NAKOSITE SB2433 Reloj inteligente mujer hombre Smartwatch...'
 sku: 'B0719QNMLW-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-01-16 21:55:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vu4fImQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5GCFPX-es HalfSun Impermeable IP67 Smartwatch HD Color Screen...'
 sku: 'B07S5GCFPX-es'
 tags: [ 'android', ]

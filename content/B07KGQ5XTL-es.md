@@ -5,7 +5,7 @@ date: 2020-06-01 12:07:23
 image: 'https://m.media-amazon.com/images/I/219VR9AC8lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGQ5XTL-es Lenovo PHAB 2 - Tablet de 7" HD Procesador MediaTek 8735...'
 sku: 'B07KGQ5XTL-es'
 tags: [ 'android', ]

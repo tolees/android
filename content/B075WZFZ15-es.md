@@ -5,7 +5,7 @@ date: 2020-09-17 19:18:11
 image: 'https://m.media-amazon.com/images/I/41HcVR+OGEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WZFZ15-es Philips BT55A - Mini Altavoz Bluetooth inalámbrico...'
 sku: 'B075WZFZ15-es'
 tags: [ 'android', ]

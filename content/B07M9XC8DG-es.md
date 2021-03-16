@@ -5,7 +5,7 @@ date: 2020-04-06 16:56:50
 image: 'https://m.media-amazon.com/images/I/41DDOtGxoOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9XC8DG-es 4 en 1 Unidad Flash 128 GB Compatible con iPhone y...'
 sku: 'B07M9XC8DG-es'
 tags: [ 'android', ]

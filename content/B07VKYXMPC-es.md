@@ -5,7 +5,7 @@ date: 2020-06-30 09:12:02
 image: 'https://m.media-amazon.com/images/I/41h4m2b2pPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKYXMPC-es Moviles Baratos y buenos 4G J3 16GB ROM 5.0" HD Android...'
 sku: 'B07VKYXMPC-es'
 tags: [ 'android', ]

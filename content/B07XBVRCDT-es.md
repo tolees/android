@@ -5,7 +5,7 @@ date: 2020-04-22 16:43:16
 image: 'https://m.media-amazon.com/images/I/41AMpDlPVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBVRCDT-es Muzili Auriculares Bluetooth Inalambricos V5.0 Auriculares...'
 sku: 'B07XBVRCDT-es'
 tags: [ 'android', ]

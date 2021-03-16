@@ -5,7 +5,7 @@ date: 2020-03-12 17:22:11
 image: 'https://m.media-amazon.com/images/I/51bl9hpQYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819RWZ4S-es CUBOT P30 Smartphone 4G LTE Cámara Trasera AI 20MP+ 12MP+...'
 sku: 'B0819RWZ4S-es'
 tags: [ 'android', ]

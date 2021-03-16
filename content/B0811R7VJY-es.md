@@ -5,7 +5,7 @@ date: 2020-05-14 10:47:38
 image: 'https://m.media-amazon.com/images/I/41vsMNL3-AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811R7VJY-es DOOGEE S95 Pro Super Mod Móvil Antigolpes Helio P90 Octa-...'
 sku: 'B0811R7VJY-es'
 tags: [ 'android', ]

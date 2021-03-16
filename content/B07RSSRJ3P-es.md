@@ -5,7 +5,7 @@ date: 2020-04-19 15:45:37
 image: 'https://m.media-amazon.com/images/I/41jeOyEtzmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSSRJ3P-es HONOR 20 - Smartphone Android 9 6 26" FHD 48MP + 16MP +...'
 sku: 'B07RSSRJ3P-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-07-17 04:47:51
 image: 'https://m.media-amazon.com/images/I/41wNGGNYE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCQJE3P-es Pioneer SE-MJ553BT-R - Auriculares inalámbricos Bluetooth...'
 sku: 'B01MCQJE3P-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 04:07:03
 image: 'https://m.media-amazon.com/images/I/3131SHFZTLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0LIS66-es Sony Xperia XZ Forest Blue - Telefono movil con pantalla...'
 sku: 'B01M0LIS66-es'
 tags: [ 'android', ]

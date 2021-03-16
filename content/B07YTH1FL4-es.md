@@ -5,7 +5,7 @@ date: 2020-04-15 10:54:53
 image: 'https://m.media-amazon.com/images/I/41Tc5Avi9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTH1FL4-es Auriculares Bluetooth WOOKRAYS inalámbricos Bluetooth 5.0...'
 sku: 'B07YTH1FL4-es'
 tags: [ 'android', ]

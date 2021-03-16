@@ -5,7 +5,7 @@ date: 2020-02-04 13:27:03
 image: 'https://m.media-amazon.com/images/I/51rBOCSpunL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNPFCBB-es H96 MAX+ Android 9.0 TV Box 4GB RAM/32GB ROM 4K Ultra HD...'
 sku: 'B07FNPFCBB-es'
 tags: [ 'android', ]

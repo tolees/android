@@ -5,7 +5,7 @@ date: 2020-04-09 09:49:10
 image: 'https://m.media-amazon.com/images/I/41j8qLvw6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WX6RT89-es TECLAST Tablet PC Android M8 Pantalla 2.5K de 8.4’’...'
 sku: 'B07WX6RT89-es'
 tags: [ 'android', ]

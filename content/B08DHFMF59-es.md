@@ -5,7 +5,7 @@ date: 2020-08-07 17:04:07
 image: 'https://m.media-amazon.com/images/I/31Ung0xIvqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHFMF59-es T-ZORE Auriculares inalámbricos Bluetooth 5.0 Auriculares...'
 sku: 'B08DHFMF59-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-07-18 23:01:39
 image: 'https://m.media-amazon.com/images/I/41GWqpb55lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BC3RP6V-es Moviles Libres 4G Blackview A80 Smartphone Libre Android...'
 sku: 'B08BC3RP6V-es'
 tags: [ 'android', ]

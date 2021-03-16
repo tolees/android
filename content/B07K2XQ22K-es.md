@@ -5,7 +5,7 @@ date: 2020-05-26 23:20:26
 image: 'https://m.media-amazon.com/images/I/41bYrvZAwcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2XQ22K-es Samsung Galaxy A9 Smartphone 4G Octa-Core Ram de 6 GB...'
 sku: 'B07K2XQ22K-es'
 tags: [ 'android', ]

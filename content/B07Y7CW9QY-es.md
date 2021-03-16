@@ -5,7 +5,7 @@ date: 2020-01-28 16:36:47
 image: 'https://m.media-amazon.com/images/I/31n9U-WxFRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7CW9QY-es Go-Tcha Evolve LED-Touch Wristband Watch For Pokemon Go...'
 sku: 'B07Y7CW9QY-es'
 tags: [ 'android', ]

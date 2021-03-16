@@ -5,7 +5,7 @@ date: 2020-01-26 12:38:55
 image: 'https://m.media-amazon.com/images/I/41JY+TNhTEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQTHPQH-es Leelbox TV Stick Android TV Box Portátil 2GB/16GB con...'
 sku: 'B07KQTHPQH-es'
 tags: [ 'android', ]

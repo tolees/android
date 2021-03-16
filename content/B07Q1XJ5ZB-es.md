@@ -5,7 +5,7 @@ date: 2020-05-31 17:34:10
 image: 'https://m.media-amazon.com/images/I/41q0CxhOlEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1XJ5ZB-es Huawei P30 Pro - Smartphone de 6.47" Kirin 980 Octa-Core...'
 sku: 'B07Q1XJ5ZB-es'
 tags: [ 'android', ]

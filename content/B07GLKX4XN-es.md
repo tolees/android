@@ -5,7 +5,7 @@ date: 2020-04-22 16:42:36
 image: 'https://m.media-amazon.com/images/I/41uC4BrHobL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLKX4XN-es YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado Ultra...'
 sku: 'B07GLKX4XN-es'
 tags: [ 'android', ]

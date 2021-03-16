@@ -5,7 +5,7 @@ date: 2020-01-10 04:02:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iqbCOtsjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXMT36M-es Mini Proyector Tenswall Portátil DLP Video Proyectors...'
 sku: 'B07BXMT36M-es'
 tags: [ 'android', ]

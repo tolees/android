@@ -5,7 +5,7 @@ date: 2020-06-02 16:21:37
 image: 'https://m.media-amazon.com/images/I/41+I5xjvJyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BLN6XC-es Auriculares inalámbricos Tribit FlyBuds 1 Auriculares...'
 sku: 'B086BLN6XC-es'
 tags: [ 'android', ]

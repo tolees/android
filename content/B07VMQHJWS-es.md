@@ -5,7 +5,7 @@ date: 2020-09-02 10:02:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31girpJEtrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMQHJWS-es Bluetooth Auricular Manos Libres Auriculares Deportivos...'
 sku: 'B07VMQHJWS-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-08-14 05:56:58
 image: 'https://m.media-amazon.com/images/I/51tyufG4bpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTD5GZH-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pulsera...'
 sku: 'B07WTD5GZH-es'
 tags: [ 'android', ]

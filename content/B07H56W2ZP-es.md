@@ -5,7 +5,7 @@ date: 2020-03-18 15:01:09
 image: 'https://m.media-amazon.com/images/I/41fPcn1c5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H56W2ZP-es TOUMEI Mini Proyector Proyector Portátil Android 7.1 DLP...'
 sku: 'B07H56W2ZP-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:40:43
 image: 'https://m.media-amazon.com/images/I/417sQEEXZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZRWJ6D-es Huawei P30 Lite - Smartphone de 6.15" WiFi Kirin 710 RAM...'
 sku: 'B07QZRWJ6D-es'
 tags: [ 'android', ]

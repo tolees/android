@@ -5,7 +5,7 @@ date: 2020-07-12 16:26:45
 image: 'https://m.media-amazon.com/images/I/51OEqfohxrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSVJCTY-es Tablet Android 9.0 de 10 Procesador de Cuatro núcleos 4GB...'
 sku: 'B07KSVJCTY-es'
 tags: [ 'android', ]

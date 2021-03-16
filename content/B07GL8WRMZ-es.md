@@ -5,7 +5,7 @@ date: 2020-08-17 19:50:20
 image: 'https://m.media-amazon.com/images/I/41mNBGj5CUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL8WRMZ-es Xiaomi Mi 8 - Smartphone de 6.21" Octa-Core Kryo 2.8 GHz...'
 sku: 'B07GL8WRMZ-es'
 tags: [ 'android', ]

@@ -5,7 +5,7 @@ date: 2020-09-12 18:13:47
 image: 'https://m.media-amazon.com/images/I/41+28qC5tDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0891FDJXM-es Xiaomi Mi 10 Lite - Pack Lanzamiento Pantalla AMOLED 6.57”...'
 sku: 'B0891FDJXM-es'
 tags: [ 'android', ]

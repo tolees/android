@@ -5,7 +5,7 @@ date: 2020-09-08 14:26:56
 image: 'https://m.media-amazon.com/images/I/51pLFA7MPTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FMRHY7M-es Smartwatch Reloj Inteligente Mujer Hombre Niños Fitness...'
 sku: 'B08FMRHY7M-es'
 tags: [ 'android', ]

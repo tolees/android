@@ -5,7 +5,7 @@ date: 2020-04-11 11:14:29
 image: 'https://m.media-amazon.com/images/I/4198Qj4bZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K4HC7P4-es Moto G4 Play - Smartphone de 5 4G RAM de 2 GB memoria...'
 sku: 'B01K4HC7P4-es'
 tags: [ 'android', ]

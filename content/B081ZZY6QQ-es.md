@@ -5,7 +5,7 @@ date: 2020-03-05 16:48:40
 image: 'https://m.media-amazon.com/images/I/51JbXUAmGwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081ZZY6QQ-es 2019 Nuevo Altavoz Bluetooth portátil Altavoz Bluetooth a...'
 sku: 'B081ZZY6QQ-es'
 tags: [ 'android', ]

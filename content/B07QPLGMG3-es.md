@@ -5,7 +5,7 @@ date: 2020-05-12 08:02:43
 image: 'https://m.media-amazon.com/images/I/41ohw7YEmYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPLGMG3-es HolyHigh Auriculares Bluetooth Inalámbricos Cacos...'
 sku: 'B07QPLGMG3-es'
 tags: [ 'android', ]

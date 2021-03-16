@@ -5,7 +5,7 @@ date: 2020-05-28 18:43:32
 image: 'https://m.media-amazon.com/images/I/31Nz1SFe5sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077FBDKLM-es Denver Sdq-52001G Tarjeta Dual Sim De 5 2" 3G Quad Core 1...'
 sku: 'B077FBDKLM-es'
 tags: [ 'android', ]

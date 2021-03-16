@@ -5,7 +5,7 @@ date: 2020-07-29 16:02:04
 image: 'https://m.media-amazon.com/images/I/31-LX9lwYmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B4X1XWD-es Disco U teléfono móvil Disco Flash USB 3.0 para Apple...'
 sku: 'B08B4X1XWD-es'
 tags: [ 'android', ]

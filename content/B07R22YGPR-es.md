@@ -5,7 +5,7 @@ date: 2020-01-04 21:32:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BqqQ6DbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R22YGPR-es Soporte Móvil Coche hanmir Soporte Móvil Coche para...'
 sku: 'B07R22YGPR-es'
 tags: [ 'android', ]

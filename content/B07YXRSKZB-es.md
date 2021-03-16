@@ -5,7 +5,7 @@ date: 2020-08-16 09:32:09
 image: 'https://m.media-amazon.com/images/I/51VL-nRtFCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXRSKZB-es 2020 Moviles Libres 4G Teléfono Móvil de 6.0’’ Pulgadas...'
 sku: 'B07YXRSKZB-es'
 tags: [ 'android', ]

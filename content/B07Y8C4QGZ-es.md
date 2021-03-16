@@ -5,7 +5,7 @@ date: 2020-06-14 08:47:52
 image: 'https://m.media-amazon.com/images/I/41unHg91rLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8C4QGZ-es TOOBUR Smartwatch IP68 Impermeable Reloj Inteligente con...'
 sku: 'B07Y8C4QGZ-es'
 tags: [ 'android', ]

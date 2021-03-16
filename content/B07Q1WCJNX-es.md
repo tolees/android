@@ -5,7 +5,7 @@ date: 2020-07-11 07:25:59
 image: 'https://m.media-amazon.com/images/I/41RkKZxBJ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1WCJNX-es Huawei P30 - Smartphone de 6.1" Kirin 980 Octa-Core de...'
 sku: 'B07Q1WCJNX-es'
 tags: [ 'android', ]

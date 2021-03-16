@@ -5,7 +5,7 @@ date: 2020-08-08 10:02:37
 image: 'https://m.media-amazon.com/images/I/41woLK4rocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LPJKGM-es Looffy Pendrive 32GB Memoria USB para iPhone y iPad Pen...'
 sku: 'B088LPJKGM-es'
 tags: [ 'android', ]
