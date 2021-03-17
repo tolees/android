@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6KKI3S-es Sony MEXN4200BT - Radio CD USB Bluetooth NFC y Control de...'
 sku: 'B01N6KKI3S-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 85.77 EUR
 currency: EUR
 price: 85.77

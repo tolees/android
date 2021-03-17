@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SMCHK1-es 2020 Touch Auriculares inalámbricos Bluetooth con...'
 sku: 'B083SMCHK1-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

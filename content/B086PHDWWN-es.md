@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PHDWWN-es Smartwatch Reloj Inteligente Impermeable con GPS Monitor...'
 sku: 'B086PHDWWN-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 0.11 EUR
 currency: EUR
 price: 0.11

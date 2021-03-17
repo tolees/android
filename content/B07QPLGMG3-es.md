@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPLGMG3-es HolyHigh Auriculares Bluetooth Inalámbricos Cacos...'
 sku: 'B07QPLGMG3-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

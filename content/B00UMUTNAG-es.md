@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UMUTNAG-es Yuntab Q88 A33 - Tablet de 7" WiFi Allwinner A33 1.5 GHz...'
 sku: 'B00UMUTNAG-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

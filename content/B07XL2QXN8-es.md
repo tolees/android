@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL2QXN8-es DEPSTECH Endoscopio Inalámbrico 5.0MP Boroscopio HD...'
 sku: 'B07XL2QXN8-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

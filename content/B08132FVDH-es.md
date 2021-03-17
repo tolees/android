@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08132FVDH-es DOOGEE S68 Pro Teléfono Móvil Libre Resistente Helio P70...'
 sku: 'B08132FVDH-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

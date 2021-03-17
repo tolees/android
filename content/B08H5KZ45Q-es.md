@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H5KZ45Q-es Tarjeta Micro SD de alta velocidad de 256 GB diseñada para...'
 sku: 'B08H5KZ45Q-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

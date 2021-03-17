@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716LVVR4-es Sony Xperia L1 - Smartphone de 5.5" Quad Core 1.45 GHz RAM...'
 sku: 'B0716LVVR4-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 104.7 EUR
 currency: EUR
 price: 104.7

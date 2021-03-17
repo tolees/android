@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNDN23V-es 【Versión Actualizado】 Mpow S15 Dual EQ Auriculares...'
 sku: 'B07VNDN23V-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

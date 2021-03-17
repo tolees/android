@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XP4KJ67-es DOOGEE S68 Pro Teléfono Móvil Todoterreno Helio P70 Octa...'
 sku: 'B07XP4KJ67-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

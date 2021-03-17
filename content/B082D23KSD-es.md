@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082D23KSD-es UMIDIGI Reloj Inteligente Uwatch3 Smartwatch 5ATM...'
 sku: 'B082D23KSD-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

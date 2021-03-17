@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHBQS8B-es Memoria USB 3.0 64 GB 3 en 1 Pen Drive Tipo C USB 3.0...'
 sku: 'B07RHBQS8B-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

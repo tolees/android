@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB16JKR-es FITFORT Pulsera de Actividad Reloj Inteligente para Hombre...'
 sku: 'B07RB16JKR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

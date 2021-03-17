@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QCFTG2-es Auriculares inalámbricos Bluetooth 5.0 con Reproductor...'
 sku: 'B087QCFTG2-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

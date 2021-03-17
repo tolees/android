@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T68PNN7-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android...'
 sku: 'B07T68PNN7-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 109.92 EUR
 currency: EUR
 price: 109.92

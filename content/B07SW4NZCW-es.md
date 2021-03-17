@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SW4NZCW-es iWalker Smart Pulsera Fitness Tracker Pulsera Actividad de...'
 sku: 'B07SW4NZCW-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

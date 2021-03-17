@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NSSXTL-es Moviles Libres Barats 4G 6.0" Pulgadas 2020 16GB...'
 sku: 'B083NSSXTL-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 69.85 EUR
 currency: EUR
 price: 69.85

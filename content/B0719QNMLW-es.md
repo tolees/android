@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719QNMLW-es NAKOSITE SB2433 Reloj inteligente mujer hombre Smartwatch...'
 sku: 'B0719QNMLW-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

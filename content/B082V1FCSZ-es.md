@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082V1FCSZ-es Auriculares inalámbricos Bluetooth Auriculares 5.0...'
 sku: 'B082V1FCSZ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

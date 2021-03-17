@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGMW73H-es Cable Micro USB Tujun [3 Unidades/3 pies+3 pies+6 pies]...'
 sku: 'B07ZGMW73H-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

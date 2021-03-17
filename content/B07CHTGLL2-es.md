@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHTGLL2-es ALCATEL 3X Smartphone Quad Core 1.28 GHz Android N 5.7"...'
 sku: 'B07CHTGLL2-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

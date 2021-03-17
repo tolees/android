@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PM1YR54-es Dragon Ball Z - Figura de colección Android Número 18...'
 sku: 'B07PM1YR54-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

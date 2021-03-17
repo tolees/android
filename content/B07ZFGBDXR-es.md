@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFGBDXR-es BINKE Batería Externa 26800mAh Power Bank con 2 Salidas...'
 sku: 'B07ZFGBDXR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

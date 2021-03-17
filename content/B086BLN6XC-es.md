@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BLN6XC-es Auriculares inalámbricos Tribit FlyBuds 1 Auriculares...'
 sku: 'B086BLN6XC-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BC3RP6V-es Moviles Libres 4G Blackview A80 Smartphone Libre Android...'
 sku: 'B08BC3RP6V-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99
