@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XR9YV55-es Auriculares Bluetooth Inalambrico 5.0 Auriculares...'
 sku: 'B07XR9YV55-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

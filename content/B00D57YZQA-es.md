@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D57YZQA-es OPPO Find X Lamborghini - Smartphone Libre Android 8.1...'
 sku: 'B00D57YZQA-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 967.91 EUR
 currency: EUR
 price: 967.91

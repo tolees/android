@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCMKPFW-es MAFENGWO Moviles Libres Baratos 4G Teléfono Móvil de 5 2...'
 sku: 'B07YCMKPFW-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 52.5 EUR
 currency: EUR
 price: 52.5

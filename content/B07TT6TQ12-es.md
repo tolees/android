@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT6TQ12-es Motorola One Action - Smartphone Dual SIM Triple cámara:...'
 sku: 'B07TT6TQ12-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 180.0 EUR
 currency: EUR
 price: 180.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y15QFYT-es TOSCIDO 4G LTE Tablet 10 Pulgadas1920*1200 IPS HD -...'
 sku: 'B07Y15QFYT-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

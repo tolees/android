@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0837JYGWY-es Altavoz Bluetooth portátil con Bajos potentes Rango de...'
 sku: 'B0837JYGWY-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

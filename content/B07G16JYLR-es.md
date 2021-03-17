@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G16JYLR-es Auricular Bluetooth V4.1 Magnético Auriculares Deportivos...'
 sku: 'B07G16JYLR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

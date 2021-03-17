@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QXS4N9-es RAVIAD Cable USB Magnético 1M Nylon Multi Cargador...'
 sku: 'B083QXS4N9-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

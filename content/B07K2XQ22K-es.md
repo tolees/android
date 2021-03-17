@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2XQ22K-es Samsung Galaxy A9 Smartphone 4G Octa-Core Ram de 6 GB...'
 sku: 'B07K2XQ22K-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 359.9 EUR
 currency: EUR
 price: 359.9

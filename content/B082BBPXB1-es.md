@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BBPXB1-es Smartwatch Impermeable Reloj Inteligente Android con...'
 sku: 'B082BBPXB1-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QHR1WCW-es Huyeta Smartwatch Reloj Inteligente 5ATM Impermeable...'
 sku: 'B07QHR1WCW-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GQMHJP-es Moviles Libres 4G Android 9.0 Teléfono Móvil Libre de 5.5...'
 sku: 'B081GQMHJP-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

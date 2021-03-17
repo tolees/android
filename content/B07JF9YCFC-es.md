@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JF9YCFC-es Konesky Fitness Tracker Monitor de Ritmo cardíaco Pulsera...'
 sku: 'B07JF9YCFC-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

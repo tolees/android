@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZNDH98-es Tablet 10.1 Pulgadas barats 4G Android 9.0 Pie 32GB...'
 sku: 'B07WZNDH98-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 67.93 EUR
 currency: EUR
 price: 67.93

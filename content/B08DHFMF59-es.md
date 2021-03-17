@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DHFMF59-es T-ZORE Auriculares inalámbricos Bluetooth 5.0 Auriculares...'
 sku: 'B08DHFMF59-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

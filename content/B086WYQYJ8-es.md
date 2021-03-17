@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WYQYJ8-es Moviles Libres 4G 16GB ROM Android 9.0 Pie 5MP+8MP 4800mAh...'
 sku: 'B086WYQYJ8-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

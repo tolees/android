@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084JQ3YVV-es HONOR Magic Watch 2 46mm Smart Watch 15 Deportes...'
 sku: 'B084JQ3YVV-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

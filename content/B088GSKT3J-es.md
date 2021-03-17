@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088GSKT3J-es Proyector WiFi BOSNAS Mini Proyector Portátil 5800 Lúmenes...'
 sku: 'B088GSKT3J-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 129.69 EUR
 currency: EUR
 price: 129.69

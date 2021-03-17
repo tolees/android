@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T83HFMQ-es DOOGEE S40 Movil Libres Resistente 4G Telefonos IP68...'
 sku: 'B07T83HFMQ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

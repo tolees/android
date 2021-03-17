@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZ93DNK-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
 sku: 'B07XZ93DNK-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

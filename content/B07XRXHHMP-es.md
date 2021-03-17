@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRXHHMP-es CBGGQ Auriculares in-ear con micrófono 3 5 mm con cable...'
 sku: 'B07XRXHHMP-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

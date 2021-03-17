@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH1M75D-es Honor 20 Lite - Smartphone de 6.21" RAM de 4 GB Memoria de...'
 sku: 'B07RH1M75D-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 204.0 EUR
 currency: EUR
 price: 204.0

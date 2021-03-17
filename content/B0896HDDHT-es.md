@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0896HDDHT-es OPPO Find X2 PRO 5G – Smartphone de 6.7" OLED 12GB/512GB...'
 sku: 'B0896HDDHT-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 908.26 EUR
 currency: EUR
 price: 908.26

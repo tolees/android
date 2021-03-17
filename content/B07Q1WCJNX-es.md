@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q1WCJNX-es Huawei P30 - Smartphone de 6.1" Kirin 980 Octa-Core de...'
 sku: 'B07Q1WCJNX-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 385.0 EUR
 currency: EUR
 price: 385.0

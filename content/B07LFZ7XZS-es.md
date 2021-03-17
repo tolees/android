@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZ7XZS-es Geox J Android Boy C Zapatillas para Niños Azul Navy/Lime...'
 sku: 'B07LFZ7XZS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

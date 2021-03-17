@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPCK5KS-es HENMI 10 A Interruptor WiFi DIY Módulo de Interruptor...'
 sku: 'B07FPCK5KS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

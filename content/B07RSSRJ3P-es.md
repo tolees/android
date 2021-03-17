@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RSSRJ3P-es HONOR 20 - Smartphone Android 9 6 26" FHD 48MP + 16MP +...'
 sku: 'B07RSSRJ3P-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

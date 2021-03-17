@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08747MBFY-es Smartwatch Reloj Inteligente Pantalla curva Impermeable...'
 sku: 'B08747MBFY-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

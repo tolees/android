@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHBZKGB-es Alcatel 3 - Smartphone RAM de 3 GB Camara 13 MP bateria...'
 sku: 'B07RHBZKGB-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

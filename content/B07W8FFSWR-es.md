@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8FFSWR-es TOSCIDO 4G LTE Tablet 10 Pulgadas - Android 9.0...'
 sku: 'B07W8FFSWR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

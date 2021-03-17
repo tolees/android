@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFVJ6N9-es Nowakk Cable Micro USB Trenzado de Nailon Colorido Cable...'
 sku: 'B08GFVJ6N9-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

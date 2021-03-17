@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0743GY1HS-es Auriculares Bluetooth V4.1 Inalámbricos Bluetooth Headset...'
 sku: 'B0743GY1HS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 37.58 EUR
 currency: EUR
 price: 37.58

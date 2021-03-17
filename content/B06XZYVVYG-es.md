@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XZYVVYG-es Energy Sistem Pro 3 - Smartphone Libre de 5.5 4G WiFi...'
 sku: 'B06XZYVVYG-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 143.18 EUR
 currency: EUR
 price: 143.18

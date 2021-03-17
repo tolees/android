@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J18KHR-es Blackview® A80 Pro 2020 Teléfono Móvil Libres 4G Pantalla...'
 sku: 'B083J18KHR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

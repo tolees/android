@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLDKD7J-es Samsung Galaxy A50 Smartphone FHD sAmoled Infinity U...'
 sku: 'B07PLDKD7J-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 259.43 EUR
 currency: EUR
 price: 259.43

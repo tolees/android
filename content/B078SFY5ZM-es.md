@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SFY5ZM-es Alcatel 3v - Smartphone de 6" Quad-Core 1.45 GHz Memoria...'
 sku: 'B078SFY5ZM-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

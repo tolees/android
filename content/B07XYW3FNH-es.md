@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYW3FNH-es Tablets 10 Pulgadas Android 8.0 3GB RAM 64GB Memoria...'
 sku: 'B07XYW3FNH-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

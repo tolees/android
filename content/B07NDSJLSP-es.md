@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDSJLSP-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide...'
 sku: 'B07NDSJLSP-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 295.35 EUR
 currency: EUR
 price: 295.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGTJFMP-es YZPUSI USB 2.0 64gb Pendrive 3 en 1 64 GB USB 2.0 OTG...'
 sku: 'B07PGTJFMP-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

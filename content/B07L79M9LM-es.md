@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L79M9LM-es Controlador de Juego móvil para PUBG 5 en 1 versión...'
 sku: 'B07L79M9LM-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

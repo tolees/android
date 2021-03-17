@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXZWDQX-es FKANT Batería Externa 10000mAh Power Bank con 2...'
 sku: 'B07XXZWDQX-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

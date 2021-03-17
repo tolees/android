@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSVJCTY-es Tablet Android 9.0 de 10 Procesador de Cuatro núcleos 4GB...'
 sku: 'B07KSVJCTY-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

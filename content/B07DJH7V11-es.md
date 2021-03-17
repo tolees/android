@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJH7V11-es DAM TEKKIWEAR. DMX127BL. Brazalete Inteligente P4 con...'
 sku: 'B07DJH7V11-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

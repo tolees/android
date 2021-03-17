@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F4VVRQL-es Android Radio de Coche para VW GPS Navigation CAMECHO 7"...'
 sku: 'B08F4VVRQL-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

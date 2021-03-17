@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBWXD4S-es Lenovo Tab E10 Tablet HD Procesador Qualcomm APQ8009 2GB...'
 sku: 'B07NBWXD4S-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

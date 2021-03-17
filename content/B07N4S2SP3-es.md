@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4S2SP3-es Motorola Moto G7 Power – Smartphone Android 9 pantalla 6.2...'
 sku: 'B07N4S2SP3-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RK39PX-es Adoric Báscula Diagnóstico Digital Inalámbrico para iOS y...'
 sku: 'B084RK39PX-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 20.84 EUR
 currency: EUR
 price: 20.84

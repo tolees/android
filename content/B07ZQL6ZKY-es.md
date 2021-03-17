@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQL6ZKY-es Mando Inalámbrico para PS4 / PC / Android HONGLI Gamepad...'
 sku: 'B07ZQL6ZKY-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

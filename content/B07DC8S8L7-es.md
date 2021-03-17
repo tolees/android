@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC8S8L7-es Alcatel 1 - Smartphone de 5" Quad-Core 1.28 MT6739 RAM de...'
 sku: 'B07DC8S8L7-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 54.92 EUR
 currency: EUR
 price: 54.92

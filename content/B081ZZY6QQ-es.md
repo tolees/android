@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081ZZY6QQ-es 2019 Nuevo Altavoz Bluetooth portátil Altavoz Bluetooth a...'
 sku: 'B081ZZY6QQ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

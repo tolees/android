@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S12RQT2-es Alcatel 3 2019 smartphone pantalla 5 94" 4GB RAM 64GB...'
 sku: 'B07S12RQT2-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 160.99 EUR
 currency: EUR
 price: 160.99

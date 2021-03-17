@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R26R4VS-es Motorola One Vision - Smartphone Android One 4 GB de RAM...'
 sku: 'B07R26R4VS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 206.91 EUR
 currency: EUR
 price: 206.91

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C7CT1Y6-es Campark Webcam PC 1080P Full HD con Micrófono Estéreo USB...'
 sku: 'B08C7CT1Y6-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

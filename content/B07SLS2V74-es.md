@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLS2V74-es Enchufe Inteligente Wifi REAFOO Mini Smart Plug...'
 sku: 'B07SLS2V74-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

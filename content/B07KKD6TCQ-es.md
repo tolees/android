@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKD6TCQ-es UMIDIGI A3 Pro Smartphone Libre Android 9.0 Pie Dual 4G...'
 sku: 'B07KKD6TCQ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

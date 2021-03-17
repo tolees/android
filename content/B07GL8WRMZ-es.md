@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL8WRMZ-es Xiaomi Mi 8 - Smartphone de 6.21" Octa-Core Kryo 2.8 GHz...'
 sku: 'B07GL8WRMZ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

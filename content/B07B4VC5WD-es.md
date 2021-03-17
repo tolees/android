@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4VC5WD-es Sony Xperia XZ2 - Smartphone de 5.7" Octa-Core de 2.8 GHz...'
 sku: 'B07B4VC5WD-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

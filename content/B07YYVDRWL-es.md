@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYVDRWL-es CUBOT R15 Pro Smartphone 4G Teléfono del Juego | Quad Core...'
 sku: 'B07YYVDRWL-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

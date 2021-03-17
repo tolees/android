@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXQJGBD-es Samsung Galaxy Note10+ SM-N975F Smartphone Dual Sim 12 GB...'
 sku: 'B07VXQJGBD-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 939.0 EUR
 currency: EUR
 price: 939.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVRS5FV-es Xiaomi Mi MAX 3 - Smartphone DE 6.9" RAM de 4 GB Memoria...'
 sku: 'B07GVRS5FV-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 253.0 EUR
 currency: EUR
 price: 253.0

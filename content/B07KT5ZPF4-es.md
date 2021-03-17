@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KT5ZPF4-es Cable Lightning 3 en 1 iHaper Cable de Carga USB Cable de...'
 sku: 'B07KT5ZPF4-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

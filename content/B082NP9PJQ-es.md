@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NP9PJQ-es Tableta 10.1 Pulgadas 4G WiFi Android 9.0 Tablets PC 3GB...'
 sku: 'B082NP9PJQ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 85.98 EUR
 currency: EUR
 price: 85.98

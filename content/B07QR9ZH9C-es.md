@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QR9ZH9C-es Samsung Galagy Tab A - Tablet de 10.1" FullHD Wifi + 4G...'
 sku: 'B07QR9ZH9C-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 247.11 EUR
 currency: EUR
 price: 247.11

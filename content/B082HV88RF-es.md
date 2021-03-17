@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HV88RF-es Ayete Auriculares Bluetooth5.0 Auriculares inalámbricos...'
 sku: 'B082HV88RF-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

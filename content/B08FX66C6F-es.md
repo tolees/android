@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FX66C6F-es Auriculares Bluetooth 5.0 auriculares con micrófono...'
 sku: 'B08FX66C6F-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

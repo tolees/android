@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S47ZTG9-es YESTEL Tablet para Niños 7 Pulgadas Android 8.1 Tableta...'
 sku: 'B07S47ZTG9-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99
