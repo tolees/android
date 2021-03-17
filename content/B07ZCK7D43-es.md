@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCK7D43-es Tableta de 10.1 Pulgadas 4g LTE con Funda Plateada Android...'
 sku: 'B07ZCK7D43-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

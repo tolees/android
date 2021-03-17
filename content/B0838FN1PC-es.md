@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0838FN1PC-es PICILOO Cargador USB de Pared Dos Enchufe USB Pared...'
 sku: 'B0838FN1PC-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

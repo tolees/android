@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V66TDK6-es Moviles Libres 4G Smartphone Libre 6 0 Pulgadas Android...'
 sku: 'B07V66TDK6-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 69.8 EUR
 currency: EUR
 price: 69.8

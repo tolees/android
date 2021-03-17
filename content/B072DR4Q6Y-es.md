@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072DR4Q6Y-es Sony Xperia XA1 - Smartphone con pantalla HD de 5" Octa...'
 sku: 'B072DR4Q6Y-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 148.95 EUR
 currency: EUR
 price: 148.95

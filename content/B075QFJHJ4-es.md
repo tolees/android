@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QFJHJ4-es AAB Selfie Pilot Negro 1 - piloto inalámbrico para...'
 sku: 'B075QFJHJ4-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

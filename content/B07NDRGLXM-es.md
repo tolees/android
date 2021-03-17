@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDRGLXM-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide...'
 sku: 'B07NDRGLXM-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

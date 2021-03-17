@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ1VKJZ-es WIKO View3 Lite - Smartphone de 6 09” HD+ IPS Cámara Dual...'
 sku: 'B07QJ1VKJZ-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 123.03 EUR
 currency: EUR
 price: 123.03

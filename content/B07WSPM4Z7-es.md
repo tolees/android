@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSPM4Z7-es LINKCOOL Trípode para teléfono Trípode de cámara portátil...'
 sku: 'B07WSPM4Z7-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

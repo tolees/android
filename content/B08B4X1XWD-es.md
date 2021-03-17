@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B4X1XWD-es Disco U teléfono móvil Disco Flash USB 3.0 para Apple...'
 sku: 'B08B4X1XWD-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSHJJ9L-es Smartphone Libres 32GB ROM 3GB RAM Android 7 Quad Core...'
 sku: 'B07MSHJJ9L-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

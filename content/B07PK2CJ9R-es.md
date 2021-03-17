@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PK2CJ9R-es Ofertas móviles 4.0 pulgadas HD Teeno Smartphone Oferta...'
 sku: 'B07PK2CJ9R-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 42.19 EUR
 currency: EUR
 price: 42.19

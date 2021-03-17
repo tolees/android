@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVCVVY8-es Lápiz Capacitivo con Estación de Carga magnética Soporte...'
 sku: 'B07MVCVVY8-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

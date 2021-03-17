@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBBC9D3-es LAST LEVEL- Pop Vinyl: Dragonball Z S5: Android 18 Figura...'
 sku: 'B07HBBC9D3-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

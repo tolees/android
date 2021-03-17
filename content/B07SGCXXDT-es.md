@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGCXXDT-es Cable Micro USB Aioneus 4 Pack [0.5M 1M 1.5M 2M] Nylon...'
 sku: 'B07SGCXXDT-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

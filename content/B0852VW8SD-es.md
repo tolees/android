@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852VW8SD-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android...'
 sku: 'B0852VW8SD-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 89.92 EUR
 currency: EUR
 price: 89.92

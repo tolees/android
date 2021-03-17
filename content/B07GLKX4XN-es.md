@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLKX4XN-es YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado Ultra...'
 sku: 'B07GLKX4XN-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

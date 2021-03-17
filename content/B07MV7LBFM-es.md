@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV7LBFM-es Omars PowerBank Carga Rápida PD - 10000 mAh Batería...'
 sku: 'B07MV7LBFM-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

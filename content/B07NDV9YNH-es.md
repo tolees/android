@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDV9YNH-es Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9...'
 sku: 'B07NDV9YNH-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 306.33 EUR
 currency: EUR
 price: 306.33

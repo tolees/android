@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2WQ93H-es Palm PVG100 - Smartphone de 3.3" 4G RAM de 3 GB Memoria de...'
 sku: 'B07X2WQ93H-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 270.0 EUR
 currency: EUR
 price: 270.0

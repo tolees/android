@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7CW9QY-es Go-Tcha Evolve LED-Touch Wristband Watch For Pokemon Go...'
 sku: 'B07Y7CW9QY-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 34.38 EUR
 currency: EUR
 price: 34.38

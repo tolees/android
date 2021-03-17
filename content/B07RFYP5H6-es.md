@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFYP5H6-es Honor 20 Lite - Smartphone de 6.21" RAM de 4 GB Memoria de...'
 sku: 'B07RFYP5H6-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0
