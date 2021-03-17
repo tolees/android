@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB2XDF4-es UMIDIGI One Pro Smartphone Libre 4G Volte 5.9" Incell 19:...'
 sku: 'B07GB2XDF4-es'
-tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
+tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99
