@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VGF3JC-es Sony Xperia XA1 Ultra - Smartphone con pantalla FULL HD de...'
 sku: 'B071VGF3JC-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

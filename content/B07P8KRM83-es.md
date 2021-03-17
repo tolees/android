@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8KRM83-es LNMBBS X30 Tablet 10.1 Pulgadas 6GB de RAM y 128GB Memoria...'
 sku: 'B07P8KRM83-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 189.98 EUR
 currency: EUR
 price: 189.98

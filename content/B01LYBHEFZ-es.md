@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYBHEFZ-es Sony Xperia XZ Mineral Black - Telefono movil con pantalla...'
 sku: 'B01LYBHEFZ-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 109.89 EUR
 currency: EUR
 price: 109.89

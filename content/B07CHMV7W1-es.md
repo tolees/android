@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHMV7W1-es ALCATEL 3X Smartphone Quad Core 1.28 GHz Android N 5.7"...'
 sku: 'B07CHMV7W1-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 126.52 EUR
 currency: EUR
 price: 126.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0817VGXBQ-es 2019 Nuevo Toque Auriculares Bluetooth Auriculares...'
 sku: 'B0817VGXBQ-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

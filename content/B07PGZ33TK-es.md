@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGZ33TK-es Szsinocam IP Cámara Exterior Seguridad Vigilancia WiFi P2P...'
 sku: 'B07PGZ33TK-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

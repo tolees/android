@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYZR6QK-es Ulefone Armor X5 2020 4G IP68 Impermeable Smartphone...'
 sku: 'B07YYZR6QK-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

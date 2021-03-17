@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QRB829C-es Samsung Galaxy Tab A - Tablet PC USB MALI-G71 MP2 Android...'
 sku: 'B07QRB829C-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

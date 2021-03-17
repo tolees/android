@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B1VHNQX-es Tablets 10.1 Pulgadas Android 9.0 Tablet PC 64Go ROM 4Go...'
 sku: 'B08B1VHNQX-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

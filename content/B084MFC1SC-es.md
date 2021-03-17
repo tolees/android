@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MFC1SC-es 【2 Packs】 3.5mm Auriculares con micrófono y micrófono...'
 sku: 'B084MFC1SC-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YY4SG96-es Telefono Resistentes Blackview BV5500 Pro Android 9.0 Dual...'
 sku: 'B07YY4SG96-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

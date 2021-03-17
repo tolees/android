@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTVQ5DZ-es DUODUOGO Tablet 10 Pulgadas Buenas 4GB RAM 64GB ROM...'
 sku: 'B07WTVQ5DZ-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 90.09 EUR
 currency: EUR
 price: 90.09

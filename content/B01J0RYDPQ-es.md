@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J0RYDPQ-es Honor 8 - Smartphone Libre de 5.2" 4G WiFi Bluetooth Dual...'
 sku: 'B01J0RYDPQ-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

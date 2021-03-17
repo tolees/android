@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB8NGKX-es Reloj Inteligente 1.4 Inch Smartwatch with Monitoreo de...'
 sku: 'B07TB8NGKX-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

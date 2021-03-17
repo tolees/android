@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JNHDXCZ-es HOMSCAM Pulsera Inteligente Pulsera Actividad Impermeable...'
 sku: 'B07JNHDXCZ-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

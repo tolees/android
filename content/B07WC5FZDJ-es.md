@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC5FZDJ-es Auriculares Inalambricos Blutetooth Auriculares Blutetooth...'
 sku: 'B07WC5FZDJ-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

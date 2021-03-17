@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXJ1RT9-es LG LMX210 K9 - Smartphone 5" Memoria Interna de 16 GB RAM...'
 sku: 'B07CXJ1RT9-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 81.0 EUR
 currency: EUR
 price: 81.0

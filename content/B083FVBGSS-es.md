@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FVBGSS-es Blackview® A80 Pro 2020 Teléfono Móvil Libres 4G Pantalla...'
 sku: 'B083FVBGSS-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

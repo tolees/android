@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013W2X0VI-es OTG USB 2.0 Flash Drive Colourstone Micro USB 2.0 OTG Para...'
 sku: 'B013W2X0VI-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NB7P1F-es Ticwatch S Sport - Reloj inteligente con GPS pantalla...'
 sku: 'B077NB7P1F-es'
-tags: [ 'android', ]
+tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android', ]
 actualPrice: 120.97 EUR
 currency: EUR
 price: 120.97
