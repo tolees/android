@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZRWJ6D-es Huawei P30 Lite - Smartphone de 6.15" WiFi Kirin 710 RAM...'
 sku: 'B07QZRWJ6D-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

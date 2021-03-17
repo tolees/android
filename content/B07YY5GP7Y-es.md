@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YY5GP7Y-es Android Tablet Pritom Tablet Android OS 9.0 de 10 pulgadas...'
 sku: 'B07YY5GP7Y-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

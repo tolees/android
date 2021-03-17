@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824LV5VM-es UMIDIGI Reloj Inteligente Uwatch3 5ATM Impermeable...'
 sku: 'B0824LV5VM-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

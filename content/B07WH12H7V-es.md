@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WH12H7V-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos - Mini...'
 sku: 'B07WH12H7V-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

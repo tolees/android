@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS8NDZ3-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android...'
 sku: 'B07WS8NDZ3-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 99.92 EUR
 currency: EUR
 price: 99.92

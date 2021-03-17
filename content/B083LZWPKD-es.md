@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083LZWPKD-es Moviles Libres Baratos 4G Android 9.0 V·MOBILE M9 2019...'
 sku: 'B083LZWPKD-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

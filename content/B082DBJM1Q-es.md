@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082DBJM1Q-es Smartwatch con Whatsapp Bluetooth Smart Watch Pantalla...'
 sku: 'B082DBJM1Q-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

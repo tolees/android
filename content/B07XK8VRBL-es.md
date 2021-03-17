@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XK8VRBL-es OnePlus 7T Pro Pantalla AMOLED de 90Hz 8GB RAM + 256GB de...'
 sku: 'B07XK8VRBL-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 640.0 EUR
 currency: EUR
 price: 640.0

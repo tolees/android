@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZR5L3PS-es TOOLSTAR Reloj Inteligente Fitness Tracker IP67 Mujer...'
 sku: 'B07ZR5L3PS-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 48.92 EUR
 currency: EUR
 price: 48.92

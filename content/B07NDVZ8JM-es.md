@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDVZ8JM-es Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9...'
 sku: 'B07NDVZ8JM-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 322.43 EUR
 currency: EUR
 price: 322.43

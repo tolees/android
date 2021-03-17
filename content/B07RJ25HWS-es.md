@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJ25HWS-es 7 Pulgadas Android Oreo 8.1OS 1G RAM 16G ROM Tablet PC...'
 sku: 'B07RJ25HWS-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

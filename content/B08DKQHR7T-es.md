@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKQHR7T-es Fiyapoo 4K Wireless Miracast Dongle 1080P Adaptador de TV...'
 sku: 'B08DKQHR7T-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

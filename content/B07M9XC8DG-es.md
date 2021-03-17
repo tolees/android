@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9XC8DG-es 4 en 1 Unidad Flash 128 GB Compatible con iPhone y...'
 sku: 'B07M9XC8DG-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

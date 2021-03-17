@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTD5GZH-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pulsera...'
 sku: 'B07WTD5GZH-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

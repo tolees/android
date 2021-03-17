@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KZHWW1-es DUODUOGO Smartwatch Reloj Resistente Mujer Hombre Niños...'
 sku: 'B085KZHWW1-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 29.66 EUR
 currency: EUR
 price: 29.66

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081T8X9VT-es SWEYE Batería Externa Movil 24800mAH Power Bank Carga...'
 sku: 'B081T8X9VT-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

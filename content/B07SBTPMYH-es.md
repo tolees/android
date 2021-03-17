@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBTPMYH-es Auriculares Bluetooth 5.0 Amazco XG-13 Auriculares...'
 sku: 'B07SBTPMYH-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

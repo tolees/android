@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGT87F7-es Samsung Galaxy Tab S5e - Tablet de 10.5" UltraHD WiFi + 4G...'
 sku: 'B07PGT87F7-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 484.41 EUR
 currency: EUR
 price: 484.41

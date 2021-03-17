@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GLGTJP-es 8LED 3.5mm Jack Smart Cellphone Selfie LED Luz de Flash de...'
 sku: 'B089GLGTJP-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

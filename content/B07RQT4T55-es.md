@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQT4T55-es Smartwatch Reloj Inteligente Impermeable IP68 Pulsera...'
 sku: 'B07RQT4T55-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

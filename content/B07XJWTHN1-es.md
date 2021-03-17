@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJWTHN1-es HolyHigh Auriculares Bluetooth Auriculares Inalambricos...'
 sku: 'B07XJWTHN1-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

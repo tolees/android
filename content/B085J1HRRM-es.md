@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085J1HRRM-es 4G Tablet 10 Pulgadas YESTEL X2 3GB+32GB Android 8.1...'
 sku: 'B085J1HRRM-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 78.98 EUR
 currency: EUR
 price: 78.98

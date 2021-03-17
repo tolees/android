@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJX8WL5-es TEKKIWEAR. DMX121BK. Smartwatch Phone H1 Dual Core con...'
 sku: 'B07DJX8WL5-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

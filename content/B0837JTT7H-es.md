@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0837JTT7H-es Altavoz Bluetooth portátil con Bajos potentes Rango de...'
 sku: 'B0837JTT7H-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

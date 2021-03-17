@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074SZDMHJ-es Moto G5s - Smartphone Libre Android 7.1 Pantalla de 5.2...'
 sku: 'B074SZDMHJ-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 101.16 EUR
 currency: EUR
 price: 101.16

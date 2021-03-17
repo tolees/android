@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YS9CNV9-es 2019 Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
 sku: 'B07YS9CNV9-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

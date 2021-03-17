@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWJVMPJ-es Smartwatch Reloj Inteligente Deportivo Pulsera Actividad...'
 sku: 'B07VWJVMPJ-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

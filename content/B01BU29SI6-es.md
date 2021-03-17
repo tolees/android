@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BU29SI6-es Sony Xperia X 12 7 cm 5" 3 GB 32 GB 4G Oro 2620 mAh -...'
 sku: 'B01BU29SI6-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

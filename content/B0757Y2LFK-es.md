@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757Y2LFK-es Sony Xperia XZ1 - Smartphone de 5.2" Bluetooth Octa Core...'
 sku: 'B0757Y2LFK-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 234.47 EUR
 currency: EUR
 price: 234.47

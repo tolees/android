@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBBC9B5-es LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android...'
 sku: 'B07HBBC9B5-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

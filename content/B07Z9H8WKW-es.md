@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z9H8WKW-es 4G Tablets 10 Pulgadas 64GB 3GB RAM Dual SIM/WiFi Android...'
 sku: 'B07Z9H8WKW-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

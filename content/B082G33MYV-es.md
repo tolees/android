@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082G33MYV-es LOZAYI Pulsera de Actividad Pulsera Actividad Inteligente...'
 sku: 'B082G33MYV-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98
