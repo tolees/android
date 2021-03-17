@@ -29,10 +29,10 @@ Tienes [Samsung Galaxy Tab S7+ - Tablet de 12.4" QHD  Wifi  Procesador Qualcomm 
 🔎:
 
 - Cámara trasera 13 MP y frontal 8 MP con grabación de video 4K, Sistema de cuatro altavoces AKG y sonido Dolby Atmos
+- Batería 10,090 mAh con carga súper rápida de 45W
 - Memoria RAM de 6GB, Almacenamiento de 128GB
-- Pantalla de 12.4" QHD 120Hz con una resolución de 2800 x 1752 píxeles.
 - Procesador Qualcomm Snapdragon 865 Plus (1x 3.2 GHz +3x 2.4 GHz + 4x 1.8 GHz)
 - S-Pen incluido
-- Batería 10,090 mAh con carga súper rápida de 45W
+- Pantalla de 12.4" QHD 120Hz con una resolución de 2800 x 1752 píxeles.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DWC76D4/?tag=tolees-21)
