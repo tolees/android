@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M1TS63Q-es Sennheiser URBANITE - Auriculares de diadema abiertos...'
 sku: 'B00M1TS63Q-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

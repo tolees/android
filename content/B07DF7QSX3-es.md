@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DF7QSX3-es Gigaset GS180 - Smartphone 5" SIM Doble 4G 2GB 16GB...'
 sku: 'B07DF7QSX3-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A8IEG2G-es RAMPOW Cable Micro USB 2 4A Carga Rápida [2 Pack] -...'
 sku: 'B01A8IEG2G-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49
