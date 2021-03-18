@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZ4KDHM-es 2019 Nuevo Toque Auriculares Bluetooth Auriculares...'
 sku: 'B07XZ4KDHM-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

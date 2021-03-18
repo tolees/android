@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z64YCL9-es Orit Auriculares Inalambricos Deportivos Auriculares...'
 sku: 'B07Z64YCL9-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

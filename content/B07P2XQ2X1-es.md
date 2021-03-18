@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2XQ2X1-es Batería Externa 25000mAh Power Bank Alta Capacidad con 2...'
 sku: 'B07P2XQ2X1-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

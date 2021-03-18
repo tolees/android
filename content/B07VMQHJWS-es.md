@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMQHJWS-es Bluetooth Auricular Manos Libres Auriculares Deportivos...'
 sku: 'B07VMQHJWS-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

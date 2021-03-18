@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088R2VLKS-es Yobuno Webcam con micrófono 1080P Full HD Cámara Web USB...'
 sku: 'B088R2VLKS-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

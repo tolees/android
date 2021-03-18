@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9K6CYV-es FiiO X5 III - Reproductor de Audio portátil Alta...'
 sku: 'B01N9K6CYV-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 250.59 EUR
 currency: EUR
 price: 250.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LLW5HK-es MKTOSASA - Auriculares intraurales inalámbricos Bluetooth®...'
 sku: 'B085LLW5HK-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

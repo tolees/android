@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQTHPQH-es Leelbox TV Stick Android TV Box Portátil 2GB/16GB con...'
 sku: 'B07KQTHPQH-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

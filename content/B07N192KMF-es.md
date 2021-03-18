@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N192KMF-es Doosl Puntero Laser Presentaciones Mando Inalámbrico...'
 sku: 'B07N192KMF-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

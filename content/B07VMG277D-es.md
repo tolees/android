@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMG277D-es DOOGEE N20 2019 Dual SIM Telefonos Moviles Libres 4g Octa-...'
 sku: 'B07VMG277D-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

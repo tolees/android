@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXRSKZB-es 2020 Moviles Libres 4G Teléfono Móvil de 6.0’’ Pulgadas...'
 sku: 'B07YXRSKZB-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 69.88 EUR
 currency: EUR
 price: 69.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GR56JJJ-es Energy eReader Pro 4 6" E-Ink Táctil Android Wi-Fi 8GB...'
 sku: 'B07GR56JJJ-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 95.78 EUR
 currency: EUR
 price: 95.78

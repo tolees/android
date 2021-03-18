@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZTMCRP-es Eagle Smart Plug & Play - Convertidor de VHS a digital Hi8...'
 sku: 'B08CZTMCRP-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

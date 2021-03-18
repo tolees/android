@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KGXJQG-es 2020 Auricular Bluetooth inalámbrico cancelación de Ruido...'
 sku: 'B082KGXJQG-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHZSGK8-es YZPUSI USB 3.0 32gb Pendrive USB 3.0 32g Pendrive USB...'
 sku: 'B07RHZSGK8-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

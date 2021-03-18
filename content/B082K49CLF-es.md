@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082K49CLF-es 2020 Auricular Bluetooth inalámbrico cancelación de Ruido...'
 sku: 'B082K49CLF-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

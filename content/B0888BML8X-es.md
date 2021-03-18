@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0888BML8X-es GRDE Auriculares Bluetooth Auriculares Inalámbricos IPX7...'
 sku: 'B0888BML8X-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

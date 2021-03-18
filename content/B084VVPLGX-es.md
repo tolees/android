@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VVPLGX-es YUNMAI Pro Báscula Cargador USB 10 Datos Corporales...'
 sku: 'B084VVPLGX-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

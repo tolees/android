@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXMT36M-es Mini Proyector Tenswall Portátil DLP Video Proyectors...'
 sku: 'B07BXMT36M-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 209 EUR
 currency: EUR
 price: 209

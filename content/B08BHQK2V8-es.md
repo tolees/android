@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHQK2V8-es Moviles Libres CUBOT P40 6.2" Pantalla Android 10 4GB RAM...'
 sku: 'B08BHQK2V8-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

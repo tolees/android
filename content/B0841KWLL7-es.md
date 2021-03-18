@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841KWLL7-es Panamami Para Android Receptor Cargador inalámbrico Qi...'
 sku: 'B0841KWLL7-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRXRH77-es Tablet 10 Pulgadas 4G Full HD 32GB ROM/64GB 4G/WiFi/OTG...'
 sku: 'B07WRXRH77-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

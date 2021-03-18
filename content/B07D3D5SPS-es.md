@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3D5SPS-es Sensei Photo Fluid 6 Estabilizador de Movil Gimbal de 3...'
 sku: 'B07D3D5SPS-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

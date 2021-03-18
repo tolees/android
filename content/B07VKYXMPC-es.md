@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKYXMPC-es Moviles Baratos y buenos 4G J3 16GB ROM 5.0" HD Android...'
 sku: 'B07VKYXMPC-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

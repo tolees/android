@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BG2QZVN-es Sami - Kids - Smartwatch Reloj Inteligente Infantil...'
 sku: 'B08BG2QZVN-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJP69PN-es DOOGEE S68 Pro Movil Antigolpes Todoterreno 4G Helio P70...'
 sku: 'B07XJP69PN-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

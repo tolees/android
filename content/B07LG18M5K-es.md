@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG18M5K-es Geox J Android Girl A Zapatillas para Niñas Grau Grey/Pink...'
 sku: 'B07LG18M5K-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

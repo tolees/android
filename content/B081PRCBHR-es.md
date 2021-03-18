@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081PRCBHR-es Tablet 10 Pulgadas 4G Full HD 4GB de RAM 64GB de ROM...'
 sku: 'B081PRCBHR-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

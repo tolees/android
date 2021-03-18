@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JF9ZDBD-es Konesky Fitness Tracker Monitor de Ritmo cardíaco Pulsera...'
 sku: 'B07JF9ZDBD-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

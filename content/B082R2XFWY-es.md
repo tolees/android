@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082R2XFWY-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B082R2XFWY-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

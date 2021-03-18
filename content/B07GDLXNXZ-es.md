@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDLXNXZ-es Xiaomi MI A2 - Smartphone DE 5.9" Qualcomm Snapdragon 660...'
 sku: 'B07GDLXNXZ-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

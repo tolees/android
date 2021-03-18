@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5GCFPX-es HalfSun Impermeable IP67 Smartwatch HD Color Screen...'
 sku: 'B07S5GCFPX-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 39 EUR
 currency: EUR
 price: 39

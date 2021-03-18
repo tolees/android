@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWEG21G-es Huawei P9 Plus - Smartphone de 5.5" Bluetooth 4.2 4 GB RAM...'
 sku: 'B01DWEG21G-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 190.94 EUR
 currency: EUR
 price: 190.94

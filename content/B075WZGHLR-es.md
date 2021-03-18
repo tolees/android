@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WZGHLR-es Philips Audio BT55W/00 - Mini Altavoz Bluetooth...'
 sku: 'B075WZGHLR-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

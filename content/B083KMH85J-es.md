@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KMH85J-es Reloj Inteligente Pulsómetro Pulsera de Actividad con...'
 sku: 'B083KMH85J-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

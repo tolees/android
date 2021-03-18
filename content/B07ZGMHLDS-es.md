@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGMHLDS-es Auriculares Bluetooth SYOSIN TWS Auriculares Inalambricos...'
 sku: 'B07ZGMHLDS-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

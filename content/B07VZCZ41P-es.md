@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZCZ41P-es Joystick del Juego DOYO S501，Arcade Joysitck para SWITCH /...'
 sku: 'B07VZCZ41P-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

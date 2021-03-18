@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811CTDZR-es HOPESUNIN Tableta Android de 10.1 Pulgadas con Sistema...'
 sku: 'B0811CTDZR-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

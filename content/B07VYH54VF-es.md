@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYH54VF-es MEBERRY Tablet 10 Pulgadas Android 9 Pie Ultrar-Rápido...'
 sku: 'B07VYH54VF-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPVY8P1-es Moviles Libres 4G Smartphone Libres 5 Pulgadas 1 GB RAM y...'
 sku: 'B07RPVY8P1-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 49.88 EUR
 currency: EUR
 price: 49.88

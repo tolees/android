@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVDVXCK-es Lápiz Capacitivo con Estación de Carga magnética Soporte...'
 sku: 'B07MVDVXCK-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

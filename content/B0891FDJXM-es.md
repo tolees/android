@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0891FDJXM-es Xiaomi Mi 10 Lite - Pack Lanzamiento Pantalla AMOLED 6.57”...'
 sku: 'B0891FDJXM-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

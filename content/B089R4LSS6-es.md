@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089R4LSS6-es Temfly Webcam Webcam PC 1080P HD Webcam y Microfono Cámara...'
 sku: 'B089R4LSS6-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

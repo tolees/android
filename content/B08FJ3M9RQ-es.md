@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FJ3M9RQ-es Smartwatch Reloj Inteligente Hombre Mujer Niños Monitor...'
 sku: 'B08FJ3M9RQ-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

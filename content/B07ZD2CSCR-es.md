@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZD2CSCR-es DOOGEE X90 Móviles Libres Android 8.1 Smartphones Libres...'
 sku: 'B07ZD2CSCR-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

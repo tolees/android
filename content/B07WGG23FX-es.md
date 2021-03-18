@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGG23FX-es CUBOT Quest 4G Smartphone IP68 Robusto 4GB RAM + 64GB ROM...'
 sku: 'B07WGG23FX-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 144.22 EUR
 currency: EUR
 price: 144.22

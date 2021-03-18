@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB71JYY-es iPosible Batería Externa 26800mAh Power Bank Ultra...'
 sku: 'B07XB71JYY-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 20.01 EUR
 currency: EUR
 price: 20.01

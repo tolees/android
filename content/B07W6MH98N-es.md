@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6MH98N-es DOOGEE S60 Lite Smartphone Al Aire Libre Robusto 4G Face...'
 sku: 'B07W6MH98N-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

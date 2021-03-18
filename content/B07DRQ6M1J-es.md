@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRQ6M1J-es Enchufe Inteligente Wifi AISIRER Monitor de Energía...'
 sku: 'B07DRQ6M1J-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

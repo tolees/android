@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTCGNND-es TagoBee TB14 Pulsera Actividad Fitness Trackers IP68...'
 sku: 'B07WTCGNND-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

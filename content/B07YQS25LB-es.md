@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQS25LB-es Enchufe Inteligente WiFi Koogeek Mini Smart Plug Control...'
 sku: 'B07YQS25LB-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

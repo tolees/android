@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082CCJH4S-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B082CCJH4S-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
+tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
