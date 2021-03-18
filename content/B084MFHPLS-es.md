@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'HEROPI - Auriculares Bluetooth  2020 Aur al 79.76 % de rebaja'
-date: 2021-03-17 17:16:59
+date: 2021-03-18 21:07:12
 image: 'https://m.media-amazon.com/images/I/418juDflGgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B084MFHPLS-es HEROPI - Auriculares Bluetooth 2020 Auriculares...'
 sku: 'B084MFHPLS-es'
+tags: [ 'Electrónica','android','heropi', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HEROPI'
 buyurl: 'https://www.amazon.es/dp/B084MFHPLS/?tag=tolees-21'
 descuento: '79.76'
-average: '103.8725'
+average: '98.7029411764706'
 ---
 
 Tienes [HEROPI - Auriculares Bluetooth  2020 Auriculares Inalambricos Bluetooth con CVC 8.0 cancelación de Ruido  Cascos inalambricos Bluetooth internos de 15 Horas para Sport Android iOS PC（B-L-062）](https://www.amazon.es/dp/B084MFHPLS/?tag=tolees-21) con precio final de  15.99 EUR (original: 79.0 EUR) (79.76 %  de rebaja) aqui!
