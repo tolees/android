@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8DDK3Q-es MINLUK Pulsera de Actividad Inteligente Pulsera Bluetooth...'
 sku: 'B07L8DDK3Q-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

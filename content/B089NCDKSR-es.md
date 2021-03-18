@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NCDKSR-es Timmy P7000 Pro Quad Core Dual SIM para Android 5.0...'
 sku: 'B089NCDKSR-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 58.89 EUR
 currency: EUR
 price: 58.89

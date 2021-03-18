@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KCSLFF-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B083KCSLFF-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

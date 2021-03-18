@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HMWSNG-es Yaufey Mini proyector proyector DLP inalámbrico portátil...'
 sku: 'B078HMWSNG-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 226.57 EUR
 currency: EUR
 price: 226.57

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HVT3B5C-es Auriculares Bluetooth Inalámbricos Vigorun Auriculares...'
 sku: 'B07HVT3B5C-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

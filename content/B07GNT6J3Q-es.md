@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNT6J3Q-es Samsung Galaxy Tab S4 - Tablet de 10.5" WQXGA Wi-Fi...'
 sku: 'B07GNT6J3Q-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

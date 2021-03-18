@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077FBDKLM-es Denver Sdq-52001G Tarjeta Dual Sim De 5 2" 3G Quad Core 1...'
 sku: 'B077FBDKLM-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 71.46 EUR
 currency: EUR
 price: 71.46

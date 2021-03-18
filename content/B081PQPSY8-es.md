@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081PQPSY8-es Tablet 10 Pulgadas 4G Full HD 4GB de RAM 64GB de ROM...'
 sku: 'B081PQPSY8-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

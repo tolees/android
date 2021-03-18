@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077CKCQ89-es Motorola Moto Z2 Force - Smartphone de 5.5" WiFi 4G Octa...'
 sku: 'B077CKCQ89-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

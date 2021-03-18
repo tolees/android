@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GPY3LY-es WOWGO Pulsera Monitor de Actividad Pulsómetro y Podómetro...'
 sku: 'B077GPY3LY-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

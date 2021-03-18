@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KBXTSQ-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
 sku: 'B089KBXTSQ-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

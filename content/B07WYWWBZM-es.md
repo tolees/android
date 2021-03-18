@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYWWBZM-es J5 Smartphone Libre 2019 Android 9.0 Teléfono móvil 3G sin...'
 sku: 'B07WYWWBZM-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 53.54 EUR
 currency: EUR
 price: 53.54

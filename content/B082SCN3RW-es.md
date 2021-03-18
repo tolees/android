@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SCN3RW-es TOOBUR Smartwatch IP68 Impermeable Reloj Inteligente con...'
 sku: 'B082SCN3RW-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJSSKZM-es Tablet 10 Pulgadas Android 8.1 Tablet Procesador Quad-Core...'
 sku: 'B07YJSSKZM-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 78.19 EUR
 currency: EUR
 price: 78.19

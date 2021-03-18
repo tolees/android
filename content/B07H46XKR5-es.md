@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H46XKR5-es Beurer BF1000 - Báscula diagnóstica Bluetooth báscula de...'
 sku: 'B07H46XKR5-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
 actualPrice: 279.9 EUR
 currency: EUR
 price: 279.9
