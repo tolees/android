@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFQCW92-es Xiaomi Redmi Note 7 16 cm 6.3" 4 GB 64 GB Ranura híbrida...'
 sku: 'B07PFQCW92-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

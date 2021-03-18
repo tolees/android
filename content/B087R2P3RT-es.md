@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087R2P3RT-es Vigorun Smartwatch Reloj Inteligente Hombre Mujer Pantalla...'
 sku: 'B087R2P3RT-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVF26Z8-es Huawei P30 Pro 16 4 cm 6.47" 8 GB 256 GB Ranura híbrida...'
 sku: 'B07PVF26Z8-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 640.0 EUR
 currency: EUR
 price: 640.0

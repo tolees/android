@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GN686ZM-es Ajcoflt Smartwatch Un Reloj Deportivo Inteligente para...'
 sku: 'B08GN686ZM-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

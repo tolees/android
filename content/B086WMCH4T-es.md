@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WMCH4T-es Lenovo M10 FHD Plus- Tablet de 10.3" Full HD/IPS MediaTek...'
 sku: 'B086WMCH4T-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

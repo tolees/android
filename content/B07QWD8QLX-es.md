@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWD8QLX-es Dragon Touch Tablet para Niños con WiFi Bluetooth 7...'
 sku: 'B07QWD8QLX-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 66.69 EUR
 currency: EUR
 price: 66.69

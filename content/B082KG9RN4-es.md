@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KG9RN4-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B082KG9RN4-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

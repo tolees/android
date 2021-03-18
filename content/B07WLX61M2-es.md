@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLX61M2-es TOSCIDO 4G LTE Tablet 10 Pulgadas - Android 9.0...'
 sku: 'B07WLX61M2-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

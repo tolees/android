@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4GYS1Y-es Lenovo TAB10 - Tablet de 10.1" HD Procesador Qualcomm...'
 sku: 'B07B4GYS1Y-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

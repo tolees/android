@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZRVY84-es Altavoz Bluetooth Portátil IP67 Impermeable Estéreo...'
 sku: 'B07QZRVY84-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

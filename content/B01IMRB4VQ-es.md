@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IMRB4VQ-es Webcam 1080P HD PAPALOOK Web Cámara con Micrófono para...'
 sku: 'B01IMRB4VQ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088H44VCY-es 【Actualizado 2020】 Proyector WiFi BOSNAS Mini Proyector...'
 sku: 'B088H44VCY-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ5KVF3-es LNMBBS 3G Tablet de 10.1 Pulgadas HD WiFi 2 GB de RAM 32GB...'
 sku: 'B07CQ5KVF3-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 96.98 EUR
 currency: EUR
 price: 96.98

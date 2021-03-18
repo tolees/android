@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBZGJQV-es HolyHigh Auriculares Inalambricos Bluetooth 5.0...'
 sku: 'B07TBZGJQV-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

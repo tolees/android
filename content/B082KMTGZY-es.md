@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KMTGZY-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B082KMTGZY-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

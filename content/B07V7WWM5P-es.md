@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7WWM5P-es Tablet 10.1 Pulgadas Android 7.0 Tablet PC 4G LTE + WiFi...'
 sku: 'B07V7WWM5P-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

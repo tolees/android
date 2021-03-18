@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5RXNRN-es HalfSun Impermeable IP67 Smartwatch HD Color Screen...'
 sku: 'B07S5RXNRN-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

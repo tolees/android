@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YWSLB9-es Samsung SM-G960F/DS Smartphone Samsung Galaxy S9 5.8" Wi-...'
 sku: 'B079YWSLB9-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
+tags: [ 'android', ]
 actualPrice: 465.0 EUR
 currency: EUR
 price: 465.0
