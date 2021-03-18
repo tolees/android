@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHV9GT4-es Yuntab K17 Tablet táctil IPS 10.1 pulgadas 3G Wifi PC...'
 sku: 'B06XHV9GT4-es'
+tags: [ 'android', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

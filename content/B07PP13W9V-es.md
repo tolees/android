@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PP13W9V-es Android TV Box Android 8.1 TV Box Amlogic S905W Quad-Core...'
 sku: 'B07PP13W9V-es'
+tags: [ 'android', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

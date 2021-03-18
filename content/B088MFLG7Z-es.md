@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088MFLG7Z-es TedGem Webcam Web CAM Webcam 1080p Camara Web Webcam Full...'
 sku: 'B088MFLG7Z-es'
+tags: [ 'android', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

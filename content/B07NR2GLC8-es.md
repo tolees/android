@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR2GLC8-es Xiaomi Mi 9 – Smartphone de AMOLED de 6 39" 4G Octa Core...'
 sku: 'B07NR2GLC8-es'
+tags: [ 'android', ]
 actualPrice: 312.48 EUR
 currency: EUR
 price: 312.48

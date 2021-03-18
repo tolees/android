@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBVRCDT-es Muzili Auriculares Bluetooth Inalambricos V5.0 Auriculares...'
 sku: 'B07XBVRCDT-es'
+tags: [ 'android', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZ8QZNX-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
 sku: 'B07XZ8QZNX-es'
+tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0819RWZ4S-es CUBOT P30 Smartphone 4G LTE Cámara Trasera AI 20MP+ 12MP+...'
 sku: 'B0819RWZ4S-es'
+tags: [ 'android', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

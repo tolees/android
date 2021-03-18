@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L54MVM3-es Seneo Reloj Inteligente Hombre Reloj de Seguimiento de...'
 sku: 'B07L54MVM3-es'
+tags: [ 'android', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWCB982-es mysunny Ratón Bluetooth Raton Recargable inalámbrico ratón...'
 sku: 'B07DWCB982-es'
+tags: [ 'android', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

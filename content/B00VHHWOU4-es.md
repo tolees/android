@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VHHWOU4-es Logitech K400 Plus Teclado Inalámbrico con Touchpad para...'
 sku: 'B00VHHWOU4-es'
+tags: [ 'android', ]
 actualPrice: 32.22 EUR
 currency: EUR
 price: 32.22

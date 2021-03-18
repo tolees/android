@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FT872TN-es Niños Tablet 7 Pulgadas Android 7.1 OS iwawa pre-installed...'
 sku: 'B07FT872TN-es'
+tags: [ 'android', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

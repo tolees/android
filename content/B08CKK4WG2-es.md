@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CKK4WG2-es Tablet para Niños con WiFi 9.0 Pulgadas 3GB RAM 32GB/128GB...'
 sku: 'B08CKK4WG2-es'
+tags: [ 'android', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

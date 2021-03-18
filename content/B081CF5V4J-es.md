@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CF5V4J-es NAIXUES Smartwatch Reloj Inteligente IP67 con Presión...'
 sku: 'B081CF5V4J-es'
+tags: [ 'android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

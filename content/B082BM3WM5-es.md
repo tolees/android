@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BM3WM5-es Cable Micro USB 4 Pack [0.5m+1m+2m+3m] Trenzado de Nylon...'
 sku: 'B082BM3WM5-es'
+tags: [ 'android', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

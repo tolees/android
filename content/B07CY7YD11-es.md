@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY7YD11-es Motorola Moto G6 – Smartphone libre Android pantalla de...'
 sku: 'B07CY7YD11-es'
+tags: [ 'android', ]
 actualPrice: 199.77 EUR
 currency: EUR
 price: 199.77

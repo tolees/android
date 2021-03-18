@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R8XSJJ3-es Arbily Reloj Inteligente Pantalla Táctil Completa Pulsera...'
 sku: 'B07R8XSJJ3-es'
+tags: [ 'android', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

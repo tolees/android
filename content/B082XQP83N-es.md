@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XQP83N-es Auriculares Bluetooth Mpow Auriculares Inalámbrico 5.0...'
 sku: 'B082XQP83N-es'
+tags: [ 'android', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

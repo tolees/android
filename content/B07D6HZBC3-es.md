@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6HZBC3-es LiuShan BQ Aquaris M10 Funda Folio Soporte PU Cuero Con...'
 sku: 'B07D6HZBC3-es'
+tags: [ 'android', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

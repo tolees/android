@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0817VSDNW-es 2019 Nuevo Toque Auriculares Bluetooth Auriculares...'
 sku: 'B0817VSDNW-es'
+tags: [ 'android', ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

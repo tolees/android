@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y8C4QGZ-es TOOBUR Smartwatch IP68 Impermeable Reloj Inteligente con...'
 sku: 'B07Y8C4QGZ-es'
+tags: [ 'android', ]
 actualPrice: 31.39 EUR
 currency: EUR
 price: 31.39

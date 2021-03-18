@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MW2WD8Q-es Willful Pulsera de Actividad Pulsera Inteligente con...'
 sku: 'B07MW2WD8Q-es'
+tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08951DYFL-es Disco Flash teléfono móvil u Disco USB 3.0 Giratorio OTG...'
 sku: 'B08951DYFL-es'
+tags: [ 'android', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

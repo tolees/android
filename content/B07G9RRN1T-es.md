@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9RRN1T-es Mpow Manos Libres Auricular Bluetooth Manos Libres Oreja...'
 sku: 'B07G9RRN1T-es'
+tags: [ 'android', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

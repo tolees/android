@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852VW8SD-es Tablet 10 Pulgadas 4G FHD 64GB de ROM 4GB de RAM Android...'
 sku: 'B0852VW8SD-es'
+tags: [ 'android', ]
 actualPrice: 89.92 EUR
 currency: EUR
 price: 89.92

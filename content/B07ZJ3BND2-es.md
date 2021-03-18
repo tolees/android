@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJ3BND2-es Auriculares Bluetooth inalámbricos BT5.0 Touch Control...'
 sku: 'B07ZJ3BND2-es'
+tags: [ 'android', ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

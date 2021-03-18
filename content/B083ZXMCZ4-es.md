@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZXMCZ4-es Pantalla IPS de 11 Pulgadas Android 8.0 Tablet PC de Diez...'
 sku: 'B083ZXMCZ4-es'
+tags: [ 'android', ]
 actualPrice: 59.76 EUR
 currency: EUR
 price: 59.76

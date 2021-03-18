@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B63DGQ3-es Longspeed Universal C6 Pulsera Inteligente Multifuncional...'
 sku: 'B08B63DGQ3-es'
+tags: [ 'android', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89
