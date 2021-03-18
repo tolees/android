@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNPFCBB-es H96 MAX+ Android 9.0 TV Box 4GB RAM/32GB ROM 4K Ultra HD...'
 sku: 'B07FNPFCBB-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

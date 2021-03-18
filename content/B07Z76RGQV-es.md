@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z76RGQV-es LNMBBS 4G LTE Tablet 10.1" Full HD Tableta Android 10.0 OS...'
 sku: 'B07Z76RGQV-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

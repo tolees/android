@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BM3WM5-es Cable Micro USB 4 Pack [0.5m+1m+2m+3m] Trenzado de Nylon...'
 sku: 'B082BM3WM5-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

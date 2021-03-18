@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RK5VU5M-es TP-LINK - Router N300 Android'
 sku: 'B00RK5VU5M-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

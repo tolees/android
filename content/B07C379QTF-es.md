@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C379QTF-es Sharplace 1 Pieza de Adaptador Remoto Control IR...'
 sku: 'B07C379QTF-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJC52FG-es Pulsera de Actividad Reloj Inteligente Impermeable IP68...'
 sku: 'B07YJC52FG-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G96CYZ1-es La Herramienta de Escaneo OBD con Lector de Códigos OBD2...'
 sku: 'B07G96CYZ1-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

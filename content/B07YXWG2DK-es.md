@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXWG2DK-es 2020 Moviles Libres Baratos6.0’’ Pulgadas 4G Teléfono...'
 sku: 'B07YXWG2DK-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 69.88 EUR
 currency: EUR
 price: 69.88

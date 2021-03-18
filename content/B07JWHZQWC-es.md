@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWHZQWC-es IPOTCH 1 Pieza Reloj Digital Unisex Muñequera de Actividad...'
 sku: 'B07JWHZQWC-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WL7CCWV-es Huawei P30 Pro - Smartphone de 6.47" Kirin 980 Octa-Core...'
 sku: 'B07WL7CCWV-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 619.0 EUR
 currency: EUR
 price: 619.0

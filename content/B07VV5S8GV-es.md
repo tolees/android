@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VV5S8GV-es Abeyete Pulsera de Actividad Reloj Inteligente para Hombre...'
 sku: 'B07VV5S8GV-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

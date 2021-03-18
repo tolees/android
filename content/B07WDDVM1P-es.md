@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDDVM1P-es CUBOT Quest Lite 4G IP68 Móvil Todorerreno para Viajes o...'
 sku: 'B07WDDVM1P-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

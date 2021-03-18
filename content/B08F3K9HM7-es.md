@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F3K9HM7-es Nuevo P35 Pro 6.3 Pantalla de Pulgadas Teléfono Android...'
 sku: 'B08F3K9HM7-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Smartwatches','Tablets','Tecnología para vestir','Webcams y telefonía VoIP','android', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','android', ]
 actualPrice: 41.45 EUR
 currency: EUR
 price: 41.45
