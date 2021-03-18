@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Samsung Galaxy A21s - Smartphone de 6.5" al 32.80 % de descuento'
-date: 2021-03-16 04:54:58
+date: 2021-03-18 22:46:15
 image: 'https://m.media-amazon.com/images/I/41MjOuRW-iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08LQT6L7X-es Samsung Galaxy A21s - Smartphone de 6.5" 4 GB RAM 128 GB...'
 sku: 'B08LQT6L7X-es'
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','samsung', ]
 actualPrice: 187.5 EUR
 currency: EUR
 price: 187.5
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08LQT6L7X/?tag=tolees-21'
 descuento: '32.80'
-average: '202.121960784312'
+average: '201.570188679243'
 ---
 
 Ahora mismo tienes [Samsung Galaxy A21s - Smartphone de 6.5"  4 GB RAM  128 GB de Memoria Interna  WiFi  Procesador Octa Core  Cámara Principal de 48 MP  Android 10.0  Color Negro [Versión española]](https://www.amazon.es/dp/B08LQT6L7X/?tag=tolees-21) a 187.5 EUR (original: 279.0 EUR) (32.80 %  de descuento) en el siguiente enlace!
@@ -28,9 +29,9 @@ Ahora mismo tienes [Samsung Galaxy A21s - Smartphone de 6.5"  4 GB RAM  128 GB d
 🔎:
 
 - Smartphone con sistema operativo Android V10.0
-- Batería del teléfono móvil: 5000 mAh de iones de litio de alto rendimiento con carga rápida de 15 W
 - Memoria del smartphone: Tarjeta microSD de hasta 512 GB; una memoria ampliable para tus fotos, tu música y mucho más
-- Cámara del teléfono móvil: Cámara principal de 48 MP, cámara focal de 2 MP, ultra gran angular de 8 MP, cámara macro de 2 MP y cámara frontal nominal de 13 MP
 - Pantalla del smartphone: Pantalla TFT LCD Infinity-O de 6,5 pulgadas, resolución de 720 x 1600 píxeles, una densidad de 409 ppp y 16 millones de colores
+- Cámara del teléfono móvil: Cámara principal de 48 MP, cámara focal de 2 MP, ultra gran angular de 8 MP, cámara macro de 2 MP y cámara frontal nominal de 13 MP
+- Batería del teléfono móvil: 5000 mAh de iones de litio de alto rendimiento con carga rápida de 15 W
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LQT6L7X/?tag=tolees-21)
