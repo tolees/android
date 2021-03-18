@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7BFRVS-es Móvil Resistente Ulefone Armor X8 Android 10 Smartphone 4G...'
 sku: 'B08J7BFRVS-es'
-tags: [ 'android', ]
 actualPrice: 124.71 EUR
 currency: EUR
 price: 124.71

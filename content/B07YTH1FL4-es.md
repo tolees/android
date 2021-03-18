@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTH1FL4-es Auriculares Bluetooth WOOKRAYS inalámbricos Bluetooth 5.0...'
 sku: 'B07YTH1FL4-es'
-tags: [ 'android', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

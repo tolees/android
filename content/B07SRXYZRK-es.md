@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRXYZRK-es PTHTECHUS - GPS LBS Tracker Smartwatch Niños - Reloj...'
 sku: 'B07SRXYZRK-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

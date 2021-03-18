@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFLM4TD-es Android TV Box【4GB RAM 64GB ROM】 TaNix TX5 Plus TV Box...'
 sku: 'B07WFLM4TD-es'
-tags: [ 'android','tanix', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

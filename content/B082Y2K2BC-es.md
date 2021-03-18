@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Y2K2BC-es Ticwatch Pro 2020 Reloj Inteligente 1GB RAM Pantalla en...'
 sku: 'B082Y2K2BC-es'
-tags: [ 'android', ]
 actualPrice: 205.46 EUR
 currency: EUR
 price: 205.46

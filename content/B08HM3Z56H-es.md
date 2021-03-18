@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HM3Z56H-es Motorola Moto E7 Plus - 6.5" Max Vision HD+ Qualcomm...'
 sku: 'B08HM3Z56H-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android','motorola', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

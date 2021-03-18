@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HGLF31T-es TCL 10 5G - Smartphone de 6.53" FHD+ con NXTVISION...'
 sku: 'B08HGLF31T-es'
-tags: [ 'android', ]
 actualPrice: 217.84 EUR
 currency: EUR
 price: 217.84

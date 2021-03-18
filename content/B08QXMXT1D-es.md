@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QXMXT1D-es Samsung Smartphone Galaxy S21 Ultra 5G de 128 GB con...'
 sku: 'B08QXMXT1D-es'
-tags: [ 'android', ]
 actualPrice: 1048.0 EUR
 currency: EUR
 price: 1048.0

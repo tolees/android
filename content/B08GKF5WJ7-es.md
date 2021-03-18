@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKF5WJ7-es Amazfit Neo Smart Watch Reloj Inteligente 28 Días Batería...'
 sku: 'B08GKF5WJ7-es'
-tags: [ 'android', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CGPD7FP-es AVIWIS Cable USB Magnético 1M Multi 3 en 1 Cable Magnetic...'
 sku: 'B08CGPD7FP-es'
-tags: [ 'android', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

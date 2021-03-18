@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X46KCW3-es AOYODKG - Tablet 10.1 Pulgadas 4G LTE Call Android 10.0...'
 sku: 'B08X46KCW3-es'
-tags: [ 'android','aoyodkg', ]
 actualPrice: 107.55 EUR
 currency: EUR
 price: 107.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L36LJRN-es Teléfono Móvil Libre Ulefone Note 7 Android 9 Smartphone...'
 sku: 'B08L36LJRN-es'
-tags: [ 'android', ]
 actualPrice: 63.74 EUR
 currency: EUR
 price: 63.74

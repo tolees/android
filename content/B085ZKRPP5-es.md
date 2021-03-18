@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZKRPP5-es AIMIUVEI Smartwatch Reloj Inteligente Mujer Hombre IP67...'
 sku: 'B085ZKRPP5-es'
-tags: [ 'Smartwatches','aimiuvei','android', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MY23GYX-es Seelumen - Proyector 4K Proyector Portátil 6000 Lúmenes...'
 sku: 'B08MY23GYX-es'
-tags: [ 'android', ]
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

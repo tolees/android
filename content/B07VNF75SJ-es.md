@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNF75SJ-es HUAWEI MediaPad T5 - Tablet de 10.1" FullHD Wifi RAM de...'
 sku: 'B07VNF75SJ-es'
-tags: [ 'android', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

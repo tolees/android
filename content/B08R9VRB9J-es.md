@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R9VRB9J-es Vinlley Auriculares Inalámbricos Bluetooth Telefono...'
 sku: 'B08R9VRB9J-es'
-tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

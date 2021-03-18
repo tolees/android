@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXK4MHZ-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pulsera...'
 sku: 'B07WXK4MHZ-es'
-tags: [ 'android','tipmant', ]
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

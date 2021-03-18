@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F59YZCR-es Vanku Android 10 Radio 2 DIN de 4GB+64GB PX5 Autoradio con...'
 sku: 'B08F59YZCR-es'
-tags: [ 'android', ]
 actualPrice: 209.09 EUR
 currency: EUR
 price: 209.09

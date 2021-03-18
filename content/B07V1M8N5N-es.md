@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V1M8N5N-es AVIWIS Cable USB Magnético Multi Cable Magnetic de Carga...'
 sku: 'B07V1M8N5N-es'
-tags: [ 'android', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

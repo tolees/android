@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S6PPZZD-es Tablet 10 Pulgadas Android 10.0 - YUMKEM Tableta 4GB RAM...'
 sku: 'B08S6PPZZD-es'
-tags: [ 'android', ]
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

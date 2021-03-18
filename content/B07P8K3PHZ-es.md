@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8K3PHZ-es RAVIAD 3 en 1 Multi Cable de Carga Nylon Multi USB...'
 sku: 'B07P8K3PHZ-es'
-tags: [ 'android', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

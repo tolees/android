@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LHCD33S-es Auriculares Inalambricos Aoslen Auriculares Bluetooth 5.0...'
 sku: 'B08LHCD33S-es'
-tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

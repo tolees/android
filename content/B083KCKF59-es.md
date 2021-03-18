@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KCKF59-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B083KCKF59-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

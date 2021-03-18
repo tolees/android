@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JQQ3H67-es OPPO Reno 4Z 5G – Pantalla de 6.57" 120 Hz de pantalla...'
 sku: 'B08JQQ3H67-es'
-tags: [ 'android', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

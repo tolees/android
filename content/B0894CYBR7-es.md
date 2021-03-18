@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0894CYBR7-es HonShoop Auricular Bluetooth manos libres inalámbrico V5.0...'
 sku: 'B0894CYBR7-es'
-tags: [ 'android', ]
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

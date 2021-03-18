@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FLSX9S-es HUAWEI P40 Lite - Smartphone con Pantalla de 16.3 cm 6.4"...'
 sku: 'B085FLSX9S-es'
-tags: [ 'android', ]
 actualPrice: 233.18 EUR
 currency: EUR
 price: 233.18

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XC47YTV-es ZKAPOR Cable USB Magnético Multi Cable Magnetic de Carga y...'
 sku: 'B07XC47YTV-es'
-tags: [ 'android', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HH9HFG6-es TV Box Android TaNix Hi6S Android 9.0 Box Hisilicon con...'
 sku: 'B08HH9HFG6-es'
-tags: [ 'android','tanix', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

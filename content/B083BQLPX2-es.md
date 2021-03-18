@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083BQLPX2-es Cámara de Vigilancia WiFi Sricam SP017 Cámara IP 1080P...'
 sku: 'B083BQLPX2-es'
-tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

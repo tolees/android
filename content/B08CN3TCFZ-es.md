@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CN3TCFZ-es AIMIUVEI Smartwatch Reloj Inteligente Mujer Hombre IP67...'
 sku: 'B08CN3TCFZ-es'
-tags: [ 'android', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

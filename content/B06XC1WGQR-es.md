@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XC1WGQR-es SanDisk Memoria Flash USB 256 GB para tu smartphone...'
 sku: 'B06XC1WGQR-es'
-tags: [ 'android', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

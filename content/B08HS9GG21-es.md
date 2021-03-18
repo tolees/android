@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HS9GG21-es BlitzWolf Reloj Inteligente Mujeres IP68 Smartwatch Mujer...'
 sku: 'B08HS9GG21-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android','blitzwolf', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

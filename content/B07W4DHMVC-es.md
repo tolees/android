@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4DHMVC-es Logitech K380 - Teclado inalámbrico Bluetooth...'
 sku: 'B07W4DHMVC-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

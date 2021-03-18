@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QM52X6J-es Looffy Pen Drive Memoria USB 32GB para iPhone Pendrive USB...'
 sku: 'B07QM52X6J-es'
-tags: [ 'android', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JYD3N34-es Sendowtek Auriculares Inalambricos Diadema con Microfono...'
 sku: 'B08JYD3N34-es'
-tags: [ 'android', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

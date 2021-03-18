@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1CV4FN-es Auriculares Bluetooth Auriculares Inalambricos Bluetooth...'
 sku: 'B07Z1CV4FN-es'
-tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMVZDLM-es Magcubic - Android TV Box 10.0 2 GB RAM 16 GB ROM Set Top...'
 sku: 'B08CMVZDLM-es'
-tags: [ 'android', ]
 actualPrice: 56.29 EUR
 currency: EUR
 price: 56.29

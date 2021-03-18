@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLXTJXC-es Wavlink Universal Laptop Docking Station USB 3.0 para...'
 sku: 'B07BLXTJXC-es'
-tags: [ 'android', ]
 actualPrice: 72.24 EUR
 currency: EUR
 price: 72.24

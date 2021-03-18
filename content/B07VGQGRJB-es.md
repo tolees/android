@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGQGRJB-es Samsung Galaxy Tab A 2019 - Tablet de 8" Wi-Fi RAM de 2GB...'
 sku: 'B07VGQGRJB-es'
-tags: [ 'android', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

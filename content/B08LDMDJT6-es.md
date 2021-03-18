@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LDMDJT6-es DOOGEE S96 Pro 8GB RAM + 128GB ROM Movil 6350mAh...'
 sku: 'B08LDMDJT6-es'
-tags: [ 'android', ]
 actualPrice: 254.99 EUR
 currency: EUR
 price: 254.99

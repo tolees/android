@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M7N0V0Q-es Pioneer SE-MJ553BT-W - Auriculares inalámbricos Bluetooth...'
 sku: 'B01M7N0V0Q-es'
-tags: [ 'android', ]
 actualPrice: 37.05 EUR
 currency: EUR
 price: 37.05

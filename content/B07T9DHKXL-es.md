@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T9DHKXL-es Xiaomi Mi Band 4 Pulsera de Actividad Monitores de...'
 sku: 'B07T9DHKXL-es'
-tags: [ 'android', ]
 actualPrice: 26.12 EUR
 currency: EUR
 price: 26.12

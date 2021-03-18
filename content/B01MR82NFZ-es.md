@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MR82NFZ-es YI Cámara Vigilancia Cámara IP Wifi 1080p Sistema de...'
 sku: 'B01MR82NFZ-es'
-tags: [ 'android', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

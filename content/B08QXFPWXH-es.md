@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QXFPWXH-es Smartphone Libre Samsung Galaxy S21+ 5G de 256 GB con...'
 sku: 'B08QXFPWXH-es'
-tags: [ 'android', ]
 actualPrice: 878.0 EUR
 currency: EUR
 price: 878.0

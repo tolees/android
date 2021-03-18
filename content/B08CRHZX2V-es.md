@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRHZX2V-es Q88 7 "Tablet para niños 1G + 8GB A33 Quad Core 0.3MP...'
 sku: 'B08CRHZX2V-es'
-tags: [ 'android', ]
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

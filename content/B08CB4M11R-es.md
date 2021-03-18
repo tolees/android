@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CB4M11R-es A5X - Android TV Box 11 2GB RAM 16GB ROM Android 11...'
 sku: 'B08CB4M11R-es'
-tags: [ 'android', ]
 actualPrice: 31.43 EUR
 currency: EUR
 price: 31.43

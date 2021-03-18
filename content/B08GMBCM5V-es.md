@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GMBCM5V-es Motorola Moto G9 Play - Pantalla HD+ de 6.5" procesador...'
 sku: 'B08GMBCM5V-es'
-tags: [ 'android', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

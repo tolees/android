@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGFN4B6-es HolyHigh Auriculares Inalambricos Deportivos Auriculares...'
 sku: 'B07XGFN4B6-es'
-tags: [ 'android', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

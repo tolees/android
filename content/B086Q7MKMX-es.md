@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086Q7MKMX-es TCL 10L - Smartphone de 6.53" FHD+ con NXTVISION Qualcomm...'
 sku: 'B086Q7MKMX-es'
-tags: [ 'android', ]
 actualPrice: 154.9 EUR
 currency: EUR
 price: 154.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFVTLQ3-es Arbily Smartwatch Hombre Reloj Inteligente con Pantalla...'
 sku: 'B08BFVTLQ3-es'
-tags: [ 'android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

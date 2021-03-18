@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCDW8D3-es ELEGIANT Pulsera de Actividad Inteligente Reloj Deportivo...'
 sku: 'B07FCDW8D3-es'
-tags: [ 'android', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

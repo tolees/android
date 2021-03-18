@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B82QF7M-es SAMSUNG Galaxy Tab S6 Lite - Tablet de 10.4” WiFi...'
 sku: 'B08B82QF7M-es'
-tags: [ 'android','samsung', ]
 actualPrice: 298.99 EUR
 currency: EUR
 price: 298.99

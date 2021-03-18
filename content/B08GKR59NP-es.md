@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKR59NP-es DUODUOGO Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B08GKR59NP-es'
-tags: [ 'android', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

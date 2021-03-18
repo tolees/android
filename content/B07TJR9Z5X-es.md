@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJR9Z5X-es TaoTronics Auriculares Bluetooth 5.0 Inalámbrico 40 Horas...'
 sku: 'B07TJR9Z5X-es'
-tags: [ 'android', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Y1KTL5-es Vigorun Smartwatch Reloj Inteligente Hombre Mujer Pantalla...'
 sku: 'B089Y1KTL5-es'
-tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

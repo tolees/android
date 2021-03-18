@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EZ0X3L8-es SanDisk Memoria Flash USB 64 GB para tu smartphone Android...'
 sku: 'B01EZ0X3L8-es'
-tags: [ 'android', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

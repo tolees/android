@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019NABKXS-es Primux - Gamepad GP2 Android'
 sku: 'B019NABKXS-es'
-tags: [ 'android', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

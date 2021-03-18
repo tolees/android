@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVYX4TJ-es 【Blackview Oficial】 BV5500 2020 Móvil Libre Resistente...'
 sku: 'B07MVYX4TJ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','blackview', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

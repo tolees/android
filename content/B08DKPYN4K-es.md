@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKPYN4K-es Samsung Galaxy Tab S7 - Tablet Android WiFi de 11.0" I 128...'
 sku: 'B08DKPYN4K-es'
-tags: [ 'android', ]
 actualPrice: 630.27 EUR
 currency: EUR
 price: 630.27

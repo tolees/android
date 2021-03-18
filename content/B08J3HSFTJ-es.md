@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J3HSFTJ-es ELEGIANT SmartWatch 1.54 Reloj Inteligente IP68 con...'
 sku: 'B08J3HSFTJ-es'
-tags: [ 'android', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

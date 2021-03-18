@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NWFD63-es AUKEY Auriculares Bluetooth 5 con Cancelación Activa De...'
 sku: 'B088NWFD63-es'
-tags: [ 'android', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

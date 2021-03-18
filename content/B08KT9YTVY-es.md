@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KT9YTVY-es Móvil Resistente Blackview BV9900E Android 10 Impermeable...'
 sku: 'B08KT9YTVY-es'
-tags: [ 'android', ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

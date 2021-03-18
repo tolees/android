@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D8FKJT1-es Xiaomi Redmi Note 5 - Smartphone de 5.99" Snapdragon Octa-...'
 sku: 'B07D8FKJT1-es'
-tags: [ 'android', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

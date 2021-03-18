@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHZ7WQ4-es Philips Ambilight 58PUS8505/12 - Televisor Smart TV de 58...'
 sku: 'B08BHZ7WQ4-es'
-tags: [ 'android', ]
 actualPrice: 718.0 EUR
 currency: EUR
 price: 718.0

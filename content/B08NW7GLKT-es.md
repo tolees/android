@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NW7GLKT-es ADLWLVE - Teléfono Móvil Libres 4G Android 9.1 Smartphone...'
 sku: 'B08NW7GLKT-es'
-tags: [ 'android', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

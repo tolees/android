@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVGD4WJ-es HUION H610PRO V2 Tableta gráfica - Tableta gráfica de...'
 sku: 'B07FVGD4WJ-es'
-tags: [ 'Accesorios','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','Tabletas gráficas','Teclados, ratones y periféricos de entrada','Tecnología para vestir','android','huion', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

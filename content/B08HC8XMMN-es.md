@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HC8XMMN-es GameSir X2 Controlador de Juegos para Móviles Android –...'
 sku: 'B08HC8XMMN-es'
-tags: [ 'android', ]
 actualPrice: 57.79 EUR
 currency: EUR
 price: 57.79

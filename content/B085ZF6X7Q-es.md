@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085ZF6X7Q-es AIMIUVEI Smartwatch Reloj Inteligente Mujer Hombre IP67...'
 sku: 'B085ZF6X7Q-es'
-tags: [ 'android', ]
 actualPrice: 45.98 EUR
 currency: EUR
 price: 45.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N6KWCVK-es ANKEWAY 2021 Nuevo 7 Pulgadas [2G+16G] Android 10 1 Radio...'
 sku: 'B08N6KWCVK-es'
-tags: [ 'android', ]
 actualPrice: 112.19 EUR
 currency: EUR
 price: 112.19

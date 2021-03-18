@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DC9MKZX-es VANKYO Tablet Niños de 8 Pulgadas Tablet Infantil con ROM...'
 sku: 'B08DC9MKZX-es'
-tags: [ 'android', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

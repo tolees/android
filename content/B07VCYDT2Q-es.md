@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VCYDT2Q-es LEELNG Pendrive para iPhone Memoria USB 128GB y iPad...'
 sku: 'B07VCYDT2Q-es'
-tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B8BGD5Z-es Soding - Auriculares Bluetooth 2020 Auriculares...'
 sku: 'B08B8BGD5Z-es'
-tags: [ 'android', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

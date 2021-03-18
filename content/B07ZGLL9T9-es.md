@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZGLL9T9-es AWESAFE Android 10.0 [2GB+32GB] 7 Pulgadas Pantalla...'
 sku: 'B07ZGLL9T9-es'
-tags: [ 'android', ]
 actualPrice: 200.59 EUR
 currency: EUR
 price: 200.59

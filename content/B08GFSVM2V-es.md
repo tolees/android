@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GFSVM2V-es Trípode Móvil TECCPO Trípode Flexible para Cámara y Gopro...'
 sku: 'B08GFSVM2V-es'
-tags: [ 'android', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X1RN2ZQ-es Teléfono Móvil Libre 4G Blackview A80S Smartphone Android...'
 sku: 'B08X1RN2ZQ-es'
-tags: [ 'android', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

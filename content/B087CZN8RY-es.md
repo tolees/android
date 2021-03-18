@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087CZN8RY-es Blackview X1 Smartwatch Reloj Inteligente Fitness Tracker...'
 sku: 'B087CZN8RY-es'
-tags: [ 'android', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

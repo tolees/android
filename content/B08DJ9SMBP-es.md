@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ9SMBP-es TCL 10 SE - Smartphone de 6.52" HD+ con NXTVISION Mediatek...'
 sku: 'B08DJ9SMBP-es'
-tags: [ 'android', ]
 actualPrice: 134.9 EUR
 currency: EUR
 price: 134.9

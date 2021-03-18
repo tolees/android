@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H8LTCKW-es Auriculares Inalámbricos Aoslen Auriculares Bluetooth TWS...'
 sku: 'B08H8LTCKW-es'
-tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

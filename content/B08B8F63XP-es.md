@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B8F63XP-es Xiaomi Mi TV Stick Full HD HDR HDMI Quad-Core DDR4...'
 sku: 'B08B8F63XP-es'
-tags: [ 'android', ]
 actualPrice: 31.97 EUR
 currency: EUR
 price: 31.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MFHPLS-es HEROPI - Auriculares Bluetooth 2020 Auriculares...'
 sku: 'B084MFHPLS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','heropi', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

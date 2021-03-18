@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S3HJKTM-es Tablet 8 Pulgadas Android 10 TECLAST P80 2GB RAM 32GB...'
 sku: 'B08S3HJKTM-es'
-tags: [ 'android', ]
 actualPrice: 84.91 EUR
 currency: EUR
 price: 84.91

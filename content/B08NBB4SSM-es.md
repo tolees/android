@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NBB4SSM-es LIEBIG - Smartwatch Mujer Hombre Relojes Inteligentes...'
 sku: 'B08NBB4SSM-es'
-tags: [ 'android', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

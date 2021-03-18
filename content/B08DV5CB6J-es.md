@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DV5CB6J-es Teléfono Móvil Libre Ulefone Note 8 Android 10 3G...'
 sku: 'B08DV5CB6J-es'
-tags: [ 'android', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

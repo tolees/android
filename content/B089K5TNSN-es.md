@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089K5TNSN-es Teléfono Móvil Libres 4G Ulefone Note 8P Android 10...'
 sku: 'B089K5TNSN-es'
-tags: [ 'android', ]
 actualPrice: 63.74 EUR
 currency: EUR
 price: 63.74

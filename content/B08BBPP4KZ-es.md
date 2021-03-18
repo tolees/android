@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BBPP4KZ-es Móviles Libres 4G Blackview A80 Plus Smartphone Libre...'
 sku: 'B08BBPP4KZ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android','blackview', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

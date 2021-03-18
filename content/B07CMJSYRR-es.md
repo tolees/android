@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CMJSYRR-es Huawei P20 Pro – Smartphone de 6 1" Kirin 970 AI 6G de RAM...'
 sku: 'B07CMJSYRR-es'
-tags: [ 'android', ]
 actualPrice: 425.85 EUR
 currency: EUR
 price: 425.85

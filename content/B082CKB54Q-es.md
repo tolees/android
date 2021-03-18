@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082CKB54Q-es 2019 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B082CKB54Q-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

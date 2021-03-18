@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNHSGPV-es Motorola Moto G 5G Plus - Smartphone de 6.7" 5G FHD+...'
 sku: 'B08CNHSGPV-es'
-tags: [ 'android', ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

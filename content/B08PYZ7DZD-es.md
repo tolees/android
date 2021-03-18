@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PYZ7DZD-es Aibecy mini impresora para movil PeriPage Mini Pocket...'
 sku: 'B08PYZ7DZD-es'
-tags: [ 'android', ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

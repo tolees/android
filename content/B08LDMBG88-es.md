@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LDMBG88-es DOOGEE S96 Pro 8GB RAM + 128GB ROM Smartphone 4G Cámara...'
 sku: 'B08LDMBG88-es'
-tags: [ 'android', ]
 actualPrice: 254.99 EUR
 currency: EUR
 price: 254.99

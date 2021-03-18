@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QMR65HK-es HCH - Tablet 10 Pulgadas 4GB RAM & 64GB Memoria Android...'
 sku: 'B08QMR65HK-es'
-tags: [ 'android', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

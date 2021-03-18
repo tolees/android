@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZCKHGG-es Sony Xperia 5 II - Smartphone de 6.1" Pantalla OLED HDR...'
 sku: 'B08HZCKHGG-es'
-tags: [ 'android', ]
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0

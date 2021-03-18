@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QDB7HB3-es Blackview A60 Teléfono Móvil 2GB+16GB 128GB SD Pantalla...'
 sku: 'B07QDB7HB3-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','blackview', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

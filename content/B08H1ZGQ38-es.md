@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1ZGQ38-es Tablet KISEDAR da 10 pollici 4 GB di RAM e 64 GB di...'
 sku: 'B08H1ZGQ38-es'
-tags: [ 'android', ]
 actualPrice: 93.49 EUR
 currency: EUR
 price: 93.49

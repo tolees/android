@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089CVQ2FS-es Popglory Smart Watch Reloj Inteligente con Oxígeno...'
 sku: 'B089CVQ2FS-es'
-tags: [ 'android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H12L5CN-es Huashetrade - Tableta Android Google de 10 Pulgadas...'
 sku: 'B08H12L5CN-es'
-tags: [ 'android', ]
 actualPrice: 84.14 EUR
 currency: EUR
 price: 84.14

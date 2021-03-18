@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7LRX98-es SAMSUNG Galaxy M11 | Smartphone Dual SIM Pantalla de 6 4""...'
 sku: 'B08J7LRX98-es'
-tags: [ 'android', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

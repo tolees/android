@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JD8JHH-es OUKITEL C18 Pro Teléfono Móvil Libre 2020 Cámara AI de...'
 sku: 'B087JD8JHH-es'
-tags: [ 'android', ]
 actualPrice: 110.49 EUR
 currency: EUR
 price: 110.49

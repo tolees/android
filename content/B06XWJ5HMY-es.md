@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWJ5HMY-es Huawei Mediapad T3 10 - Tableta 9.6" HD IPS WiFi...'
 sku: 'B06XWJ5HMY-es'
-tags: [ 'android', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

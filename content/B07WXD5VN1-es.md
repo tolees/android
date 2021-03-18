@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WXD5VN1-es Lenovo Tab M8 - Tablet 3 cm/8" HD IPS Touch Mediatek A22...'
 sku: 'B07WXD5VN1-es'
-tags: [ 'android', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

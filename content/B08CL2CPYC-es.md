@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CL2CPYC-es Ulefone Teléfono Móvil 2020 Note 8P Android 10 Smartphone...'
 sku: 'B08CL2CPYC-es'
-tags: [ 'android', ]
 actualPrice: 63.58 EUR
 currency: EUR
 price: 63.58

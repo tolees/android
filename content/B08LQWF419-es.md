@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LQWF419-es Samsung Galaxy A21s - Smartphone de 6.5" 4 GB RAM 128 GB...'
 sku: 'B08LQWF419-es'
-tags: [ 'android', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ML63S3R-es BOZLUN - reloj inteligente mujer reloj de monitor de ritmo...'
 sku: 'B07ML63S3R-es'
-tags: [ 'android', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

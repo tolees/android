@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PFWCJNH-es Ssmnr - Auriculares Bluetooth Inalámbrico Control Táctil...'
 sku: 'B08PFWCJNH-es'
-tags: [ 'android', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

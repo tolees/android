@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087GBMRFG-es AOPAWA Power Bank 26800mAh Carga Súper Rápida Batería...'
 sku: 'B087GBMRFG-es'
-tags: [ 'android', ]
 actualPrice: 20.35 EUR
 currency: EUR
 price: 20.35

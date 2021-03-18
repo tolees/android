@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0874FJ4XY-es LIFEBEE Smartwatch Reloj Inteligente Impermeable IP68 con...'
 sku: 'B0874FJ4XY-es'
-tags: [ 'android', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EZ0X23W-es SanDisk SDDDC2-032G-G46 - Memoria Flash USB 32 GB para tu...'
 sku: 'B01EZ0X23W-es'
-tags: [ 'android', ]
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

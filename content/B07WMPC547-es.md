@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMPC547-es pendoo Android TV Box 10.0 4GB RAM 32GB ROM [2020 más...'
 sku: 'B07WMPC547-es'
-tags: [ 'Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','android','pendoo', ]
 actualPrice: 40.79 EUR
 currency: EUR
 price: 40.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GSKTLWS-es AIMIUVEI Smartwatch Mujer Reloj Inteligente Mujer con...'
 sku: 'B08GSKTLWS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','aimiuvei','android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

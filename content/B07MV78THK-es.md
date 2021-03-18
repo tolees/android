@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MV78THK-es ccsfrgtrh ELM327 - Escáner para Coche OBDII OBD2 Bluetooth...'
 sku: 'B07MV78THK-es'
-tags: [ 'android', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

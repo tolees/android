@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z6X69VW-es Motorola Moto G8 Plus Pantalla de 6 3" FHD u-notch cámara...'
 sku: 'B07Z6X69VW-es'
-tags: [ 'android', ]
 actualPrice: 159.9 EUR
 currency: EUR
 price: 159.9

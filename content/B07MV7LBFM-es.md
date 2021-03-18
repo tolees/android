@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV7LBFM-es Omars PowerBank Carga Rápida PD - 10000 mAh Batería...'
 sku: 'B07MV7LBFM-es'
-tags: [ 'android', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

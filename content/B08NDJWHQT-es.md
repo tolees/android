@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDJWHQT-es ELEPHONE Auriculares Inalámbricos Bluetooth 5.0 Mini TWS...'
 sku: 'B08NDJWHQT-es'
-tags: [ 'android', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SQ944ZP-es Moviles Libres DOOGEE X95 Pro Android 10 Smartphone Libre...'
 sku: 'B08SQ944ZP-es'
-tags: [ 'android', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MHT63NR-es TUREWELL - Android TV Box 9.0 2019 El más Nuevo Android...'
 sku: 'B07MHT63NR-es'
-tags: [ 'android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

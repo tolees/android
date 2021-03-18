@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FHPZL7C-es Qarfee Memoria USB 128 GB 4 en 1 Pendrive para iPhone iPad...'
 sku: 'B08FHPZL7C-es'
-tags: [ 'android', ]
 actualPrice: 31.86 EUR
 currency: EUR
 price: 31.86

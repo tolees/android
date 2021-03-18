@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VKBH56K-es TICTID Android 10.0 TV Box D1 Pro【4G+64G】 RK3318 Quad-Core...'
 sku: 'B07VKBH56K-es'
-tags: [ 'android', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

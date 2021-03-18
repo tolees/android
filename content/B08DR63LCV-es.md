@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DR63LCV-es QARFEE Memoria USB 128GB para iPhone Pendrive 4 en 1 USB...'
 sku: 'B08DR63LCV-es'
-tags: [ 'android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

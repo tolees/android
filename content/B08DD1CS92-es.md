@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DD1CS92-es Rii K09 Teclado Inalámbrico Bluetooth Teclado de Español...'
 sku: 'B08DD1CS92-es'
-tags: [ 'android','rii', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

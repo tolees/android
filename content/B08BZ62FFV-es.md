@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BZ62FFV-es Fitpolo Reloj Inteligente Mujer Niños Hombre smartwatch...'
 sku: 'B08BZ62FFV-es'
-tags: [ 'android', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B8BG33H-es Vanku Android 10 Radio 2 DIN Autoradio con PX6 4GB+64GB...'
 sku: 'B08B8BG33H-es'
-tags: [ 'android', ]
 actualPrice: 229.49 EUR
 currency: EUR
 price: 229.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MC7D5N9-es YAGALA - Q Plus Android 9.0 TV Box con Mini Teclado...'
 sku: 'B07MC7D5N9-es'
-tags: [ 'android', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

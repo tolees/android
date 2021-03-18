@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BG2D1X8-es Sami - Running 3 - Smartwatch Smartband Pulsera de...'
 sku: 'B08BG2D1X8-es'
-tags: [ 'android', ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

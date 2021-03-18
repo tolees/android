@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082SSY8XH-es Victure. - Impresora fotográfica portátil Victure para...'
 sku: 'B082SSY8XH-es'
-tags: [ 'android', ]
 actualPrice: 108.22 EUR
 currency: EUR
 price: 108.22

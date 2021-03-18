@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZS5WP7-es Lenovo Tab M10 - Tablet de 10.1" HD/IPS Qualcomm...'
 sku: 'B07TZS5WP7-es'
-tags: [ 'android', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

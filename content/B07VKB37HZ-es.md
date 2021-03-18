@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VKB37HZ-es XP-PEN Deco 01 V2 Tableta Gráfica 10 x 6.25 Pulgadas...'
 sku: 'B07VKB37HZ-es'
-tags: [ 'android', ]
 actualPrice: 56.09 EUR
 currency: EUR
 price: 56.09

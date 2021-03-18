@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0868ZYFRC-es OPPO A72 – Pantalla de 6.5" FHD+ 4GB/128GB Snapdragon 665...'
 sku: 'B0868ZYFRC-es'
-tags: [ 'android', ]
 actualPrice: 187.95 EUR
 currency: EUR
 price: 187.95

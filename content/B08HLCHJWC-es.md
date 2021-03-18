@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HLCHJWC-es TCL 10 Plus - Smartphone de 6.47" AMOLED FHD+ con...'
 sku: 'B08HLCHJWC-es'
-tags: [ 'android', ]
 actualPrice: 189.79 EUR
 currency: EUR
 price: 189.79

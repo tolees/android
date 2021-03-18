@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCD2BYM-es Blackview A80 Moviles Libres 4G Android 10 GO con 6.21"...'
 sku: 'B08BCD2BYM-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Tablets','android','blackview', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

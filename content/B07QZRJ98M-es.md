@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QZRJ98M-es YI Cámara de Vigilancia WiFi Dome X Cámara IP Interior...'
 sku: 'B07QZRJ98M-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

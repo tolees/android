@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0883HGRJL-es Samsung Galaxy M21 - Smartphone Dual SIM de 6.4" sAMOLED...'
 sku: 'B0883HGRJL-es'
-tags: [ 'android', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

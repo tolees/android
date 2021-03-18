@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X2GRYQB-es Tipmant Pulsera de Actividad Reloj Inteligente Smartwatch...'
 sku: 'B07X2GRYQB-es'
-tags: [ 'android', ]
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

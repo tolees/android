@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087TKXQWL-es Proyector WiFi Bluetooth 8000 Lúmenes Artlii Energon2...'
 sku: 'B087TKXQWL-es'
-tags: [ 'android', ]
 actualPrice: 246.49 EUR
 currency: EUR
 price: 246.49

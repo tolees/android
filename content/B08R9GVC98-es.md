@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R9GVC98-es LNMBBS N10 Tablet 10" FHD Octa-Core 4G LTE Tablet Android...'
 sku: 'B08R9GVC98-es'
-tags: [ 'android', ]
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

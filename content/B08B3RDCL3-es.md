@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3RDCL3-es Adikao - Android TV Box X10 Android 10.0 Smart Box 4GB RAM...'
 sku: 'B08B3RDCL3-es'
-tags: [ 'android', ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

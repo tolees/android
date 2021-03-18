@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NSR156K-es LIGE Reloj Inteligente para Hombre Deportivo Impermeable...'
 sku: 'B08NSR156K-es'
-tags: [ 'android', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

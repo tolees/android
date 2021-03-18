@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08QN9K8M4-es Motorola Moto E7 - Smartphone de 6.5" HD+ MAX Vision...'
 sku: 'B08QN9K8M4-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','motorola', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

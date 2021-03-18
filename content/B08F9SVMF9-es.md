@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F9SVMF9-es Looffy Memoria USB 3.0 para iPhone iPad 128gb 4 en 1...'
 sku: 'B08F9SVMF9-es'
-tags: [ 'android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

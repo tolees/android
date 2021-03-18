@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V17XGJ8-es FGZ Tableta X10 Pro 10.1’’ Tableta con Android 10.0 4...'
 sku: 'B08V17XGJ8-es'
-tags: [ 'android', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

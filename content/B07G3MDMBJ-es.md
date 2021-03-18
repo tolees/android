@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3MDMBJ-es Motorola One - Smartphone Android One pantalla de 5.9’’...'
 sku: 'B07G3MDMBJ-es'
-tags: [ 'android', ]
 actualPrice: 165.25 EUR
 currency: EUR
 price: 165.25

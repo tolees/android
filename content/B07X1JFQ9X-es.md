@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X1JFQ9X-es Ulefone Note 7 Teléfono Móvil Android 9.0 Pantalla 6.1"...'
 sku: 'B07X1JFQ9X-es'
-tags: [ 'android', ]
 actualPrice: 63.74 EUR
 currency: EUR
 price: 63.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R8LKBV9-es Xiaomi 360 ° Cámara Seguridad Hogar Vigilancia en...'
 sku: 'B08R8LKBV9-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

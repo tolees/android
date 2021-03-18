@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7W7RCQ-es Ulefone Armor X8 Móvil Libre Resistente Android 10.0...'
 sku: 'B08J7W7RCQ-es'
-tags: [ 'android', ]
 actualPrice: 124.71 EUR
 currency: EUR
 price: 124.71

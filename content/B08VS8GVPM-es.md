@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VS8GVPM-es LNMBBS 610 Tablet de 10 Pulgadas 5G WiFi Android 10.0...'
 sku: 'B08VS8GVPM-es'
-tags: [ 'android', ]
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

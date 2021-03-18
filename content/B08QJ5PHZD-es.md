@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QJ5PHZD-es Android TV Box 10.0 【Versión Mejorada 6K】 Magcubic Smart...'
 sku: 'B08QJ5PHZD-es'
-tags: [ 'android', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

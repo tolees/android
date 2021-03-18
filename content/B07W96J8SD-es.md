@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W96J8SD-es Auriculares Bluetooth Orit Auriculares inalámbricos...'
 sku: 'B07W96J8SD-es'
-tags: [ 'android', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

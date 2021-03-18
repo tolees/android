@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QXW1TXX-es Samsung GalaxyS21+ 5G | Smartphone Android Libre |...'
 sku: 'B08QXW1TXX-es'
-tags: [ 'android', ]
 actualPrice: 902.0 EUR
 currency: EUR
 price: 902.0

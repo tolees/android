@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DWM3PG6-es Samsung Galaxy Tab S7+ - Tablet de 12.4" QHD Wifi...'
 sku: 'B08DWM3PG6-es'
-tags: [ 'android','samsung', ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

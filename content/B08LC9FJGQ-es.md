@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LC9FJGQ-es Tipmant Smartwatch Reloj Inteligente para Hombre Mujer...'
 sku: 'B08LC9FJGQ-es'
-tags: [ 'android', ]
 actualPrice: 28.03 EUR
 currency: EUR
 price: 28.03

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LS9T2Q6-es DOOGEE N30 Moviles Libres Pantalla de 6.55" DotDisplay 4...'
 sku: 'B08LS9T2Q6-es'
-tags: [ 'android', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

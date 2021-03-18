@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JH6V74W-es OPPO A73 5G – Pantalla de 6.5" AMOLED 8GB +128GB MT6853V...'
 sku: 'B08JH6V74W-es'
-tags: [ 'android', ]
 actualPrice: 248.99 EUR
 currency: EUR
 price: 248.99

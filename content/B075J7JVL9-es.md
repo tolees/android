@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075J7JVL9-es Manos Libres Bluetooth Auricular Mpow Auriculares...'
 sku: 'B075J7JVL9-es'
-tags: [ 'android', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

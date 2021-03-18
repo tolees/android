@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GFLT6FJ-es HaiFen - Android TV Box T9 Android 9.0 TV BOX 4GB RAM/32GB...'
 sku: 'B07GFLT6FJ-es'
-tags: [ 'android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

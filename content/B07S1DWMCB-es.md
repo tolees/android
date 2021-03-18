@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1DWMCB-es Newseego PUBG Mobile Game Finger Sleeve [Paquete de 10]...'
 sku: 'B07S1DWMCB-es'
-tags: [ 'android', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

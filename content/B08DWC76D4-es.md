@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DWC76D4-es Samsung Galaxy Tab S7+ - Tablet de 12.4" QHD Wifi...'
 sku: 'B08DWC76D4-es'
-tags: [ 'Informática','Tablets','android','samsung', ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

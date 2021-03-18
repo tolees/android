@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V4XJBR8-es YOTOPT N10 Tablet 10 Pulgadas Android 10.0 Procesador...'
 sku: 'B08V4XJBR8-es'
-tags: [ 'android', ]
 actualPrice: 125.98 EUR
 currency: EUR
 price: 125.98

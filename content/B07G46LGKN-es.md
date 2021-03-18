@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G46LGKN-es HUAWEI MediaPad T5 - Tablet de 10.1" FullHD Wifi RAM de...'
 sku: 'B07G46LGKN-es'
-tags: [ 'android', ]
 actualPrice: 188.5 EUR
 currency: EUR
 price: 188.5

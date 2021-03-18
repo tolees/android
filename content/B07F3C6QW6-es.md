@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3C6QW6-es Catapult PLAYR Smart Football Tracker - Fútbol GPS Vest y...'
 sku: 'B07F3C6QW6-es'
-tags: [ 'android', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089SYK3QS-es RAMPOW Cable Micro USB [3pack 1M+2M+3M] Trenzado de Nylon...'
 sku: 'B089SYK3QS-es'
-tags: [ 'android', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTF1XW1-es Móviles Libres DOOGEE S40 Pro Móvil Resistente 4GB + 64GB...'
 sku: 'B08KTF1XW1-es'
-tags: [ 'android', ]
 actualPrice: 118.14 EUR
 currency: EUR
 price: 118.14

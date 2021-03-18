@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXJWLX9-es Tablet qunyiCO Android 10.0 GO para niños 7 Pulgadas 32GB...'
 sku: 'B08CXJWLX9-es'
-tags: [ 'android', ]
 actualPrice: 70.54 EUR
 currency: EUR
 price: 70.54

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDDPJQZ-es Willful Smartwatch Reloj Inteligente con Pulsómetro...'
 sku: 'B08CDDPJQZ-es'
-tags: [ 'android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

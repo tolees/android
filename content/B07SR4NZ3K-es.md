@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SR4NZ3K-es YAGALA Mini Teclado inalámbrico retroiluminado 2.4GHz con...'
 sku: 'B07SR4NZ3K-es'
-tags: [ 'android', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

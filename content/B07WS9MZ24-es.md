@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WS9MZ24-es Selvim Lentes para Teléfono Móvil 9 en 1 Kit con 22X...'
 sku: 'B07WS9MZ24-es'
-tags: [ 'android', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

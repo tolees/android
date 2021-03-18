@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MV3CCV5-es OPPO A15 - Pantalla de 6.52" HD+ 3GB/32GB MT6765 4.230 mAh...'
 sku: 'B08MV3CCV5-es'
-tags: [ 'android', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

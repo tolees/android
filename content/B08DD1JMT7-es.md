@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DD1JMT7-es LATEC Smartwatch Reloj Inteligente con 1.3" Pantalla...'
 sku: 'B08DD1JMT7-es'
-tags: [ 'android', ]
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YAGNL9M-es Logitech K400 Plus Teclado Inalámbrico con Touchpad para...'
 sku: 'B00YAGNL9M-es'
-tags: [ 'android', ]
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

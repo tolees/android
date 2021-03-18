@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNDLL52-es Teléfono Móvil Libres 4G Ulefone Note 9P Android 10 Octa-...'
 sku: 'B08CNDLL52-es'
-tags: [ 'android', ]
 actualPrice: 110.49 EUR
 currency: EUR
 price: 110.49

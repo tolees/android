@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0856XG7JT-es Móvil Libre DOOGEE S88 Pro Batería 10000mAh Smartphone 4G...'
 sku: 'B0856XG7JT-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','doogee', ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

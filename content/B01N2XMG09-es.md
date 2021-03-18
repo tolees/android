@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2XMG09-es Sony MEXN5200BT - Radio CD USB Bluetooth NFC iluminación...'
 sku: 'B01N2XMG09-es'
-tags: [ 'android', ]
 actualPrice: 102.96 EUR
 currency: EUR
 price: 102.96

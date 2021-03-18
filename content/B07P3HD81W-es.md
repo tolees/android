@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P3HD81W-es HUION HS610 Tableta de Dibujo de gráficos 10x6.25 Pulgadas...'
 sku: 'B07P3HD81W-es'
-tags: [ 'android', ]
 actualPrice: 59.1 EUR
 currency: EUR
 price: 59.1

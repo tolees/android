@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PBBK598-es YAMAY Pulsera de Actividad Inteligente Impermeable IP68...'
 sku: 'B07PBBK598-es'
-tags: [ 'android', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

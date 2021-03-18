@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S3TYF66-es Puntero Laser Presentaciones Doosl Presentador de...'
 sku: 'B07S3TYF66-es'
-tags: [ 'android', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

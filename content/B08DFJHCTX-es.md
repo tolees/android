@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DFJHCTX-es Xiaomi Mi Note 10 Lite Pantalla FHD+ 6.47" 6GB + 64GB;...'
 sku: 'B08DFJHCTX-es'
-tags: [ 'android', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

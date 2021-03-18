@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089GWS7Y3-es Anker Nebula Solar Proyector FHD 1080p Dolby Digital Plus...'
 sku: 'B089GWS7Y3-es'
-tags: [ 'android', ]
 actualPrice: 459.99 EUR
 currency: EUR
 price: 459.99

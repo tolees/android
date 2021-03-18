@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCPNXDX-es Adikao - TV Box Android 10.0 X10 Smart Box 2GB RAM 16GB...'
 sku: 'B08DCPNXDX-es'
-tags: [ 'android', ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

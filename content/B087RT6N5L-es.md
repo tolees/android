@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087RT6N5L-es Samsung Galaxy M31 - Smartphone Dual SIM Pantalla de 6.4"...'
 sku: 'B087RT6N5L-es'
-tags: [ 'android', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

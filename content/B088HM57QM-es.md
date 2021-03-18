@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088HM57QM-es OPPO A52 - Pantalla de 6.5" FHD+ 4GB/64GB Snapdragon 665...'
 sku: 'B088HM57QM-es'
-tags: [ 'android','oppo', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

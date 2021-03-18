@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXMTD78-es Android TV Box 10.0【4GB RAM+64GB ROM】 Bqeel TV Box RK3318...'
 sku: 'B07VXMTD78-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Clientes de streaming','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Webcams y telefonía VoIP','android','bqeel', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

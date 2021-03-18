@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08TWW461Q-es IDEALROYAL Smartwatch Reloj Inteligente Impermeable con...'
 sku: 'B08TWW461Q-es'
-tags: [ 'Smartwatches','android','idealroyal', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

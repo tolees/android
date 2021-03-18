@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NK5PGJF-es IDEALROYAL Smartwatch P22 Reloj Inteligente Impermeable...'
 sku: 'B08NK5PGJF-es'
-tags: [ 'android', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

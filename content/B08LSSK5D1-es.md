@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LSSK5D1-es DOOGEE N30 Moviles Pantalla de 6.55" DotDisplay 4 GB+128...'
 sku: 'B08LSSK5D1-es'
-tags: [ 'android', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

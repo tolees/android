@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S7DYK2F-es Delinuo Auriculares Inalámbricos Bluetooth 5.0 Auriculares...'
 sku: 'B07S7DYK2F-es'
-tags: [ 'android', ]
 actualPrice: 20.38 EUR
 currency: EUR
 price: 20.38

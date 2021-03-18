@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08P8JZ2XR-es Sanag Relojes Inteligentes Oro Mujer Pantalla táctil...'
 sku: 'B08P8JZ2XR-es'
-tags: [ 'Clientes de streaming','Comunicación móvil y accesorios','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Smartwatches','Tablets','Tecnología para vestir','android','sanag', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

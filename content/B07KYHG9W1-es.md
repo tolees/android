@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KYHG9W1-es TUREWELL - Android TV Box T9 Android 9.0 TV Box con Mini...'
 sku: 'B07KYHG9W1-es'
-tags: [ 'android', ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

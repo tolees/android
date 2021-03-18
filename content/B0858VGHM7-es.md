@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0858VGHM7-es YUNMAI - Báscula de Baño Digital Bluetooth de Alta...'
 sku: 'B0858VGHM7-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

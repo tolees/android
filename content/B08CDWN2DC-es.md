@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDWN2DC-es Memoria USB 128GB para iPhone 4 en 1 Unidad Flash USB...'
 sku: 'B08CDWN2DC-es'
-tags: [ 'android', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

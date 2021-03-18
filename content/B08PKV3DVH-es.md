@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PKV3DVH-es Dierya - Teclado mecánico RGB 63 teclas Bluetooth 4.0...'
 sku: 'B08PKV3DVH-es'
-tags: [ 'android', ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

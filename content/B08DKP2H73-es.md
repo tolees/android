@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKP2H73-es Samsung Galaxy Tab S7 - Tablet de 11" con pantalla QHD Wi-...'
 sku: 'B08DKP2H73-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Tablets','android','samsung', ]
 actualPrice: 575.0 EUR
 currency: EUR
 price: 575.0

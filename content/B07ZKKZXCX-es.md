@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZKKZXCX-es INPHIC Ratón Bluetooth Ratón inalámbrico Bluetooth...'
 sku: 'B07ZKKZXCX-es'
-tags: [ 'android', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

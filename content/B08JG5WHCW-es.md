@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JG5WHCW-es CMD - Android T95H - Smart TV Box Android 10.0 2 GB de...'
 sku: 'B08JG5WHCW-es'
-tags: [ 'android', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KT1RTD2-es HolyHigh Smartwatch Hombre Mujer 【Último Modelo】 Reloj...'
 sku: 'B08KT1RTD2-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

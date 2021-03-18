@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GP3MV4D-es Reloj Inteligente Hombre Hommie Smartwatch Hombre de...'
 sku: 'B08GP3MV4D-es'
-tags: [ 'android', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

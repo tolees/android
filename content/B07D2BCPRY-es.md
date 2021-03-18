@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D2BCPRY-es Android TV Box 2020 TX3 MAX 2 GB RAM 16 GB ROM Amlogic...'
 sku: 'B07D2BCPRY-es'
-tags: [ 'android', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

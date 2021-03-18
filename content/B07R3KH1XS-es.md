@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R3KH1XS-es TedGem Web CAM Webcam 1080p Camara Web Webcam Full HD con...'
 sku: 'B07R3KH1XS-es'
-tags: [ 'android', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

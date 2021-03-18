@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KLVST56-es EZVIZ Cámara Vigilancia Cámara IP WiFi 720P Sistema de...'
 sku: 'B07KLVST56-es'
-tags: [ 'android','ezviz', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

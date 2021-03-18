@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N6PSHVD-es DOOGEE S59 Pro Móvil [2021] 10050mAh 4GB RAM+128GB ROM...'
 sku: 'B08N6PSHVD-es'
-tags: [ 'android', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

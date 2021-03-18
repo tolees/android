@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BKX4VR5-es HOPESUNIN Tableta Android de 10.0 Pulgadas con Sistema...'
 sku: 'B08BKX4VR5-es'
-tags: [ 'android', ]
 actualPrice: 98.59 EUR
 currency: EUR
 price: 98.59

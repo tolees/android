@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L1MSZTG-es Movil Libre DOOGEE N30 4GB RAM + 128GB ROM Teléfono...'
 sku: 'B08L1MSZTG-es'
-tags: [ 'android', ]
 actualPrice: 127.49 EUR
 currency: EUR
 price: 127.49

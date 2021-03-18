@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088R6D6CG-es Gritin Soporte Móvil Multiángulo Soporte Tablet Mesa...'
 sku: 'B088R6D6CG-es'
-tags: [ 'Accesorios','Accesorios para tablets','Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Soportes para tablets','android','gritin', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

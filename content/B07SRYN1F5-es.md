@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRYN1F5-es Dragon Touch Tablet para Niños con WiFi Bluetooth 7...'
 sku: 'B07SRYN1F5-es'
-tags: [ 'android', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

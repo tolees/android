@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RQBRRR7-es Rii i4 Mini Bluetooth Teclado inalámbrico retroiluminado 2...'
 sku: 'B07RQBRRR7-es'
-tags: [ 'android', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L91GVTR-es AIKELA Smartwatch Relojes Inteligentes Mujer Hombre...'
 sku: 'B08L91GVTR-es'
-tags: [ 'android', ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0834W5JFM-es AUKEY Auriculares Inalámbricos In-Ear Auriculares...'
 sku: 'B0834W5JFM-es'
-tags: [ 'android','aukey', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

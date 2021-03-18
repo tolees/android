@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X1KV23K-es Mibao Cámara de Vigilancia WiFi Exterior IP66 a Prueba de...'
 sku: 'B07X1KV23K-es'
-tags: [ 'android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

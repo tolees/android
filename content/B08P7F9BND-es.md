@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P7F9BND-es CUBOT Note 20 Pro Móviles Libres 128GB + 8GB Smartphone...'
 sku: 'B08P7F9BND-es'
-tags: [ 'android', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

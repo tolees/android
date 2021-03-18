@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z9G7ZQP-es MEBERRY Tablet 10 Pulgadas Android 10.0-con Procesador de...'
 sku: 'B07Z9G7ZQP-es'
-tags: [ 'android', ]
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

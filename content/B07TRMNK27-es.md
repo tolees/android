@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TRMNK27-es Motorola One Action - Smartphone Dual SIM Triple cámara:...'
 sku: 'B07TRMNK27-es'
-tags: [ 'android', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

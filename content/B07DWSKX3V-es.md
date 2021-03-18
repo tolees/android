@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DWSKX3V-es Memoria USB Pendrive 128GB 64GB 32GB 16GB Wansenda S100...'
 sku: 'B07DWSKX3V-es'
-tags: [ 'android', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

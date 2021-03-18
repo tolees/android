@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LV8GBJF-es ZONMAI - Tablet para Niños 7 Pulgadas Android 10.0 Google...'
 sku: 'B08LV8GBJF-es'
-tags: [ 'android', ]
 actualPrice: 62.03 EUR
 currency: EUR
 price: 62.03

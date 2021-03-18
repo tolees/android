@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083QZXG14-es Wansenda S100 OTG - Memoria Flash USB 16 32 64 128GB USB...'
 sku: 'B083QZXG14-es'
-tags: [ 'android', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99
