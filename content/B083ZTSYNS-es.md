@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZTSYNS-es Moviles Libres DOOGEE X95 Smartphone Libre 2020 6.52...'
 sku: 'B083ZTSYNS-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

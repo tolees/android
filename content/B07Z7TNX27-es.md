@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7TNX27-es Smartwatch Reloj Inteligente Mujer Hombre Pulsera de...'
 sku: 'B07Z7TNX27-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

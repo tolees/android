@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086JQ9YH4-es DOOGEE S95 Pro Moviles Libres Todoterreno Helio P90 Octa...'
 sku: 'B086JQ9YH4-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

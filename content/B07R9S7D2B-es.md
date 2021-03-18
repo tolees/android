@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R9S7D2B-es Transmisor FM Bluetooth para Coche Manoslibres y Asistente...'
 sku: 'B07R9S7D2B-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

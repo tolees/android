@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DD7DWYK-es Radio 2 DIN Android Auto Head Unit 1 + 16G Pantalla táctil...'
 sku: 'B08DD7DWYK-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

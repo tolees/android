@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B6BVQTY-es Disco U teléfono móvil Disco Flash USB 3.0 para Apple...'
 sku: 'B08B6BVQTY-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 22.66 EUR
 currency: EUR
 price: 22.66

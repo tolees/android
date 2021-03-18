@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZJGKDN-es Motorola Moto E6 Plus pantalla 6 1" max vision doble...'
 sku: 'B07VZJGKDN-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

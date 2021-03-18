@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKVQHSP-es Xiaomi Mi 8 - Smartphone de 6.21" Octa-Core Kryo 2.8 GHz...'
 sku: 'B07GKVQHSP-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 453.1 EUR
 currency: EUR
 price: 453.1

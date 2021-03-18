@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1GJYBJ-es Tableta 10.1 Pulgadas Pantalla HD IPS Android 9.0 - Tablet...'
 sku: 'B07Y1GJYBJ-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

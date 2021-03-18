@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG6SDDT-es ETEKCITY Pulsera de Actividad Inteligente Impermeable IP68...'
 sku: 'B07XG6SDDT-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

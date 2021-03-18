@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085N2B7KV-es Tableta Android de 10 Pulgadas con Ranuras para Tarjetas...'
 sku: 'B085N2B7KV-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 75.54 EUR
 currency: EUR
 price: 75.54

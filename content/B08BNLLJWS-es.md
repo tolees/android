@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNLLJWS-es Auriculares Inalámbricos Bluetooth 5.0 ZEALOT H6...'
 sku: 'B08BNLLJWS-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

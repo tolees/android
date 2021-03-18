@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KC5DJP-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
 sku: 'B083KC5DJP-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

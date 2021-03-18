@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHJ9L88-es Tablet 10 Pulgadas 4G Dual SIM 64GB de Memoria 3GB de RAM...'
 sku: 'B07VHJ9L88-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 107.09 EUR
 currency: EUR
 price: 107.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVSMQP-es S&G Top Organizador para Asientos de Coches Organizador de...'
 sku: 'B07SBVSMQP-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

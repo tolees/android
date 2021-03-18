@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SH4ZFPP-es Altavoz Bluetooth Portátil 5.0 Axloie Altavoz Inalámbrico...'
 sku: 'B07SH4ZFPP-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

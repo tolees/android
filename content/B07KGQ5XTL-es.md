@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGQ5XTL-es Lenovo PHAB 2 - Tablet de 7" HD Procesador MediaTek 8735...'
 sku: 'B07KGQ5XTL-es'
-tags: [ 'android', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Smartwatches','Tecnología para vestir','android', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99
