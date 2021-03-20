@@ -28,9 +28,9 @@ Tienes [Huawei Mediapad T3 10 - Tablet de 9.6 pulgadas IPS HD  WiFi + 4G LTE  Pr
 
 🔎:
 
+- Sistema Operativo Android 7 Nougat + EMUI 5.1 Lite
 - 2 GB RAM, 16 GB almacenamiento, Batería de 4800 mAh
 - Procesador Quad-Core Qualcomm Snapdragon 425 hasta 1.4 GHz (4xA53@1.4 GHz)
 - Cámara trasera de 5 Mp con enfoque automático y delantera de 2 Mp
-- Sistema Operativo Android 7 Nougat + EMUI 5.1 Lite
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XX4WSLC/?tag=tolees-21)
