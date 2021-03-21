@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'OPPO Find X2 LITE 5G – Pantalla de 6.4"  al 42.47 % de rebaja'
-date: 2021-03-20 12:02:25
+title: 'OPPO Find X2 LITE 5G – Pantalla de 6.4"  al 42.48 % de rebaja'
+date: 2021-03-21 13:23:24
 image: 'https://m.media-amazon.com/images/I/51TwGpF5nqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0868ZY4NB-es OPPO Find X2 LITE 5G – Pantalla de 6.4" AMOLED 8GB/128GB...'
 sku: 'B0868ZY4NB-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','oppo', ]
-actualPrice: 287.07 EUR
+actualPrice: 287.0 EUR
 currency: EUR
-price: 287.07
+price: 287.0
 comparePrice: 499.0 EUR
 prodname: 'OPPO Find X2 LITE 5G – Pantalla de 6.4"  AMOLED  8GB/128GB  Snapdragon 765G  4.000 mAh  cámara trasera 48MP+8MP+2MP+2MP  cámara frontal 32MP  Android 10  Negro [Versión ES/PT]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Oppo'
 buyurl: 'https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21'
-descuento: '42.47'
-average: '316.170704225352'
+descuento: '42.48'
+average: '315.371506849315'
 ---
 
-Tienes [OPPO Find X2 LITE 5G – Pantalla de 6.4"  AMOLED  8GB/128GB  Snapdragon 765G  4.000 mAh  cámara trasera 48MP+8MP+2MP+2MP  cámara frontal 32MP  Android 10  Negro [Versión ES/PT]](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21) con precio final de  287.07 EUR (original: 499.0 EUR) (42.47 %  de rebaja) aqui!
+Tienes [OPPO Find X2 LITE 5G – Pantalla de 6.4"  AMOLED  8GB/128GB  Snapdragon 765G  4.000 mAh  cámara trasera 48MP+8MP+2MP+2MP  cámara frontal 32MP  Android 10  Negro [Versión ES/PT]](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21) con precio final de  287.0 EUR (original: 499.0 EUR) (42.48 %  de rebaja) aqui!
 
 [![OPPO Find X2 LITE 5G – Pantalla de 6.4" ](https://m.media-amazon.com/images/I/51TwGpF5nqL._SL400_.jpg)](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21)
 
