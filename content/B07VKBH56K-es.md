@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TICTID Android 10.0 TV Box D1 Pro【4G+64G al 15.00 % de descuento'
-date: 2021-03-23 02:25:45
+date: 2021-03-26 03:21:02
 image: 'https://m.media-amazon.com/images/I/41az8JHpAML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TICTID'
 buyurl: 'https://www.amazon.es/dp/B07VKBH56K/?tag=tolees-21'
 descuento: '15.00'
-average: '67.19'
+average: '66.9761111111111'
 ---
 
 Está [TICTID Android 10.0 TV Box D1 Pro【4G+64G】 RK3318 Quad-Core 64bit WiFi-Dual 5G/2.4G BT 4.0  4K*2K UDR H.265  USB 3.0 Smart TV Box](https://www.amazon.es/dp/B07VKBH56K/?tag=tolees-21) con 15.00 de descuento por 59.49 EUR (original: 69.99 EUR) en el siguiente enlace!
