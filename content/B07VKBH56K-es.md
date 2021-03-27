@@ -28,9 +28,9 @@ Está [TICTID Android 10.0 TV Box D1 Pro【4G+64G】 RK3318 Quad-Core 64bit WiFi
 
 ℹ️:
 
+- 【4G RAM+64G ROM】Nuestro Smart TV Box viene con un amplio espacio de 4 GB DDR3 RAM y 64 GB eMMC ROM con RK3318 CPU de alto rendimiento de cuatro núcleos de 64 bits, que permitirá una velocidad de operación más rápida.
 - 【4K+ 3D】Soporta con 4k TV y funciones 3D. La decodificación de hardware H.265 puede ahorrar el 50% de los recursos de ancho de banda y permitir películas más suaves. La resolución 4K 1080p es 4 veces la de Full HD para disfrutar de todos los detalles de la pantalla (Nota:Para resolución de 4K, la calidad del video tiene que ser de 4K).
 - 【Servicio sin preocupaciones】Ofrecemos un reembolso incondicional durante un mes y una garantía de un año. Para cualquier problema no dude en contactar con nosotros.
-- 【4G RAM+64G ROM】Nuestro Smart TV Box viene con un amplio espacio de 4 GB DDR3 RAM y 64 GB eMMC ROM con RK3318 CPU de alto rendimiento de cuatro núcleos de 64 bits, que permitirá una velocidad de operación más rápida.
 - 【Potente Android 10.0 OS】TICTID D1 Pro Android TV Box está equipado con el sistema operativo avanzado y multifuncional Android 10.0. Compatible con las últimas aplicaciones de Android y admite múltiples dispositivos USB. Funciona más rápido, carga películas y imágenes sin amortiguar ni ralentizar.
 - 【BT 4.0+Wi-Fi-Dual 2.4G/5G+100M】Esta smart box viene compatible con Wi-Fi de 2.4GHz y 5GHz, soporta 100M Ethernet LAN. La señal de Wi-Fi es más estable y la velocidad de transmisión es más rápida. Bluetooth 4.0 conecta fácilmente con todos los dispositivos externos.
 
