@@ -28,10 +28,10 @@ Ahora mismo tienes [AUKEY Webcam 1080P Full HD con Micrófono Estéreo  Cámara 
 
 🔎:
 
-- 1080P DEFINICIÓN ALTA: Censor de imagen CMOS de 1/2,9 " proporciona una calidad excelente de video de 1080p. Y ofrece video nítido y fluido para las videollamadas y grabaciones, con buen rendimiento incluso en habitaciones con poca luz (iluminación mínima de ≤5 lux)
-- DISEÑO DE USO-FÁCIL: Clip esta cámara de forma conveniente en los monitores de computadora de pantalla-plana y las pantallas de ordenador portátil o páratelo en los escritorios y otras superficies planas
-- PLUG & PLAY: Gracias al Clase del USB Dispositivo de Video (UVC) no hay controladores o software para instalar, solo conéctelo y juegue, es una parte perfecta para su computadora. Compatible con Windows XP / 2000/2003 / Vista / 7/8/10, Mac OS 10.6 y Android 5.0 o superior, funciona con Smart TV, Android TV Box, Skype, MSN, FaceTime, Facebook Messenger, Youtube, Yahoo Messenger etc.
-- MICRÓFONO ESTÉREO INCORPORADOS: Dual Micrófonos Digital garantizan un audio natural y cristalino mientras reducen el ruido del fondo en gran medida
 - CONTENIDOS DEL PAQUETE: AUKEY PC-LM1E1080p Webcam, Manual Usuario, 24 Meses de garantía de reemplazo del producto con servicio amitoso al cliente
+- PLUG & PLAY: Gracias al Clase del USB Dispositivo de Video (UVC) no hay controladores o software para instalar, solo conéctelo y juegue, es una parte perfecta para su computadora. Compatible con Windows XP / 2000/2003 / Vista / 7/8/10, Mac OS 10.6 y Android 5.0 o superior, funciona con Smart TV, Android TV Box, Skype, MSN, FaceTime, Facebook Messenger, Youtube, Yahoo Messenger etc.
+- DISEÑO DE USO-FÁCIL: Clip esta cámara de forma conveniente en los monitores de computadora de pantalla-plana y las pantallas de ordenador portátil o páratelo en los escritorios y otras superficies planas
+- MICRÓFONO ESTÉREO INCORPORADOS: Dual Micrófonos Digital garantizan un audio natural y cristalino mientras reducen el ruido del fondo en gran medida
+- 1080P DEFINICIÓN ALTA: Censor de imagen CMOS de 1/2,9 " proporciona una calidad excelente de video de 1080p. Y ofrece video nítido y fluido para las videollamadas y grabaciones, con buen rendimiento incluso en habitaciones con poca luz (iluminación mínima de ≤5 lux)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0721MKXQ2/?tag=tolees-21)
