@@ -28,10 +28,10 @@ En este momento está [Dierya - Teclado mecánico RGB  63 teclas  Bluetooth 4.0 
 
 🔎:
 
-- Teclado mecánico iluminado RGB. El teclado DIERYA DK63 RGB dispone de 8 modos de retroiluminación (reactivo, ondas, aurora, etc.) para emplear según tu estado de ánimo. Para ello, simplemente pulsa «Fn +? / flecha».
-- Tamaño compacto y alta calidad: el mejor ejemplo de uso eficiente del espacio. DK63 tiene un diseño compacto de 63 teclas que destaca por mantener las teclas funcionales esenciales como izquierda/derecha, arriba/abajo, que son importantes para la productividad. Te ofrece mucho más espacio que los teclados de juego normales.
 - Modalidad con cable e inalámbrica: el DK63 está diseñado para ser versátil y se conecta a través de Bluetooth o un cable de tipo C. Conéctate de forma inalámbrica con hasta tres dispositivos al mismo tiempo y cambia entre pantallas para realizar a la vez distintas tareas y lograr una mayor productividad. También puedes utilizar nuestro cable de tipo C para conectar el teclado mecánico a tus dispositivos.
+- Tamaño compacto y alta calidad: el mejor ejemplo de uso eficiente del espacio. DK63 tiene un diseño compacto de 63 teclas que destaca por mantener las teclas funcionales esenciales como izquierda/derecha, arriba/abajo, que son importantes para la productividad. Te ofrece mucho más espacio que los teclados de juego normales.
 - Para diferentes dispositivos: el teclado inalámbrico Bluetooth Dierya es compatible con hasta tres dispositivos Bluetooth al mismo tiempo y cambia fácilmente entre estos. Funciona con Windows 2000/XP/Win7/8/10, iOS, Android a partir de 4.4, con sistemas operativos Mac y es compatible con iPad Pro/Air/Mini, iPhone 6S/7/8/X, Galaxy Tab, tabletas Android y otros dispositivos.
 - Batería integrada de 1900 mAh: los usuarios pueden disfrutar de hasta 8 horas de escritura por carga. El teclado Bluetooth DK63 cuenta con una batería de iones de litio recargable. Aguanta un tiempo de inactividad de hasta 190 horas. Cuando está apagado, puedes cambiar al modo USB.
+- Teclado mecánico iluminado RGB. El teclado DIERYA DK63 RGB dispone de 8 modos de retroiluminación (reactivo, ondas, aurora, etc.) para emplear según tu estado de ánimo. Para ello, simplemente pulsa «Fn +? / flecha».
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PKV3DVH/?tag=tolees-21)
