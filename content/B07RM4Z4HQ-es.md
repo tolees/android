@@ -28,16 +28,16 @@ Tienes [OPPO – Reno 10X Zoom  Pantalla FHD+ 6 6”  8GB/256GB  Snapdragon 8150
 
 🔎:
 
+- Zoom híbrido 10x
+- Cuenta con 3 cámaras traseras (48MP la principal)
+- Cuenta con 3 cámaras traseras (48MP la principal)
 - Pantalla total AMOLED de 6,4 pulgadas
 - Zoom híbrido 10x
-- Fotografía modo ultra nocturno
+- Pantalla total AMOLED de 6,4 pulgadas
 - Cámara frontal angular emergente
+- Cámara frontal angular emergente
+- Fotografía modo ultra nocturno
+- Fotografía modo ultra nocturno
 - Potente almacenamiento: 6GB RAM, ampliable 256 ROM
-- Cuenta con 3 cámaras traseras (48MP la principal)
-- Zoom híbrido 10x
-- Cuenta con 3 cámaras traseras (48MP la principal)
-- Cámara frontal angular emergente
-- Fotografía modo ultra nocturno
-- Pantalla total AMOLED de 6,4 pulgadas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RM4Z4HQ/?tag=tolees-21)
