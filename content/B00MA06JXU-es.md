@@ -28,10 +28,10 @@ Está [Sricam Ultima versión SP017 Cámara WiFi Interior de vigilancia 1080P in
 
 ℹ️:
 
-- Amplia compatibilidad, compatible con iOS y Android (excepto Macbook), con control remoto del teléfono es posible controlar la casa donde y en cualquier momento; gracias al sensor de movimiento recibirás una notificación en tu teléfono en caso de movimientos imprevistos
-- Contenido del paquete: 1 cámara IP, 1 fuente de alimentación, 1 soporte de fijación, 1 cable de red, 1 manual de instrucciones (idioma español no garantizado)
-- Control de subida/inclinación, arriba y abajo, (ángulo horizontal: 0 ° -355 ° ángulo vertical: 0 ° -90 °), rotación; soporta 5 lugares preestablecidos; la distancia de visión nocturna puede alcanzar los 10 metros con 13 LED IR-LED
 - Última versión: Fácil instalación; después de conectar la cámara a Ethernet, descargar la aplicación Sricam y grabar, luego empezar a conectarse al wifi; sin configuración IP que configurar, basta con insertar el número de identificación; soporta MicroSD hasta 128 GB; instrucciones para el usuario italiano e inglés (idioma español no garantizado)
+- Amplia compatibilidad, compatible con iOS y Android (excepto Macbook), con control remoto del teléfono es posible controlar la casa donde y en cualquier momento; gracias al sensor de movimiento recibirás una notificación en tu teléfono en caso de movimientos imprevistos
+- Control de subida/inclinación, arriba y abajo, (ángulo horizontal: 0 ° -355 ° ángulo vertical: 0 ° -90 °), rotación; soporta 5 lugares preestablecidos; la distancia de visión nocturna puede alcanzar los 10 metros con 13 LED IR-LED
+- Contenido del paquete: 1 cámara IP, 1 fuente de alimentación, 1 soporte de fijación, 1 cable de red, 1 manual de instrucciones (idioma español no garantizado)
 - Audio bidireccional, nueva tecnología, soporta la función intercom, audio bidireccional (micrófono: 5-8 m); escucha lo que dice tu bebé (puedes usarlo como monitor de bebé). Es compatible con 2,4 GHz; no es compatible con WiFi de 5 GHz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MA06JXU/?tag=tolees-21)
