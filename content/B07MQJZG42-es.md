@@ -28,10 +28,10 @@ Ahora mismo tienes [YAGALA - Android 9.0 TV Box  Q Plus 2GB RAM 16GB RAM Allwinn
 
 🔎:
 
-- Built in 2GB RAM and 16GB ROM, excellent performance with your favorite applications and games, say goodbye to background cleaning and sluggish performance.
-- Android 9.0 operating system version can be perfectly compatible with majority of software, games and application programs, it also has many convenient and user-friendly operation options and functions which can give a better user experience.
-- Easy to use as it supports Ethernet 10/100M, standard RJ-45 and 2.4GHz Wi-Fi. As soon as you plug in the power supply and connect the box to your WiFi, you watch whatever you like. One USB 3.0 port, connect with your mouse and keyboard to help you operate more conveniently.
 - Based on Mali T720 GPU, Q PLUS android tv box supports H.265 decoding, 4K and 6K resolution, the 6K resolution gives us much better definition than 4K BOX, much more colorful life.
+- Android 9.0 operating system version can be perfectly compatible with majority of software, games and application programs, it also has many convenient and user-friendly operation options and functions which can give a better user experience.
 - Q PLUS TV Box powered by Allwinner H6 Quad-Core 64bit ARM Corter-A53 CPU, smarter, faster and more powerful that ever Chipset.
+- Easy to use as it supports Ethernet 10/100M, standard RJ-45 and 2.4GHz Wi-Fi. As soon as you plug in the power supply and connect the box to your WiFi, you watch whatever you like. One USB 3.0 port, connect with your mouse and keyboard to help you operate more conveniently.
+- Built in 2GB RAM and 16GB ROM, excellent performance with your favorite applications and games, say goodbye to background cleaning and sluggish performance.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MQJZG42/?tag=tolees-21)
