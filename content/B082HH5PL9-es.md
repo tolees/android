@@ -28,10 +28,10 @@ Tienes [Proyector Wifi VicTsing Mini Proyector Portátil en Casa con Bluetooth S
 
 🔎:
 
-- 【Proyector WiFi súper simple】❦:No hay necesidad de adaptadores y cables engorrosos, sólo tiene que conectar el teléfono móvil / iPad a la wifi interna "PROJECTOR-XXXX" del proyector, y el contenido móvil / iPad se puede proyectar simultáneamente a la pantalla grande para su visualización. (Consulte el manual para obtener más información)
 - 【Compatible con medios de transmisión de dispositivos】❦:Equipado con HDMI, VGA, AV, USB, SD, interfaz de audio de 3,5 mm. Le permite conectarse fácilmente a ordenadores, teléfonos móviles, cajas de TV, PS4, DVD, auriculares y dispositivos de altavoces. Proyección de vídeo de varias maneras. Siempre hay uno que necesitas.
 - 【Mini proyector con imagen súper brillante】❦:LED de 5000 lúmenes, contraste de imagen 3500:1, lente de vidrio importada de alto brillo, resolución máxima 1920x1080P. El mini proyector de alto perfil hace que los detalles del vídeo sean claramente visibles, lo que es un 60% más claro para la imagen que los proyectores similares, y los colores son más brillantes.
 - 【Proyector de pantalla grande de 170"】❦:Nuestro proyector portátil es adecuado para ver eventos deportivos y películas en cualquier lugar con amigos y familiares. Siente el encanto de la pantalla grande y haz que el juego de fútbol sea más emocionante. La luz reflejada difusa de la gran pantalla también puede proteger los ojos de los ancianos y los niños. En resumen, es el mejor regalo para todas las edades.
 - 【Proyector de doble altavoz con Bluetooth】❦:El mini proyector tiene 2 altavoces de 5W, proporcionando un sonido envolvente de 360°, como si estuviera en una sala de cine (Los altavoces externos se pueden conectar). También puede introducir la configuración de sonido, seleccionar el modo Bluetooth, conectar un auricular o altavoz Bluetooth y disfrutar de una experiencia de película inmersiva sin afectar al descanso familiar.
+- 【Proyector WiFi súper simple】❦:No hay necesidad de adaptadores y cables engorrosos, sólo tiene que conectar el teléfono móvil / iPad a la wifi interna "PROJECTOR-XXXX" del proyector, y el contenido móvil / iPad se puede proyectar simultáneamente a la pantalla grande para su visualización. (Consulte el manual para obtener más información)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082HH5PL9/?tag=tolees-21)
