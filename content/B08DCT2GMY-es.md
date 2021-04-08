@@ -29,9 +29,9 @@ Ahora mismo tienes [Vankyo Tablet para Niños con Cámaras de 5MP y 2MP  Tablet 
 🔎:
 
 - 👶【Estuche Maravilloso】El estuche protege la tableta de caídas, desgaste, polvo y daños y al mismo tiempo garantiza múltiples funciones: también pueden ser un soporte colorido y ajustable de 360 ​​°, colocado en la parte posterior del estuche, que permite a los niños usar la tableta con las manos libres.
-- 🍬【Pantalla Clara】La resolución de la tablet niño es de 1280 x 800. Para protege los ojos de tus hijos, la tablet infantil ajusta automáticamente el brillo. Cuando los niños están leyendo pueden elegir el modo de lectura, luego la pantalla de la tablet se vuelve en blanco y negro.
-- 🌟【Potente Batería】Gracias a la batería de 4000 mAh, la tablet para niños dura más de 8 horas. La tablet con WiFi se había instalado la aplicación KIDOZ de antemano donde se incluyen varios contenidos: juegos, videos, aplicaciones educativas, lectura, música y otro entretenimiento creativo.
 - 💟【Sistema Rapido】El sistema Android 9.0 garantiza un funcionamiento sin bloatware. Con ROM de 32 GB (memoria ampliable hasta 128 GB insertando una microSD), la tablet niños puede reservar diferentes fotos, dibujos animados etc haciendo niños tranquilos durante el turismo.
+- 🍬【Pantalla Clara】La resolución de la tablet niño es de 1280 x 800. Para protege los ojos de tus hijos, la tablet infantil ajusta automáticamente el brillo. Cuando los niños están leyendo pueden elegir el modo de lectura, luego la pantalla de la tablet se vuelve en blanco y negro.
 - 🎁【Control Parental】En el modo Control Parental, puedes crear y personalizar perfiles y cuentas de niños; después de seleccionar manualmente el contenido más adecuado para tus hijos, puedes verificar los tiempos de uso de la pantalla y asegurarte de que tus hijos estén navegando por sitios web seguros.
+- 🌟【Potente Batería】Gracias a la batería de 4000 mAh, la tablet para niños dura más de 8 horas. La tablet con WiFi se había instalado la aplicación KIDOZ de antemano donde se incluyen varios contenidos: juegos, videos, aplicaciones educativas, lectura, música y otro entretenimiento creativo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DCT2GMY/?tag=tolees-21)
