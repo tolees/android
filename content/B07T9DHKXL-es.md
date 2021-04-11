@@ -28,9 +28,9 @@ Tienes [Xiaomi Mi Band 4 Pulsera de Actividad Monitores de Actividad Pantalla Pu
 
 🔎:
 
-- 【Resistente al agua 5ATM】： Mi Band 4 puede funcionar bien a 50 metros bajo el agua, reconoce 5 estilos de natación diferentes, registra 12 conjuntos de datos que incluyen el ritmo de natación y el conteo de golpes.
 - 【Monitorización de Frecuencia Cardíaca y Asistencia de Sueño 24/7】： Reloj inteligente, proteja su salud en todo momento, le alerta cuando la frecuencia cardíaca sea demasiado alta. Registre la información del sueño por cada noche, los datos del sueño profundo y el sueño ligero para ayudarle a ajustar sus hábitos de sueño.
 - 【Pantalla a color】： Smartwatch xiaomi, pantalla táctil AMOLED a todo color, que es un 40% más grande y brillante que la banda 3.
+- 【Resistente al agua 5ATM】： Mi Band 4 puede funcionar bien a 50 metros bajo el agua, reconoce 5 estilos de natación diferentes, registra 12 conjuntos de datos que incluyen el ritmo de natación y el conteo de golpes.
 - 【Capacidad de la batería】： La capacidad de la batería también aumentará a 135mAh, hasta 20 días de autonomía en una sóla carga.
 - 【Mensajes y Notificaciones】： Vea instantáneamente llamadas, mensajes de texto, notificaciones de aplicaciones y música en juego. Mi band 4 hará un seguimiento de su ritmo, recuento de pasos, ritmo cardiaco, calorías quemadas y más.
 
