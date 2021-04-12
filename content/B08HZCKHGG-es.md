@@ -28,10 +28,10 @@ En este momento está [Sony Xperia 5 II - Smartphone de 6.1"  Pantalla OLED HDR 
 
 🔎:
 
-- Real-time Eye AF para humanos y animales
-- Procesador Qualcomm Snapdragon 865 5G y batería de 4.000 mAh
 - Optimo para jugar, respuesta rápida con pantalla a 120 Hz y escaneo táctil a 240 Hz
 - Tamaño optimo que se ajusta a tu mano y bolsillo con la mejor tecnología de Sony
+- Real-time Eye AF para humanos y animales
 - Pantalla CinemaWide 21:9 FHD+ y HDR OLED
+- Procesador Qualcomm Snapdragon 865 5G y batería de 4.000 mAh
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HZCKHGG/?tag=tolees-21)
