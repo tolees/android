@@ -30,9 +30,9 @@ Tienes [HUAWEI MediaPad M5 Lite - Tablet de 10.1\"  Wifi  RAM de 4GB  ROM de 64G
 
 - No incluye ranura para tarjeta SIM
 - Pantalla táctil IPS de 10.1 pulgadas FullHD con modo eye-care
-- Sistema Operativo Android 8.0
 - Cuerpo metálico, diseño elegante, 475g, 7.7mm
-- RAM de 4GB, Almacenamiento de 64GB, batería de larga duración con 7500 mAh y quick charge
+- Sistema Operativo Android 8.0
 - Procesador Qualcomm Kirin 659 Octa-Core ultrarrápido y 4 altavoces certificados por Harman Kardon
+- RAM de 4GB, Almacenamiento de 64GB, batería de larga duración con 7500 mAh y quick charge
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VWS9TGL/?tag=tolees-21)
