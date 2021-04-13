@@ -28,9 +28,9 @@ Tienes [Xiaomi Redmi Note 5 - Smartphone de 5.99"  Snapdragon Octa-core 636  mem
 
 🔎:
 
-- Batería 4000 mAh carga rápida
 - 4 Gb
 - Incluye garantía del fabricante
+- Batería 4000 mAh carga rápida
 - Procesador Snapdragon Octa-core 636
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D6MFK9Q/?tag=tolees-21)
