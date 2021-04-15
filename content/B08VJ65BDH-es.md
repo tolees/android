@@ -28,10 +28,10 @@ Tienes [Webcam 4k con Micrófono Yoroshi Webcam PC UHD Cámara Web con Tripod  U
 
 ℹ️:
 
+- 【Micrófonos duales con reducción de ruido】 Los micrófonos estéreo incorporados ayudan a reducir el ruido de fondo y brindan un audio claro. Recogida hasta 3 metros
+- 【Lente gran angular de 105 °, enfoque fijo】 La lente cubre un rango de 105 °, que es suficiente para mostrar todo lo que tiene. La cámara web de la computadora de enfoque fijo puede mostrar detalles de ultra alta definición. El balance de blancos automático hará que las personas se vean más hermosas y naturales
 - 【Alta compatibilidad】 Compatible con Windows XP / 7/8/10, Mac OS, Linux 2.6.24, Chrome OS, muy adecuado para reuniones de Zoom / Skype, cursos en línea, transmisión en tiempo real, video chat y juegos
 - 【Cubierta de la lente, clip ajustable】 La cámara de red se puede instalar en la pantalla de una computadora o computadora portátil, y la lente se puede girar y plegar de manera flexible. Y se puede colocar directamente sobre la mesa usando un soporte de trípode estándar de ¼ roscado (el trípode está incluido en el paquete)
-- 【Lente gran angular de 105 °, enfoque fijo】 La lente cubre un rango de 105 °, que es suficiente para mostrar todo lo que tiene. La cámara web de la computadora de enfoque fijo puede mostrar detalles de ultra alta definición. El balance de blancos automático hará que las personas se vean más hermosas y naturales
-- 【Micrófonos duales con reducción de ruido】 Los micrófonos estéreo incorporados ayudan a reducir el ruido de fondo y brindan un audio claro. Recogida hasta 3 metros
 - 【Streaming Cámara Web 4k】 Sensor de imagen CMOS de 3.2 pulgadas, puede proporcionar video e imagen UHD de resolución 4K, 25FPS, alta reproducción de color, hacer que la imagen sea más jerárquica, alta fluidez
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08VJ65BDH/?tag=tolees-21)
