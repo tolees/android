@@ -28,8 +28,8 @@ Está [BMAX I10 Tablet PC 10.1 Octa-Core 1.2 x A75@1.8GHz + 6 x A55@1.8GHz 4GB R
 
 ℹ️:
 
-- ✔Utiliza una bandeja de dos tarjetas para tres selecciones, admite dos tarjetas 4G, admite doble tarjeta de doble modo de espera y admite la función de llamada de alta definición VoLTE.
 - ✔4 GB de RAM, 64 GB de espacio de almacenamiento y ranura para microsd, batería de larga duración y disfrute duradero.
+- ✔Utiliza una bandeja de dos tarjetas para tres selecciones, admite dos tarjetas 4G, admite doble tarjeta de doble modo de espera y admite la función de llamada de alta definición VoLTE.
 - ✔Pantalla táctil de alta definición de 10,1 pulgadas de 1200×1920, IPS, toque de diez puntos, reconocimiento facial.
 - ✔La combinación de cámara dual delantera y trasera, con enfoque automático inteligente, puede capturar y grabar fácilmente imágenes claras sin importar si toma fotografías, chats de video y cursos en línea.
 - ✔Procesador T610 (UMS512) de ocho núcleos 1.2 x A75@1.8GHz + 6 x A55@1.8GHz.

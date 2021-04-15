@@ -28,10 +28,10 @@ Ahora mismo tienes [POWERADD Teclado Inalámbrico con Multi-touchpad de Español
 
 🔎:
 
-- Diseñado con touchpad, Disfruta de un control simplificado , sin los inconvenientes de tener el teclado y el ratón por separado.
-- Nota：Si las teclas numéricas o ñ no funciona, Primero Presiona la Tecla de Numero 1 Prueba Otra Vez si no Funciona por favor presiona Shift+Fn+Backspace en el mismo tiempo(Backspace es Retroceso) Despúes iniciarlo.
-- Diseño con triple plieque, un teclado perfecto, super-delgado Con Batería de litio de 210 mAh, 64 horas trabaja continua, carga solo 2 horas，y con modo de Ahorro de Energía.
 - La función táctil puede soportar el Android & Windows sistema.
+- Nota：Si las teclas numéricas o ñ no funciona, Primero Presiona la Tecla de Numero 1 Prueba Otra Vez si no Funciona por favor presiona Shift+Fn+Backspace en el mismo tiempo(Backspace es Retroceso) Despúes iniciarlo.
 - Muy delgado y ligero, facilmente meter en una mochila, una bolsa o una maleta, para llevar a cualquier lugar.
+- Diseñado con touchpad, Disfruta de un control simplificado , sin los inconvenientes de tener el teclado y el ratón por separado.
+- Diseño con triple plieque, un teclado perfecto, super-delgado Con Batería de litio de 210 mAh, 64 horas trabaja continua, carga solo 2 horas，y con modo de Ahorro de Energía.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0777PPC7Q/?tag=tolees-21)

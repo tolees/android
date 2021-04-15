@@ -28,10 +28,10 @@ En este momento está [FeelkaeuCoastacloud - CoastaCloud Teclado Inalámbrico Di
 
 🔎:
 
-- Alimentado por batería de litio: Duración de la batería de iones de litio: 3 años. Ahorro de energía, duración de la batería larga (más de 40 horas con uso ininterrumpido, tiempo de espera de hasta 60 días).
 - Compatibilidad Amplia: Compatible con cualquier sistemas operativos iOS Android y Windows. iPad2019/iPad 2018/iPad 2017/Pro/Air,Galaxy Tab S/Galaxy Tab A. También puede usarlo en la mayoría de los dispositivos habilitados para Bluetooth como iPhone, Galaxy Note, teléfonos inteligentes, tablets, computadoras portátiles.
 - Diseño QWERTY Español: El teclado bluetooth en recargable tiene especialmente todos los caracteres especiales en español, lleva la tecla Ñ, soluciona perfectamente sus necesidades. La portabilidad y el diseño ultra delgado ofrece el almacenamiento conveniente de su mochila o maletín. Usted puede llevarlo a cualquier lugar para su uso.
 - Teclado Inalámbrico Bluetooth: Este teclado lleva la tecnología de Bluetooth, el método de conexión es la conexión Bluetooth, elimina retrasos, interrupciones e interferencias y ofrece un alcance de hasta 10 m. El cable USB es sólo para carga. Ejecuta en la sistema de IOS, Android y Windows y tiene las teclas de acceso directo a las tres sistemas.
+- Alimentado por batería de litio: Duración de la batería de iones de litio: 3 años. Ahorro de energía, duración de la batería larga (más de 40 horas con uso ininterrumpido, tiempo de espera de hasta 60 días).
 - Servicio Postventa: Este producto se vende exclusivamente por CoastaCloudES. Sólo compre en CoastaCloudES para obtener 180 días de garantía del fabricante y 24 horas servicio de correo al cliente. El paquete incluye 1 * Teclado CostaCloud en español, 1 * Manual del usuario, 1 *Cable USB para carga.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N5FBDM8/?tag=tolees-21)
