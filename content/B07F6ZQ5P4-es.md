@@ -28,10 +28,10 @@ Tienes [Hitchy Tripode Movil  Tripode iPhone 51 Pulgada 130cm Ligero Smartphone 
 
 🔎:
 
-- ESTABILIDAD CONFIABLE: Pies de goma antideslizantes para terrenos irregulares. Triángulo especial estabilizar la estructura para mantener más peso hasta 4.4lbs (2.0kg), adecuado para iPhone/SAMSUNG/HUAWEI/BLU/MOTOROLA/GOOGLE u otro teléfono celular de marcas, cámara deportiva o SLR/ILDC de nivel básico, Canon/Nikon/SONY/FUJIFILM/Panasonic/OLYMPUS/Leica/PENTAX y etc.
-- Compatibilidad: Pata de aleación de aluminio ajustable de 3 secciones con cerraduras de liberación rápida, completamente extendido hasta 51 pulgadas (130 cm), altura mínima es de 16 pulgadas (40 cm). 360° horizontal y ángulo de visión de rotación vertical de 90°.
-- Trípode de alta calidad es perfecto para tomar fotos en viaje, fiesta de cumpleaños, reunión familiar, celebración de la empresa, camping o turismo. Hecho de la aleación de aluminio suprema con sólo 0.9lbs (405g), súper ligero para llevar.
 - ELECCION WISE: Un trípode ideal para tomar fotos atractivas o hacer un vídeo interesante para grabar nuestra vida. Servicio al cliente de por vida, no dude en ponerse en contacto con nosotros si hay algún problema, ofreceremos la solución adecuada en la primera vez.
+- Compatibilidad: Pata de aleación de aluminio ajustable de 3 secciones con cerraduras de liberación rápida, completamente extendido hasta 51 pulgadas (130 cm), altura mínima es de 16 pulgadas (40 cm). 360° horizontal y ángulo de visión de rotación vertical de 90°.
+- ESTABILIDAD CONFIABLE: Pies de goma antideslizantes para terrenos irregulares. Triángulo especial estabilizar la estructura para mantener más peso hasta 4.4lbs (2.0kg), adecuado para iPhone/SAMSUNG/HUAWEI/BLU/MOTOROLA/GOOGLE u otro teléfono celular de marcas, cámara deportiva o SLR/ILDC de nivel básico, Canon/Nikon/SONY/FUJIFILM/Panasonic/OLYMPUS/Leica/PENTAX y etc.
 - Accesorios: Un mando Bluetooth ayuda a tomar fotografías a una distancia de hasta 30 pies. Un soporte móvil que se adapta a la mayoría de los teléfonos de las marcas en el mercado y un soporte Gopro.
+- Trípode de alta calidad es perfecto para tomar fotos en viaje, fiesta de cumpleaños, reunión familiar, celebración de la empresa, camping o turismo. Hecho de la aleación de aluminio suprema con sólo 0.9lbs (405g), súper ligero para llevar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F6ZQ5P4/?tag=tolees-21)
