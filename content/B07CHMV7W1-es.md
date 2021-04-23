@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ALCATEL 3X Smartphone Quad Core 1.28 GHz al 53.13 % de descuento'
-date: 2021-04-20 07:56:55
+date: 2021-04-23 18:25:45
 image: 'https://m.media-amazon.com/images/I/41JMiT2mwtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alcatel'
 buyurl: 'https://www.amazon.es/dp/B07CHMV7W1/?tag=tolees-21'
 descuento: '53.13'
-average: '116.143333333333'
+average: '113.57125'
 ---
 
 Está [ALCATEL 3X Smartphone Quad Core 1.28 GHz  Android N  5.7" HD+ 18:9  1440x720p  4G  Cámara DE 13+5 Mpx y Frontal 5Mpx  3GB de RAM  32GB de ROM   Negro  [Versión ES/PT]](https://www.amazon.es/dp/B07CHMV7W1/?tag=tolees-21) con 53.13 de descuento por 74.99 EUR (original: 159.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [ALCATEL 3X Smartphone Quad Core 1.28 GHz  Android N  5.7" HD+ 18:9  1440x
 
 ℹ️:
 
-- Frecuencia del procesador: 1.28 ghz
-- Ram interna: 3 gb
-- Diagonal de la pantalla: 5.7"
 - Pantalla táctil: y
+- Diagonal de la pantalla: 5.7"
+- Frecuencia del procesador: 1.28 ghz
 - Resolución de la pantalla: 720 x 1440
+- Ram interna: 3 gb
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CHMV7W1/?tag=tolees-21)
