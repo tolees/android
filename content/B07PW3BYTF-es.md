@@ -28,10 +28,10 @@ En este momento está [Pancellent Auto Focus Endoscope 1944P HD Cámara con boro
 
 🔎:
 
-- [Enfoque automático] El endoscopio de tercera generación, un avance revolucionario en tecnología. La lente de la cámara puede lograr la función de enfoque automático. El rendimiento profesional fue en una pequeña lente de la cámara, el diámetro de la cámara es de 11.2 mm. La longitud focal es de 3 cm - infinito. ¡Que interesante!
 - [1944P] El potente hardware de 5.0 Mega Pixel admite una súper alta definición, que tiene una resolución de 2594x1944, esto es 3 veces más que otro endoscopio. Vamos a ver todos los detalles, capturar imágenes claras increíbles.
+- [Enfoque automático] El endoscopio de tercera generación, un avance revolucionario en tecnología. La lente de la cámara puede lograr la función de enfoque automático. El rendimiento profesional fue en una pequeña lente de la cámara, el diámetro de la cámara es de 11.2 mm. La longitud focal es de 3 cm - infinito. ¡Que interesante!
 - [Actualización de software] Actualización de la aplicación acercar y alejar, girar la función de vista. Es muy conveniente que inspeccione algunas áreas, como cables en tuberías, partes de máquinas, circuitos impresos con mayor claridad y precisión.
-- [Mantener actualizado] Una rueda giratoria para ajustar el súper brillo de las luces LED, sin miedo a las zonas oscuras. Rango de luz led es de 1M. Cámara IP68 a prueba de agua, puede inspeccionar el área bajo el agua. Se puede tomar Foto, video Vía APP, conveniencia de usar. Todos hacen que la cámara Pancellent sea tu boroscopio.
 - [Ideal Instrument Tool] para el sistema de cámara intraoral, cámara subacuática, microcámaras impermeables, detector de vehículo motorizado, detector de tubería de alcantarillado, búsqueda y rescate, detector criminal y personalizado, detección arqueológica, detección de PCB, atención domiciliaria, aviación y industrias espaciales, Industrias de cuidado y tractores, industrias de perforación petrolera, construcciones, etc.
+- [Mantener actualizado] Una rueda giratoria para ajustar el súper brillo de las luces LED, sin miedo a las zonas oscuras. Rango de luz led es de 1M. Cámara IP68 a prueba de agua, puede inspeccionar el área bajo el agua. Se puede tomar Foto, video Vía APP, conveniencia de usar. Todos hacen que la cámara Pancellent sea tu boroscopio.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PW3BYTF/?tag=tolees-21)
