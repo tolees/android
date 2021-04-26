@@ -28,10 +28,10 @@ Ahora mismo tienes [Feelkaeu CostaCloud Teclado Inalámbrico Recargable Portáti
 
 🔎:
 
-- Diseño QWERTY Español: El teclado bluetooth en recargable tiene especialmente todos los caracteres especiales en español, lleva la tecla Ñ, soluciona perfectamente sus necesidades. La portabilidad y el diseño ultra delgado ofrece el almacenamiento conveniente de su mochila o maletín. Usted puede llevarlo a cualquier lugar para su uso.El soporte ajustable mantiene su tablet de forma adecuada en modo horizontal.
+- Compatibilidad Amplia: Compatible con iPad 2018/iPad 2017/Pro/Air/iPad 2,3,5, iPhone Android y Windows. También puede usarlo en la mayoría de los dispositivos habilitados para Bluetooth como teléfonos inteligentes, tabletas, computadoras portátiles. NO COATIBLE CON Macbook Pro, Air, iMac.
 - Teclado Inalámbrico Bluetooth: Este teclado lleva la tecnología de Bluetooth, el método de conexión es la conexión Bluetooth, elimina retrasos, interrupciones e interferencias y ofrece un alcance de hasta 11 m. El cable USB es sólo para carga. Ejecuta ena sistema de IOS, Android y Windows y tiene las teclas de acceso directo a las tres sistemas.
 - Alimentado por batería de litio: Duración de la batería de iones de litio: 3 años. Ahorro de energía, duración de la batería larga (más de 40 horas con uso ininterrumpido, tiempo de espera de hasta 61 días).
-- Compatibilidad Amplia: Compatible con iPad 2018/iPad 2017/Pro/Air/iPad 2,3,5, iPhone Android y Windows. También puede usarlo en la mayoría de los dispositivos habilitados para Bluetooth como teléfonos inteligentes, tabletas, computadoras portátiles. NO COATIBLE CON Macbook Pro, Air, iMac.
+- Diseño QWERTY Español: El teclado bluetooth en recargable tiene especialmente todos los caracteres especiales en español, lleva la tecla Ñ, soluciona perfectamente sus necesidades. La portabilidad y el diseño ultra delgado ofrece el almacenamiento conveniente de su mochila o maletín. Usted puede llevarlo a cualquier lugar para su uso.El soporte ajustable mantiene su tablet de forma adecuada en modo horizontal.
 - 7 COLORES BACKLIT TECLADO : El teclado inalámbrico tiene 3 niveles de brillo y retroiluminación de 7 colores, proporciona un disfrute visual diferente y facilita la escritura en el lugar oscuro. La luz suave no daña tus ojos. Perfecto para trabajar o jugar en la oscuridad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MQLKYGG/?tag=tolees-21)

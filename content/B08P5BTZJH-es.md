@@ -28,9 +28,9 @@ Tienes [KOOCHUWAH Teclado Inalámbrico QWERTY Español Ultra Delgado Soporta 3 D
 
 ℹ️:
 
-- Teclado retroiluminado de 7 colores: (azul profundo, amarillo, verde, blanco, rojo, violeta, cian) y 3 niveles de brillo ajustables garantizan un placer visual diferente y facilitan la escritura en lugares oscuros. La luz suave no daña sus ojos. Perfecto para trabajar o jugar en la oscuridad.
 - Tecnología de grabado avanzada: Todos los caracteres de las teclas son procesados por una máquina de marcado púrpura importada, la talla es duradera y transparente con una fuerte transmisión de luz. Diseño ergonómico de teclas trapezoidales de alta resistencia y la placa de aluminio son más estables para una escritura cómoda y silenciosa.
 - Compatibilidad Amplia: Compatible con cualquier sistemas operativos iOS/Mac OS Android y Windows. El teclado puede detectar y cambiar automáticamente el sistema correspondiente sin molestos cambios y reconexiones mediante tediosos pasos, también se puede emparejar con hasta tres dispositivos al mismo tiempo. Y cambia entre ellos con un toque.
+- Teclado retroiluminado de 7 colores: (azul profundo, amarillo, verde, blanco, rojo, violeta, cian) y 3 niveles de brillo ajustables garantizan un placer visual diferente y facilitan la escritura en lugares oscuros. La luz suave no daña sus ojos. Perfecto para trabajar o jugar en la oscuridad.
 - Diseño QWERTY Español: El teclado bluetooth en recargable tiene especialmente todos los caracteres especiales en español, lleva la tecla Ñ. Soluciona perfectamente sus necesidades. La portabilidad y el diseño ultra delgado ofrece el almacenamiento conveniente de su mochila o maletín. Usted puede llevarlo a cualquier lugar para su uso.
 - Teclado Inalámbrico Bluetooth: La tecnología Bluetooth 3.0 elimina retrasos, interrupciones e interferencias y ofrece un alcance de hasta 10 m. Duración de la batería de iones de litio: 3 años. Ahorro de energía,más de 90 horas con uso ininterrumpido (sin retroiluminación). Tiempo de espera de hasta 180 días.
 
