@@ -28,11 +28,11 @@ En este momento está [HUAWEI MediaPad M5 Lite 10 - Tablet de 10.1" Full HD  LTE
 
 🔎:
 
-- 4 altavoces estéreo certificados por Harman Kardon
 - ¡Atención! HUAWEI M-Pen lite Stylus se vende por separado
-- 3 GB RAM, 32 GB almacenamiento, Procesador Octa-Core
+- Sistema Operativo Android 8.0+ EMUI 8.0
+- 4 altavoces estéreo certificados por Harman Kardon
 - Pantalla táctil IPS de 10.1 pulgadas 1080P HD con una resolución de 1920x1200 pixeles, pantalla de 224 PPI, 5 modos de Eye-Comfort
 - Batería de larga duración de 7500 mAh con carga rápida, se carga completamente en tan sólo 2,9 horas
-- Sistema Operativo Android 8.0+ EMUI 8.0
+- 3 GB RAM, 32 GB almacenamiento, Procesador Octa-Core
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G3JFHJR/?tag=tolees-21)
