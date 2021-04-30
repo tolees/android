@@ -28,10 +28,10 @@ Ahora mismo tienes [YAGALA - Enchufe Inteligente WiFi  Smart Plug compatible con
 
 🔎:
 
-- Las certificaciones FCC, CE y RoHS, hechas de un material resistente al fuego, seguro y duradero, brindan protección contra sobrecargas, protección contra sobrecargas, el diseño de seguridad para niños puede proteger la seguridad de los niños y usarla en todas las habitaciones infantiles.
-- El tomacorriente inteligente viene con el temporizador y la función de programación, puede crear un pedido o múltiples programaciones para la luz, el calentador, el refrigerador, etc. Con la aplicación móvil, puede ahorrar energía configurando su hora específica para el encendido / apagado automático de los dispositivos del plan.
 - Conecte su dispositivo a este zócalo inteligente YAGALA y luego puede usar la aplicación eFamilyCloud para administrarlos en cualquier momento y en cualquier lugar. Muy fácil de usar y configurar, no requiere concentrador y solo requiere una conexión Wi-Fi segura de 2.4GHz.
+- Las certificaciones FCC, CE y RoHS, hechas de un material resistente al fuego, seguro y duradero, brindan protección contra sobrecargas, protección contra sobrecargas, el diseño de seguridad para niños puede proteger la seguridad de los niños y usarla en todas las habitaciones infantiles.
 - Compatible con IFTTT, Google Home Assistant y Amazon Alexa (Echo, Echo Dot). Con este enchufe inteligente wifi, puede controlar sus electrodomésticos simplemente dando los comandos de voz. Hace que tu vida sea más inteligente y conveniente.
 - Con Alexa Smart Plug, controle la voz de su equipo eléctrico cuando esté en interiores, controle a distancia a través de una aplicación inteligente cuando esté en exteriores. Proteja la seguridad de los dispositivos, evite la sobrecarga y el sobrecalentamiento, reduzca el consumo de energía y ahorre dinero en sus facturas de electricidad.
+- El tomacorriente inteligente viene con el temporizador y la función de programación, puede crear un pedido o múltiples programaciones para la luz, el calentador, el refrigerador, etc. Con la aplicación móvil, puede ahorrar energía configurando su hora específica para el encendido / apagado automático de los dispositivos del plan.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07R7WGPC7/?tag=tolees-21)
