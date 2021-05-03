@@ -28,9 +28,9 @@ En este momento está [Teléfono Móvil Libre  CUBOT Note 20 Pro Smartphone 4G A
 
 🔎:
 
-- Batería de 4200 mAh, carga con 5V / 2A: el teléfono inteligente se puede utilizar durante más de 12 horas con un uso intensivo. 7 días en espera. Tiempo de carga de solo 4 horas. Puerto de carga USB moderno tipo C. Batería extraíble.
 - Teléfono móvil 4G sin contrato, certificación + dos años, reparaciones gratuitas en Europa: soportado por una tarjeta SIM 2. Soporte de sistemas GPS Gallileo, NFC, Glonass y Beidou. Anulación del bloqueo de pantalla mediante reconocimiento facial.
 - Admite la función de belleza y el enfoque manual. Teléfono móvil económico con pantalla de gota de agua HD de 6.5 pulgadas: el teléfono móvil CUBOT NOTE 20 pro utiliza una pantalla táctil HD, mide 9.1 mm de grosor para una experiencia táctil cómoda.
+- Batería de 4200 mAh, carga con 5V / 2A: el teléfono inteligente se puede utilizar durante más de 12 horas con un uso intensivo. 7 días en espera. Tiempo de carga de solo 4 horas. Puerto de carga USB moderno tipo C. Batería extraíble.
 - Memoria interna del teléfono inteligente de 128 GB, compatible con 128 GB: equipado con sistema operativo Android 10.0 y procesador de cuatro núcleos, el CUBOT NOTE 20 Pro funciona sin demora y muy rápidamente. Hasta 128 GB de memoria expandible para fotos, música y más a través de microSD.
 - Smartphone con cuatro cámaras: cámara principal: SONY IMX486 12.0MP, cámara de profundidad: SONY IMX350 20.0MP, ultra cámara: 0.3MP con linterna 1A, cámara frontal 8.0MP AI Beauty.
 
