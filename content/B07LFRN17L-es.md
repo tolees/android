@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Android Boy B  Zapatillas Niños   al 50.00 % de descuento'
-date: 2021-05-01 16:46:32
+date: 2021-05-08 16:46:55
 image: 'https://m.media-amazon.com/images/I/41720c-zqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [Geox J Android Boy B  Zapatillas Niños  Azul  Navy/Royal C4
 
 🔎:
 
-- 1
-- País de fabricación: Myanmar.
 - Correa de velcro, entrenadores bajos
 - Ancho del zapato: mediano
+- 1
+- País de fabricación: Myanmar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFRN17L/?tag=tolees-21)
