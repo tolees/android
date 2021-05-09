@@ -28,10 +28,10 @@ Ahora mismo tienes [Crosstour Proyector Wi-Fi  Mini Proyector Portátil para Sma
 
 🔎:
 
-- ✨Elección de regalo tranquilizador: Con un sistema de enfriamiento avanzado de bajo ruido, el proyector doméstico se puede utilizar durante más de 15 años. Ofrecemos un servicio posventa profesional y una garantía de 1 año. ¡El proyector para el hogar es una opción de regalo ideal para todas las edades!
 - ✨Mini tamaño y pantalla grande: El proyector portátil tiene un tamaño relativamente pequeño (19*16*8 cm) y liviano (solo 0.91kg). El tamaño de la pantalla de 176 pulgadas agranda la pantalla de su teléfono inteligente 100 veces, brindando una sensación mucho más emocionante para videojuegos o fiestas de cumpleaños.
-- ✨Amplia compatibilidad: Equipado con puertos HDMI / VGA / AV / USB / TF / Audio, el proyector doméstico es compatible con varios dispositivos como computadoras portátiles / teléfonos inteligentes / ipad / PS4 / XBox / unidades flash USB. También puede disfrutar de Neflix a través de Firestick / Chromecast / Roku TV Stick.
+- ✨Elección de regalo tranquilizador: Con un sistema de enfriamiento avanzado de bajo ruido, el proyector doméstico se puede utilizar durante más de 15 años. Ofrecemos un servicio posventa profesional y una garantía de 1 año. ¡El proyector para el hogar es una opción de regalo ideal para todas las edades!
 - ✨Conexión por cable & Wi-Fi: Mini proyector P770 admite conexión inalámbrica por Wi-Fi y conexión por cable a través de un cable USB. La función de duplicación de pantalla le permite ahorrar al menos €30 porque no necesita comprar un adaptador HDMI adicional o un dongle inalámbrico. (No es compatible con Netflix en este modo).
 - ✨Cine en casa increíble: El proyector portatil WiFi P770 admite colores de pantalla de 16.7k que pueden mostrar una calidad de imagen realista y colorida. Los altavoces duales HiFi tienen un efecto de sonido envolvente y supergraves. ¡Puedes disfrutar de un increíble cine en casa todas las noches!
+- ✨Amplia compatibilidad: Equipado con puertos HDMI / VGA / AV / USB / TF / Audio, el proyector doméstico es compatible con varios dispositivos como computadoras portátiles / teléfonos inteligentes / ipad / PS4 / XBox / unidades flash USB. También puede disfrutar de Neflix a través de Firestick / Chromecast / Roku TV Stick.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X2ZVN7P/?tag=tolees-21)
