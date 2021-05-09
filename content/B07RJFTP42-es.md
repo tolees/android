@@ -29,9 +29,9 @@ Ahora mismo tienes [D DINGRICH - Teclado Inalambrico Bluetooth para iPad 7 Color
 🔎:
 
 - Contenido del paquete: teclado inalámbrico ultrafino , cable de carga USB, manual de instrucciones,Versión de Bluetooth: Bluetooth V3.0; Distancia de funcionamiento: 10 m, Tamaño: 235 * 130 * 3 mm,Peso: 250g
-- La teclas del teclado está hecha de material ABS de alta gama.La organización del teclado está hecha de metal, de alta calidad.
 - Este teclado bluetooth es compatible con todas las tabletas iOS, Android y Windows. Es un teclado inalámbrico en inglés, pero puede escribir Ñ en español.
 - Teclado recargable: el teclado tiene una batería recargable incorporada, puede funcionar durante 180 horas. El tiempo de espera es de hasta 60 días.
+- La teclas del teclado está hecha de material ABS de alta gama.La organización del teclado está hecha de metal, de alta calidad.
 - 7 Colores Retroiluminado Teclado: Teclado con retroiluminación, puede trabajar de noche.Colores (azul / rojo / amarillo / blanco / púrpura / cian / verde). Elija el color de la luz de fondo que le guste y haga que lo disfrute más fácilmente en el ambiente oscuro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RJFTP42/?tag=tolees-21)
