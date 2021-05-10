@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.39 % en Microsoft 365 Familia | Suscripción anua'
-date: 2021-05-07 21:27:46
+date: 2021-05-10 07:36:32
 image: 'https://m.media-amazon.com/images/I/4122QYv9B7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B086TFT5NW/?tag=tolees-21'
 descuento: '17.39'
-average: '57.548'
+average: '61.5866666666667'
 ---
 
 Tienes [Microsoft 365 Familia | Suscripción anual | Para 6 PCs o Macs  6 tabletas incluyendo iPad  Android  o Windows  además de 6 teléfonos | Box](https://www.amazon.es/dp/B086TFT5NW/?tag=tolees-21) con un 17.39 % de descuento con precio de oferta de 81.78 EUR (original: 99.0 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [Microsoft 365 Familia | Suscripción anual | Para 6 PCs o Macs  6 tablet
 
 ℹ️:
 
+- Correo electrónico, calendarios y tareas: Outlook
 - Actualizaciones y soporte técnico continuo
 - Versiones totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características óptimas todos los meses
 - Seguridad adecuada para correo electrónico y archivos
-- 6 TB de almacenamiento en OneDrive; 1 TB por persona
 - Creación de publicaciones y bases de datos: Publisher, Access; Sólo para PC
-- Correo electrónico, calendarios y tareas: Outlook
+- 6 TB de almacenamiento en OneDrive; 1 TB por persona
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086TFT5NW/?tag=tolees-21)

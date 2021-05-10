@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI MediaPad M5 Lite - Tablet de 10.1 al 19.74 % de rebaja'
-date: 2021-05-07 08:05:17
+date: 2021-05-10 08:15:03
 image: 'https://m.media-amazon.com/images/I/41PQ2Rs1+QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B07VWS9TGL/?tag=tolees-21'
 descuento: '19.74'
-average: '224.001666666666'
+average: '224.843157894736'
 ---
 
 Tienes [HUAWEI MediaPad M5 Lite - Tablet de 10.1\"  Wifi  RAM de 4GB  ROM de 64GB  Android 8.0  - Color Gris](https://www.amazon.es/dp/B07VWS9TGL/?tag=tolees-21) con precio final de  239.99 EUR (original: 299.0 EUR) (19.74 %  de rebaja) aqui!
@@ -28,11 +28,11 @@ Tienes [HUAWEI MediaPad M5 Lite - Tablet de 10.1\"  Wifi  RAM de 4GB  ROM de 64G
 
 🔎:
 
-- Pantalla táctil IPS de 10.1 pulgadas FullHD con modo eye-care
 - Procesador Qualcomm Kirin 659 Octa-Core ultrarrápido y 4 altavoces certificados por Harman Kardon
+- Pantalla táctil IPS de 10.1 pulgadas FullHD con modo eye-care
 - Cuerpo metálico, diseño elegante, 475g, 7.7mm
-- RAM de 4GB, Almacenamiento de 64GB, batería de larga duración con 7500 mAh y quick charge
 - No incluye ranura para tarjeta SIM
+- RAM de 4GB, Almacenamiento de 64GB, batería de larga duración con 7500 mAh y quick charge
 - Sistema Operativo Android 8.0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VWS9TGL/?tag=tolees-21)
