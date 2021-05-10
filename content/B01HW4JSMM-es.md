@@ -28,9 +28,9 @@ Tienes [Huawei Y6 II-Smartphone de 5.5"  RAM de 2 GB  memoria interna de 16 GB  
 
 🔎:
 
-- Procesador Hi-Silicón Kirin 620 ARM Cortex-A53 64-bit de 1.2 GHz
-- Pantalla táctil Multi-touch de 5.5 pulgadas, 1280 x 720 píxeles
 - Cámara delantera de 13 MP con autoenfoque, flash integrado y frontal de 5 MP
+- Pantalla táctil Multi-touch de 5.5 pulgadas, 1280 x 720 píxeles
+- Procesador Hi-Silicón Kirin 620 ARM Cortex-A53 64-bit de 1.2 GHz
 - Memoria RAM de 2048 MB y ROM de 16 GB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HW4JSMM/?tag=tolees-21)
