@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'SmartPoorer - Smartwatch Reloj Inteligen al 57.13 % de descuento'
-date: 2021-04-18 19:20:51
-image: 'https://m.media-amazon.com/images/I/51OnQhm8VIL._SL500_._SL400_.jpg'
+date: 2021-05-12 11:34:30
+image: 'https://m.media-amazon.com/images/I/5123+U79t4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08TM4T97P-es SmartPoorer - Smartwatch Reloj Inteligente Impermeable...'
 sku: 'B08TM4T97P-es'
-tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','android','smartpoorer', ]
+tags: [ 'Electrónica','Smartwatches','Tecnología para vestir','android','smartpoorer', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'SmartPoorer'
 buyurl: 'https://www.amazon.es/dp/B08TM4T97P/?tag=tolees-21'
 descuento: '57.13'
-average: '42.19'
+average: '39.97'
 ---
 
 Ahora mismo tienes [SmartPoorer - Smartwatch Reloj Inteligente Impermeable IP65  Pulsera de Actividad Inteligente con Monitor de Sueño Contador de Caloría Pulsómetros Podómetro  para Hombres Mujeres Niños Compatible iPhone Android](https://www.amazon.es/dp/B08TM4T97P/?tag=tolees-21) a 19.99 EUR (original: 46.63 EUR) (57.13 %  de descuento) en el siguiente enlace!
 
-[![SmartPoorer - Smartwatch Reloj Inteligen](https://m.media-amazon.com/images/I/51OnQhm8VIL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08TM4T97P/?tag=tolees-21)
+[![SmartPoorer - Smartwatch Reloj Inteligen](https://m.media-amazon.com/images/I/5123+U79t4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08TM4T97P/?tag=tolees-21)
 
 🔎:
 
-- ⌚【Elegante Esfera del Reloj】 Este smartwatch con la pantalla a todo color TFT de 1.3 inch es adecuada para hombres y mujeres, la pantalla es más grande y suave ofrece una excelente calidad de imagen. Una operación táctil más fluida y una pantalla brillante para detalles hacen que este reloj inteligente sea más exquisito.Apariencia hermosa y diseño liviano para brindarle una mejor experiencia de usuario.
-- ⌚【Función impermeable IP65】Este reloj inteligente es resistente al agua hasta 1 metros, cumple con los estándares internacionales de impermeabilidad, lo que significa que puede usarlo en la piscina, en la ducha, en la playa y más allá. (Pero no es conveniente usarlo con agua caliente, no se puede utilizar demasiado tiempo en el mar)
-- ⌚【Función de notificación inteligente】 Cuando el pulsera inteligente física se conecta al teléfono inteligente, vibrará para avisarle cuando reciba notificaciones entrantes como llamadas, correos electrónicos, SMS y SNS (Facebook, Twitter, Instagram, WhatsApp, etc.). El reloj deportivo puede recibir rápidamente hasta 10 mensajes instantáneos. La pulsera de fitness no puede responder la llamada, pero puede rechazarla.
-- ⌚【Monitor de salud y deporte】El pulsera actividad pueden registrar con precisión sus datos deportivos y actividades de todos los días. Los sensores de movimiento de alto rendimiento controlan su frecuencia cardíaca y la calidad del sueño en tiempo real. Tiempo detecta automáticamente su ritmo cardíaco, Realizar un análisis integral exhaustivo de la calidad del sueño para ayudarlo a desarrollar un estilo de vida más saludable.
-- ⌚【Batería de mayor duración y mayor compatibilidad】El chip Bluetooth de baja potencia incorporado y la gran capacidad de la batería de 180 mAh, el smartwatch es fácil de cargar, carga rápida y batería de larga duración. Después del tiempo de carga de 2.5 horas el reloj se puede usar durante 30 días . La aplicación es adecuada para la mayoría de los teléfonos inteligentes con sistema de soporte Bluetooth 4.0 o superior: iOS 8.0 o superior, Android 4.2 o superior.
+- ⌚Medición de oxímetro y esfigmomanómetro: la concentración de oxígeno en sangre es detectada por el sensor infrarrojo en la parte posterior del reloj, y el valor de la presión arterial puede ser detectado por la lámpara Vermont para comprender la salud de la frecuencia cardíaca.
+- ⌚9 modos deportivos: puede elegir 9 modos deportivos para mostrar en el reloj inteligente y puede rastrear el objetivo en tiempo real sin usar un teléfono inteligente. (Por ejemplo, frecuencia cardíaca, pasos, distancia, calorías, etc.). El movimiento está sincronizado con "FitPro".
+- ⌚Compatible y resistente al agua IP65: el reloj conectado es compatible con Android 5.0 e iOS 9.0 al menos. Resistente al agua hasta 6 metros, puede usar el reloj mientras nada, se baña y se lava las manos. , El reloj no puede evitar el agua caliente y el agua de mar.
+- ⌚ Notificación de mensaje: cuando hay una llamada entrante, SMS o mensaje de aplicación (Facebook, Messenger, Twitter, WhatsApp, INS ...) en el teléfono, el reloj se lo recordará a través de la vibración, el identificador de llamadas y parte del mensaje. El contenido se mostrará en la pantalla del reloj.
+- ⌚ Funciones: oxímetro, esfigmomanómetro, monitor de actividad (podómetro, distancia, calorías), pulsómetro, 9 modos de ejercicio, cronómetro, monitorización del sueño, despertador, notificación de mensajes (llamada, SMS, Facebook, Twitter, Instagram ...) IP66 impermeable.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TM4T97P/?tag=tolees-21)
