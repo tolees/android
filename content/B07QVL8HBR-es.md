@@ -28,9 +28,9 @@ En este momento está [Huawei P30 Lite - Smartphone de 6.15"  WiFi  Kirin 710  R
 
 🔎:
 
+- Cámara de 48+2+8 MP y de 24 MP para selfie
 - Memoria RAM de 4 GB
 - Memoria interna de 128 GB
 - Procesador Kirin 710 Octacore 2.2 GHz
-- Cámara de 48+2+8 MP y de 24 MP para selfie
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QVL8HBR/?tag=tolees-21)
