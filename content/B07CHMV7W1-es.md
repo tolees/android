@@ -30,8 +30,8 @@ Está [ALCATEL 3X Smartphone Quad Core 1.28 GHz  Android N  5.7" HD+ 18:9  1440x
 
 - Resolución de la pantalla: 720 x 1440
 - Pantalla táctil: y
+- Diagonal de la pantalla: 5.7"
 - Frecuencia del procesador: 1.28 ghz
 - Ram interna: 3 gb
-- Diagonal de la pantalla: 5.7"
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CHMV7W1/?tag=tolees-21)
