@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blackview A60 Teléfono Móvil 2GB+16GB  1 con un 18.89 % de descuento'
-date: 2021-05-16 07:50:24
+date: 2021-05-20 08:10:22
 image: 'https://m.media-amazon.com/images/I/51IO4fszbUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Blackview'
 buyurl: 'https://www.amazon.es/dp/B07QDB7HB3/?tag=tolees-21'
 descuento: '18.89'
-average: '70.47'
+average: '70.5669230769231'
 ---
 
 En este momento está [Blackview A60 Teléfono Móvil 2GB+16GB  128GB SD   Pantalla 6.1"  19.2:9  Water-Drop Screen Movil Barato  13MP+2MP+5MP  4080mAh Batería  Android 10 Smartphone Libre Dual SIM  GPS/WiFi/Hotspot-Negro](https://www.amazon.es/dp/B07QDB7HB3/?tag=tolees-21) a 72.99 EUR (original: 89.99 EUR) (18.89 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Blackview A60 Teléfono Móvil 2GB+16GB  128GB SD   Panta
 
 🔎:
 
-- 📸 【Cámara Dual 13MP+2MP y Cámara Frontal 5MP】Posee doble cámara de 13MP+2MP convirtiéndolas en recuerdos inolvidables, lo que le brinda una experiencia fotográfica de muy alta resolución. La rápida cámara de autofoto de 5MP con autofocus lo ayuda a tomar las mejores selfies. Belleza y moda se convierten con estas fotos en verdaderas obras de arte. Graba hermosos momentos de la vida con familiares y amigos en cualquier momento. ¡Toma este teléfono liviano para tomar fotos cuando viajas!
 - 👍【Android 10 + 128GB Expandible】Que es la edición ligera personalizada para algunos teléfonos con 2 GB de RAM funcionando sin problemas, el sistema inteligente puede ahorrar memoria y energía. El teléfono inteligente Blackview A60 con una memoria interna de 16 GB y una ranura para tarjeta extra que permite una expansión máxima a 128 GB asegura suficiente espacio para todos sus datos, puede descargar sus aplicaciones favoritas y otros juegos divertidos para relajarse en su tiempo
+- 📸 【Cámara Dual 13MP+2MP y Cámara Frontal 5MP】Posee doble cámara de 13MP+2MP convirtiéndolas en recuerdos inolvidables, lo que le brinda una experiencia fotográfica de muy alta resolución. La rápida cámara de autofoto de 5MP con autofocus lo ayuda a tomar las mejores selfies. Belleza y moda se convierten con estas fotos en verdaderas obras de arte. Graba hermosos momentos de la vida con familiares y amigos en cualquier momento. ¡Toma este teléfono liviano para tomar fotos cuando viajas!
+- 🔋【Batería 4080mAh + 2 Años de Garantía】Equipada con una batería de 4080mAh de alta densidad, Blackview A60 Mobile tiene un tiempo de espera de 360 horas o 15 horas de llamadas o 7,5 horas de reproducción de video o 6 horas de reproducción. Nuestro teléfono móvil ofrece 2 años de garantía y soporte técnico de por vida. Si su batería tiene problemas, comuníquese con el soporte del vendedor de manera oportuna. El equipo de atención al cliente profesional le responderá dentro de las 24 horas
 - 💧【6.1" HD Pantalla de Gota de Agua】Blackview A60 (2020) móvil libre de 6.1" (15.7cm) waterdrop screen con notch y una resolución de 1280 x 600. Está entre los teléfonos más reconocidos. La pantalla con Notch Drop se ha convertido en una solución común para maximizar la visualización de la pantalla gracias a forma en que aloja la cámara frontal. Puede tocar cualquier parte de la pantalla que estará operativa, con una mano y un pulgar. La pantalla completa proporciona un mejor disfrute visual
 - ✈️【Tarjeta Triple + Otras Funciones】Hay ranuras para tarjetas triples que admiten 2 tarjeta Nano Sim+una tarjeta micro SD (hasta 128 GB). Puede usar dos SIM al mismo tiempo cuando viaja al extranjero o por negocios, y no es necesario reemplazar la tarjeta SD. Puede utilizar el GPS mientras conduce o para guiar su viaje a pie. La función de zoom de los teléfonos baratos lo ayudará a usted o a las personas con dificultades para ver mejor los detalles o reconocer el texto
-- 🔋【Batería 4080mAh + 2 Años de Garantía】Equipada con una batería de 4080mAh de alta densidad, Blackview A60 Mobile tiene un tiempo de espera de 360 horas o 15 horas de llamadas o 7,5 horas de reproducción de video o 6 horas de reproducción. Nuestro teléfono móvil ofrece 2 años de garantía y soporte técnico de por vida. Si su batería tiene problemas, comuníquese con el soporte del vendedor de manera oportuna. El equipo de atención al cliente profesional le responderá dentro de las 24 horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QDB7HB3/?tag=tolees-21)
