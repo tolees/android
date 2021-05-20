@@ -30,8 +30,8 @@ En este momento está [CHUWI SurPad Tablet pc 2 in 1 Tableta de 10.1   4G LTE Du
 
 - Tablet 4G LTE, Dual SIM card Dual stay, ya sea en carretera o camping suburbano, puede disfrutar de la red LTE de alta velocidad, el GPS navega con precisión sin perderse, el cuerpo de maquina solo pesa 542g, es ligero y portable
 - La tableta tiene 128 GB de memoria flash UFS. Lee y escribe tres veces más rápido que Emmc.4GB de memoria DDR4X permite ejecutar cualquier aplicación en tablet sin problemas.es compatible con 128TF Card (no incluido) memoria extendida
-- Tablet pc Android 10 preinstalado, tiene un gran número de aplicaciones de terceros. CPU Helio MT6771V , 8 núcleos, la frecuencia de 1,8 GHz hasta 2,0 GHz. GPU de Mali G72 processing chip puede jugar cualquier aplicación diaria o juegos móviles convencionales
-- CHUWI Surpad cuenta con un toque de 10,1 IPS totalmente laminado, la resolución de pantalla 1920 * 1200, se puede mostrarle imágenes delicadas y claras,el diseño de la relación de aspecto: 16: 10
 - Tablet 2 in 1 soporta el teclado magnético para facilitar la salida de texto i el procesamiento de los archivos. que se convierte en un ordenador portátil. 8000mah batería de gran capacidad, larga vida útil de la batería
+- CHUWI Surpad cuenta con un toque de 10,1 IPS totalmente laminado, la resolución de pantalla 1920 * 1200, se puede mostrarle imágenes delicadas y claras,el diseño de la relación de aspecto: 16: 10
+- Tablet pc Android 10 preinstalado, tiene un gran número de aplicaciones de terceros. CPU Helio MT6771V , 8 núcleos, la frecuencia de 1,8 GHz hasta 2,0 GHz. GPU de Mali G72 processing chip puede jugar cualquier aplicación diaria o juegos móviles convencionales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M3RP33W/?tag=tolees-21)
