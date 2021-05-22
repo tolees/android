@@ -28,10 +28,10 @@ Ahora mismo tienes [SmartPoorer - Smartwatch Reloj Inteligente Impermeable IP65 
 
 🔎:
 
-- ⌚ Notificación de mensaje: cuando hay una llamada entrante, SMS o mensaje de aplicación (Facebook, Messenger, Twitter, WhatsApp, INS ...) en el teléfono, el reloj se lo recordará a través de la vibración, el identificador de llamadas y parte del mensaje. El contenido se mostrará en la pantalla del reloj.
 - ⌚Compatible y resistente al agua IP65: el reloj conectado es compatible con Android 5.0 e iOS 9.0 al menos. Resistente al agua hasta 6 metros, puede usar el reloj mientras nada, se baña y se lava las manos. , El reloj no puede evitar el agua caliente y el agua de mar.
 - ⌚ Funciones: oxímetro, esfigmomanómetro, monitor de actividad (podómetro, distancia, calorías), pulsómetro, 9 modos de ejercicio, cronómetro, monitorización del sueño, despertador, notificación de mensajes (llamada, SMS, Facebook, Twitter, Instagram ...) IP66 impermeable.
-- ⌚Medición de oxímetro y esfigmomanómetro: la concentración de oxígeno en sangre es detectada por el sensor infrarrojo en la parte posterior del reloj, y el valor de la presión arterial puede ser detectado por la lámpara Vermont para comprender la salud de la frecuencia cardíaca.
 - ⌚9 modos deportivos: puede elegir 9 modos deportivos para mostrar en el reloj inteligente y puede rastrear el objetivo en tiempo real sin usar un teléfono inteligente. (Por ejemplo, frecuencia cardíaca, pasos, distancia, calorías, etc.). El movimiento está sincronizado con "FitPro".
+- ⌚ Notificación de mensaje: cuando hay una llamada entrante, SMS o mensaje de aplicación (Facebook, Messenger, Twitter, WhatsApp, INS ...) en el teléfono, el reloj se lo recordará a través de la vibración, el identificador de llamadas y parte del mensaje. El contenido se mostrará en la pantalla del reloj.
+- ⌚Medición de oxímetro y esfigmomanómetro: la concentración de oxígeno en sangre es detectada por el sensor infrarrojo en la parte posterior del reloj, y el valor de la presión arterial puede ser detectado por la lámpara Vermont para comprender la salud de la frecuencia cardíaca.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TM4T97P/?tag=tolees-21)
