@@ -28,9 +28,9 @@ Ahora mismo tienes [ZTE Blade V10 Vita - Smartphone de 6 26" HD+ 19 5:9  Octa-Co
 
 🔎:
 
-- Cámara dual 13 + 2 mpx
-- Procesador octacore a 1,6ghz
 - Bateria 3200 mAh
 - Pantalla 19:9 hd+
+- Cámara dual 13 + 2 mpx
+- Procesador octacore a 1,6ghz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y2DGNHF/?tag=tolees-21)
