@@ -28,10 +28,10 @@ Tienes [eecoo - Microscopio Digital WiFi HD 2MP  1000x Microscopio Inalámbrico 
 
 🔎:
 
-- 【USB Recargable】: El microscopio wifi portátil con 8 luces LED ajustables permite la captura en cualquier entorno de inspección.Con un cable de carga USB,puede cargar desde el cargador del teléfono,energía móvil o cualquier dispositivo USB (Voltaje es de 5V),900mAh incorporado las baterías soportan 3 horas de tiempo de trabajo.
 - 【Cámara de Microscopio HD 2MP】: Microscopio Digital con 2.0 megapíxeles y alta resolución de 1080p,este microscopio portátil le ofrece una vista clara y permite capturar instantáneas,grabar videos y guardar estos maravillosos momentos en sus dispositivos.Relación de aumento de 50X-1000X con un movimiento más suave de la rueda de enfoque y un botón independiente para capturar imágenes.Nota:La mejor distancia entre la cámara y el objeto es de 3-100 mm (0.11in-3.94in).
-- 【Amplia compatibilidad】 : Android 4.0 y superior, IOS 8.0 y superior, compatible con equipos de transmisión de datos inalámbricos 2.4GHz (8201.1B / G / N). Windows, XP, win7, win10 (32 64 bit), mac ios * 10.5 O superior (dispositivo compatible con el protocolo USB UVC)
+- 【USB Recargable】: El microscopio wifi portátil con 8 luces LED ajustables permite la captura en cualquier entorno de inspección.Con un cable de carga USB,puede cargar desde el cargador del teléfono,energía móvil o cualquier dispositivo USB (Voltaje es de 5V),900mAh incorporado las baterías soportan 3 horas de tiempo de trabajo.
 - 【Luces LED Integradas 8】: El microscopio led con 8 luces LED ajustables permite ver claramente en áreas con luz insuficiente. Los botones de ampliación y acercamiento de 50x y 1000x satisfacen sus necesidades para explorar el micro mundo.
+- 【Amplia compatibilidad】 : Android 4.0 y superior, IOS 8.0 y superior, compatible con equipos de transmisión de datos inalámbricos 2.4GHz (8201.1B / G / N). Windows, XP, win7, win10 (32 64 bit), mac ios * 10.5 O superior (dispositivo compatible con el protocolo USB UVC)
 - 【Amplia Aplicación】 : Mini Microscopio Endoscopio Camara con la ayuda de alta potencia 1000x digital microscopio, usted puede ver detalles claramente de los objetos incluyendo criaturas, monedas, mariposas, placas de circuito integrado, piel, PCB, hojas y otras cosas que desea observar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083GN9DVJ/?tag=tolees-21)
