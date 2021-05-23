@@ -28,9 +28,9 @@ Ahora mismo tienes [Sony MDR-ZX110APB - Auriculares para smartphone  diadema  ma
 
 🔎:
 
-- Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
-- Diafragmas tipo cúpula de 30 mm
 - Diseño ligero para la máxima comodidad
 - Rango de frecuencia de 12 Hz a 22 kHz
+- Diafragmas tipo cúpula de 30 mm
+- Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NBR70A2/?tag=tolees-21)
