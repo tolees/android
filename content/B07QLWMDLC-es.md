@@ -28,10 +28,10 @@ Ahora mismo tienes [Blukar Auriculares In Ear  Auriculares con Cable y Micrófon
 
 🔎:
 
-- Micrófono Incorporado y Control Remoto: El micrófono incorporado transmite voz de alta claridad para una conversación fluida. El diseño del botón en el cable le permite recibir llamadas con manos libres mientras escucha música a través del botón multifuncional sin acceso a su dispositivo.
 - Construcción de Metal: Es más resistente a la corrosión, anti-envejecimiento, sólido y duradero; Su aleación especial puede transmitir sonido de alta definición con un mejor efecto.
+- Amplia Compatibilidad: funciona bien para iPhone SE / 6 / 6s / 6 Plus / 6s Plus / 5 / 5c / 5s, iPad Mini, iPad Air, iPod touch 5, iPod Nano 7, Galaxy, teléfonos inteligentes y tabletas Android, dispositivos con Windows, y otros dispositivos equipados con toma de auriculares de 3,5 mm.
+- Micrófono Incorporado y Control Remoto: El micrófono incorporado transmite voz de alta claridad para una conversación fluida. El diseño del botón en el cable le permite recibir llamadas con manos libres mientras escucha música a través del botón multifuncional sin acceso a su dispositivo.
 - Sonido Dinámico Estéreo Claro：Altavoces integrados de alto rendimiento para un rango de frecuencia extendido, menor distorsión, alto rendimiento y almohadillas aislantes del ruido que eliminan el ruido ambiental. Te traigo un sonido cristalino y dinámico.
 - Cómodo de Usar：ergonómico y cómodo en el diseño de la oreja que evita que se caiga. Dos almohadillas blandas para un ajuste personalizado, que ofrecen una colocación segura y una comodidad duradera.
-- Amplia Compatibilidad: funciona bien para iPhone SE / 6 / 6s / 6 Plus / 6s Plus / 5 / 5c / 5s, iPad Mini, iPad Air, iPod touch 5, iPod Nano 7, Galaxy, teléfonos inteligentes y tabletas Android, dispositivos con Windows, y otros dispositivos equipados con toma de auriculares de 3,5 mm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QLWMDLC/?tag=tolees-21)
