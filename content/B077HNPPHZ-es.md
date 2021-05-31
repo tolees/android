@@ -28,10 +28,10 @@ Ahora mismo tienes [POSUGEAR Cable OTG  Adaptador Micro USB 2.0 Macho a USB Hemb
 
 🔎:
 
-- Tipo: Posugear 22cm Adaptador USB 2.0 a micro USB On-The-Go (Macho/Hembra). Pequeño y corto, fácil de guardar en el automóvil o en su bolsa de accesorios.
 - Facil de usar: El Adaptador USB OTG admite alimentación compartida a otro teléfono o tableta y juega al juego conectando un dispositivo de juego, etc. Nota: No soporte utilizar simultáneamente los funcion de OTG y de carga.
 - Calidad y segura: Ha pasado calidad certificada. Resistentes a la corrosión, Procesamiento de alta calidad y mejora el rendimiento de la señal. Caja de aleación de aluminio y cable flexible duradero para doblado portátil e ilimitado.
 - Contenido: 1 x 22cm Posugear Cable Micro USB On-The-Go (Macho/Hembra); 18 meses de garantía y servicio al cliente amistoso.
 - Compatible con: Conecte teléfonos Inteligentes y tabletas android con un puerto micro USB a na unidad flash, mouse, teclado, lectores de tarjetas USB y otros periféricos USB.
+- Tipo: Posugear 22cm Adaptador USB 2.0 a micro USB On-The-Go (Macho/Hembra). Pequeño y corto, fácil de guardar en el automóvil o en su bolsa de accesorios.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077HNPPHZ/?tag=tolees-21)
