@@ -28,10 +28,10 @@ Ahora mismo tienes [Popglory Smartwatch  Reloj Inteligente con Oxígeno Sanguín
 
 🔎:
 
-- Control de música & IP67 Impermeable: Puede controlar el reproductor de música de su teléfono en este reloj (canción anterior, próxima canción y pausa). Con el diseño impermeable IP67, puede usarlo mientras se lava las manos.
 - 7 Modos Deportivos: Ofrece varios deportes, como Caminar / Correr / Ciclismo / Saltar / Bádminton / Baloncesto / Fútbol, lo que mantiene su entrenamiento más científicamente. Y puede realizar un seguimiento de sus datos de actividad diaria como pasos, calorías, distancia y minutos activos.
-- Compatibilidad y Otras Características: este reloj es compatible con smartphones que utilizan iOS 9.0/Android OS 4.4 o superior. Este reloj también tiene alarma, temporizador, cámara remota, pronóstico del tiempo, y ajuste de brillo. (No compatible con iPad)
 - Watch Face Personalizado & Notificación Inteligente - Puede usar la foto que quieras como el watch face, también puede cambiar la posición de tiempo y el color de acuerdo con la imagen. Mensajes y llamadas bien informados, levantar la muñeca visible, que se puede establecer en la aplicación "HeroBandIII".
 - 24H Ayudante de Salud: Popglory reloj inteligente tiene frecuencia cardíaca, presión arterial, oxígeno sanguíneo. Siempre preste atención a su salud física. Este reloj inteligente también puede medir su sueño automáticamente, lo que le ayuda a conocer los datos de sueño despierto, ligero y profundo. Los datos son solo para referencia.
+- Control de música & IP67 Impermeable: Puede controlar el reproductor de música de su teléfono en este reloj (canción anterior, próxima canción y pausa). Con el diseño impermeable IP67, puede usarlo mientras se lava las manos.
+- Compatibilidad y Otras Características: este reloj es compatible con smartphones que utilizan iOS 9.0/Android OS 4.4 o superior. Este reloj también tiene alarma, temporizador, cámara remota, pronóstico del tiempo, y ajuste de brillo. (No compatible con iPad)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089CVQ2FS/?tag=tolees-21)
