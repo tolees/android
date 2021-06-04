@@ -28,11 +28,11 @@ Está [Motorola Moto g10  Pantalla de 6.5" Max Vision HD+  Qualcomm Snapdragon  
 
 ℹ️:
 
-- 4 GB de RAM. Siente un impulso en el rendimiento sin que se vea reducida la duración de la batería.
-- Batería de más de dos días de duración. Disfruta de todo el fin de semana sin cargarlo gracias a una batería de 5000 mAh llena de energía.
-- Con 64 GB de almacenamiento interno, tienes espacio de sobra para guardar fotos, películas, canciones, aplicaciones y juegos. Y siempre puedes añadir hasta 512 GB más con una tarjeta microSD.
-- Procesador más inteligente e intuitivo. Dale a tus fotos, juegos y demás un gran impulso con el procesador Qualcomm Snapdragon 460 de ocho núcleos.
-- Sistema de cuatro cámaras de 48 MP. Haz fotos más nítidas y luminosas con cualquier luz y desde cualquier ángulo.
 - Pantalla de 6,5" HD+ Max Vision. Da vida a tus fotos, películas y videochats en una sorprendente pantalla superancha.
+- Batería de más de dos días de duración. Disfruta de todo el fin de semana sin cargarlo gracias a una batería de 5000 mAh llena de energía.
+- Sistema de cuatro cámaras de 48 MP. Haz fotos más nítidas y luminosas con cualquier luz y desde cualquier ángulo.
+- Procesador más inteligente e intuitivo. Dale a tus fotos, juegos y demás un gran impulso con el procesador Qualcomm Snapdragon 460 de ocho núcleos.
+- Con 64 GB de almacenamiento interno, tienes espacio de sobra para guardar fotos, películas, canciones, aplicaciones y juegos. Y siempre puedes añadir hasta 512 GB más con una tarjeta microSD.
+- 4 GB de RAM. Siente un impulso en el rendimiento sin que se vea reducida la duración de la batería.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091DNRSZT/?tag=tolees-21)
