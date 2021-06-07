@@ -29,9 +29,9 @@ Está [Jiusion Original 40-1000X Microscopio USB con Estuche Portátil  Cámara 
 ℹ️:
 
 - Con el conector USB tipo C/micro, puede usar el microscopio en el teléfono celular OTG Android. El microscopio también funciona en Mac, Windows, Linux y Chrome. Tenga en cuenta que este microscopio no funciona en iPhone o iPad.
-- Con esta ampliación de mano usb, puede utilizar el software para grabar el micro mundo, capturar capturas de pantalla y grabar videos incluso en la madera sin servicios de datos. En la computadora con Windows, puede usar la función de medición del software para medir la menor cantidad de bits.
-- Disfrute de 30 días de devolución fácil y 12 meses de garantía en piezas y mano de obra. Servicio al cliente: jiusion@outlook.com
 - Luces LED incorporadas de 8 piezas, la perilla de ajuste del microscopio digital 2 puede cambiar el enfoque y el brillo.
 - Se agregó una bolsa de transporte, el microscopio Original Jiusion es mejor para niños, estudiantes, adultos y generaciones mayores para observar monedas, placas de circuitos, sellos, pieles, pelos, joyas, insectos, etc.
+- Con esta ampliación de mano usb, puede utilizar el software para grabar el micro mundo, capturar capturas de pantalla y grabar videos incluso en la madera sin servicios de datos. En la computadora con Windows, puede usar la función de medición del software para medir la menor cantidad de bits.
+- Disfrute de 30 días de devolución fácil y 12 meses de garantía en piezas y mano de obra. Servicio al cliente: jiusion@outlook.com
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DRGR6LX/?tag=tolees-21)
