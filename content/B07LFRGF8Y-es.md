@@ -28,10 +28,10 @@ En este momento está [Haehne 7" Tablet PC - Google Android 5.1 Quad Core  1G RA
 
 🔎:
 
-- 【Una Amplia Gama De Funciones】: Use la cámara delantera y trasera para tomar fotos fácilmente, ideal para chats de video. Con la tienda Google integrada, las tabletas HAEHNE pueden instalar diferentes tipos de aplicaciones.
 - 【Excelente Espacio de Almacenamiento】 : 8 GB de espacio de almacenamiento, ranura para tarjeta Micro SD integrada, capaz de proporcionar hasta 32 GB más de espacio, la tableta HAEHNE es su oficina principal, consola de juegos y reproductor de películas .
 - 【Excelente Configuración】: Las tabletas HAEHNE utilizan la última tecnología de pantalla TN. La pantalla TN responde rápidamente y no hay imágenes residuales. Trabaja duro para reducir la fatiga visual al mismo tiempo que proporciona una imagen de calidad Equipado con procesador de cuatro núcleos, 1 GB de RAM, ROM de 8 GB, Bluetooth y sistema de versión 5.1 de Android.
 - 【Diseño Humanizado】: El tamaño de la pantalla del producto es de 7 pulgadas, el panel de la pantalla es más delgado y ligero que la mayoría de los otros modelos y las dimensiones más pequeñas son convenientes para el transporte diario. El diseño de arco lateral optimiza su toque con la mano y está diseñado ergonómicamente. El panel plano también está cubierto con un revestimiento resistente a los arañazos para protegerlo del uso diario.
+- 【Una Amplia Gama De Funciones】: Use la cámara delantera y trasera para tomar fotos fácilmente, ideal para chats de video. Con la tienda Google integrada, las tabletas HAEHNE pueden instalar diferentes tipos de aplicaciones.
 - 【Un Recordatorio Amistoso】: Tenga en cuenta que este accesorio no incluye un enchufe / adaptador, solo un cable USB. Utilice el enchufe o el cargador de su teléfono Android para cargar la tableta.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LFRGF8Y/?tag=tolees-21)
