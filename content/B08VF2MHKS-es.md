@@ -28,10 +28,10 @@ Ahora mismo tienes [Ratón inalámbrico Bluetooth Joyaccess  con 3 Modos para po
 
 🔎:
 
-- Compatibilidad Amplia : [Requisito 2.4G]: Dispositivos con interfaz USB. [Requisito del sistema BT3.0]: Windows 7.0 o superior; Mac OS 10.8 o superior; iPad OS 8 o superior; Android 3.2 o superior. [Requisito del sistema BT5.0]: Windows 10.0 o superior; Mac OS 10.10 o superior; iPad OS 13 o superior; Android 5.0 o superior. El modo Bluetooth funciona con el sistema Windows / MAC OS / iOS / Android.
 - Modo de Sueño Automático : El mouse inalámbrico bluetoothse dormirá después de 10 minutos sin operación, se puede reactivar haciendo clic en cualquier botón. Se requiere una batería AA (no incluida).
+- Diseño Ergonómico : Con un diseño delgado y ergonómico y una superficie lisa esmerilada, este raton ordenador inalambrico se ajustará cómodamente a sus manos y le brindará una experiencia de oficina cómoda.
 - Ratón Bluetooth de Mode Doble : El mouse inalámbrico de modo triple realiza cambios gratuitos entre tres dispositivos con un solo mouse con un solo clic. Nuestro ratón pequeño inalambrico de computadora se puede conectar a dos dispositivos a través de Bluetooth y al otro a través del receptor USB 2.4G.
 - Clic Silencioso y Alta Respuesta : Entre 800, 1200 y 1600 para satisfacer diferentes necesidades. El diseño silencioso especial para los botones derecho e izquierdo le permite concentrarse en trabajar o jugar sin molestar a los demás. Desplazamiento suave, muy preciso con cada movimiento sensible.
-- Diseño Ergonómico : Con un diseño delgado y ergonómico y una superficie lisa esmerilada, este raton ordenador inalambrico se ajustará cómodamente a sus manos y le brindará una experiencia de oficina cómoda.
+- Compatibilidad Amplia : [Requisito 2.4G]: Dispositivos con interfaz USB. [Requisito del sistema BT3.0]: Windows 7.0 o superior; Mac OS 10.8 o superior; iPad OS 8 o superior; Android 3.2 o superior. [Requisito del sistema BT5.0]: Windows 10.0 o superior; Mac OS 10.10 o superior; iPad OS 13 o superior; Android 5.0 o superior. El modo Bluetooth funciona con el sistema Windows / MAC OS / iOS / Android.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VF2MHKS/?tag=tolees-21)
