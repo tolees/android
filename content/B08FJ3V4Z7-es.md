@@ -28,10 +28,10 @@ Ahora mismo tienes [YEHUA Wireless WiFi Display Dongle Miracast HDMI Dongle WiFi
 
 🔎:
 
-- 【Tenga en Cuenta:】 Debido a la protección de derechos de autor para algunos videos de suscripción, las aplicaciones como Netflix, Prime Videos, Disney+, Movistar+, RTVE, Atresplayer, Mitele etc..no son compatibles con el sistema iOS, pero el sistema Android puede ser a través de Aplicación de Gogle Home
-- 【Dongle Miracast con función 1080P】Este adaptador de pantalla inalámbrico YEHUA es compatible con una resolución de video de hasta 1080P full HD / 720P. Puede reflejar rápidamente video y audio, y puede compartir películas más realistas con familiares / amigos a través del dispositivo.
 - 【Sugerencias】 ① El dongle debe recibir alimentación a través de una fuente de alimentación externa (al menos 5 V / 2A) ... ② El sistema iOS NO es compatible con la aplicación Gogle Home. Para obtener pasos de instalación más detallados, busque "Yehua" en YouTube ... ③ Verifique si su dispositivo inteligente Android es compatible con MiraCast (si no, no funcionará)
 - 【Practical Dongle】 El dongle de transmisión wifi inalámbrico es ultraligero, claro, compacto, ahorra espacio en términos de potencia y volumen, es fácil de transportar y se puede utilizar para viajes, reuniones, viajes de negocios, celebraciones familiares, fiestas informales, películas. etc.
+- 【Dongle Miracast con función 1080P】Este adaptador de pantalla inalámbrico YEHUA es compatible con una resolución de video de hasta 1080P full HD / 720P. Puede reflejar rápidamente video y audio, y puede compartir películas más realistas con familiares / amigos a través del dispositivo.
+- 【Tenga en Cuenta:】 Debido a la protección de derechos de autor para algunos videos de suscripción, las aplicaciones como Netflix, Prime Videos, Disney+, Movistar+, RTVE, Atresplayer, Mitele etc..no son compatibles con el sistema iOS, pero el sistema Android puede ser a través de Aplicación de Gogle Home
 - 【Admite el Modo Espejo y Extensión:】 Puede duplicar su pantalla pequeña desde iOS / Android / Windows a una pantalla grande con una interfaz HDMI como su HDTV / Monitor / Proyector sin un enrutador o red de datos. Debajo de extender más, puede transmitir su teléfono a tv / monitor / projector y luego salga para hacer otras cosas en su teléfono, tanto su teléfono como su dispositivo se usan individualmente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FJ3V4Z7/?tag=tolees-21)

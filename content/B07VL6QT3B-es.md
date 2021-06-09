@@ -28,11 +28,11 @@ En este momento está [ZTE Blade 10 Smart Smartphone 6.49" 19 5:9 HD+  Octa - Co
 
 🔎:
 
-- Potente batería 5000mah de larga duración
-- Octa core 2ghz
-- Pantalla 6.49" hd+, waterdro
-- 4gram + 128grom
-- Carga rápida
 - Triple cámara con gran angular
+- Potente batería 5000mah de larga duración
+- 4gram + 128grom
+- Octa core 2ghz
+- Carga rápida
+- Pantalla 6.49" hd+, waterdro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VL6QT3B/?tag=tolees-21)

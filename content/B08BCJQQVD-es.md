@@ -28,9 +28,9 @@ En este momento está [Philips Ambilight 43PUS8505/12 - Televisor Smart TV de 43
 
 🔎:
 
+- Este Smart TV 43 pulgadas lleva el sistema Android para que puedas acceder cómodamente a Google Play Store, disfrutar de los contenidos de Netflix y navegar cómodamente con la función de control por voz.
 - Este TV de 43 pulgadas con Ambilight de tres lados agranda ópticamente la imagen de la pantalla gracias a ledes inteligentes y garantiza una experiencia televisiva más intensa que protege la vista.
 - La televisión de 43 pulgadas permite disfrutar de la mejor calidad de imagen y sonido Dolby dando más realismo a los contenidos HDR con colores más intensos y un sonido más profundo.
-- Este Smart TV 43 pulgadas lleva el sistema Android para que puedas acceder cómodamente a Google Play Store, disfrutar de los contenidos de Netflix y navegar cómodamente con la función de control por voz.
 - Alcance del suministro: Philips TV 43PUS8505/12 de 43 pulgadas (108 cm); Mando a distancia, Guía de inicio rápido, Folleto legal y de seguridad, Cable de alimentación, Soporte para la mesa, 2 pilas AAA
 - Las tecnologías HDR 10+ y die P5 Perfect Picture Engine de este televisor de 43 pulgadas garantizan una imagen de máxima calidad de contraste con movimientos fluidos y colores intensos.
 
