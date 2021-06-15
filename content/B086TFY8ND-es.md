@@ -28,12 +28,12 @@ En este momento está [Microsoft 365 Empresa Estándard  Suscripción annual  un
 
 🔎:
 
-- Versiones totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características óptimas todos los meses
-- Actualizaciones y soporte técnico continuo
 - Seguridad adecuada para correo electrónico y archivos
+- Aplicaciones empresariales: Outlook Customer Manager, Bookings
 - 1 TB de almacenamiento en OneDrive
+- Versiones totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características óptimas todos los meses
 - Correo electrónico, calendarios y tareas: Outlook
 - Servicios empresariales: Exchange Online con un buzón de correo de 50 GB y una dirección de dominio de correo electrónico personalizada, Skype Empresarial, Microsoft Teams, SharePoint Online
-- Aplicaciones empresariales: Outlook Customer Manager, Bookings
+- Actualizaciones y soporte técnico continuo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086TFY8ND/?tag=tolees-21)
