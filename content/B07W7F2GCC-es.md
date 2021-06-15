@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko - POP Animation: Dragon Ball Z - Android 16](https://w
 
 🔎:
 
+- Figure stands 9.5cm and comes in a window display box
+- Funko pop. Is the 2018 toy of the year and peoples choice award winner
 - From dragon ball z, android 16, as a stylized pop vinyl from funko
 - Check out the other dragon ball z figures from funko and collect them all
-- Funko pop. Is the 2018 toy of the year and peoples choice award winner
-- Figure stands 9.5cm and comes in a window display box
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W7F2GCC/?tag=tolees-21)
