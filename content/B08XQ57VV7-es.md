@@ -28,10 +28,10 @@ Ahora mismo tienes [Proyector Android TV 9.0  Artlii Play Proyector Smart WiFi B
 
 🔎:
 
-- 【± 45 ° Corrección Trapezoidal 4D y Zoom】El proyector Bluetooth WiFi tiene corrección trapezoidal de ± 45 ° 4D (vertical y horizontal) y función de zoom del 70% al 100%, que es muy conveniente para ajustar la relación de pantalla con el control remoto. Soporta proyección frontal, proyección lateral, proyección invertida montada en el techo.
 - 【Dos altavoces Dolby】El proyector portátil tiene un sistema de sonido SRS, altavoces estéreo de 2 * 5w. Admite formato Dolby, el sonido es fuerte y tridimensional. El proyector puede apagar la pantalla, conservar el sonido y usarlo como altavoz.
-- 【Proyector WiFi】El proyector se puede conectar a IOS, Android, Windowns10, Macbook y Tablet PC a través de WiFi para compartir imágenes y videos.
 - 【Proyector Bluetooth】Este proyector bluetooth puede conectar el proyector a altavoces bluetooth o auriculares bluetooth a través de bluetooth para obtener una experiencia de sonido más perfecta. ¡Sea más inmersivo mientras ve películas y juega!
 - 【Sistema Android TV 9.0】Artlii Play proyector de Android viene preinstalado con Netflix, YouTube, Hulu y otras aplicaciones. También puede descargar más de 1,000 aplicaciones directamente desde la tienda Google Play, como software de video, juegos y software de Office (primero debe iniciar sesión en su cuenta de Google).
+- 【± 45 ° Corrección Trapezoidal 4D y Zoom】El proyector Bluetooth WiFi tiene corrección trapezoidal de ± 45 ° 4D (vertical y horizontal) y función de zoom del 70% al 100%, que es muy conveniente para ajustar la relación de pantalla con el control remoto. Soporta proyección frontal, proyección lateral, proyección invertida montada en el techo.
+- 【Proyector WiFi】El proyector se puede conectar a IOS, Android, Windowns10, Macbook y Tablet PC a través de WiFi para compartir imágenes y videos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08XQ57VV7/?tag=tolees-21)
