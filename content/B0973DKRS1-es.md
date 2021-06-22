@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SAMSUNG Galaxy Tab S6 Lite - Tablet de 1 al 21.36 % de descuento'
-date: 2021-06-21 00:59:16
+title: 'SAMSUNG Galaxy Tab S6 Lite - Tablet de 1 al 34.93 % de descuento'
+date: 2021-06-22 11:37:38
 image: 'https://m.media-amazon.com/images/I/41ICzogwpBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0973DKRS1-es SAMSUNG Galaxy Tab S6 Lite - Tablet de 10.4" WiFi...'
 sku: 'B0973DKRS1-es'
 tags: [ 'Informática','Tablets','android','samsung', ]
-actualPrice: 454.56 EUR
+actualPrice: 376.11 EUR
 currency: EUR
-price: 454.56
+price: 376.11
 comparePrice: 578.0 EUR
 prodname: 'SAMSUNG Galaxy Tab S6 Lite - Tablet de 10.4"  WiFi  Procesador Exynos 9611  RAM de 4GB  64GB  Android 10  - Color Azul [Versión española] + Smartphone Dual SIM  Pantalla de 6 4"  Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B0973DKRS1/?tag=tolees-21'
-descuento: '21.36'
-average: '454.56'
+descuento: '34.93'
+average: '415.335'
 ---
 
-Está [SAMSUNG Galaxy Tab S6 Lite - Tablet de 10.4"  WiFi  Procesador Exynos 9611  RAM de 4GB  64GB  Android 10  - Color Azul [Versión española] + Smartphone Dual SIM  Pantalla de 6 4"  Color Negro](https://www.amazon.es/dp/B0973DKRS1/?tag=tolees-21) con 21.36 de descuento por 454.56 EUR (original: 578.0 EUR) en el siguiente enlace!
+Está [SAMSUNG Galaxy Tab S6 Lite - Tablet de 10.4"  WiFi  Procesador Exynos 9611  RAM de 4GB  64GB  Android 10  - Color Azul [Versión española] + Smartphone Dual SIM  Pantalla de 6 4"  Color Negro](https://www.amazon.es/dp/B0973DKRS1/?tag=tolees-21) con 34.93 de descuento por 376.11 EUR (original: 578.0 EUR) en el siguiente enlace!
 
 [![SAMSUNG Galaxy Tab S6 Lite - Tablet de 1](https://m.media-amazon.com/images/I/41ICzogwpBS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0973DKRS1/?tag=tolees-21)
 
