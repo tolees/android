@@ -28,12 +28,12 @@ En este momento está [SAMSUNG Galaxy Tab A 7 | Tablet de 10.4" FullHD  WiFi  Pr
 
 🔎:
 
+- Pantalla táctil de 10.4" FullHD con una resolución de 2000 x 1200 píxeles
+- Batería de 7,040mAh con carga rápida de 15W y sistema operativo Android actualizable
 - Cámara trasera de 8MP
 - Procesador Qualcomm Snapdragon 662, Octa-core
-- Sonido estéreo con cuatro altavoces Dolby Atmos y tecnología envolvente 3D
-- Batería de 7,040mAh con carga rápida de 15W y sistema operativo Android actualizable
 - No incluye ranura para tarjeta SIM
 - Memoria RAM de 3GB, Almacenamiento de 32GB con ranura microsd ampliable hasta 1TB
-- Pantalla táctil de 10.4" FullHD con una resolución de 2000 x 1200 píxeles
+- Sonido estéreo con cuatro altavoces Dolby Atmos y tecnología envolvente 3D
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FMWYCBQ/?tag=tolees-21)
