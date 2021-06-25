@@ -28,10 +28,10 @@ Tienes [Huawei P20 Pro – Smartphone de 6 1"  Kirin 970 AI  6G de RAM  128 GB d
 
 🔎:
 
+- 6 GB de memoria RAM y 128 GB de memoria interna
 - Procesador Kirin 970 + IA de 8 núcleos (4 a 2.36 GHz de velocidad y 4 a 1.8 GHz)
 - Triple cámara trasera Leica de 40, 20 y 8 megapíxeles, con aperturas de f/1.8, f/1.6 y f/2.4
-- Carga rápida 4000 W y cargador supercharge, sensor de huella dactilar y reconocimiento facial
-- 6 GB de memoria RAM y 128 GB de memoria interna
 - Estabilizador de imagen AI y cámara delantera de 24 megapíxeles
+- Carga rápida 4000 W y cargador supercharge, sensor de huella dactilar y reconocimiento facial
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BV55X4T/?tag=tolees-21)
