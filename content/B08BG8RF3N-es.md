@@ -28,11 +28,11 @@ En este momento está [Krom KLOUD - NXKROMKLD - Gamepad alambrico  diseñado par
 
 🔎:
 
-- Cable USB para PC. Bluetooth para dispositivos móviles (no incluye receptor Bluetooth para PC).
+- D-PAD o entrada de X/Y AXYS
 - Soporte smartphone incluido
 - Mando élite diseñado para la competición
-- Palancas traseras configurables
-- D-PAD o entrada de X/Y AXYS
 - Compatible con PC, Switch, Android e IOS
+- Palancas traseras configurables
+- Cable USB para PC. Bluetooth para dispositivos móviles (no incluye receptor Bluetooth para PC).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BG8RF3N/?tag=tolees-21)
