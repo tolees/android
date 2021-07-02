@@ -28,9 +28,9 @@ Está [SanDisk Memoria Flash USB 256 GB para tu smartphone Android - Ultra Dual 
 
 ℹ️:
 
+- Transfiere el contenido fácilmente entre smartphones, tabletas y ordenadores
 - Libera espacio en tu smartphone Android con 16 GB, 32 GB, 64 GB, 128 GB o 256 GB de almacenamiento instantáneo para dispositivos USB Type-C
 - Diseño retráctil con un conector USB Type-C reversible y un conector USB tradicional
-- Transfiere el contenido fácilmente entre smartphones, tabletas y ordenadores
 - Rendimiento USB 3.1 de alta velocidad de hasta 150 MB/s
 - La aplicación SanDisk Memory Zone (disponible en Google Play) te permite gestionar el contenido y hacer copias de seguridad fácilmente en tu smartphone y tableta
 
