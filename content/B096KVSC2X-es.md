@@ -28,9 +28,9 @@ Ahora mismo tienes [Motorola Moto g30  Pantalla de 6.5" 90Hz  Qualcomm Snapdrago
 
 🔎:
 
-- Batería: 5000 mAh
-- Procesador: Snapdragon 662 2GHz
-- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
 - Pantalla: 6.5", 720 x 1600 pixels
+- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Procesador: Snapdragon 662 2GHz
+- Batería: 5000 mAh
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B096KVSC2X/?tag=tolees-21)
