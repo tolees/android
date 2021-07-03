@@ -28,9 +28,9 @@ En este momento está [SAMSUNG Galaxy Tab S6 Lite - Tablet de 10.4"  WiFi  Proce
 
 🔎:
 
-- 4GB de memoria RAM, 64GB de almacenamiento ampliable con microSD hasta 512 GB
+- Expande tu mundo de entretenimiento. Galaxy m11 cuenta con una pantalla hd + infinity-o de 6.4 "que brinda cobertura de extremo a extremo para disfrutar de todos sus juegos favoritos y contenido de video.
 - El m11 se ve tan bien como se siente. Las opciones de color negro, azul metálico y violeta agregan un toque moderno al marco simple y moderno. Las suaves curvas del diseño lateral simétrico le permiten agarrar el teléfono cómodamente en la mano para facilitar la navegación por la pantalla.
 - Pantalla de 10.4", 2000 x 1200 píxeles FullHD.
-- Expande tu mundo de entretenimiento. Galaxy m11 cuenta con una pantalla hd + infinity-o de 6.4 "que brinda cobertura de extremo a extremo para disfrutar de todos sus juegos favoritos y contenido de video.
+- 4GB de memoria RAM, 64GB de almacenamiento ampliable con microSD hasta 512 GB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0973CRVTM/?tag=tolees-21)
