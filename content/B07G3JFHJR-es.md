@@ -28,9 +28,9 @@ En este momento está [HUAWEI MediaPad M5 Lite 10 - Tablet de 10.1" FullHD  LTE 
 
 🔎:
 
+- Procesador Octa-Core Kirin 659 y sistema de 4 altavoces estéreo certificados por Harman Kardon.
+- Pantalla táctil IPS FullHD de 10.1 pulgadas con una resolución de 1920 x 1200 píxeles, 224ppi y 5 modos Eye-Comfort.
 - RAM de 3GB, almacenamiento de 32GB y batería de larga duración de 7500 mAh con carga rápida.
 - Sistema operativo Android 8.0, EMUI 8.0.
-- Pantalla táctil IPS FullHD de 10.1 pulgadas con una resolución de 1920 x 1200 píxeles, 224ppi y 5 modos Eye-Comfort.
-- Procesador Octa-Core Kirin 659 y sistema de 4 altavoces estéreo certificados por Harman Kardon.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G3JFHJR/?tag=tolees-21)
