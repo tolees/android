@@ -28,12 +28,12 @@ Tienes [Kodak Mini Shot 2 Retro Cámara instantánea e Impresora fotográfica po
 
 ℹ️:
 
-- Bluetooth
-- Función de impresora para smartphones
+- Kodak New Mini Shot Combo
 - Diseño vintage amarillo
+- Función de impresora para smartphones
+- Bluetooth
+- Cámara digital de impresión instantánea
 - Tecnología de impresión patentada de 4 pasos
 - 5 x 8,6 cm
-- Cámara digital de impresión instantánea
-- Kodak New Mini Shot Combo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084MKHDK5/?tag=tolees-21)
