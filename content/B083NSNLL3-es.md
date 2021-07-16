@@ -28,10 +28,10 @@ En este momento está [Lenovo TAB M8- Tablet de 8"  1280x800  IPS   MediaTek Hel
 
 🔎:
 
+- Pantalla de 8" HD (1280x800) IPS 350nits
 - RAM de 2GB Soldered
+- Procesador MediaTek Helio A22 (4C, 4x A53 @2.0GHz)
 - Sistema Operativo Android 9.0
 - Almacenamiento de 32GB ampliables hasta 128GB
-- Pantalla de 8" HD (1280x800) IPS 350nits
-- Procesador MediaTek Helio A22 (4C, 4x A53 @2.0GHz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083NSNLL3/?tag=tolees-21)
