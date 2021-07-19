@@ -28,10 +28,10 @@ En este momento está [BABAKA Mini Power Bank 5000mAh Carga Rápida  PD18W QC3.0
 
 🔎:
 
-- 【2 Salidas Rápidas de PD18W & QC3.0】Salidas de USB y type-C pueden cargar simultáneamente dos dispositivos, al mismo tiempo, con PD18W y QC3.0, también asegura la velocidad.
-- 【Un Íntimo Regalo Para Viaje】Es exterior negro, muy pequeño y ligero. Se puede llevarlo al avión, es mejor viaje regalo para su esposa/o, novia/o, hijos, o amigos.
 - 【Mini Tamaño Como de Su Lápiz Labial o Mechero】Muy ligero de 98g peso y sólo 7,9* 3,8*2,6cm. Es muy muy pequeño y compacto para llevarlo consigo.
+- 【2 Salidas Rápidas de PD18W & QC3.0】Salidas de USB y type-C pueden cargar simultáneamente dos dispositivos, al mismo tiempo, con PD18W y QC3.0, también asegura la velocidad.
 - 【USB-C Entrada & Salida Bidireccional】USB C con 5V/3A, es de hasta 18W, sólo tarda 3 horas desde 0 hasta la carga completa. Carga más rápida que otros puertos 1A.
 - 【Segura & Confiable】Admite protección contra sobrecargas, sobrecargas, sobretensiones, sobrecorrientes y cortocircuitos.
+- 【Un Íntimo Regalo Para Viaje】Es exterior negro, muy pequeño y ligero. Se puede llevarlo al avión, es mejor viaje regalo para su esposa/o, novia/o, hijos, o amigos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08H8LLP8L/?tag=tolees-21)
