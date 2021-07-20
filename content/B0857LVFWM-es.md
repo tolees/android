@@ -30,9 +30,9 @@ Ahora mismo tienes [Lenovo Yoga Smart Tab - Tablet de 10.1" FullHD/IPS  Qualcomm
 
 - Tarjeta gráfica Integrada Qualcomm Adreno 505 GPU
 - Memoria RAM 3GB
-- Almacenamiento 32GB eMMC
-- Sistema Operativo: Android 9
 - Procesador Qualcomm Snapdragon 439 (8C, 8x A53 @2.0GHz)
 - Pantalla Full HD de 10.1 pulgadas, resolución 1920x1200, IPS, 320nits
+- Almacenamiento 32GB eMMC
+- Sistema Operativo: Android 9
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0857LVFWM/?tag=tolees-21)
