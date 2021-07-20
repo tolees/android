@@ -28,10 +28,10 @@ Tienes [Samsung Note20 4G - Smartphone Android Libre de 6.7" I 256 GB I Mystic G
 
 🔎:
 
-- Potencia la productividad de tu smartphone con nuestro S Pen mejorado y la completa integración de Microsoft Office. Además, puedes crear y exportar documentos profesionales sobre la marcha.
 - Protección de pantalla del móvil Gorilla Glass 5.
 - Pantalla del móvil - Pantalla Super AMOLED+ Infinity-O de 6.7" FHD+, resolución de 2400 x 1080 píxeles, densidad de píxeles de 394 ppi y compatibilidad con 16 millones de colores.
-- Cámara del móvil - Zoom Óptico Híbrido 3x, Zoom Espacial 30x. Cámara principal de 12MP, cámara zoom de 64MP, cámara ultra gran angular 12MP y cámara frontal de 10MP.
+- Potencia la productividad de tu smartphone con nuestro S Pen mejorado y la completa integración de Microsoft Office. Además, puedes crear y exportar documentos profesionales sobre la marcha.
 - Batería del móvil - Batería inteligente de alto rendimiento de 4300 mAh con función de carga rápida de 25 vatios.
+- Cámara del móvil - Zoom Óptico Híbrido 3x, Zoom Espacial 30x. Cámara principal de 12MP, cámara zoom de 64MP, cámara ultra gran angular 12MP y cámara frontal de 10MP.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D6QB69L/?tag=tolees-21)
