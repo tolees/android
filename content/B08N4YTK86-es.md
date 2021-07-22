@@ -28,12 +28,12 @@ Está [HUAWEI Mediapad T5 - Tablet de 10.1" FullHD  Wi-Fi  RAM de 2GB  ROM de 32
 
 ℹ️:
 
-- Sistema Operativo Android 8.0+ y EMUI 8.0
 - No incluye ranura para la tarjeta SIM.
-- 2GB de RAM, 32GB de almacenamiento ampliable hasta 256GB mediante tarjeta microSD (no incluida) y batería de larga duración con 5100 mAh.
-- Cámara trasera de 5MP y frontal de 2MP.
 - Cuerpo metálico, diseño elegante, 460g, 7.8mm de marco estrecho.
-- Pantalla táctil IPS FullHD de 10.1 pulgadas con resolución de 1920 x 1200 píxeles y modo Eye-Care.
+- Cámara trasera de 5MP y frontal de 2MP.
+- 2GB de RAM, 32GB de almacenamiento ampliable hasta 256GB mediante tarjeta microSD (no incluida) y batería de larga duración con 5100 mAh.
 - Procesador octa-core Kirin 659.
+- Pantalla táctil IPS FullHD de 10.1 pulgadas con resolución de 1920 x 1200 píxeles y modo Eye-Care.
+- Sistema Operativo Android 8.0+ y EMUI 8.0
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08N4YTK86/?tag=tolees-21)
