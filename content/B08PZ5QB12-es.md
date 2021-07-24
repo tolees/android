@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Tablet 10.1 Pulgadas Android 10  Blackvi al 18.49 % de descuento'
+date: 2021-07-24 21:56:03
+image: 'https://m.media-amazon.com/images/I/51Yydu0X6lL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08PZ5QB12-es Tablet 10.1 Pulgadas Android 10 Blackview Tab 8E Tableta...'
+sku: 'B08PZ5QB12-es'
+tags: [ 'Informática','Tablets','android','blackview', ]
+actualPrice: 118.99 EUR
+currency: EUR
+price: 118.99
+comparePrice: 145.99 EUR
+prodname: 'Tablet 10.1 Pulgadas Android 10  Blackview Tab 8E Tableta Octa-Core 1.6 GHz  5G WiFi  1920 * 1200 FHD+  6580mAh  Cámara Dual 13.0+5.0 MP  3GB+32GB  SD 128GB  Bluetooth 5.0/GPS/Face ID/OTG/Tpye-C'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Blackview'
+buyurl: 'https://www.amazon.es/dp/B08PZ5QB12/?tag=tolees-21'
+descuento: '18.49'
+average: '139.656666666667'
+---
+
+Ahora mismo tienes [Tablet 10.1 Pulgadas Android 10  Blackview Tab 8E Tableta Octa-Core 1.6 GHz  5G WiFi  1920 * 1200 FHD+  6580mAh  Cámara Dual 13.0+5.0 MP  3GB+32GB  SD 128GB  Bluetooth 5.0/GPS/Face ID/OTG/Tpye-C](https://www.amazon.es/dp/B08PZ5QB12/?tag=tolees-21) a 118.99 EUR (original: 145.99 EUR) (18.49 %  de descuento) en el siguiente enlace!
+
+[![Tablet 10.1 Pulgadas Android 10  Blackvi](https://m.media-amazon.com/images/I/51Yydu0X6lL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08PZ5QB12/?tag=tolees-21)
+
+🔎:
+
+- ➤➤【10.1 pulgadas, ultradelgado】 Una pantalla HD de 10.1 pulgadas con una resolución de 1920 x 1200, pulgadas y una relación de aspecto de 16:10. La pantalla logra un toque preciso y ofrece colores de imagen reales y vívidos. Imagen de alta calidad, visualización más clara. Se instalan dos altavoces de alta fidelidad para proporcionar estéreo dual. Con solo 8,9 mm de grosor, es muy fácil de sujetar y la estructura es más sólida y delgada
+- ➤➤【Tableta Android 10, Octa Core, 5G WiFi】 Android 10.0, el funcionamiento es más suave, más fácil de usar, más inteligente, más simple y más humanizado. Con un procesador octa-core de 1.6GHz, ofrece una eficiencia de procesamiento de imagen, video, audio y software más rápida, lo que hace que la tableta responda instantáneamente a cada clic y diapositiva. La tableta WiFi de 10.1 pulgadas tiene una conexión a Internet más rápida, admite conexión de banda Wi-Fi 5G
+- ➤➤【Cámara de 13MP + 5MP, 2 años de garantía】 Cámara frontal de 5.0MP + cámara trasera de 13.0MP. Haga sus fotos más claras y hermosas. También admite el desbloqueo con Face ID. Ofrecemos una garantía de 2 años.
+- ➤➤【Expansión de 128 GB】 El procesador octa-core junto con 3 GB de RAM, le permite realizar múltiples tareas simultáneamente mientras mantiene la fluidez. Incluso si está ejecutando una aplicación de juegos con gran memoria, no tiene que preocuparse por el error Crash.Con 32 GB de espacio de almacenamiento (ampliable hasta 128 GB), puede realizar operaciones fácilmente todos los días, también descargar su música, video, etc.
+- ➤➤【Batería de 6580 mAh, gran capacidad,】 Con batería de 6580 mAh, irá bien con tu entretenimiento. Trabaje con la tecnología de carga de 5V / 2A para cargarse completamente en 3.5 horas. La interfaz de carga Tpye-C admite una carga rápida. Función OTG. Y puede ser muy conveniente llevarlo de viaje sin preocuparse por la conexión a la red o problemas de energía.
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B08PZ5QB12/?tag=tolees-21)
