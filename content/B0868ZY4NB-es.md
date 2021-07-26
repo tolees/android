@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO Find X2 LITE 5G – Pantalla de 6.4"  al 44.09 % de rebaja'
-date: 2021-07-23 20:29:00
+date: 2021-07-26 07:34:35
 image: 'https://m.media-amazon.com/images/I/51TwGpF5nqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oppo'
 buyurl: 'https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21'
 descuento: '44.09'
-average: '307.230619469026'
+average: '306.98298245614'
 ---
 
 Tienes [OPPO Find X2 LITE 5G – Pantalla de 6.4"  AMOLED  8GB/128GB  Snapdragon 765G  4.000 mAh  cámara trasera 48MP+8MP+2MP+2MP  cámara frontal 32MP  Android 10  Negro [Versión ES/PT]](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21) con precio final de  279.0 EUR (original: 499.0 EUR) (44.09 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [OPPO Find X2 LITE 5G – Pantalla de 6.4"  AMOLED  8GB/128GB  Snapdragon
 
 🔎:
 
-- 30W Carga Flash VOOC 4.0. La velocidad de carga ha evolucionado. Find X2 Lite cuenta con un tiempo de carga de alta corriente extendido, gracias a los 30W de potencia de carga, una batería de 4025mAh, y un tablero de protección de la temperatura de la batería.
-- Pantalla: 6.4", 1080 x 2400 pixels. El Find X2 Lite está equipado con una pantalla Amoled FHD+, Desbloqueo dactilar oculto en pantalla. Y 5ª Generación protectora de Corning Gorilla Glass.
 - Cámara Cuádruple 48 MP. La cámara del Find X2 Lite cuenta con 8MP Gran Angular + Lente Macro, 48MP Cámara principal f/1.7 gran apertura 2MP Lentes Mono Estilo Retrato. 2MP Lentras retrato estilo retrato.
 - Procesador: Snapdragon 765G 2.4GHz. El Find X2 Lite está equipado con Qualcomm Snapdragon 765G, Procesador octa-core, y una velocidad máxima de descarga de 1,9Gbps. Compatible con NSA5G
+- 30W Carga Flash VOOC 4.0. La velocidad de carga ha evolucionado. Find X2 Lite cuenta con un tiempo de carga de alta corriente extendido, gracias a los 30W de potencia de carga, una batería de 4025mAh, y un tablero de protección de la temperatura de la batería.
+- Pantalla: 6.4", 1080 x 2400 pixels. El Find X2 Lite está equipado con una pantalla Amoled FHD+, Desbloqueo dactilar oculto en pantalla. Y 5ª Generación protectora de Corning Gorilla Glass.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21)
