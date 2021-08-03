@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.00 % en Kodak Mini Shot 2 Retro Cámara instantán'
-date: 2021-07-12 08:40:49
+date: 2021-08-03 08:34:23
 image: 'https://m.media-amazon.com/images/I/41C+E8xnKAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KODAK'
 buyurl: 'https://www.amazon.es/dp/B084MKHDK5/?tag=tolees-21'
 descuento: '15.00'
-average: '99.5525'
+average: '97.49'
 ---
 
 Tienes [Kodak Mini Shot 2 Retro Cámara instantánea e Impresora fotográfica portátil  iOS y Android  tecnología 4Pass  54 x 86 mm  – Amarillo – 8 Hojas](https://www.amazon.es/dp/B084MKHDK5/?tag=tolees-21) con un 15.00 % de descuento con precio de oferta de 89.24 EUR (original: 104.99 EUR) en el siguiente enlace!
@@ -29,11 +29,11 @@ Tienes [Kodak Mini Shot 2 Retro Cámara instantánea e Impresora fotográfica po
 ℹ️:
 
 - Kodak New Mini Shot Combo
-- Diseño vintage amarillo
-- Función de impresora para smartphones
 - Bluetooth
-- Cámara digital de impresión instantánea
+- Función de impresora para smartphones
 - Tecnología de impresión patentada de 4 pasos
+- Cámara digital de impresión instantánea
 - 5 x 8,6 cm
+- Diseño vintage amarillo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084MKHDK5/?tag=tolees-21)
