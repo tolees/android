@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Descuento del 56.43 % en LAST LEVEL- Funko 17 Figura Pop Dragon B'
-date: 2020-10-10 09:15:39
-image: 'https://m.media-amazon.com/images/I/41457hHTOvL._SL400_.jpg'
+title: 'Descuento del 24.76 % en LAST LEVEL - Figura Pop Dragon Ball. C17'
+date: 2021-08-29 19:57:40
+image: 'https://m.media-amazon.com/images/I/41457hHTOvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07HBBC9B5-es LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android...'
+slug: 'B07HBBC9B5-es LAST LEVEL - Figura Pop Dragon Ball. C17 Android'
 sku: 'B07HBBC9B5-es'
-tags: [ 'android', ]
-actualPrice: 6.95 EUR
+tags: [ 'Coleccionables','Figuras de muñecos chibi','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Muñecos y figuras','Muñecos y figuras de acción','android','last level', ]
+actualPrice: 12.0 EUR
 currency: EUR
-price: 6.95
+price: 12.0
 comparePrice: 15.95 EUR
-prodname: 'LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android  Multicolor  Talla única  FFK36398 '
+prodname: 'LAST LEVEL - Figura Pop Dragon Ball. C17 Android'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'LAST LEVEL'
 buyurl: 'https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21'
-descuento: '56.43'
-average: '9.36625'
+descuento: '24.76'
+average: '9.65888888888889'
 ---
 
-Tienes [LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android  Multicolor  Talla única  FFK36398 ](https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21) con un 56.43 % de descuento con precio de oferta de 6.95 EUR (original: 15.95 EUR) en el siguiente enlace!
+Tienes [LAST LEVEL - Figura Pop Dragon Ball. C17 Android](https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21) con un 24.76 % de descuento con precio de oferta de 12.0 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![LAST LEVEL- Funko 17 Figura Pop Dragon B](https://m.media-amazon.com/images/I/41457hHTOvL._SL400_.jpg)](https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21)
+[![LAST LEVEL - Figura Pop Dragon Ball. C17](https://m.media-amazon.com/images/I/41457hHTOvL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21)
 
 ℹ️:
 
+- Figura pop dragon ball: c17 android
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21)
