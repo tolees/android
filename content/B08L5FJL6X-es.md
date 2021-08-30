@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Legion Phone Duel- Móvil Gaming 6 al 33.50 % de descuento'
-date: 2021-08-29 10:30:59
+date: 2021-08-30 10:40:44
 image: 'https://m.media-amazon.com/images/I/41qsbRbqVGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08L5FJL6X/?tag=tolees-21'
 descuento: '33.50'
-average: '465.996666666667'
+average: '449.2475'
 ---
 
 Está [Lenovo Legion Phone Duel- Móvil Gaming 6.65   FullHD  Snapdragon 865+ 5G  12GB RAM  256 GB UFS 3.1  Tarjeta gráfica Qualcomm Adreno 650  Android 10  Negro [Versión ES/PT]](https://www.amazon.es/dp/B08L5FJL6X/?tag=tolees-21) con 33.50 de descuento por 399.0 EUR (original: 599.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [Lenovo Legion Phone Duel- Móvil Gaming 6.65   FullHD  Snapdragon 865+ 5G
 
 ℹ️:
 
-- Dos baterías de 2500 mAh con doble turbocargador tipo c de 90.w para conseguir la máxima potencia y la experiencia de carga más rápida jamás vista
-- Procesador Qualcomm Snapdragon 865+ 5g
 - Con los altavoces estéreo frontales dobles, podrás ver y escuchar al enemigo que se aproxima con todo lujo de detalles
 - Frecuencia de 3,09.hz sin limitación de rendimiento
-- Tamaño de pantalla: 6.65 inches
 - Vive un juego increíblemente fluido y sin desenfoques con una frecuencia de actualización de pantalla de 144 Hz
+- Tamaño de pantalla: 6.65 inches
+- Procesador Qualcomm Snapdragon 865+ 5g
+- Dos baterías de 2500 mAh con doble turbocargador tipo c de 90.w para conseguir la máxima potencia y la experiencia de carga más rápida jamás vista
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L5FJL6X/?tag=tolees-21)
