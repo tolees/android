@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Alcatel 3 - Smartphone  RAM de 3 GB  Cam al 28.12 % de descuento'
-date: 2020-02-27 09:28:54
-image: 'https://m.media-amazon.com/images/I/41RpJywzlGL._AC_._SL400_.jpg'
+title: 'Alcatel 3 - Smartphone  RAM de 3 GB  Cam al 28.75 % de descuento'
+date: 2021-09-04 16:20:38
+image: 'https://m.media-amazon.com/images/I/31oz9dgURpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07RHBZKGB-es Alcatel 3 - Smartphone RAM de 3 GB Camara 13 MP bateria...'
 sku: 'B07RHBZKGB-es'
-tags: [ 'android', ]
-actualPrice: 115.0 EUR
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','alcatel','android', ]
+actualPrice: 114.0 EUR
 currency: EUR
-price: 115.0
+price: 114.0
 comparePrice: 159.99 EUR
-prodname: 'Alcatel 3 - Smartphone  RAM de 3 GB  Camara 13 MP  bateria 3500 mAh  Android   Color Azul'
+prodname: 'Alcatel 3 - Smartphone  RAM de 3 GB  Camara 13 MP  bateria 3500 mAh  Android   Color Azul [Versión ES/PT]'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Alcatel'
 buyurl: 'https://www.amazon.es/dp/B07RHBZKGB/?tag=tolees-21'
-descuento: '28.12'
-average: '120.42285714285714'
+descuento: '28.75'
+average: '124.105555555556'
 ---
 
-Ahora mismo tienes [Alcatel 3 - Smartphone  RAM de 3 GB  Camara 13 MP  bateria 3500 mAh  Android   Color Azul](https://www.amazon.es/dp/B07RHBZKGB/?tag=tolees-21) a 115.0 EUR (original: 159.99 EUR) (28.12 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Alcatel 3 - Smartphone  RAM de 3 GB  Camara 13 MP  bateria 3500 mAh  Android   Color Azul [Versión ES/PT]](https://www.amazon.es/dp/B07RHBZKGB/?tag=tolees-21) a 114.0 EUR (original: 159.99 EUR) (28.75 %  de descuento) en el siguiente enlace!
 
-[![Alcatel 3 - Smartphone  RAM de 3 GB  Cam](https://m.media-amazon.com/images/I/41RpJywzlGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RHBZKGB/?tag=tolees-21)
+[![Alcatel 3 - Smartphone  RAM de 3 GB  Cam](https://m.media-amazon.com/images/I/31oz9dgURpL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07RHBZKGB/?tag=tolees-21)
 
 🔎:
 
+- Cámara: 13 MP
+- Capacidad de almacenamiento interno: 32 GB
+- Diagonal de la pantalla: 15.1 cm
+- Resolución de pantalla: 720 x 1560 píxeles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RHBZKGB/?tag=tolees-21)
