@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CHiQ Televisor Smart TV LED 65 Pulgadas  al 20.00 % de rebaja'
-date: 2021-09-06 11:16:42
+date: 2021-09-07 14:48:34
 image: 'https://m.media-amazon.com/images/I/418YWHc+m8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CHiQ'
 buyurl: 'https://www.amazon.es/dp/B089ZWQ4YH/?tag=tolees-21'
 descuento: '20.00'
-average: '669.99'
+average: '659.99'
 ---
 
 Tienes [CHiQ Televisor Smart TV LED 65 Pulgadas  Android 9.0  Smart TV  UHD  4K  WiFi  Bluetooth  Google Play Store  Google Assistant  Netflix  Prime Video  HDMI  USB - U65H7A](https://www.amazon.es/dp/B089ZWQ4YH/?tag=tolees-21) con precio final de  639.99 EUR (original: 799.99 EUR) (20.00 %  de rebaja) aqui!
