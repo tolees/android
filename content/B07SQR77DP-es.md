@@ -28,9 +28,9 @@ Ahora mismo tienes [Lenovo Tab M10 25 5 cm  10 1 Zoll  1280x800  HD  WideView  t
 
 🔎:
 
+- Garantía del fabricante: 36 meses. Las condiciones de garantía se pueden encontrar en "Más información técnica". Sus derechos de garantía legales no se ven afectados.
+- Batería: polímero de litio de 4850 mAh, hasta 9 horas de duración de la batería (reproducción de video). Conexiones de red: WiFi 802.11 a / b / g / n / ac, Bluetooth 4.2
 - Volumen de suministro: Lenovo Tab M10 HD, negro, adaptador de viaje, cable micro USB, documentación
 - Procesador: Qualcom Snapdragon 429 (Octa-Core, hasta 2.0 GHz). Especial: altavoces estéreo frontales con Dolby Atmos, cuentas familiares individuales, reconocimiento facial, modo seguro para niños
-- Batería: polímero de litio de 4850 mAh, hasta 9 horas de duración de la batería (reproducción de video). Conexiones de red: WiFi 802.11 a / b / g / n / ac, Bluetooth 4.2
-- Garantía del fabricante: 36 meses. Las condiciones de garantía se pueden encontrar en "Más información técnica". Sus derechos de garantía legales no se ven afectados.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SQR77DP/?tag=tolees-21)
