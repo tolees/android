@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 24.76 % en LAST LEVEL - Figura Pop Dragon Ball. C17'
-date: 2021-08-29 19:57:40
+title: 'Descuento del 24.20 % en LAST LEVEL - Figura Pop Dragon Ball. C17'
+date: 2021-09-13 08:07:30
 image: 'https://m.media-amazon.com/images/I/41457hHTOvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07HBBC9B5-es LAST LEVEL - Figura Pop Dragon Ball. C17 Android'
 sku: 'B07HBBC9B5-es'
 tags: [ 'Coleccionables','Figuras de muñecos chibi','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Muñecos y figuras','Muñecos y figuras de acción','android','last level', ]
-actualPrice: 12.0 EUR
+actualPrice: 12.09 EUR
 currency: EUR
-price: 12.0
+price: 12.09
 comparePrice: 15.95 EUR
 prodname: 'LAST LEVEL - Figura Pop Dragon Ball. C17 Android'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LAST LEVEL'
 buyurl: 'https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21'
-descuento: '24.76'
-average: '9.65888888888889'
+descuento: '24.20'
+average: '9.902'
 ---
 
-Tienes [LAST LEVEL - Figura Pop Dragon Ball. C17 Android](https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21) con un 24.76 % de descuento con precio de oferta de 12.0 EUR (original: 15.95 EUR) en el siguiente enlace!
+Tienes [LAST LEVEL - Figura Pop Dragon Ball. C17 Android](https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21) con un 24.20 % de descuento con precio de oferta de 12.09 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![LAST LEVEL - Figura Pop Dragon Ball. C17](https://m.media-amazon.com/images/I/41457hHTOvL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07HBBC9B5/?tag=tolees-21)
 
