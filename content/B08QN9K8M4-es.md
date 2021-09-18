@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto E7 - Smartphone de 6.5"  H al 25.21 % de rebaja'
-date: 2021-08-30 15:25:00
+date: 2021-09-18 01:00:54
 image: 'https://m.media-amazon.com/images/I/41FR3RKA-QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Motorola'
 buyurl: 'https://www.amazon.es/dp/B08QN9K8M4/?tag=tolees-21'
 descuento: '25.21'
-average: '104.892133333332'
+average: '104.479350649349'
 ---
 
 Tienes [Motorola Moto E7 - Smartphone de 6.5"  HD+ MAX Vision  Sistema de cámara Dual de 48 MP  batería de 4000 mAH  Dual SIM  2/32GB  Android 10   Gris [Versión ES/PT]](https://www.amazon.es/dp/B08QN9K8M4/?tag=tolees-21) con precio final de  89.0 EUR (original: 119.0 EUR) (25.21 %  de rebaja) aqui!
