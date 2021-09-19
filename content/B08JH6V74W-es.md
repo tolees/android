@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'OPPO A73 5G – Pantalla de 6.5"  AMOLED   al 20.07 % de rebaja'
-date: 2021-08-31 17:20:00
+title: 'OPPO A73 5G – Pantalla de 6.5"  AMOLED   al 19.77 % de rebaja'
+date: 2021-09-19 08:31:12
 image: 'https://m.media-amazon.com/images/I/41PA0JqHv6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08JH6V74W-es OPPO A73 5G – Pantalla de 6.5" AMOLED 8GB +128GB MT6853V...'
 sku: 'B08JH6V74W-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','oppo', ]
-actualPrice: 239.0 EUR
+actualPrice: 239.9 EUR
 currency: EUR
-price: 239.0
+price: 239.9
 comparePrice: 299.0 EUR
 prodname: 'OPPO A73 5G – Pantalla de 6.5"  AMOLED  8GB +128GB  MT6853V  4040mAh  Triple Cámara con IA  carga rápida 18W  Dual Sim Android 10  Neon [Versión ES/PT]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Oppo'
 buyurl: 'https://www.amazon.es/dp/B08JH6V74W/?tag=tolees-21'
-descuento: '20.07'
-average: '244.785999999999'
+descuento: '19.77'
+average: '244.480624999999'
 ---
 
-Tienes [OPPO A73 5G – Pantalla de 6.5"  AMOLED  8GB +128GB  MT6853V  4040mAh  Triple Cámara con IA  carga rápida 18W  Dual Sim Android 10  Neon [Versión ES/PT]](https://www.amazon.es/dp/B08JH6V74W/?tag=tolees-21) con precio final de  239.0 EUR (original: 299.0 EUR) (20.07 %  de rebaja) aqui!
+Tienes [OPPO A73 5G – Pantalla de 6.5"  AMOLED  8GB +128GB  MT6853V  4040mAh  Triple Cámara con IA  carga rápida 18W  Dual Sim Android 10  Neon [Versión ES/PT]](https://www.amazon.es/dp/B08JH6V74W/?tag=tolees-21) con precio final de  239.9 EUR (original: 299.0 EUR) (19.77 %  de rebaja) aqui!
 
 [![OPPO A73 5G – Pantalla de 6.5"  AMOLED  ](https://m.media-amazon.com/images/I/41PA0JqHv6L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08JH6V74W/?tag=tolees-21)
 
