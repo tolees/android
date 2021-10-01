@@ -28,9 +28,9 @@ Ahora mismo tienes [OPPO Reno 2 - Smartphone 6.55" AMOLED  Dual Sim  8GB  256GB 
 
 🔎:
 
-- Cámara cuádruple (48mp + 13mp + 8mp + 2mp)
-- Pantalla panorámica ( Amoled 6.55", Ratio de pantalla 93.1%)
 - Modo gaming (game boost 2.0) + dolby atmos
+- Cámara cuádruple (48mp + 13mp + 8mp + 2mp)
 - Batería 4000mah + carga flash vooc 3.0
+- Pantalla panorámica ( Amoled 6.55", Ratio de pantalla 93.1%)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z6M2YG2/?tag=tolees-21)
