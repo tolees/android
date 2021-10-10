@@ -28,12 +28,12 @@ Ahora mismo tienes [HUAWEI Mediapad T3 10 - Tablet de 9.6" HD  WiFi  RAM de 2GB 
 
 🔎:
 
-- Sistema Operativo Android 8.0 y EMUI 8.0.
-- Pantalla táctil IPS HD de 9.6 pulgadas con una resolución de 1280 x 800 píxeles.
-- Procesador Quad-core Qualcomm Snapdragon.
 - 2GB de RAM, 32GB de almacenamiento, batería de 4800 mAh.
-- Cámara trasera de 5MP con enfoque automático y delantera de 2MP.
-- Cuerpo metálico, diseño elegante, 460g.
+- Sistema Operativo Android 8.0 y EMUI 8.0.
+- Procesador Quad-core Qualcomm Snapdragon.
 - No incluye ranura para tarjeta SIM.
+- Pantalla táctil IPS HD de 9.6 pulgadas con una resolución de 1280 x 800 píxeles.
+- Cuerpo metálico, diseño elegante, 460g.
+- Cámara trasera de 5MP con enfoque automático y delantera de 2MP.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XZJTMHX/?tag=tolees-21)
