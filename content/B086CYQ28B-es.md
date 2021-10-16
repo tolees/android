@@ -28,12 +28,12 @@ En este momento está [Xiaomi Mi 10 Pack Lanzamiento  Pantalla FHD+ 6.67”  8GB
 
 🔎:
 
-- El pack incluye: Xiaomi Mi 10 con auriculares True Wireless Earphone 2 y también una Xiaomi Mi band 3.
-- Procesador Qualcomm Snapdragon 865 de última generación, el procesador tope de gama 5G. Frecuencia de la CPU: Procesador de 8 núcleos, hasta 2,84 GHz. GPU: Adreno 650 GPU hasta 587MHz.
 - Cámara cuádruple de 108MP con vídeo 8K y cámara frontal selfie de 20MP.
-- Conectividad 2.4GHz WiFi + 5GHz WiFi + 4G/5G
-- Luces. Cámara. Acción. Redefine los límites de la potencia móvil con el nuevo Xiaomi Mi 10
 - Batería de 4780mAh (typ) de gran capacidad + 30W de carga rápida por cable.
+- Luces. Cámara. Acción. Redefine los límites de la potencia móvil con el nuevo Xiaomi Mi 10
+- Conectividad 2.4GHz WiFi + 5GHz WiFi + 4G/5G
+- Procesador Qualcomm Snapdragon 865 de última generación, el procesador tope de gama 5G. Frecuencia de la CPU: Procesador de 8 núcleos, hasta 2,84 GHz. GPU: Adreno 650 GPU hasta 587MHz.
 - Pantalla AMOLED Full HD+ de 6.67" con cristal redondeado 3D y tecnología TrueColor, la mejor pantalla de Xiaomi hasta la fecha. Tasa de refresco de pantalla de 90Hz y tasa de muestreo de 180Hz. Tanto si estás leyendo como si estás jugando, la pantalla se muestra más suave y con una mayor sensibilidad.
+- El pack incluye: Xiaomi Mi 10 con auriculares True Wireless Earphone 2 y también una Xiaomi Mi band 3.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086CYQ28B/?tag=tolees-21)
