@@ -28,9 +28,9 @@ Ahora mismo tienes [Sony MDR-AS210AP - Auriculares deportivos de botón con agar
 
 🔎:
 
-- Auriculares deportivos resistentes a salpicaduras
 - Agarre alrededor del oído para una sujeción cómoda y sin molestias
 - Auriculares ligeros, 12 g de peso
+- Auriculares deportivos resistentes a salpicaduras
 - Compatibilidad con los Smartphones Android y Apple iPhone, con mando de control y micrófono para la función manos libres
 - Cable con longitud de 1,2 m
 
