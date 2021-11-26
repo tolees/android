@@ -28,10 +28,10 @@ Ahora mismo tienes [HP Sprocket Impresora fotográfica instantánea portátil de
 
 🔎:
 
-- Capacidad de entrada Máximo (papel fotográfico): hasta 10 hojas
 - Imprima desde el carrete de la cámara, las redes sociales y Google Photos
-- Envíe varias fotos a su impresora HP Sprocket Select o prepare las fotos sin conexión para imprimirlas más tarde
 - Requisitos del sistema, recomendados: Android: 5.1 anterior; iOS: 10.0.2
+- Envíe varias fotos a su impresora HP Sprocket Select o prepare las fotos sin conexión para imprimirlas más tarde
+- Capacidad de entrada Máximo (papel fotográfico): hasta 10 hojas
 - Alcance de temperatura operativa: 5 - 40 °C
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SXVJFYN/?tag=tolees-21)
