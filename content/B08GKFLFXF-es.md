@@ -28,10 +28,10 @@ En este momento está [Amazfit Neo Smart Watch Reloj Inteligente 28 Días Bater�
 
 🔎:
 
+- Duración de la batería de 28 días
 - Monitoreo del sueño
 - Pantalla siempre encendida
-- Monitoreo de frecuencia cardíaca
-- Duración de la batería de 28 días
 - Resistente al agua hasta 50 metros
+- Monitoreo de frecuencia cardíaca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GKFLFXF/?tag=tolees-21)
