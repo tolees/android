@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.01 % en Tablet 10.1 Pulgadas  Android 7.0 Tablet'
+title: 'Tablet 10.1 Pulgadas  Android 7.0 Tablet PC  4G LTE + WiFi   Tableta Quad-Core  3 GB de RAM 64 GB de ROM  Dual SIM  Doble Cámara  1280 × 800 IPS  Batería 8000 mAh  Bluetooth  GPS'
 date: 2020-01-06 23:16:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ohyWgcpnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.01'
 average: '89.99'
 ---
 
-Tienes [Tablet 10.1 Pulgadas  Android 7.0 Tablet PC  4G LTE + WiFi   Tableta Quad-Core  3 GB de RAM 64 GB de ROM  Dual SIM  Doble Cámara  1280 × 800 IPS  Batería 8000 mAh  Bluetooth  GPS](https://www.amazon.es/dp/B07V7WWM5P/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 89.99 EUR (original: 120 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Tablet 10.1 Pulgadas  Android 7.0 Tablet](https://images-eu.ssl-images-amazon.com/images/I/41ohyWgcpnL._SL400_.jpg)](https://www.amazon.es/dp/B07V7WWM5P/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07V7WWM5P/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
