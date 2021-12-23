@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A9  Smartphone  4G  Octa-Core  Ram de 6 GB  Memoria de 128 GB  4 Cámaras de 24+5+10+8 MP   Bluetooth  Android  6.3"  Negro'
-date: 2021-12-21 08:57:32
+date: 2021-12-23 13:21:25
 image: 'https://m.media-amazon.com/images/I/41bYrvZAwcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B07K2XQ22K/?tag=tolees-21'
 descuento: '51.64'
-average: '363.8115'
+average: '360.280952380952'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad de almacenamiento interno de 128 GB, ampliable mediante microSD hasta 512 GB más
-- Pantalla infinita de 6.3" con resolución FHD+ y tecnología Super AMOLED
-- Desbloqueo a través de reconocimiento facial y sensor de huella dactilar
 - Batería de carga rápida de 3.800 mAh
+- Desbloqueo a través de reconocimiento facial y sensor de huella dactilar
+- Pantalla infinita de 6.3" con resolución FHD+ y tecnología Super AMOLED
+- Capacidad de almacenamiento interno de 128 GB, ampliable mediante microSD hasta 512 GB más
 
 [🛒 Visítala!!!]({{< param buyurl >}})
