@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TD Systems K45DLJ12US - Televisores Smart TV 45 Pulgadas 4k UHD  Android 9.0 y HBBTV  1300 PCI Hz  3X HDMI  2X USB. DVB-T2/C/S2  Modo Hotel. Televisiones'
-date: 2021-12-13 09:52:59
+date: 2021-12-23 12:33:53
 image: 'https://m.media-amazon.com/images/I/415mEoxdYtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TD Systems'
 buyurl: 'https://www.amazon.es/dp/B08XLR4MNC/?tag=tolees-21'
 descuento: '25.07'
-average: '303.869142857143'
+average: '303.733611111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✅ Accesorios: Mando a distancia con pilas incluidas. Cable adaptador AV. Textos en pantalla (OSD) en español, inglés, francés, alemán, italiano, y portugués. Manual de usuario en español, inglés, francés y portugués.
 - ✅ Sintonizador digital DVB-T2/C/S2, con sistema de televisión híbrida Hbbtv 2.0.1, apto para todos los países de la Unión Europea. Sintonizador de segunda generación.
-- ✅ Smart TV con sistema operativo Android 9.0 (AOSP). CPU: Arm Corex A55 Quad Core a 900 MHz, GPU: Mali 470x3 a 600 Mhz. RAM: 1.5 Gb, y 8 Gb de almacenamiento.
 - ✅ Conexiones: 3x HDMI, 2x USB, entrada de vídeo compuesto, entrada por componentes, puerto de interfaz común CI+, salida de audio digital, salida de auriculares, puerto LAN ethernet RJ45, Wifi, Bluetooth.
 - ✅ Televisores Led 45 Pulgadas. Resolución 3840 x 2160 píxeles (Ultra HD 4K), y HDR10, eficiencia energética G, sonido Dolby Digital Plus, Smart TV.
+- ✅ Smart TV con sistema operativo Android 9.0 (AOSP). CPU: Arm Corex A55 Quad Core a 900 MHz, GPU: Mali 470x3 a 600 Mhz. RAM: 1.5 Gb, y 8 Gb de almacenamiento.
+- ✅ Accesorios: Mando a distancia con pilas incluidas. Cable adaptador AV. Textos en pantalla (OSD) en español, inglés, francés, alemán, italiano, y portugués. Manual de usuario en español, inglés, francés y portugués.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
