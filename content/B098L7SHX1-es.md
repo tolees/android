@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Mediapad T5 - Tablet de 10.1" FullHD  Wi-Fi  RAM de 2GB  ROM de 32GB  Android 8.0  EMUI 8.0   color Negro - Incluye servicios de Google GMS'
-date: 2021-12-30 16:10:45
+date: 2022-01-01 07:50:14
 image: 'https://m.media-amazon.com/images/I/51dLYxK1v6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,11 +30,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalla táctil IPS FullHD de 10.1 pulgadas con resolución de 1920 x 1200 píxeles y modo Eye-Care.
 - Procesador octa-core Kirin 659.
+- Cámara trasera de 5MP y frontal de 2MP.
+- Incluye servicios de Google - GMS
 - Sistema Operativo Android 8.0+ y EMUI 8.0
 - No incluye ranura para la tarjeta SIM.
 - 2GB de RAM, 32GB de almacenamiento ampliable hasta 256GB mediante tarjeta microSD (no incluida) y batería de larga duración con 5100 mAh.
 - Cuerpo metálico, diseño elegante, 460g, 7.8mm de marco estrecho.
-- Incluye servicios de Google - GMS
-- Cámara trasera de 5MP y frontal de 2MP.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
