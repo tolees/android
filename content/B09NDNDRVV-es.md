@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Luminosa pantalla Full HD+ OLED de 6,4". Haz que tus películas, vídeos y juegos favoritos cobren vida en una pantalla más nítida y vívida.
 - Extraordinaria duración de la batería. Disfruta de la vida en movimiento sin tener que pararte a recargar gracias a una batería de 5000 mAh.
-- Velocidades 4G+ LTE más rápidas.Reproduce vídeos en streaming sin buffering y descarga archivos en tan solo una fracción del tiempo que tarda el 4G estándar.
 - Rendimiento con alta capacidad de respuesta. Disfruta de épicos juegos, reproduce vídeos en streaming, saca fotos y chatea con amigos sin perder el ritmo.
-- 128 GB de almacenamiento de fábrica. Nunca te quedes sin espacio para fotos, películas, canciones, aplicaciones y juegos, y añade hasta 1 TB más de almacenamiento con una tarjeta microSD.
-- Diseño único y repelente al agua. Disfruta del aspecto y el tacto de un precioso diseño curvado al tiempo que lo mantienes a salvo de derrames y salpicaduras.
 - Sistema de triple cámara de 50 MP. Captura fotos definidas y vivas con cualquier luz, desde los momentos más importantes hasta los detalles más ínfimos.
+- Velocidades 4G+ LTE más rápidas.Reproduce vídeos en streaming sin buffering y descarga archivos en tan solo una fracción del tiempo que tarda el 4G estándar.
+- Diseño único y repelente al agua. Disfruta del aspecto y el tacto de un precioso diseño curvado al tiempo que lo mantienes a salvo de derrames y salpicaduras.
+- 128 GB de almacenamiento de fábrica. Nunca te quedes sin espacio para fotos, películas, canciones, aplicaciones y juegos, y añade hasta 1 TB más de almacenamiento con una tarjeta microSD.
+- Luminosa pantalla Full HD+ OLED de 6,4". Haz que tus películas, vídeos y juegos favoritos cobren vida en una pantalla más nítida y vívida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
