@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 40 horas de batería. Sigue divirtiéndote todo el día y la noche gracias a su batería de 4000 mAh.
-- Lector de huellas. Desbloquea tu teléfono de forma segura simplemente tocándolo con el dedo.
 - Sistema de doble cámara con IA. No te pierdas ni un momento con la cámara con IA de enfoque rápido y captura retratos de aspecto profesional automáticamente.
+- Lector de huellas. Desbloquea tu teléfono de forma segura simplemente tocándolo con el dedo.
 - Tecla específica para el Asistente de Google. Inicia fácilmente el Asistente de Google con una tecla situada en el lateral del teléfono.
-- Alta capacidad de respuesta. Observa cómo responde el teléfono de forma instantánea cada vez que lo tocas o deslizas el dedo gracias al procesador de ocho núcleos.
 - Pantalla de 6,5" HD+ Max Vision. Da vida a tus películas favoritas y a tus chats de vídeo con una asombrosa pantalla ultra ancha.
+- 40 horas de batería. Sigue divirtiéndote todo el día y la noche gracias a su batería de 4000 mAh.
+- Alta capacidad de respuesta. Observa cómo responde el teléfono de forma instantánea cada vez que lo tocas o deslizas el dedo gracias al procesador de ocho núcleos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
