@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCL 50BP615  Televisor 50 Pulgadas  4K HDR  Ultra HD  Smart TV con Android 9.0  Slim Design  Micro Dimming Pro  Smart HDR  HDR 10  Dolby Audio  Compatible con Google Assistant y Alexa'
-date: 2022-02-22 11:53:16
+date: 2022-02-27 16:38:58
 image: 'https://m.media-amazon.com/images/I/51WmjyyVBwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TCL'
 buyurl: 'https://www.amazon.es/dp/B08F7K81GM/?tag=tolees-21'
 descuento: '21.71'
-average: '403.435'
+average: '391.248571428572'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
