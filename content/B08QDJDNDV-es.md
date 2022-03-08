@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- UHD HDR10 con Dolby Vision y TRU Micro Dimming. Máxima colorimetría.
+- Toshiba Smart Center. Manejo del TV desde el Smartphone iOS y Android
+- Android TV, acceso casi ilimitado de contenidos con ChromeCast y Voice Assistant integrados
 - Pureza de sonido Onkyo con cajas acústicas interiores integradas
 - TRU Resolution. Todos los contenidos recobran vida 4K, independientmente de su antiguedad
-- UHD HDR10 con Dolby Vision y TRU Micro Dimming. Máxima colorimetría.
-- Android TV, acceso casi ilimitado de contenidos con ChromeCast y Voice Assistant integrados
-- Toshiba Smart Center. Manejo del TV desde el Smartphone iOS y Android
 
 [🛒 Aquí!!!]({{< param buyurl >}})
