@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Garantía & Multiuso】 Si llegas a encontrar cualquier inconveniente, te cubriremos con una garantía de 12 meses. es una compra libre de riesgos.Esta cámara de inspección tiene muchos usos incluyendo tubo de ventilación, equipo de la máquina, motor, automóvil, embarcación, aeronave inspección.
-- 【Compatibilidad & IP68 impermeable】Admite el teléfono inteligente Android (Android 4.2+) y el sistema IOS de iPhone (IOS 6.0+). Esta cámara y el cable es IP68 impermeable, usted puede utilizarlo en pipas mojadas o bajo el agua.(Nota: la caja del wifi no es impermeable, aunque la cámara es IP68 impermeable, le recomendamos para utilizarla bajo el agua no más de 10 minutos.)
-- 【Actualizado】Este endoscopio WiFi ha hecho algunas mejoras, 5.5 mm de diámetro, ideal para diversos tipos de ambiente. Con la batería incorporada del Li-ion de 1800mAh, tiempo de trabajo puede alcanzar 3-4 horas, que es mucho más largo que la mayoría de los otros endoscopios WiFi que duran menos de una hora.
 - 【Cámara de 1080P Resolución 】Esta cámara tiene 3 resoluciones de alta definición (1920x1080, 1280x720, 640x480)y 6 luces LED ajustables, Si usted elige el 1920x1080, usted verá los cuadros estupendos claros o graba videos de la alta calidad.
+- 【Compatibilidad & IP68 impermeable】Admite el teléfono inteligente Android (Android 4.2+) y el sistema IOS de iPhone (IOS 6.0+). Esta cámara y el cable es IP68 impermeable, usted puede utilizarlo en pipas mojadas o bajo el agua.(Nota: la caja del wifi no es impermeable, aunque la cámara es IP68 impermeable, le recomendamos para utilizarla bajo el agua no más de 10 minutos.)
 - 【Función de imagen de Zoom】Puede acercar o alejar la imagen o el vídeo para inspeccionar algunas zonas oscuras con mayor claridad y precisión, sólo tiene que pulsar el botón "+" o "-" para ajustarlo, que tiene 3 modos agrandados y estrechos.
+- 【Actualizado】Este endoscopio WiFi ha hecho algunas mejoras, 5.5 mm de diámetro, ideal para diversos tipos de ambiente. Con la batería incorporada del Li-ion de 1800mAh, tiempo de trabajo puede alcanzar 3-4 horas, que es mucho más largo que la mayoría de los otros endoscopios WiFi que duran menos de una hora.
+- 【Garantía & Multiuso】 Si llegas a encontrar cualquier inconveniente, te cubriremos con una garantía de 12 meses. es una compra libre de riesgos.Esta cámara de inspección tiene muchos usos incluyendo tubo de ventilación, equipo de la máquina, motor, automóvil, embarcación, aeronave inspección.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
