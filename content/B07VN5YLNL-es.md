@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZTE Blade A31 - Smartphone de 6.53"  1080 x 2340  Android 11  2 GB RAM  32 GB Alamcenamient  Octa-Core 4 G  3200 mAH  Azul'
-date: 2022-04-11 18:28:41
+date: 2022-04-12 19:17:48
 image: 'https://m.media-amazon.com/images/I/41rPpwhnIIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3200 mAH
-- Camara Trasera: 48 MP, f/1.8 wide, 8 MP, f/2.2 macro, 2 MP, f/2.4 macro, 2 MP, f/2.4 depth
 - Android 11
+- 3200 mAH
 - 6.53 " IPS LCD (1080 x 2340 pixels)
+- Camara Trasera: 48 MP, f/1.8 wide, 8 MP, f/2.2 macro, 2 MP, f/2.4 macro, 2 MP, f/2.4 depth
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
