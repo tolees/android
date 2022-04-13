@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 17 efectos de iluminación configurables/ Conexión Bluetooth 5.0 y por cable (USB)
-- Configuración del teclado sin software/ Compatible con Windows, Android, IOS y Mac
+- Antighosting completo y modo juego/ Teclas con retroiluminación RGB
 - Anti-ghosting y gaming mode
 - Teclado mecánico con switches de alta calidad/ Diseño en formato 60%
-- Antighosting completo y modo juego/ Teclas con retroiluminación RGB
+- Configuración del teclado sin software/ Compatible con Windows, Android, IOS y Mac
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

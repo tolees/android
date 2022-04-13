@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brillante pantalla OLED con HDR10+. Disfruta de más de mil millones de tonos de color en una impresionante pantalla Max Vision Full HD de 6,7".
-- Días de duración de la batería. Llega más lejos con una sola carga con una batería de 5000 mAh y obtén horas de energía en pocos minutos con la carga TurboPower 30.
 - Selfies de 32 MP de alta resolución. Saca retratos increíblemente detallados que te enorgullezca compartir con una sensibilidad 4 veces mayor ante situaciones con poca luz.
-- Sistema de cámara de 108 MP. Captura más color y detalles en cada foto con la tecnología Ultra Pixel para conseguir una sensibilidad 9 veces mayor ante situaciones con poca luz.
 - Velocidad 5G superrápida. Descarga tus programas favoritos en cuestión de segundos y reproduce películas en streaming sin prácticamente ningún retraso.
 - Rendimiento excepcional. Disfruta de un rendimiento rápido y de espacio de sobra gracias al procesador MediaTek Dimensity 720, los 8 GB de RAM y los 128 GB de almacenamiento.
+- Sistema de cámara de 108 MP. Captura más color y detalles en cada foto con la tecnología Ultra Pixel para conseguir una sensibilidad 9 veces mayor ante situaciones con poca luz.
+- Días de duración de la batería. Llega más lejos con una sola carga con una batería de 5000 mAh y obtén horas de energía en pocos minutos con la carga TurboPower 30.
+- Brillante pantalla OLED con HDR10+. Disfruta de más de mil millones de tonos de color en una impresionante pantalla Max Vision Full HD de 6,7".
 
 [🛒 Aquí!!!]({{< param buyurl >}})
