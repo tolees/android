@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cámara principal de 13 MP con apertura de f2.2 y zoom de 3 aumentos. Colores intensos y realistas
 - Pantalla de alta calidad de 5.5" HD con tecnología de perfeccionamiento de imágenes
 - Cámara frontal de 5 MP para selfies
-- 2 GB de memoria RAM y 16 GB de memoria interna ampliable mediante tarjeta microSD de hasta 256 GB
 - Clear Audio Bass con optimización de ajustes automática; batería de larga duración de 2620 mAh; modo Stamina y tecnología Qnovo Adaptive Charging para alargar la vida de la batería
+- Cámara principal de 13 MP con apertura de f2.2 y zoom de 3 aumentos. Colores intensos y realistas
+- 2 GB de memoria RAM y 16 GB de memoria interna ampliable mediante tarjeta microSD de hasta 256 GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
