@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy M32  Smartphone Libre  Teléfono Móvil Android con Pantalla Infinity-U FHD sAMOLED de 6 4 Pulgadas  6 GB de RAM y 128 GB de Memoria  Batería de 5000 mAh Azul  ES Versión '
-date: 2022-05-26 21:27:57
+date: 2022-06-03 09:35:53
 image: 'https://m.media-amazon.com/images/I/31SY9CbvCDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097CQ4YG4-es Samsung Galaxy M32 Smartphone Libre Teléfono Móvil Android...'
 sku: 'B097CQ4YG4-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','samsung','🇪🇸', ]
-actualPrice: 219.0 EUR
+actualPrice: 199.0 EUR
 currency: EUR
-price: 219.0
+price: 199.0
 comparePrice: 329.0 EUR
 prodname: 'Samsung Galaxy M32  Smartphone Libre  Teléfono Móvil Android con Pantalla Infinity-U FHD sAMOLED de 6 4 Pulgadas  6 GB de RAM y 128 GB de Memoria  Batería de 5000 mAh Azul  ES Versión '
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B097CQ4YG4/?tag=tolees-21'
-descuento: '33.43'
-average: '244.555555555556'
+descuento: '39.51'
+average: '240.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
