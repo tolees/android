@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto g51 5G  Pantalla 6.8" Full HD+  Triple cámara 50 MP  procesador Octa Core  batería 5000 mAH  Dual SIM  4/128GB  Android 11   Azul [Versión ES/PT]'
-date: 2022-06-14 20:49:53
+date: 2022-06-18 07:35:04
 image: 'https://m.media-amazon.com/images/I/41RBuRy4gaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Motorola'
 buyurl: 'https://www.amazon.es/dp/B09MDBYWF7/?tag=tolees-21'
 descuento: '27.03'
-average: '195.666666666667'
+average: '195.0'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Más de 30 horas de duración de la batería. Trabaja y juega durante más de un día sin preocuparte por cargar el móvil gracias a una batería de 5000 mAh.
+- Procesador de alto rendimiento. Disfruta de un rendimiento de la GPU y CPU el doble de rápido que el de la generación anterior.
 - Velocidad 5G superrápida. Descarga tus programas favoritos en cuestión de segundos y disfruta de juegos en línea sin prácticamente ningún retraso.
 - Sistema de triple cámara de 50 MP. Captura momentos desde cualquier ángulo y en cualquier luz, desde un ultra gran angular hasta un ultra macro.
-- Pantalla ultrafluida FHD+ de 6,8" y 120 Hz. da vida a tus películas, juegos y videollamadas en una pantalla Max Vision ultra ancha con una increíblemente rápida velocidad de actualización de 120 Hz.
-- Procesador de alto rendimiento. Disfruta de un rendimiento de la GPU y CPU el doble de rápido que el de la generación anterior.
 - Tipo de conector: USB c
+- Pantalla ultrafluida FHD+ de 6,8" y 120 Hz. da vida a tus películas, juegos y videollamadas en una pantalla Max Vision ultra ancha con una increíblemente rápida velocidad de actualización de 120 Hz.
+- Más de 30 horas de duración de la batería. Trabaja y juega durante más de un día sin preocuparte por cargar el móvil gracias a una batería de 5000 mAh.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
