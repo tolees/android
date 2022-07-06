@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador: Snapdragon 765G 2.4GHz. El Find X2 Lite está equipado con Qualcomm Snapdragon 765G, Procesador octa-core, y una velocidad máxima de descarga de 1,9Gbps. Compatible con NSA5G
 - Pantalla: 6.4", 1080 x 2400 pixels. El Find X2 Lite está equipado con una pantalla Amoled FHD+, Desbloqueo dactilar oculto en pantalla. Y 5ª Generación protectora de Corning Gorilla Glass.
-- 30W Carga Flash VOOC 4.0. La velocidad de carga ha evolucionado. Find X2 Lite cuenta con un tiempo de carga de alta corriente extendido, gracias a los 30W de potencia de carga, una batería de 4025mAh, y un tablero de protección de la temperatura de la batería.
 - Cámara Cuádruple 48 MP. La cámara del Find X2 Lite cuenta con 8MP Gran Angular + Lente Macro, 48MP Cámara principal f/1.7 gran apertura 2MP Lentes Mono Estilo Retrato. 2MP Lentras retrato estilo retrato.
+- 30W Carga Flash VOOC 4.0. La velocidad de carga ha evolucionado. Find X2 Lite cuenta con un tiempo de carga de alta corriente extendido, gracias a los 30W de potencia de carga, una batería de 4025mAh, y un tablero de protección de la temperatura de la batería.
+- Procesador: Snapdragon 765G 2.4GHz. El Find X2 Lite está equipado con Qualcomm Snapdragon 765G, Procesador octa-core, y una velocidad máxima de descarga de 1,9Gbps. Compatible con NSA5G
 
 [🛒 Comprar!!!]({{< param buyurl >}})
