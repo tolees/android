@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resolución de la cámara principal: 8 MP
 - Capacidad de la batería: 7040 mAh
-- Pantalla: 10.5"
 - Resolución de pantalla: 1920 x 1200
+- Pantalla: 10.5"
+- Resolución de la cámara principal: 8 MP
 
 [🛒 Visítala!!!]({{< param buyurl >}})
