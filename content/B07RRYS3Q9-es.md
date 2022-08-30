@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 55PUS7504/12 Philips Android TV 4K de 55 Pulgadas. LED UHD Ideal para Netflix y Youtube. Asistente de Google y Alexa/P5  Ambilight  HDR  Dolby Vision y Dolby Atmos. [Clase energética A+]'
-date: 2022-08-29 17:39:47
+date: 2022-08-30 18:03:41
 image: 'https://m.media-amazon.com/images/I/412SI9oWk5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B07RRYS3Q9/?tag=tolees-21'
 descuento: '39.76'
-average: '702.98'
+average: '662.382'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
