@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola moto g22  Pantalla 6.5" 90 Hz Max Vision  sistema de cuatro cámaras de 50MP  Android 12  batería 5000mAh  4/128GB  dual SIM   negro [Versión ES/PT]'
-date: 2022-10-20 09:00:59
+date: 2022-10-31 21:43:20
 image: 'https://m.media-amazon.com/images/I/41AfYMbzi8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Motorola'
 buyurl: 'https://www.amazon.es/dp/B09VPLRR3W/?tag=tolees-21'
 descuento: '25.13'
-average: '150.153333333334'
+average: '149.988571428572'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Todo bajo control con Android 12; haz más cosas con mayor control y una IU totalmente reinventada
 - Duración de la batería increíble; ve más allá con una batería de larga duración de 5000 mAh y no te preocupes por tener que cargar el teléfono
-- Pantalla Max Vision de 6,5” y 90 Hz; da vida a juegos, películas, y videollamadas en una pantalla fluida y ultra gran angular
 - Diseño elegante y moderno; disfruta de un diseño fino con un acabado de gran calidad y fabricado con materiales duraderos
+- Pantalla Max Vision de 6,5” y 90 Hz; da vida a juegos, películas, y videollamadas en una pantalla fluida y ultra gran angular
+- Todo bajo control con Android 12; haz más cosas con mayor control y una IU totalmente reinventada
 - Sistema de cuatro cámaras de 50 MP; captura imágenes más nítidas con poca luz, tomas de ultra gran angular, retratos de talla profesional y primeros planos increíblemente detallados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
