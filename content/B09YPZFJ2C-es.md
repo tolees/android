@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme Narzo 50 5G-6+128 GB Smartphone Libre  Batería masiva de 5000 mAh  Procesador Dimensity 810 5G  Carga Dart de 33 W  Pantalla ultrafluida de 90 Hz  NFC  Dual Sim  Android 12  Hyper Blue'
-date: 2022-11-18 00:29:57
+date: 2022-11-19 13:53:40
 image: 'https://m.media-amazon.com/images/I/519-1XEUWAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B09YPZFJ2C/?tag=tolees-21'
 descuento: '30.77'
-average: '211.99'
+average: '206.656666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 3 años de garantía
-- [Sensor de huellas digitales superrápido en el lateral]
-- [5000 mAh (típ.) Gran batería]
 - [Pantalla ultrafluida de 90 Hz]
+- [5000 mAh (típ.) Gran batería]
 - [Carga Dart de 33 W]
+- [Sensor de huellas digitales superrápido en el lateral]
 
 [🛒 Visítala!!!]({{< param buyurl >}})
