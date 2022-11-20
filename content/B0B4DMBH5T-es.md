@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Pixel 6a: smartphone 5G Android libre con cámara de 12 megapíxeles y batería de 24 horas de duración  de color Carbón'
-date: 2022-11-16 20:35:07
+date: 2022-11-20 15:13:40
 image: 'https://m.media-amazon.com/images/I/316-P1gv-QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B4DMBH5T-es Google Pixel 6a: smartphone 5G Android libre con cámara de...'
 sku: 'B0B4DMBH5T-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','android','google','🇪🇸', ]
-actualPrice: 356.0 EUR
+actualPrice: 349.0 EUR
 currency: EUR
-price: 356.0
+price: 349.0
 comparePrice: 459.0 EUR
 prodname: 'Google Pixel 6a: smartphone 5G Android libre con cámara de 12 megapíxeles y batería de 24 horas de duración  de color Carbón'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Google'
 buyurl: 'https://www.amazon.es/dp/B0B4DMBH5T/?tag=tolees-21'
-descuento: '22.44'
-average: '387.646'
+descuento: '23.97'
+average: '383.452352941176'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
