@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCL Tab 8V Wi-Fi Tablet Android 11  Pantalla HD de 8 Pulgadas  4GB RAM + 64GB  hasta 512GB   Batería de 5500mAh  5MP+5MP Tableta  Prime Black'
-date: 2022-12-09 19:09:20
+date: 2022-12-11 16:56:03
 image: 'https://m.media-amazon.com/images/I/41V2qiWfq5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TCL'
 buyurl: 'https://www.amazon.es/dp/B0B75BS43S/?tag=tolees-21'
 descuento: '20.00'
-average: '117.99'
+average: '113.323333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
