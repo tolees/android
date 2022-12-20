@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metz - Televisión  55"  3840 x 2160  Android TV 10  LED  UHD  Google Assistant  Color Negro'
-date: 2022-12-19 09:32:18
+date: 2022-12-20 17:10:42
 image: 'https://m.media-amazon.com/images/I/51zBzkx+-PS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Metz'
 buyurl: 'https://www.amazon.es/dp/B08WWPP5L3/?tag=tolees-21'
 descuento: '26.00'
-average: '416.656666666667'
+average: '404.99'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Televisor de 55" con tecnología LCD/Direct LED
-- Conexiones HDMI 3/3/1 (HDMI1)
 - Televisión UHD con resolucion 3840 x 2160
 - Frecuencia 110-240V ~ 50/60 Hz
-- Dimensiones (largo x alto x ancho): 122,7 x 77,4 x 23,3 cm - Peso: 10,6 Kg
 - Receptor DVB-C/T2/S2
+- Dimensiones (largo x alto x ancho): 122,7 x 77,4 x 23,3 cm - Peso: 10,6 Kg
+- Conexiones HDMI 3/3/1 (HDMI1)
 - Sistema operativo: Android 10.0
+- Televisor de 55" con tecnología LCD/Direct LED
 
 [🛒 Aquí!!!]({{< param buyurl >}})
