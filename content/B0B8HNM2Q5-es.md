@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola e32s  4/64 GB  Octa Core Mediatek G37  Cámara Triple de 16 MP  Android 12. Pantalla 6 5" 90 HzHD+  batería de 5000 mAh  Dual SIM  Gris  Versión ES/PT '
-date: 2022-12-18 20:50:11
+date: 2022-12-22 15:05:36
 image: 'https://m.media-amazon.com/images/I/41W1XY4ZKdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de larga duración; deja atrás tus preocupaciones gracias a una batería de 5000 mAh
-- Sistema de cámara triple alimentado por IA; captura hermosos retratos y primeros planos extremos, y nunca te pierdas un momento con una lente de enfoque rápido
 - Pantalla HD+ de 6,5" y 90 Hz; haz que tus películas, juegos y fotos favoritos cobren vida en una pantalla fluida ultraancha de 6,5"
+- Sistema de cámara triple alimentado por IA; captura hermosos retratos y primeros planos extremos, y nunca te pierdas un momento con una lente de enfoque rápido
 - Delgado, elegante y duradero; bellamente elaborado con materiales de primera calidad y hecho para que pueda realizar las tareas diarias con estilo
+- Batería de larga duración; deja atrás tus preocupaciones gracias a una batería de 5000 mAh
 - Rendimiento poderosamente eficiente; siente que tu teléfono responde instantáneamente a cada toque, toque y deslizamiento con un procesador octa-core y 3 GB de RAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
