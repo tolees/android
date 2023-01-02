@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110AP- Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 Mw  Android y Iphone   Negro  20 X 15 X 3 5 cm'
-date: 2023-01-01 15:45:22
+date: 2023-01-02 19:33:12
 image: 'https://m.media-amazon.com/images/I/41jAIHFqidL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00NBR6RDS/?tag=tolees-21'
 descuento: '50.05'
-average: '12.431589958159'
+average: '12.4214166666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño ligero para la máxima comodidad
-- Rango de frecuencia de 12 Hz a 22 kHz
-- Diafragmas tipo cúpula de 30 mm
 - Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
+- Diafragmas tipo cúpula de 30 mm
+- Rango de frecuencia de 12 Hz a 22 kHz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
