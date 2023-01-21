@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kuizil - Reloj Inteligente Mujer Hombre  1.69” Smartwatch Impermeable IP68 Reloj Deportivo con 22 Modos Deporte Pulsera Actividad  Pulsómetro Monitor de Sueño Podómetro Caloría Reloj Deportivo para Android iOS'
-date: 2023-01-19 13:00:54
+date: 2023-01-21 20:02:42
 image: 'https://m.media-amazon.com/images/I/41yWkHZeNFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kuizil'
 buyurl: 'https://www.amazon.es/dp/B0BHLD2WQF/?tag=tolees-21'
 descuento: '57.17'
-average: '37.988'
+average: '36.6533333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
