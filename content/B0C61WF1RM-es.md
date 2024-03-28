@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Nothing Phone  2 : 256GB+12GB RAM  Glyph Interface  Nothing OS 2.0  cámara doble 50MP  OIS pantalla LTPO OLED 6 7”  batería 4700 mAh  resistente al agua IP54  Android Móvil libre   Gris oscuro'
+date: 2024-03-17 17:52:03
+image: 'https://m.media-amazon.com/images/I/51qT5sU7KcL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0C61WF1RM-es Nothing Phone 2 : 256GB+12GB RAM Glyph Interface Nothing...'
+sku: 'B0C61WF1RM-es'
+tags: [ '749d7d8e-47fd-431e-8b51-348b70f767e2_0','749d7d8e-47fd-431e-8b51-348b70f767e2_8001','Arborist Merchandising Root','Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','Self Service','Special Features Stores','Teléfono Móvil Gaming','android','nothing','🇪🇸', ]
+actualPrice: 549.0 EUR
+currency: EUR
+price: 549.0
+comparePrice: 699.0 EUR
+prodname: 'Nothing Phone  2 : 256GB+12GB RAM  Glyph Interface  Nothing OS 2.0  cámara doble 50MP  OIS pantalla LTPO OLED 6 7”  batería 4700 mAh  resistente al agua IP54  Android Móvil libre   Gris oscuro'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Nothing'
+buyurl: 'https://www.amazon.es/dp/B0C61WF1RM/?tag=tolees-21'
+descuento: '21.46'
+average: '614.163636363637'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Pantalla: LTPO OLED 6,7” con brillo de píxeles máximo de 1600 y Gorilla Glass 5 (frontal y posterior). Con LTPO, Phone (2) puede adaptar intuitivamente su frecuencia de refresco de 120 Hz para ahorrar energía cuando no estás usando el teléfono. Una pantalla todoterreno que no agota la duración de la batería.
+- Nothing OS 2.0: una nueva identidad visual. Personaliza etiquetas de aplicaciones, módulos, tamaño de widgets, temas de colores, etc. Nuevos formatos de carpeta. Crea widgets para ajustes rápidos o añádelos a la pantalla de bloqueo para no tener que desbloquear el teléfono. Nueva Glyph Interface: información clave en un instante. Asigna secuencias de luz y sonido distintas a cada contacto y tipo de notificación. Usa las luces para seguir la evolución o crea tonos de llamada con Glyph Composer.
+- Sostenibilidad: estructura media de aluminio 100 % reciclado, estaño 100 % reciclado en 9 placas de circuitos, película de cobre 100 % reciclada en la placa de circuitos principal y más del 90 % de acero reciclado en las 28 piezas de troquelado de acero. Y además, un 80 % de las piezas de plástico procede de fuentes sostenibles. El embalaje de Phone (2) no contiene plásticos e incluye un 60 % de papel procedente de fuentes recicladas.
+- Cámara: software interno totalmente actualizado para fotos y vídeos dinámicos más precisos que nunca. Nuevo sensor frontal más grande (32 MP) para retratos perfectos. Cámara trasera doble 50 MP (principal)+50 MP (ultraancha) que captura la vida real sin esfuerzo con ajustes inteligentes como HDR Avanzado, Captura de Movimiento 2.0 y Modo Nocturno. El nuevo Zoom Super-Res 2x conserva el mínimo detalle de cada escena. Vídeo: 4k 60fps (cámara principal trasera) y 1080P a 60fps (cámara delantera).
+- Batería: con 4700 mAh, Phone (2) lleva nuestra batería más duradera. Carga completa en 55 minutos. Dura hasta 22,5 horas. Compatible con carga inalámbrica Qi de 15 W. Phone (2) también funciona como cargador inalámbrico de 5 W para poder cargar accesorios como Ear (2) en movimiento. Conjunto de chips: con Snapdragon 8+ Gen 1, Phone (2) mejora el rendimiento de su predecesor en un 80 %. Ahora con una velocidad rápida, la mejor gestión interna del calor y capacidades de cámara avanzadas.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0C61WF1RM{{</world>}}
