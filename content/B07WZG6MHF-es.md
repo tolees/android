@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensor huella; graba películas en 4k con los mismos parámetros y configuración de color que los profesionales gracias a cinema pro powered by cinealta
-- Sumérgete en el sonido cinematográfico dolby atmos
 - Pantalla oled 21:9 cinemawide, 6 1" fhd+ hdr; reproduce los colores tal y como el director los creó usando el "modo creador"
 - Qualcomm snapdragon 855 mobile platform; batería 3140mah; 6 gb ram, soporte microsdxc (hasta 512gb), memoria interna 128gb ufs
+- Sensor huella; graba películas en 4k con los mismos parámetros y configuración de color que los profesionales gracias a cinema pro powered by cinealta
 - Cámara con calidad profesional incluye 3 objetivos de 12mp: 16 mm para los paisajes panorámicos, un objetivo versátil de 26 mm y otro de 52 mm para el zoom óptico de 2 aumentos
+- Sumérgete en el sonido cinematográfico dolby atmos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WZG6MHF{{</world>}}

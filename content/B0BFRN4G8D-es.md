@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran pantalla interactiva de vista rápida; mantente conectado incluso cuando tu smartphone está cerrado: toma selfies, envía mensajes, salta canciones, obtén indicaciones y más
 - Ahora, con Flex View, se destaca por sí solo en múltiples ángulos, brindándote nuevas formas de interactuar, capturar y crear; consigue la cámara avanzada en un smartphone plegable
-- Diseño flip icónico, modernizado; disfruta de un diseño minimalista con un acabado mate que se abre para revelar una pantalla OLED suave, hermosa y de tamaño completo
 - Conoce el Motorola Razr 2022, reinventado para dar vida a más posibilidades mágicas; abre el diseño icónico y compacto para revelar una pantalla OLED suave y de tamaño completo
+- Gran pantalla interactiva de vista rápida; mantente conectado incluso cuando tu smartphone está cerrado: toma selfies, envía mensajes, salta canciones, obtén indicaciones y más
+- Diseño flip icónico, modernizado; disfruta de un diseño minimalista con un acabado mate que se abre para revelar una pantalla OLED suave, hermosa y de tamaño completo
 - Disfruta del rendimiento Snapdragon 8+, procesador lanzado a mediados de 2022
 
 [🛒 Aquí!!!]({{< param buyurl >}})
