@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Display 5"
+- Batería de 2000 mAh
 - Connector type: Micro USB
 - Sistema operativo: edición Android 11 Go
-- Batería de 2000 mAh
-- Display 5"
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HR38P4J{{</world>}}

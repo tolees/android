@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un procesador con velocidad de navegación de 2,0 GHz y capacidad de almacenamiento de 64 GB ampliable a 256 GB+ 4 de memoria RAM, harán que tu smartphone tenga un rendimiento inmejorable
 - Sistema operativo Android 8.1 Oreo. Android One: con actualizaciones del SO Android y actualizaciones mensuales de seguridad durante 3 años
-- Batería de 3000 mAh + Cargador TurboPower para carga rápida. Consigue 6 horas de bateria en sólo 20 minutos
 - Doble cámara inteligente trasera de 13 + 2 MP de profundidad con software avanzado de fotografía para edición de imágenes. Hazte los mejores selfies con efecto retrato con Motorola One
+- Un procesador con velocidad de navegación de 2,0 GHz y capacidad de almacenamiento de 64 GB ampliable a 256 GB+ 4 de memoria RAM, harán que tu smartphone tenga un rendimiento inmejorable
+- Batería de 3000 mAh + Cargador TurboPower para carga rápida. Consigue 6 horas de bateria en sólo 20 minutos
 - Pantalla HD+ Max Vision de 5,9’’ (19:9), lector de huellas trasero, reconocimiento facial, tecnología NFC, Bluetooth
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

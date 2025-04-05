@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla con resolución 4K Ultra HD - Potenciación de los colores con tecnología de imagen HDR10
-- Compatible con montaje en pared - VESA: 100 x 100 M4
-- Diseño y acabados óptimo con marcos slim
 - Android TV: todas tus apps de contenidos en streaming disponibles en Google Play
+- Compatible con montaje en pared - VESA: 100 x 100 M4
+- Pantalla con resolución 4K Ultra HD - Potenciación de los colores con tecnología de imagen HDR10
+- Diseño y acabados óptimo con marcos slim
 - Chromecast Integrado: envía los contenidos de tu móvil directamente a la pantalla del televisor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

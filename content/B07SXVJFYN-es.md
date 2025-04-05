@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Papel no incluido
 - Imprima desde el carrete de la cámara, las redes sociales y Google Photos
-- Alcance de temperatura operativa: 5 - 40 °C
 - Envíe varias fotos a su impresora HP Sprocket Select o prepare las fotos sin conexión para imprimirlas más tarde
-- Requisitos del sistema, recomendados: Android: 5.1 anterior; iOS: 10.0.2
+- Alcance de temperatura operativa: 5 - 40 °C
 - Capacidad de entrada Máximo (papel fotográfico): hasta 10 hojas
+- Papel no incluido
+- Requisitos del sistema, recomendados: Android: 5.1 anterior; iOS: 10.0.2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SXVJFYN{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 【Bisagra de titanio, superligera y fiable】La nueva bisagra de titanio superligera de HONOR cuenta con la certificación SGS por su fiabilidad. 9,9mm de grosor cuando está plegado, 4,7mm de grosor cuando está desplegado, 231g de peso. Más delgado y más ligero al igual que la celebración de su teléfono bar.
 - 【7.92 pulgadas plegable OLED Display, 120Hz frecuencia de actualización, 2500nits, 3840Hz PWM Dimming】El HONOR Magic V2 hasta 3840Hz PWM Dimming y Dynamic Dimming Sceent puede ajustar inteligentemente el brillo de la pantalla, aliviando la fatiga ocular. El Circadian Night Display suaviza la luz de la pantalla antes de acostarse, por lo que es cómodo y natural para los ojos.
+- 【50MP+50MP+20MP】HONOR Magic V2 Teléfono Móvil utiliza una cámara principal triple de 50MP, con el sistema de cámara Falcon de HONOR le permite tomar una foto sin importar la situación, de día o de noche, de lejos o de cerca.
 - 【5000mAh HONOR Silicon-Carbon Dual Battery】HONOR Magic V2 teléfono movil está equipado con 5000mAh HONOR Silicon-Carbon Dual Battery, puede durar todo un día de uso, ultra-delgado mientras de larga duración.
 - 【Snapdragon 8 Gen 2】El buque insignia Snapdragon 8 generación 2 tiene una requencia dominante de hasta 3.36GHz, con HONOR Ultra-thin Bionic Cooling System , la antena circundante, el HONOR C1 RFEnhanced Chipset, siempre puede acercarse al mundo sin límites.
-- 【50MP+50MP+20MP】HONOR Magic V2 Teléfono Móvil utiliza una cámara principal triple de 50MP, con el sistema de cámara Falcon de HONOR le permite tomar una foto sin importar la situación, de día o de noche, de lejos o de cerca.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQYQDHCL{{</world>}}

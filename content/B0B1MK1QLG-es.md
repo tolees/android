@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 4GB Soldered LPDDR4x; permite realizar múltiples tareas a la vez sin problema
-- Procesador MediaTek Helio P22T Octa-Core con una frecuencia principal de hasta 2.3 GHz
 - Almacenamiento de 64GB (eMCP4x, eMMC) ampliables mediante tarjeta micro SD hasta 1TB
 - Pantalla táctil de 26,16 cm (10,3") FHD, 1920x1200 píxeles, TDDI, 330nits; los biseles estrechos en los cuatro laterales ofrecen una relación de pantalla del 90%; además, cuenta con un amplio ángulo de visión, que ofrece imágenes visuales perfectas, y una cubierta de metal completa, fina y de lujo
-- Tarjeta gráfica Integrada IMG PowerVR GE8320 GPU
+- Procesador MediaTek Helio P22T Octa-Core con una frecuencia principal de hasta 2.3 GHz
 - model_year: 2021
+- Tarjeta gráfica Integrada IMG PowerVR GE8320 GPU
+- Memoria RAM de 4GB Soldered LPDDR4x; permite realizar múltiples tareas a la vez sin problema
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1MK1QLG{{</world>}}

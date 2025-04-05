@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎮【Compatibilidad Amplia】Este controlador pc es compatible con Windows 11/10/8.1/8/7/XP/Vista, TV Box de Andriod, PS3, PC y Móvil de Android (versión 4.0 o superior que su móvil debe ser totalmente compatible con la función OTG). Pero no es compatible con Xbox 360 / Xbox One / Mac / IOS
-- 🎮【Plug&Play】Se puede usar inmediatamente después de recibirlo, es muy fácil de uso, sin instalar cualquier driver. Direcamente conecta con el cable USB con dispositivo. Cable USB de hasta 2 metros (6.5 pulgadas) permite jugar en la distancia
-- 🎮【TURBO】Personaliza turbo y cualquier botón para liberar los dedos de los jugadores y destruir a tus enemigos con solo una pulsación. Tenemos la garantia, si tiene problema a email de post-servicio: Support.es@easysmx.com
 - 🎮【Vibración Doble】Efectos de vibración gracias a una innovadora función de doble vibración (efecto rumble) que incrementa el realismo del juego | máxima precisión y comodidad | frecuencia de 2,4 GHz
+- 🎮【TURBO】Personaliza turbo y cualquier botón para liberar los dedos de los jugadores y destruir a tus enemigos con solo una pulsación. Tenemos la garantia, si tiene problema a email de post-servicio: Support.es@easysmx.com
 - 🎮【Ergonomicos】El diseño asimétrico de los joysticks se basa en la ergonomía y están posicionados para la posición más cómoda del pulgar. Asegúrate una sensación y comodidad óptimas.
+- 🎮【Plug&Play】Se puede usar inmediatamente después de recibirlo, es muy fácil de uso, sin instalar cualquier driver. Direcamente conecta con el cable USB con dispositivo. Cable USB de hasta 2 metros (6.5 pulgadas) permite jugar en la distancia
+- 🎮【Compatibilidad Amplia】Este controlador pc es compatible con Windows 11/10/8.1/8/7/XP/Vista, TV Box de Andriod, PS3, PC y Móvil de Android (versión 4.0 o superior que su móvil debe ser totalmente compatible con la función OTG). Pero no es compatible con Xbox 360 / Xbox One / Mac / IOS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XB761HW{{</world>}}
