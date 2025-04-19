@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Despreocúpate con este móvil, el Qualcomm Snapdragon 888 se encarga de todo. Este smartphone cuenta con conectividad 5G a redes SA y NSA para que tu móvil tenga la máxima cobertura estés donde estés.
-- Disfruta de la realidad con tu smartphone como nunca antes. Este smartphone cuenta con una pantalla 1 Billion Colors, reconocida como una de las mejores pantallas de móvil del mercado.
 - Revoluciona tus hábitos de carga.Tu móvil OPPO Find X3 Pro siempre estará listo para la aventura. ¡No más cables! Este smartphone cuenta con la nueva carga AirVOOC para sentirte más libre que nunca.
 - Este móvil OPPO cuenta con su diseño unibody. Demuestra tu estilo donde sea que vayas con su elegante módulo de cámaras y su IP68 te protegerá en los momentos de lluvia.
+- Disfruta de la realidad con tu smartphone como nunca antes. Este smartphone cuenta con una pantalla 1 Billion Colors, reconocida como una de las mejores pantallas de móvil del mercado.
+- Despreocúpate con este móvil, el Qualcomm Snapdragon 888 se encarga de todo. Este smartphone cuenta con conectividad 5G a redes SA y NSA para que tu móvil tenga la máxima cobertura estés donde estés.
 - Haz fotos como nunca, redescubre la fotografía Pro, gracias a su cámara Ultra Gran Angular líder en el mercado y sorpréndete con su increíble cámara Micro que te llevara a otro mundo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

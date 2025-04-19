@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Panel Direct LED: la retroiluminación trasera ajusta la potencia e intensidad de los LED con precisión según cada escena; así, se consigue un óptimo contraste, un brillo superior y una óptima homogeneidad en la pantalla con unos negros puros haciendo que disfrutes una experiencia visual óptima
 - Dolby Atmos y Dolby Vision: equipada con la tecnología Dolby Atmos y Dolby Audio para una óptima calidad de la imagen y un sonido envolvente, disfrutarás de una experiencia cinematográfica en casa; además, el televisor incluye el certificado dbx-tv con encima de 40 años de experiencia calibrando el sonido de tu televisor
-- Diseño elegante y peana central: la televisión Haier está diseñada con una pantalla sin marcos y una peana central con un altavoz frontal integrado, cuidando el estilo hasta el mínimo detalle, convirtiendo el visionado en una experiencia cinematográfica
 - HQLED HDR: experiencia de visión óptima gracias a la potencia del brillo y la profundidad del color; la tecnología Pure Color hace que los colores sean reales, siendo una experiencia inmersiva
+- Diseño elegante y peana central: la televisión Haier está diseñada con una pantalla sin marcos y una peana central con un altavoz frontal integrado, cuidando el estilo hasta el mínimo detalle, convirtiendo el visionado en una experiencia cinematográfica
 - Android TV: podrás disfrutar al óptimo de tu contenido favorito, ya sean películas, series y las apps disponibles en Google Play; a través de Chromecast, podrás transmitir el contenido desde tu teléfono móvil a la televisión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

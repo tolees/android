@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 10,4", IPS LCD 2000 x 1200 pixeles
 - Memoria RAM de 4 GB LPDDR4
+- Pantalla de 10,4", IPS LCD 2000 x 1200 pixeles
 - Sistema Operativo: Android 12
-- Procesador Cortex A73 (OctaCore, 2 GHz)
 - Almacenamiento de 64GB
+- Procesador Cortex A73 (OctaCore, 2 GHz)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYZSQTXB{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 594 g
-- Android 11 / Zero Touch y AER
-- Larga autonomía: batería de 7000 mAh - en comunicación (2G/3G/4G): 40h/40h/58h/ en standby (4G): 46 días / en GPS: 22h
 - Cámara frontal: 5 MP / Cámara trasera: 13 MP
+- Peso: 594 g
+- Larga autonomía: batería de 7000 mAh - en comunicación (2G/3G/4G): 40h/40h/58h/ en standby (4G): 46 días / en GPS: 22h
 - Impermeable y resistente / Norma IP 68
+- Android 11 / Zero Touch y AER
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YVSF4ZR{{</world>}}

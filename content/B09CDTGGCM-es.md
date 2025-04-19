@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MSI APP PLAYER: Desarrollado en colaboración con BlueStacks, MSI APP Player permite a los gamers jugar en móviles a través del PC con todas las ventajas de las más altas tasas de FPS, resolución a nivel monitor y control total del mando
 - MOVIMIENTO MÁS FLUIDO Y MAYOR CONTROL: Este mando tiene palancas analógicas mejoradas para una respuesta más fluida; Los gatillos de precisión ofrecen 256 niveles de simulación de aceleración
-- DOS MODOS DE CONECTIVIDAD: El Force GC30 V2 admite conectividad por cable (a través de un cable USB 2.0 de 2 metros) e inalámbrica (2,4 GHz) con una batería de iones de litio de 600 mAh que brinda hasta 8 horas de juego continuo
 - SWITCHES DURABLES Y COVERS D-PAD INTERCAMBIABLES: Los mandos de la serie Force GC tienen botones robustos de 2 millones de clics c/u; Cubiertas magnéticas d-pad intercambiables (en forma de cruz y heptagonal) ofrecen interfaz de control personalizada
+- MSI APP PLAYER: Desarrollado en colaboración con BlueStacks, MSI APP Player permite a los gamers jugar en móviles a través del PC con todas las ventajas de las más altas tasas de FPS, resolución a nivel monitor y control total del mando
+- DOS MODOS DE CONECTIVIDAD: El Force GC30 V2 admite conectividad por cable (a través de un cable USB 2.0 de 2 metros) e inalámbrica (2,4 GHz) con una batería de iones de litio de 600 mAh que brinda hasta 8 horas de juego continuo
 - FEEDBACK HÁPTICO Y EXCELENTE AGARRE: Los 2 motores de vibración mejoran la inmersión en el juego a través del feedback háptico proporcionando un gaming emocionante; La goma texturizada en los lados del mando evita que se deslice bajo presión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

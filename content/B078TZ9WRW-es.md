@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad de la memoria RAM instalada de 4 GB
 - Velocidad del procesador de 2.2 GHz
 - Pantalla táctil capacitiva Super AMOLED, colores del 16M, 5.6 inches, 79.6 cm2 (75.6% screen-to-body ratio), 1080 x 2220 pixels, 18.5:9 ratio
 - Número de SIM: Un solo SIM
+- Capacidad de la memoria RAM instalada de 4 GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B078TZ9WRW{{</world>}}

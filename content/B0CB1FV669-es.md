@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control de calidad de consola con tecnología háptica HyperSense Para una precisión y una inmersión totales; Domina los juegos con pantalla táctil o utiliza el Razer Kishi V2 Pro incluido con botones microswitches, gatillos analógicos, macros programables y tecnología háptica Razer HyperSense para juegos AAA competitivos
-- Potenciado por la aplicación Razer Nexus Para una experiencia de juego dedicada a Android; Razer Nexus es un panel de control para juegos Android. Inicia tus juegos, explora las recomendaciones, captura fotos y vídeos del juego o transmite tus partidas en directo al mundo, todo con solo pulsar un botón
 - Plataforma gaming Snapdragon G3X Gen 1 Para un buen rendimiento en juegos Android. El primer dispositivo del mundo equipado con el ultrapotente Snapdragon G3x, un chipset para juegos con refrigeración activa y una CPU Kryo de [3 GHz], diseñado específicamente para jugar a juegos Android a velocidades de fotogramas increíblemente altas durante largas sesiones
-- Android, PC, Xbox y Cloud Gaming Para jugar a tus juegos favoritos en cualquier lugar; Si te gustan Halo, Fortnite, Diablo o Roblox, el Razer Edge te dará acceso a una increíble biblioteca de juegos; Juega desde Google Play o haz streaming de juegos de PC y Xbox desde tu casa o la nube; Es posible que se necesiten hardware y servicios de terceros
 - Diseño portátil y ligero para jugar a juegos AAA en cualquier lugar; Tan portátil como un smartphone, el Razer Edge es el compañero de viaje para llevar tus juegos favoritos a cualquier parte; Ultraligero proporciona una comodidad óptima para jugar durante mucho tiempo
+- Potenciado por la aplicación Razer Nexus Para una experiencia de juego dedicada a Android; Razer Nexus es un panel de control para juegos Android. Inicia tus juegos, explora las recomendaciones, captura fotos y vídeos del juego o transmite tus partidas en directo al mundo, todo con solo pulsar un botón
 - Pantalla táctil AMOLED FHD+ de 6,8" y 144 Hz Para unas imágenes fluidas y un juego con gran capacidad de respuesta; Los juegos exigen unos gráficos y una capacidad de respuesta superiores a los que ofrecen los dispositivos portátiles y los smartphones; Una pantalla de 144 Hz que asegura que tus juegos se vean mejor y funcionen con más fluidez que los de la competencia
+- Control de calidad de consola con tecnología háptica HyperSense Para una precisión y una inmersión totales; Domina los juegos con pantalla táctil o utiliza el Razer Kishi V2 Pro incluido con botones microswitches, gatillos analógicos, macros programables y tecnología háptica Razer HyperSense para juegos AAA competitivos
+- Android, PC, Xbox y Cloud Gaming Para jugar a tus juegos favoritos en cualquier lugar; Si te gustan Halo, Fortnite, Diablo o Roblox, el Razer Edge te dará acceso a una increíble biblioteca de juegos; Juega desde Google Play o haz streaming de juegos de PC y Xbox desde tu casa o la nube; Es posible que se necesiten hardware y servicios de terceros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1FV669{{</world>}}

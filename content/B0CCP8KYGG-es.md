@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disposición de 87 teclas. Kailh Box Switch V2 Blanco. Teclados Dye-sub PBT.
-- Conexión por Bluetooth, inalámbrica 2.4G o por cable.
-- Montaje superior. PCB intercambiable en caliente. Soporta n-key rollover.
-- Inspirado en los clásicos. Compatible con Windows 10(1903) o superior, y Android 9.0 o superior.
 - LED clásico de estado de alimentación, con panel de control independiente.
+- Conexión por Bluetooth, inalámbrica 2.4G o por cable.
+- Inspirado en los clásicos. Compatible con Windows 10(1903) o superior, y Android 9.0 o superior.
 - Superbotones dobles: ofrecen teclas grandes y programables. Asigna cualquier cosa a los superbotones al instante sin usar software.
+- Disposición de 87 teclas. Kailh Box Switch V2 Blanco. Teclados Dye-sub PBT.
 - Compatible con 8BitDo Ultimate Software V2 para la asignación personalizada de teclados.
+- Montaje superior. PCB intercambiable en caliente. Soporta n-key rollover.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCP8KYGG{{</world>}}

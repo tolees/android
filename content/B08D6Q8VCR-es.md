@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Note 20 Cámara del móvil - Zoom Óptico 5x, Zoom Espacial 50x, Laser Auto Focus, 108MP de cámara principal , cámara zoom de 12MP, cámara ultra gran angular de 12MP y cámara frontal de 10MP.
+- Almacenamiento ampliable del móvil hasta 512 GB con tarjeta Micro SD para fotos, música y más.
+- Note 20 Pantalla del móvil - Pantalla Super AMOLED 2x Infinity-O de 6.9" WQHD, resolución de 3088 x 1440 píxeles, densidad de píxeles de 496 ppi y compatibilidad con 16 millones de colores.
 - Batería del móvil - Batería inteligente de alto rendimiento de 4500 mAh con función de carga rápida de 25 vatios.
 - Primer móvil con protección Gorilla Glass 7.
-- Almacenamiento ampliable del móvil hasta 512 GB con tarjeta Micro SD para fotos, música y más.
-- Note 20 Cámara del móvil - Zoom Óptico 5x, Zoom Espacial 50x, Laser Auto Focus, 108MP de cámara principal , cámara zoom de 12MP, cámara ultra gran angular de 12MP y cámara frontal de 10MP.
-- Note 20 Pantalla del móvil - Pantalla Super AMOLED 2x Infinity-O de 6.9" WQHD, resolución de 3088 x 1440 píxeles, densidad de píxeles de 496 ppi y compatibilidad con 16 millones de colores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08D6Q8VCR{{</world>}}
