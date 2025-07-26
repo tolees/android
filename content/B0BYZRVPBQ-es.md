@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Procesador Cortex A73 (OctaCore, 2 GHz)
 - Almacenamiento de 128GB
-- Sistema Operativo: Android 12
 - Memoria RAM de 4 GB LPDDR4
 - Pantalla de 10,4", IPS LCD 2000 x 1200 pixeles
-- Procesador Cortex A73 (OctaCore, 2 GHz)
+- Sistema Operativo: Android 12
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYZRVPBQ{{</world>}}

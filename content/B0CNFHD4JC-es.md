@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TCL TAB 10 Gen 2 viene con una elegante cubierta trasera en aluminio que la hará destacar fácilmente entre la multitud, fina y ligera
 - BATERÍA DE GRAN CAPACIDAD, POTENTE RENDIMIENTO: la batería de 6000 mAh no solo te ofrece una optima autonomía, sino que te proporcionará una potencia de hasta 9 horas de reproducción de vídeo, para que puedas disfrutar sin parar de todo tu contenido; su procesador Octa-Core y sus 4GB de RAM, te ofrecerán una multitarea ágil y rápida, streaming sin retardos; guarda todas tus aplicaciones y recuerdos en la memoria ROM de 64GB ampliables a 1TB mediante tarjeta microSD
+- TCL TAB 10 Gen 2 viene con una elegante cubierta trasera en aluminio que la hará destacar fácilmente entre la multitud, fina y ligera
 - PANTALLA 2K NXTVISION DE 10.4” CON UN OPTIMO DISEÑO: su gran pantalla IPS 2K de 10.4" con NXTVISION ofrece imágenes fieles a la realidad para un disfrute visual envolvente; la reducción de marcos ofrece una visión ampliada para la reproducción de vídeos; gracias a los modos de confort ocular, puedes permanecer largos periodos frente a la pantalla ya que estos cuidarán de tu vista
 - SISTEMA IMPULSADO POR Android 13: Android 13 está optimizado para pantallas grandes, la interfaz de usuario es ahora más intuitiva y fácil de usar, pudiendo personalizar tus aplicaciones por color o tema; para que no tengas miedo a configurar tu negocio en tu tablet, TCL TAB 10 Gen 2 cuenta con Android Enterprise Recommended; sumérgete en un sonido envolvente que hace tus videollamadas más cómodas y nítidas gracias a sus cámaras de 8MP y 5MP y con su doble altavoz
 
