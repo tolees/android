@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Mejora visual Colores más ricos y contrastes más profundos, impulsados por la tecnología de visualización NXTVISION. Sumérgete en el mundo del sonido 3D La función de sonido 3D Boom, con certificación DTS, ofrece un efecto envolvente total.
 - Olvídate de la ansiedad por la batería. Cargue su teléfono en poco tiempo y mantenga su trabajo y diversión Carga ultrarrápida de 33W Consigue una carga del 50% en sólo 30 minutos. Gran capacidad de batería 5010mAh Rendimiento duradero.
-- Sube de nivel tu fotografía. Capture sin esfuerzo los momentos de su vida día y noche. El sistema de cámara híbrida de 50MP, también conocido como función principal y macro 2 en 1, captura paisajes panorámicos con poca luz y maximiza las tomas macro.
 - Memoria más grande. Más entretenimiento. La RAM virtual adicional de 6 GB te brinda el impulso necesario para usar tus aplicaciones favoritas y navegar en línea de manera rápida, fluida y sin demoras. Potencia adicional para un alto rendimiento sin demoras
 - Pantalla expansiva. Excelencia audiovisual. Detalles impresionantes en la enorme pantalla FHD+ de 6,78 pulgadas con tasa de refresco de 90 Hz y menos luz azul para una mayor comodidad, lo que le permitirá experimentar un verdadero festín audiovisual impulsado por una sensación de sonido envolvente 3D.
+- Sube de nivel tu fotografía. Capture sin esfuerzo los momentos de su vida día y noche. El sistema de cámara híbrida de 50MP, también conocido como función principal y macro 2 en 1, captura paisajes panorámicos con poca luz y maximiza las tomas macro.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CX97HDL9{{</world>}}

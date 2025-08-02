@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Frecuencia de sondeo de 1000 Hz (para conexión 2.4G y por cable)
-- Parachoques R4/L4 adicionales. Asignación de botones personalizada sin usar software. Función turbo.
 - Compatible con Windows 10 y superior, Android 9.0 y superior.
-- Joysticks de efecto Hall y disparadores Hall. Anillos de joystick metálicos resistentes al desgaste.
 - Parachoques y D-pad refinados. Ligeros pero táctiles. Botón de cambio de modo. 2.4G y cable para Windows, Bluetooth para Android.
+- Parachoques R4/L4 adicionales. Asignación de botones personalizada sin usar software. Función turbo.
+- Joysticks de efecto Hall y disparadores Hall. Anillos de joystick metálicos resistentes al desgaste.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D736BCNM{{</world>}}

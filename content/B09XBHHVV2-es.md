@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Retransmite juegos de PC y consola: Usa el Kishi para disfrutar de juegos de PC y de consola directamente en tu teléfono, con compatibilidad con las óptimas aplicaciones de streaming de juegos; emite desde tu propio dispositivo o juega en la nube, (Es posible que se necesiten hardware y servicios de terceros)
-- Samsung Galaxy S9/S9+/S10/S10+/S20-Series/S21-Series/S22-Series/Note 8/Note 9/Note 10/Note 10+ | Google Pixel 2/2 XL/3/3XL/4/4XL/5-Series/6-Series | Razer Phone 1/Phone 2
-- Mando para juegos móviles con calidad de consola: El Razer Kishi está diseñado para ofrecer los estándares de calidad de los mandos competitivos para consolas con punteros botones con microswitches, gatillos analógicos y macros programables
-- Optimizado para el máximo rendimiento: Al utilizar la conexión USB-C de tu smartphone, Kishi elimina la latencia de entrada, lo que permite un control sensible y fluido; además, ofrece carga simultánea, para que puedas cargar tu teléfono mientras juegas
 - Compatibilidad universal con puente extensible: El Razer Kishi V2 cuenta con un puente estable y extensible que sujeta a la a la optimización la mayoría de los smartphones Android más populares, proporcionando así un ajuste seguro que no se suelta cuando juegas
 - Diseño ergonómico: El Razer Kishi V2, diseñado para sesiones de juego prolongadas sin renunciar a un formato tan fino como para llevarlo en el bolsillo, está optimizado para ofrecer comodidad y portabilidad, con cada botón en el lugar óptimo
+- Retransmite juegos de PC y consola: Usa el Kishi para disfrutar de juegos de PC y de consola directamente en tu teléfono, con compatibilidad con las óptimas aplicaciones de streaming de juegos; emite desde tu propio dispositivo o juega en la nube, (Es posible que se necesiten hardware y servicios de terceros)
+- Optimizado para el máximo rendimiento: Al utilizar la conexión USB-C de tu smartphone, Kishi elimina la latencia de entrada, lo que permite un control sensible y fluido; además, ofrece carga simultánea, para que puedas cargar tu teléfono mientras juegas
+- Samsung Galaxy S9/S9+/S10/S10+/S20-Series/S21-Series/S22-Series/Note 8/Note 9/Note 10/Note 10+ | Google Pixel 2/2 XL/3/3XL/4/4XL/5-Series/6-Series | Razer Phone 1/Phone 2
+- Mando para juegos móviles con calidad de consola: El Razer Kishi está diseñado para ofrecer los estándares de calidad de los mandos competitivos para consolas con punteros botones con microswitches, gatillos analógicos y macros programables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XBHHVV2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Teclado mecánico gamer compatible con Windows, IOS, Android y Linux. Sus teclas cuentan con tecnología full antighosting. Además, incorpora la función G-Mode, que posibilita deshabilitar la tecla de Windows para que nada se interponga.
-- Teclado mecánico con diseño ultracompacto TKL con switches Red Cherry MX. Incorpora la tecnología LED RGB, pudiendo elegir entre 16,8 millones de colores y distintos efectos.
-- Este teclado retroiluminado con RGB, te permite elegir entre sus 16,8 millones de colores, seleccionando la velocidad, la dirección y el brillo de sus tonos desde su intuitivo software.
-- Las switches de este teclado mecánico son Red Cherry MX. Garantiza un clic suave, agradable al tacto, silencioso y muy preciso, que asegura la máxima velocidad, ajustándose a tus preferencias de juego
 - A través de su potente software, Battle Royale permite la creación de macros, de modo que posibilita crear atajos o trucos.
+- Las switches de este teclado mecánico son Red Cherry MX. Garantiza un clic suave, agradable al tacto, silencioso y muy preciso, que asegura la máxima velocidad, ajustándose a tus preferencias de juego
+- Este teclado retroiluminado con RGB, te permite elegir entre sus 16,8 millones de colores, seleccionando la velocidad, la dirección y el brillo de sus tonos desde su intuitivo software.
+- Teclado mecánico con diseño ultracompacto TKL con switches Red Cherry MX. Incorpora la tecnología LED RGB, pudiendo elegir entre 16,8 millones de colores y distintos efectos.
+- Teclado mecánico gamer compatible con Windows, IOS, Android y Linux. Sus teclas cuentan con tecnología full antighosting. Además, incorpora la función G-Mode, que posibilita deshabilitar la tecla de Windows para que nada se interponga.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BBHWPVS{{</world>}}

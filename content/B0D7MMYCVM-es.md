@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La funda se ha diseñado junto con el teléfono para que no interfiera con la carga, con la nitidez del audio ni con la intensidad de la señal.
 - Esta funda ha sido especialmente diseñada para Pixel 9 y Pixel 9 Pro. Aspecto y comodidad van a la par gracias a su diseño elegante y su suavidad al tacto.
+- La funda se ha diseñado junto con el teléfono para que no interfiera con la carga, con la nitidez del audio ni con la intensidad de la señal.
 - Protege tu Pixel 9 o Pixel 9 Pro de arañazos y caídas con una funda que se ajusta a la perfección.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

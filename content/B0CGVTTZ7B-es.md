@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Teléfono celular
 - 128 GB de capacidad
 - En color azul celeste
+- Teléfono celular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGVTTZ7B{{</world>}}

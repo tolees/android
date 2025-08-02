@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Dispone de un sistema de carga con base de sobremesa, para que mantengas siempre la batería cargada y el teléfono listo para usar.
 - Fácil uso: gran pantalla con iconos y teclas físicas para facilitar el manejo del smartphone
+- Android 10: sistema operativo Android 10 go con acceso a play store y a todas las apps más populares
+- Botón SOS: el Funker E500i incorpora botón trasero SOS que activa una secuencia de llamadas y mensajes configurable por el usuario; incorpora tecnología GPS avanzada que permite conocer la ubicación del usuario en caso de emergencia
 - Base cargadora: incorporamos como equipamiento de serie una base cargadora de sobremesa mediante la cual puedes cargar el c85 confort de una forma cómoda y sencilla
 - Tamaño de pantalla: 5.5 inches; tipo de pantalla: AMOLED; sistema operativo: Android 10.0; tipo de conector: USB tipo C
-- Botón SOS: el Funker E500i incorpora botón trasero SOS que activa una secuencia de llamadas y mensajes configurable por el usuario; incorpora tecnología GPS avanzada que permite conocer la ubicación del usuario en caso de emergencia
-- Dispone de un sistema de carga con base de sobremesa, para que mantengas siempre la batería cargada y el teléfono listo para usar.
-- Android 10: sistema operativo Android 10 go con acceso a play store y a todas las apps más populares
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Z4KJ8ZG{{</world>}}
