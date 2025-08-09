@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manténgase al día sin esfuerzo con las tendencias con este rápido conjunto de chips Snapdragon 778G 5G. Además, Mi 12 Lite utiliza grafito de alto rendimiento, que mejora la disipación de calor en un 7 %* en comparación con la generación anterior, lo que reduce la temperatura y garantiza una navegación rápida.
-- La batería de alta capacidad de 4300 mAh está integrada en el cuerpo delgado y liviano, por lo que no habrá ansiedad por batería baja durante mucho tiempo. La función turbo de 67 W puede cargar el teléfono del 0 % al 100 % en 41 minutos.
 - Cámara frontal de 32 megapíxeles
-- Pantalla AMOLED de 120 Hz
-- Diseño delgado de peso pluma
-- Experiencia cinematográfica vívida
 - Cámara triple de 108MP de nivel de estudio
+- Experiencia cinematográfica vívida
 - Sensor de huellas digitales en pantalla para un desbloqueo más rápido y fácil de su teléfono con solo un toque
+- La batería de alta capacidad de 4300 mAh está integrada en el cuerpo delgado y liviano, por lo que no habrá ansiedad por batería baja durante mucho tiempo. La función turbo de 67 W puede cargar el teléfono del 0 % al 100 % en 41 minutos.
+- Diseño delgado de peso pluma
+- Manténgase al día sin esfuerzo con las tendencias con este rápido conjunto de chips Snapdragon 778G 5G. Además, Mi 12 Lite utiliza grafito de alto rendimiento, que mejora la disipación de calor en un 7 %* en comparación con la generación anterior, lo que reduce la temperatura y garantiza una navegación rápida.
+- Pantalla AMOLED de 120 Hz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5QJT9PK{{</world>}}

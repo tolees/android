@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Configuración del teclado sin software/ Compatible con Windows, Android, IOS y Mac
 - Teclado mecánico con switches de alta calidad/ Diseño en formato 60%
 - Tecnología Hot Swap (herramientas y 2 switches incluidos)
-- Antighosting completo y modo juego/ Teclas con retroiluminación RGB
+- Configuración del teclado sin software/ Compatible con Windows, Android, IOS y Mac
 - Conexión Bluetooth, 2.4 GHz y por cable (USB)
+- Antighosting completo y modo juego/ Teclas con retroiluminación RGB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFQ2P65{{</world>}}
