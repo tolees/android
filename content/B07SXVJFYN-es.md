@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Imprima desde el carrete de la cámara, las redes sociales y Google Photos
-- Papel no incluido
-- Envíe varias fotos a su impresora HP Sprocket Select o prepare las fotos sin conexión para imprimirlas más tarde
-- Requisitos del sistema, recomendados: Android: 5.1 anterior; iOS: 10.0.2
-- Capacidad de entrada Máximo (papel fotográfico): hasta 10 hojas
 - Alcance de temperatura operativa: 5 - 40 °C
+- Papel no incluido
+- Capacidad de entrada Máximo (papel fotográfico): hasta 10 hojas
+- Requisitos del sistema, recomendados: Android: 5.1 anterior; iOS: 10.0.2
+- Imprima desde el carrete de la cámara, las redes sociales y Google Photos
+- Envíe varias fotos a su impresora HP Sprocket Select o prepare las fotos sin conexión para imprimirlas más tarde
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SXVJFYN{{</world>}}
