@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Carga TurboPower superrápida de 68 W. Disfruta de autonomía para todo el día en tan solo 15 minutos de carga.
 - Diseño exclusivo y de vanguardia + colores PANTONE. Ultrafino, ligero, increíblemente curvo y disponible en cuero vegano y en colores especialmente seleccionados por expertos.
 - Protección frente al agua IP68. El smartphone se ha diseñado para resistir al polvo, la suciedad y la arena, además de para sumergirse a 1,5 metros de agua dulce durante un máximo de 30 minutos.
-- Carga TurboPower superrápida de 68 W. Disfruta de autonomía para todo el día en tan solo 15 minutos de carga.
 - Pantalla envolvente pOLED de 6,55” a 144 Hz. Disfruta de tus películas, programas y juegos favoritos con contrastes infinitos y una velocidad de actualización ultrarrápida.
 - Cámara Ultra Pixel de 50 MP + OIS. Captura fotos definidas y vivas con cualquier luz, así como imágenes luminosas de noche 16 veces más rápido.
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Potente duración de la batería】Los auriculares pueden ofrecer hasta 28 horas de reproducción de música cuando se usan con el estuche de carga; hUAWEI FreeBuds 5i puede reproducir 4 horas de audio con una carga de solo 15 minutos
 - V Pro Black
+- 【Potente duración de la batería】Los auriculares pueden ofrecer hasta 28 horas de reproducción de música cuando se usan con el estuche de carga; hUAWEI FreeBuds 5i puede reproducir 4 horas de audio con una carga de solo 15 minutos
 - 【Audio de óptima resolución para los oídos exigentes】HUAWEI FreeBuds 5i cuenta con audio inalámbrico de óptima resolución certificado, con una respuesta de frecuencia amplia, sonido de óptima resolución de enlace completo para fuentes de audio HD
 - 【43 dB de cancelación de ruido activa con múltiples modos】Siéntase libre de elegir entre los modos de cancelación de ruido Ultra, General y Acogedor, para adaptar los efectos a las situaciones
 

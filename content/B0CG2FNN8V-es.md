@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Imagen Dolby Vision, HDR10 y HLG | Sonido 2x12W RMS, Dts virtual X y Dolby Audio, wi-fi y bluetooth
-- Prime Video, Netflix, YouTube, Chromecast incorporado; acceso a más de 400,000 películas y series con posibilidad de descargar más de 7000 aplicaciones, todo en el mismo dispositivo
-- TV Android 11 de 55 pulgadas con tecnologia QLED - 4K Ultra HD con 4x HDMI 2.1@60Hz, 2x USB, y Bluetooth
 - Asistente de google con comando de voz directamente desde el control remoto para entretenimiento, recepción de respuestas y control de dispositivos domésticos
+- Prime Video, Netflix, YouTube, Chromecast incorporado; acceso a más de 400,000 películas y series con posibilidad de descargar más de 7000 aplicaciones, todo en el mismo dispositivo
+- Imagen Dolby Vision, HDR10 y HLG | Sonido 2x12W RMS, Dts virtual X y Dolby Audio, wi-fi y bluetooth
+- TV Android 11 de 55 pulgadas con tecnologia QLED - 4K Ultra HD con 4x HDMI 2.1@60Hz, 2x USB, y Bluetooth
 - Prime Video, Netflix, YouTube, Chromecast incorporado; acceso a más de 400,000 películas y series con posibilidad de descargar más de 7000 aplicaciones, todo en el mismo dispositivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
