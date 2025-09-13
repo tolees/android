@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligero y fácil de instalar - sin imanes. El sensor de velocidad se monta en el buje de cualquier bicicleta. El sensor de cadencia se conecta fácilmente a la biela o pedal de la bicicleta - (ambos soportes incluidos)
-- Se conecta de forma inalámbrica a través de Bluetooth 4.0 y ANT+ a dispositivos iPhone, Android
 - Funciona con Zwift y TrainerRoad. Capture la velocidad y cadencia en su plataforma de ciclismo indoor favorita
+- Se conecta de forma inalámbrica a través de Bluetooth 4.0 y ANT+ a dispositivos iPhone, Android
+- Ligero y fácil de instalar - sin imanes. El sensor de velocidad se monta en el buje de cualquier bicicleta. El sensor de cadencia se conecta fácilmente a la biela o pedal de la bicicleta - (ambos soportes incluidos)
 - Realice un seguimiento y capture los datos de velocidad y cadencia en su iPhone, Android y ciclocomputador
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

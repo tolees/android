@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carga Dart de 30 W: De 0 al 100% en 65 minutos
-- Batería gigante de 5000 mAh: 5% de batería, 28 horas de espera
-- realme UI
-- Cámara cuádruple de 48 MP: Apta para paisajes nocturnos
 - Pantalla ultra fluida de 120 Hz,180 Hz, Tasa de muestreo ultra alta: Doble fps, el doble de fluidez
-- Audio: Dolby Atmos y Hi-Res
 - 8GB ROM+128GB ROM,NFC,GPS
 - Dimensity 5G + 5G DSDS
+- Cámara cuádruple de 48 MP: Apta para paisajes nocturnos
+- realme UI
+- Audio: Dolby Atmos y Hi-Res
+- Carga Dart de 30 W: De 0 al 100% en 65 minutos
+- Batería gigante de 5000 mAh: 5% de batería, 28 horas de espera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08V5NW5HM{{</world>}}
