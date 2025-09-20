@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensity 5G + 5G DSDS
-- 8GB ROM+128GB ROM,NFC,GPS
+- Pantalla ultra fluida de 120 Hz,180 Hz, Tasa de muestreo ultra alta: Doble fps, el doble de fluidez
 - realme UI
+- Carga Dart de 30 W: De 0 al 100% en 65 minutos
 - Cámara cuádruple de 48 MP: Apta para paisajes nocturnos
 - Audio: Dolby Atmos y Hi-Res
-- Pantalla ultra fluida de 120 Hz,180 Hz, Tasa de muestreo ultra alta: Doble fps, el doble de fluidez
-- Carga Dart de 30 W: De 0 al 100% en 65 minutos
+- 8GB ROM+128GB ROM,NFC,GPS
+- Dimensity 5G + 5G DSDS
 - Batería gigante de 5000 mAh: 5% de batería, 28 horas de espera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
