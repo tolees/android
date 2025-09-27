@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La frecuencia de actualización se ajusta inteligentemente entre 1 y 120 Hz para un rendimiento receptivo
 - Pantalla de 6.7 pulgadas
+- La frecuencia de actualización se ajusta inteligentemente entre 1 y 120 Hz para un rendimiento receptivo
 - Creado con Google AI para funciones de fotografía y video de vanguardia y formas más inteligentes de ayudar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cámara Ultra Pixel de 50 MP + OIS; captura fotos definidas y vivas con cualquier luz, así como imágenes luminosas de noche 16 veces más rápido comparado con el modelo anterior
 - Carga TurboPower superrápida de 68 W; disfruta de autonomía para todo el día en tan solo 15 minutos de carga
+- Cámara Ultra Pixel de 50 MP + OIS; captura fotos definidas y vivas con cualquier luz, así como imágenes luminosas de noche 16 veces más rápido comparado con el modelo anterior
 - Pantalla envolvente pOLED de 6,55” a 144 Hz; disfruta de tus películas, programas y juegos favoritos con contrastes incontables y una velocidad de actualización rápida
 - Diseño de vanguardia + colores Pantone; fino, ligero, curvo y disponible en cuero vegano y en colores especialmente seleccionados por expertos
 - Protección frente al agua IP68; el smartphone se ha diseñado para resistir al polvo, la suciedad y la arena, además de para sumergirse a 1,5 metros de agua dulce durante un óptimo de 30 minutos

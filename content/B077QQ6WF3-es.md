@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Motores de doble vibración
-- Admite los modos de juego X-Input y Direct-Input
 - Longitud del cable: 1.8 m
+- Admite los modos de juego X-Input y Direct-Input
 - Botones principales retroiluminados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
