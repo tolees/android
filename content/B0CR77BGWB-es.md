@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tu mejor captura con múltiples cámaras: Desde paisajes a primeros planos, 50MP para fotos de calidad a alta resolución, Cámara frontal 13MP para selfies dignos de tu perfil, Frecuencia de actualización 90Hz y baja emisión de luz azul para cuidar tus ojos
 - Consigue lo que quieras con rendimiento mejorado: Con un procesador octa-core para un mejor rendimiento, Amplias opciones de memoria y almacenaje para mantener tus datos y tu contenido siempre a mano
 - Batería de larga duración y carga súper rápida: Continúa funcionando con una batería (típica) de 5.000 mAh que se recarga de forma súper rápida para que sigas a lo tuyo
+- Tu mejor captura con múltiples cámaras: Desde paisajes a primeros planos, 50MP para fotos de calidad a alta resolución, Cámara frontal 13MP para selfies dignos de tu perfil, Frecuencia de actualización 90Hz y baja emisión de luz azul para cuidar tus ojos
 - Sencillez equilibrada: El Galaxy A15 presenta un diseño elegante a través de un marco intuitivo, parte posterior brillante y limpia disposición de las cámaras
 - Pantalla brillante y colores vivos: La pantalla Super AMOLED de 6,5“ del Galaxy A15 muestra imágenes nítidas y colores brillantes incluso bajo la luz directa del sol gracias a Vision Booster, con hasta 800 nits para mayor luminosidad
 

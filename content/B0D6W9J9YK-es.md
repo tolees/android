@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Slim y Capacidad Masiva: El bateria externa carga rapida de 10000 mAh delgado. Grosor de 1.8 centímetro, 240g de 2.3 cargas para el iPhone 15/14, 1.8 cargas para el Samsung S23/22 y 1.2 cargas para una iPad mini 5 para negocio, viajar, salir.
 - What You Get: 10000mAh cargador portátil*1, USB Cable*1, bolsa*1, manual de usuario*1, 30 días de garantía de devolución de dinero
+- Carga Rápida Bidireccional de 15W: Power bank tener 4 puertos (Entrada: Type-C 15W y Micro_USB 10W; Salida: Type-C 15W y 2 USB-A 15W). La carga rápida 15W puede cargar su iPhone al 78% en solo 1 hora, cargando el doble de rápido que un cargador de 2.1A.
 - Control de Potencia en Tiempo Real: Bateria externa pantalla digital LED incorporada, muestra de forma clara e intuitiva el porcentaje de potencia, accurate to 1%, el diseño táctil refleja con precisión el porcentaje de batería restante con sólo pulsar un botón, para que siempre tengas el control.
 - Compatibilidad Universal Amplia: Bateria portatil con todos los puertos y varios cables integrados, incluyendo smartphone: iphone15/14/13/12/11 Pro/Max series; Xiaomi13/12/11; Samsung S23 S22 S21 etc. Tablet, auriculares Bluetooth, u otros dispositivos alimentados por USB y más.
-- Carga Rápida Bidireccional de 15W: Power bank tener 4 puertos (Entrada: Type-C 15W y Micro_USB 10W; Salida: Type-C 15W y 2 USB-A 15W). La carga rápida 15W puede cargar su iPhone al 78% en solo 1 hora, cargando el doble de rápido que un cargador de 2.1A.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6W9J9YK{{</world>}}
