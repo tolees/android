@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ✅ Compatibilidad: YouTube, Netflix, Disney +, HBO Max, Prime Video, y todas las aplicaciones descargables desde Google Play Store.
 - ✅ Smart TV con Android 11 ATV, Google Chromecast built-in integrado, con inteligencia artificial, y Google Assistant, controlado por voz.
-- ✅ Conectividad: 2x HDMI, USB, entrada de vídeo compuesto AV, salida de auriculares, salida de audio digital óptica, puerto de interfaz común CI, Ethernet RJ45, Wifi, Bluetooth.
 - ✅ Sintonizador digital de televisión para canales HD de segunda generación DVB-T2/C/S2 con televisión híbrida Hbbtv.
 - ✅ Televisor Led 32 Pulgadas (80 cm), resolución 1366 x 768 píxeles (HD), sonido Dolby Digital Plus, eficiencia energética E. Smart TV
+- ✅ Conectividad: 2x HDMI, USB, entrada de vídeo compuesto AV, salida de auriculares, salida de audio digital óptica, puerto de interfaz común CI, Ethernet RJ45, Wifi, Bluetooth.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXMS21K{{</world>}}

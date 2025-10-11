@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Atención al detalle y profundidad de campo a través de Active Motion 400; 2 x altavoces (3W); dolby Digital, Dolby Digital Plus, Dolby AC-4; ecualizador de sonido
-- Aplicaciones preinstaladas: Netflix, Youtube, Google Play Movies & TV, Google Play Store, Prime Video; incl; android 11; asistente de Google y Chromecast integrados
-- smart TV 24" Android TV 11 con 3x HDMI, 2x USB, y Bluetooth
 - Incluye: control remoto, 2 pilas AAA, kit de instalación para el soporte de TV, guía de inicio rápido
+- smart TV 24" Android TV 11 con 3x HDMI, 2x USB, y Bluetooth
 - Conectores: 3x HDMI, 2 x USB, entrada de antena, entrada de satélite, entrada compuesta, audio L / R para componente / compuesto, salida de audio óptico digital, Bluetooth, Wi-Fi, LAN (RJ 45); sINTONIZADOR HD DVB-T/T2/C/S/S2 (MPEG4 + HEVC/H.265 de 10 bits)
+- Aplicaciones preinstaladas: Netflix, Youtube, Google Play Movies & TV, Google Play Store, Prime Video; incl; android 11; asistente de Google y Chromecast integrados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6YD7DM1{{</world>}}

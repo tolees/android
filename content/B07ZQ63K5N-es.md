@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mirror Link para teléfonos IOS / Android: a través de la línea USB del teléfono se puede sincronizar la página del teléfono con la pantalla integrada. Admite la proyección unidireccional del teléfono iOS (5s-7plus) a la máquina, control bidireccional del teléfono Android (4.0-7.0)
 - Unidad principal: 188 (L) * 58 (H) * 154 (W) mm, pantalla táctil capacitiva plegable de 7 pulgadas con ranura para tarjeta USB / Aux-in / SD. Puerto de entrada / salida audio/video, se puede conectar con DVR. Luz de fondo de siete colores ajustable
 - Receptor Bluetooth FM: se pueden preestablecer 18 estaciones, que pueden buscar canales de forma totalmente automática, semiautomática y de forma precisa. Bluetooth incorporado para llamadas de manos libres, grabación / descarga de agenda y reproducción de música
 - Control del volante: admite la función de aprendizaje del botón original del volante del automóvil, a través de él puede controlar las funciones que necesita mediante el volante.
+- Mirror Link para teléfonos IOS / Android: a través de la línea USB del teléfono se puede sincronizar la página del teléfono con la pantalla integrada. Admite la proyección unidireccional del teléfono iOS (5s-7plus) a la máquina, control bidireccional del teléfono Android (4.0-7.0)
 - Entrada de cámara de respaldo: viene con cámara de respaldo de visión nocturna resistente al agua. La imagen trasera se mostrará automáticamente en la pantalla MP5 cuando su automóvil esté estacionando, y volverá a la página de radio cuando termine el estacionamiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

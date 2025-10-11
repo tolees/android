@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Pantalla FullView】Gracias a su pantalla FullView de 6,5 pulgadas, el HONOR X6 ofrece una experiencia visual envolvente. Junto con una amplia gama de funciones para el cuidado de la vista, como el modo lectura y el modo oscuro, ofrece una experiencia de visualización agradable en diferentes situaciones, perfecta para leer, ver vídeos o contemplar fotos
 - 【Experiencia Fotográfica Magnífica】El HONOR X6 cuenta con un sistema de cámara posterior triple compuesto por una cámara principal de 50 MP, una cámara macro de 2 MP y una cámara de profundidad de 2 MP. La impresionante combinación de cámaras permite a los usuarios inmortalizar sus recuerdos favoritos y capturar momentos increíbles de la vida con facilidad
-- 【Servicios de Google para Móviles】El rendimiento fluido de MagicUI 6.1 se basa en Android 12. Incluye todas las aplicaciones de Google y Google Play, para que pueda disfrutar de todas sus aplicaciones favoritas
-- 【Almacenamiento Ampliable】El HONOR X6 cuenta con 64 GB de almacenamiento y también admite una tarjeta MicroSD de hasta 1 TB (NO INCLUIDA) para ampliarlo. Podrá descargar su contenido favorito en cualquier momento y no tendrá que eliminar sus mejores fotos
+- 【Pantalla FullView】Gracias a su pantalla FullView de 6,5 pulgadas, el HONOR X6 ofrece una experiencia visual envolvente. Junto con una amplia gama de funciones para el cuidado de la vista, como el modo lectura y el modo oscuro, ofrece una experiencia de visualización agradable en diferentes situaciones, perfecta para leer, ver vídeos o contemplar fotos
 - 【Gran Autonomía de la Batería】Con una batería de 5000 mAh, el HONOR X6 ofrece hasta 17 horas de transmisión de vídeo en línea, 18 horas de navegación en redes sociales o 31 horas de reproducción de música, todo ello con una sola carga que permitirá que el dispositivo aguante todo el día
+- 【Almacenamiento Ampliable】El HONOR X6 cuenta con 64 GB de almacenamiento y también admite una tarjeta MicroSD de hasta 1 TB (NO INCLUIDA) para ampliarlo. Podrá descargar su contenido favorito en cualquier momento y no tendrá que eliminar sus mejores fotos
+- 【Servicios de Google para Móviles】El rendimiento fluido de MagicUI 6.1 se basa en Android 12. Incluye todas las aplicaciones de Google y Google Play, para que pueda disfrutar de todas sus aplicaciones favoritas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVW7L7MF{{</world>}}
