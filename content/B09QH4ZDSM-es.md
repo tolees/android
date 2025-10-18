@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: SAMSUNG
 - Tipo de producto: TELÉFONO CELULAR
+- Marca: SAMSUNG
 - Samsung Galaxy A33 5G 128 GB Negro - Smartphone Android con 6 GB de RAM, Móvil Libre con Carga Rápida, Batería de 5000 mAh y Pantalla de 6,4 Versión ES
 
 [🛒 Comprar!!!]({{< param buyurl >}})

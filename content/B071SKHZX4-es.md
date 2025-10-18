@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La detección de dispositivo permite una carga a la mayor velocidad posible: hasta 2,4 amperios por puerto o 4,8 amperios en total (no es compatible con Qualcomm Quick Charge).
-- El sistema de seguridad integrado incluye protección contra sobrecarga, cortocircuito y sobretensión (con certificación CE, FCC y RoHS). Ligero y compacto para un fácil transporte.
 - Entrada de 12/24 voltios; el led discreto confirma la conexión; cable de carga no incluido; .
 - Compatible con iPhone 7 Plus, 7, 6s Plus, 6s, 6 Plus, Galaxy S7, S6, Edge, Plus, iPad Pro, iPad Air, Air 2, iPad mini, LG, Nexus, HTC y otros.
 - El cargador 2 puertos USB de 24 W se enchufa en el adaptador de CC del coche y puede cargar hasta 2 dispositivos al mismo tiempo. Es ideal para teléfonos, tabletas y otros dispositivos.
+- La detección de dispositivo permite una carga a la mayor velocidad posible: hasta 2,4 amperios por puerto o 4,8 amperios en total (no es compatible con Qualcomm Quick Charge).
+- El sistema de seguridad integrado incluye protección contra sobrecarga, cortocircuito y sobretensión (con certificación CE, FCC y RoHS). Ligero y compacto para un fácil transporte.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071SKHZX4{{</world>}}
