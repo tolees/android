@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este Smartphone cuenta con una pantalla LCD de 6,49", resolución FHD+ (2400 x 1080 px) y tasa de refresco adaptativa de hasta 90 Hz para una experiencia de visualización nítida e inmersiva para todo tipo de contenido multimedia
-- Cuádruple cámara, cámara 48MP 1/2.0" +cámara 8MP 1/4" + cámara 2MP 1/5" + cámara 2MP 1/5", con un sensor adecuado para cada situación y captar hasta el último detalle
 - Gran batería de 5000 mAh que te permitirá usar tu Smartphone durante todo el dia
+- Cuádruple cámara, cámara 48MP 1/2.0" +cámara 8MP 1/4" + cámara 2MP 1/5" + cámara 2MP 1/5", con un sensor adecuado para cada situación y captar hasta el último detalle
 - Experiencia de usuario depurada y ágil gracias a que smartphone cuenta con COLOR OS 11 sobre Android 11
 - Procesador Qualcomm Snapdragon 480 con conectividad 5G en combinación con 4GB de RAM para que tu móvil tenga un rendimiento sobresaliente
 

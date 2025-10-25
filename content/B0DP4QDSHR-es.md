@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【6.56" Pantalla Nítida】La pantalla HONOR FullView de 6.56 pulgadas y 90Hz proporciona una experiencia visual íntima y cómoda durante todo el día. HONOR X6b ofrece una experiencia visual inmersiva, no importa cuando el usuario está trabajando, transmitiendo videos o jugando.
+- 【Batería de larga duración de 5200 mAh】Libérate de la ansiedad de quedarte sin batería de repente y carga tu teléfono rápidamente.
 - 【50MP Triple Cámara】HONOR X6b cuenta con un impresionante sistema de cámara triple ultra claro que comprende una cámara principal de 50MP, una cámara macro de 2MP y una cámara de profundidad de 2MP, permitiendo a los usuarios capturar sus momentos memorables de la vida con vívidos detalles.
 - 【Google Mobile Services】El buen funcionamiento de MagicUI 8.0 se basa en Android 14. Con todas las aplicaciones de Google y Google Play, trae todo lo que necesitas.
-- 【Batería de larga duración de 5200 mAh】Libérate de la ansiedad de quedarte sin batería de repente y carga tu teléfono rápidamente.
 - 【128 GB Gran Capacidad de Almacenamiento】HONOR X6b puede guardar más de Más de 27,000 fotos; más de 1,1000 canciones. La ranura para tarjetas MicroSD permite a los usuarios ampliar aún más el almacenamiento hasta 1 TB, aportando una mayor flexibilidad para satisfacer sus necesidades empresariales y personales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

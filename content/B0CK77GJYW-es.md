@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - - 5G Network: 5G
-- - 3G Network: HSDPA 850 / 900 / 2100
 - - 4G Network: LTE
-- - 2G Network: GSM 850 / 900 / 1800 / 1900
 - - Type: Smartphone
+- - 3G Network: HSDPA 850 / 900 / 2100
+- - 2G Network: GSM 850 / 900 / 1800 / 1900
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CK77GJYW{{</world>}}
