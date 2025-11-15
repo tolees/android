@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye Lenovo Precision Pen 2: dale rienda suelta a tu creatividad, convirtiendo tu Tab P11 (2nd Gen) de Lenovo en un lienzo para darle vida a tu imaginación con total comodidad y precisión de trazos
-- Sumérgete completamente en la historia mientras ves tus películas y programas favoritos en la pantalla expansiva de 11.5" 2K con resolución de 2000 x 1200 px y 120Hz de frecuencia de actualización de la tablet Lenovo Tab P11 de 2.ª generación
+- Segunda pantalla: trabaja de forma más eficiente convirtiendo a la Tab P11 de 2.ª generación en un monitor táctil inalámbrico para tu ordenador Windows gracias a Lenovo Freestyle
 - Disfruta hasta 10 horas de navegación web: Haz maratones de series sin parar gracias a su batería con capacidad de 7700 mAh; además, mantente siempre en movimiento gracias a su tecnología de carga rápida
 - El procesador MediaTek Helio G99 de 8 núcleos, 4GB de RAM y 128GB de capacidad ampliable hasta 1TB con tarjeta micro SD, hacen de la Tab P11 (2nd Gen) una tablet ideal para estudio o entretenimiento
-- Segunda pantalla: trabaja de forma más eficiente convirtiendo a la Tab P11 de 2.ª generación en un monitor táctil inalámbrico para tu ordenador Windows gracias a Lenovo Freestyle
+- Sumérgete completamente en la historia mientras ves tus películas y programas favoritos en la pantalla expansiva de 11.5" 2K con resolución de 2000 x 1200 px y 120Hz de frecuencia de actualización de la tablet Lenovo Tab P11 de 2.ª generación
+- Incluye Lenovo Precision Pen 2: dale rienda suelta a tu creatividad, convirtiendo tu Tab P11 (2nd Gen) de Lenovo en un lienzo para darle vida a tu imaginación con total comodidad y precisión de trazos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJFSVRD6{{</world>}}
