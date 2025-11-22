@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero para la máxima comodidad
 - Rango de frecuencia de 12 Hz a 22 kHz
+- Diseño ligero para la máxima comodidad
 - Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
 - Diafragmas tipo cúpula de 30 mm
 

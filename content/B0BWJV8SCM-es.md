@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfruta de una visualización cinematográfica con su pantalla de 6,75” HD+ NXTVISION. Con una tasa de refresco de 90Hz que te permitirá disfrutar de tu navegación web, juegos, series…sin interrupciones. Su doble altavoz estéreo, te ofrecerán una calidad de audio más potente que el altavoz convencional. Los modos de protección ocular de tu TCL 40 SE te protegerán la vista si pasas largos periodos de tiempo delante de la pantalla.
-- Está diseñado para un uso diario intenso y prolongado con sus 5010 mAh de batería y carga inteligente, que gracias a la IA aprende de tus patrones de carga consiguiendo aumentar la vida útil de la batería. Carga rápida de 18W.
 - Disfruta de un rendimiento fluido y estable mientras trabajas o juegas con sus 6GB de RAM, que además podrás expandir hasta 9GB de RAM permitiéndote gestionar varias apps a la vez y una experiencia fluida en multitarea. Con sus 256GB de ROM ampliables mediante tarjeta microSD de hasta 1TB, podrás almacenar todos tus grandes momentos.
+- Está diseñado para un uso diario intenso y prolongado con sus 5010 mAh de batería y carga inteligente, que gracias a la IA aprende de tus patrones de carga consiguiendo aumentar la vida útil de la batería. Carga rápida de 18W.
 - Descubre la grandeza en cada detalle incluso en situaciones de baja luminosidad con una triple cámara de alta resolución de 50MP IA con funciones creativas y divertidas como Steady Snap, para que tus fotos en movimiento salgan siempre perfectas o One Shot para disfrutar de varias opciones de fotos y vídeo en un solo disparo. Su cámara frontal de 8MP te ofrece selfies de alta calidad, respetando el tono natural de la piel gracias a la IA. Utiliza el control por gestos para capturar selfies de grupo de manera rápida y divertida. Cámara de profundidad 2MP y cámara macro de 2MP.
+- Disfruta de una visualización cinematográfica con su pantalla de 6,75” HD+ NXTVISION. Con una tasa de refresco de 90Hz que te permitirá disfrutar de tu navegación web, juegos, series…sin interrupciones. Su doble altavoz estéreo, te ofrecerán una calidad de audio más potente que el altavoz convencional. Los modos de protección ocular de tu TCL 40 SE te protegerán la vista si pasas largos periodos de tiempo delante de la pantalla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWJV8SCM{{</world>}}
