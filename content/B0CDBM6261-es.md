@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optimizado para el máximo rendimiento con un juego de latencia ultrabaja, carga simultánea y audio de 3,5 mm. El Kishi V2 Pro utiliza el USB tipo C para eliminar la latencia, lo que permite la máxima capacidad de respuesta, y cuenta con carga simultánea para cargar tu teléfono mientras juegas, así como audio de 3,5 mm para un sonido y una voz de alta fidelidad.
-- No compatible con iPhone 15
-- Retransmite juegos de PC y consola ve más allá del juego móvil. Usa el Kishi V2 Pro para disfrutar de juegos de PC y de consola directamente en tu teléfono, con compatibilidad con las mejores aplicaciones de streaming de juegos. Retransmite desde tu propio dispositivo o juega en la nube. (Es posible que se necesiten hardware y servicios de terceros).
 - Control profesional con tecnología háptica HyperSense para una precisión y una inmersión totales. El Razer Kishi V2 Pro está diseñado según los más altos estándares e incluye microswitches, gatillos analógicos, botones multifunción programables, vibraciones hápticas y audio de 3,5 mm.
+- Optimizado para el máximo rendimiento con un juego de latencia ultrabaja, carga simultánea y audio de 3,5 mm. El Kishi V2 Pro utiliza el USB tipo C para eliminar la latencia, lo que permite la máxima capacidad de respuesta, y cuenta con carga simultánea para cargar tu teléfono mientras juegas, así como audio de 3,5 mm para un sonido y una voz de alta fidelidad.
+- Retransmite juegos de PC y consola ve más allá del juego móvil. Usa el Kishi V2 Pro para disfrutar de juegos de PC y de consola directamente en tu teléfono, con compatibilidad con las mejores aplicaciones de streaming de juegos. Retransmite desde tu propio dispositivo o juega en la nube. (Es posible que se necesiten hardware y servicios de terceros).
 - Compatibilidad universal con puente extensible para una compatibilidad óptima. El Razer Kishi V2 Pro cuenta con un puente estable y extensible que sujeta a la perfección la mayoría de los smartphones Android más populares, proporcionando así un ajuste seguro que no se suelta cuando juegas.
-- Con la aplicación Razer Nexus para tener tus juegos favoritos en un solo lugar. Explora cientos de juegos compatibles, graba y comparte tus partidas, y mantén actualizado tu Kishi V2 Pro con una aplicación integrada que te ofrece una personalización total con solo tocar un botón.
+- No compatible con iPhone 15
 - Modo de mando virtual para un control directo de los juegos con pantalla táctil. Utiliza el Modo de mando virtual* para reasignar los controles de la pantalla táctil al Kishi V2 Pro, añadiendo compatibilidad con el mando a muchos de los juegos para móviles más importantes. *Los juegos pueden tener normas específicas sobre si se permite reasignar la pantalla táctil para permitir la compatibilidad con el mando.
+- Con la aplicación Razer Nexus para tener tus juegos favoritos en un solo lugar. Explora cientos de juegos compatibles, graba y comparte tus partidas, y mantén actualizado tu Kishi V2 Pro con una aplicación integrada que te ofrece una personalización total con solo tocar un botón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDBM6261{{</world>}}

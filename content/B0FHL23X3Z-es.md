@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño premium ultrarresistente.
 - Te protege a ti y a tus datos.
+- Diseño premium ultrarresistente.
 - Nuevo teleobjetivo con Zoom Alta Resolución de 20 aumentos.
 - 7 años de nuevas funciones y actualizaciones.
 - Creado para Gemini, tu asistente de IA.
