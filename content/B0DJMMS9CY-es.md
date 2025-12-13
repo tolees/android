@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comparte tus notas sin esfuerzo con una función de envío por correo electrónico
-- ComfortGaze & SMARTlight ofrecen una comodidad inigualable y seguridad ocular
 - Lápiz capacitivo y una variedad de herramientas para tomar notas en color ideal
 - Texto a voz convierte archivos de texto en audio de sonido natural
-- Pantalla a color grande y segura para los ojos de 10.3 pulgadas E Ink Kaleido 3
+- ComfortGaze & SMARTlight ofrecen una comodidad inigualable y seguridad ocular
+- Comparte tus notas sin esfuerzo con una función de envío por correo electrónico
 - Altavoz integrado, Bluetooth y soporte para 6 formatos de audiolibro
+- Pantalla a color grande y segura para los ojos de 10.3 pulgadas E Ink Kaleido 3
 - Compatible con 24 formatos de libros, gráficos, cómics y manga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

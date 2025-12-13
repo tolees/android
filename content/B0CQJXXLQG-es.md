@@ -28,23 +28,23 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MZB0G7UEU
-- Manufacturer: Xiaomi
-- Connectivity technology: Wifi
-- Item dimensions: 1.97 inches
-- Ram memory installed size: 8.0 GB
-- Battery average life: 11.53 hours
-- Memory storage capacity: 256.0 GB
-- Camera description: Frontal
-- Wireless provider: 3
-- Included components: 1 package
-- 6941812762837
 - Operating system: Android 13.0
-- Transportation restrictions: {modes:["AIR","GROUND"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7ex7vdskg/8mZmZmZmZrNxXabdskg/8ZmZmZmZmrNxXa9xOKXenbJIQLOIAAAAAACzjpBtaWxsaWFtcGVyZV9ob3Vyo3Ff43Ez}}}
-- Batteries included: True
-- Display size: 6.67 inches
+- Included components: 1 package
+- Camera description: Frontal
 - Battery capacity: 5000.0 milliamp_hours
+- Item dimensions: 1.97 inches
+- Battery average life: 11.53 hours
+- Transportation restrictions: {modes:["AIR","GROUND"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7ex7vdskg/8mZmZmZmZrNxXabdskg/8ZmZmZmZmrNxXa9xOKXenbJIQLOIAAAAAACzjpBtaWxsaWFtcGVyZV9ob3Vyo3Ff43Ez}}}
+- MZB0G7UEU
 - Wireless network technology: LTE
+- Display size: 6.67 inches
+- Manufacturer: Xiaomi
+- Memory storage capacity: 256.0 GB
+- Ram memory installed size: 8.0 GB
+- Wireless provider: 3
+- Connectivity technology: Wifi
+- Batteries included: True
+- 6941812762837
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQJXXLQG{{</world>}}

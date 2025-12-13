@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mando élite diseñado para la competición
-- Botones configurables y marcos
 - Iluminación LED RGB
+- Botones configurables y marcos
+- Mando élite diseñado para la competición
 - Compatible con PC, SWITCH, ANDROID y IOS Soporte smartphone incluido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
