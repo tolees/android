@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo de pérdida: cuando actives el modo de pérdida, utiliza miles de millones de dispositivos Android en la red de la aplicación "Encontrar mi dispositivo" para encontrar tus artículos perdidos.
-- IP67 resistente al agua, batería reemplazable: El rastreador MiTag tiene certificación IP67 y se puede sumergir en agua de 1 metro de profundidad durante 30 minutos. Viene con una batería CR2032 (reemplazable) que dura hasta 1 año.
 - Emparejamiento rápido: la etiqueta inteligente MiTag se puede emparejar rápidamente con tu teléfono Android (excepto iOS). Una vez que MiTag esté cerca de su teléfono, aparecerá una invitación de conexión.
 - Búsqueda de objetos: utiliza la aplicación "Encontrar mi dispositivo" para rastrear tu dispositivo. Cuando el rastreador está en el rango Bluetooth, el altavoz integrado se activa para localizar su objeto acústicamente. Si el rastreador está fuera del alcance de Bluetooth, puede mostrar la ubicación de la etiqueta en el mapa.
+- IP67 resistente al agua, batería reemplazable: El rastreador MiTag tiene certificación IP67 y se puede sumergir en agua de 1 metro de profundidad durante 30 minutos. Viene con una batería CR2032 (reemplazable) que dura hasta 1 año.
+- Modo de pérdida: cuando actives el modo de pérdida, utiliza miles de millones de dispositivos Android en la red de la aplicación "Encontrar mi dispositivo" para encontrar tus artículos perdidos.
 - Compartir el artículo: Puedes compartir tu objeto con otros en la aplicación Encontrar mi dispositivo de Google para que puedan ver la posición del objeto en el mapa.
 - Privacidad: Sus datos están seguros. La red de Google Encontrar mi dispositivo está encriptada y anónima, los datos de ubicación y el historial no se almacenan y Google no puede verlos.
 - Etiqueta inteligente Android: el rastreador de Android MiLi garantiza que nunca más pierdas tus objetos valiosos. Con la aplicación "Encontrar mi dispositivo", puede rastrear y encontrar fácilmente sus artículos. Adjunte MiTag a llaves, carteras, mochilas, maletas y más. (Llavero incluido)
