@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Te protege a ti y a tus datos.
-- Creado para Gemini, tu asistente de IA.
 - 7 años de nuevas funciones y actualizaciones.
 - Nuevo teleobjetivo con Zoom Alta Resolución de 20 aumentos.
+- Te protege a ti y a tus datos.
+- Creado para Gemini, tu asistente de IA.
 - Diseño premium ultrarresistente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

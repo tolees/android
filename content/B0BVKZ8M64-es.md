@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño moderno y elegante
 - En color negro, con tecnología 5G
+- Diseño moderno y elegante
 - Teléfono celular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
