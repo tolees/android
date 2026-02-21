@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- | POTENCIA Y RENDIMIENTO | Este teléfono móvil libre incluye un procesador Quad Core de 2 GHz, sistema operativo Android 11 y una memoria RAM de 3GB. Su memoria interna, de 64GB, puede ser ampliable con una tarjeta micro SD de hasta 256GB. Cuenta con función Dual SIM para tener el número personal y el profesional en un mismo dispositivo. Un rendimiento estable y un uso fácil y sencillo, todo en un solo dispositivo.
-- | FOTOS Y VÍDEOS | SPC SMART ULTIMATE cuenta con una cámara trasera de 13 Mpx con flash y una cámara frontal de 8 Mpx para selfies y videollamadas. Graba vídeos de calidad con resolución Full HD 1080p a 30fps.
-- | GRAN AUTONOMÍA | SPC SMART ULTIMATE cuenta con una gran batería de 3000 mAh de polímero de litio para horas y horas de autonomía. Ponlo a cargar fácilmente gracias a su conexión USB tipo C reversible.
-- | PANTALLA FULL SCREEN | Disfruta de su Todo Pantalla superpanorámica con relación de aspecto 19,5:9 y tecnología IPS. Con una calidad HD+, muestra una alta densidad de píxeles, 282PPI. Imágenes nítidas y llenas de contrastes en su pantalla multitáctil que también cuenta con acelerómetro.
 - | DISEÑO ELEGANTE | Su diseño texturizado con un doble patrón en color negro, mezcla una parte lisa con otra en relieve.
+- | PANTALLA FULL SCREEN | Disfruta de su Todo Pantalla superpanorámica con relación de aspecto 19,5:9 y tecnología IPS. Con una calidad HD+, muestra una alta densidad de píxeles, 282PPI. Imágenes nítidas y llenas de contrastes en su pantalla multitáctil que también cuenta con acelerómetro.
+- | POTENCIA Y RENDIMIENTO | Este teléfono móvil libre incluye un procesador Quad Core de 2 GHz, sistema operativo Android 11 y una memoria RAM de 3GB. Su memoria interna, de 64GB, puede ser ampliable con una tarjeta micro SD de hasta 256GB. Cuenta con función Dual SIM para tener el número personal y el profesional en un mismo dispositivo. Un rendimiento estable y un uso fácil y sencillo, todo en un solo dispositivo.
+- | GRAN AUTONOMÍA | SPC SMART ULTIMATE cuenta con una gran batería de 3000 mAh de polímero de litio para horas y horas de autonomía. Ponlo a cargar fácilmente gracias a su conexión USB tipo C reversible.
+- | FOTOS Y VÍDEOS | SPC SMART ULTIMATE cuenta con una cámara trasera de 13 Mpx con flash y una cámara frontal de 8 Mpx para selfies y videollamadas. Graba vídeos de calidad con resolución Full HD 1080p a 30fps.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZZD78S6{{</world>}}

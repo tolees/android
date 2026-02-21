@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONEXIÓN SIN LÍMITES: HDMI, CHROMECAST Y MÁS: Con 3 puertos HDMI, podrás conectar fácilmente tus dispositivos externos, como consolas de videojuegos y reproductores de Blu-ray. Además, el soporte de Chromecast te permite transmitir contenido desde tu smartphone o tablet directamente a la pantalla de tu televisor.
 - ANDROID TV 11: UN MUNDO DE ENTRETENIMIENTO EN TUS MANOS: Accede a una amplia variedad de aplicaciones preinstaladas, como Google Play, Netflix, Prime Video y YouTube, para que nunca te falte nada que ver. Descubre nuevas opciones de entretenimiento y disfruta de tu contenido favorito con facilidad.
 - DISEÑO ELEGANTE Y FUNCIONAL: La televisión Tesla combina estilo y practicidad en un solo dispositivo. Con un diseño delgado y compacto, se integra perfectamente en cualquier espacio. Además, su soporte VESA (100x100) te permite montarla en la pared para maximizar tu área de visualización.
+- CONEXIÓN SIN LÍMITES: HDMI, CHROMECAST Y MÁS: Con 3 puertos HDMI, podrás conectar fácilmente tus dispositivos externos, como consolas de videojuegos y reproductores de Blu-ray. Además, el soporte de Chromecast te permite transmitir contenido desde tu smartphone o tablet directamente a la pantalla de tu televisor.
 - CONTROL TOTAL CON GOOGLE ASSISTANT: Convierte tu televisor en un centro de control inteligente con el asistente de Google integrado. Accede a tus aplicaciones, ajusta la configuración, busca contenido y controla tu hogar inteligente con comandos de voz simples. La comodidad está a solo unas palabras de distancia.
 - EXPERIENCIA INMERSIVA CON LA TELEVISIÓN TESLA: Disfruta de imágenes nítidas y vibrantes con la mejor resolución en una pantalla de 32 pulgadas. Sumérgete en tus contenidos favoritos con colores realistas y detalles impresionantes.
 

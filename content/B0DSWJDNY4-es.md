@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Pixel 9a – Smartphone Android Libre con cámara con IA batería para Todo el día y potentes Funciones de Seguridad – Obsidiana 256GB'
-date: 2026-02-18 10:24:30
+date: 2026-02-20 17:22:25
 image: 'https://m.media-amazon.com/images/I/41U37zyFXIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSWJDNY4/?tag=tolees-21'
 descuento: '30.82'
-average: '442.31'
+average: '443.9825'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

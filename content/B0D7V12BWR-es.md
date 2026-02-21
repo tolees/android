@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tacha tus tareas como si nada, impulsa tu creatividad y recupera rápidamente información que hayas guardado.
-- Descubre Pixel 9 Pro y Pro XL. El Pixel más potente hasta la fecha, ahora en dos tamaños. Ha sido creado por Google y se ha diseñado para la IA.
-- El sistema de cámara trasera triple de Pixel 9 Pro te permite conseguir primerísimos planos, selfies nítidos y colores intensos, incluso con poca luz.
 - Colores originales, bordes pulidos y un acabado suave y mate. Es Pixel, pero con un diseño renovado.
 - Pide ayuda a Gemini sobre cualquier cosa que veas en pantalla o en el mundo real.
+- Tacha tus tareas como si nada, impulsa tu creatividad y recupera rápidamente información que hayas guardado.
+- El sistema de cámara trasera triple de Pixel 9 Pro te permite conseguir primerísimos planos, selfies nítidos y colores intensos, incluso con poca luz.
+- Descubre Pixel 9 Pro y Pro XL. El Pixel más potente hasta la fecha, ahora en dos tamaños. Ha sido creado por Google y se ha diseñado para la IA.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7V12BWR{{</world>}}

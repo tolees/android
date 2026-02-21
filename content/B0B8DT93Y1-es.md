@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conectividad, WiFi 5 (1x1 802,11abgnac) y Bluetooth 5,0
-- Sistema Operativo, Android 12
-- Pantalla táctil IPS 2K de 26,92 cm (10,6 pulgadas), 2000 x 1200 pixeles, 400 nits
-- Procesador MediaTek Helio G80 Octa-Core 2,0 G Hz
 - Memoria RAM de 4 GB Soldered LPDDR4x, ampliables mediante tarjeta micro SD hasta 1TB
-- Tarjeta gráfica Integrada ARM Mali-G52 MC2 GPU
+- Sistema Operativo, Android 12
+- Procesador MediaTek Helio G80 Octa-Core 2,0 G Hz
 - Almacenamiento de 64 GB (eMCP, e mmC 5,1) ampliables mediante tarjeta micro SD hasta 1TB
+- Tarjeta gráfica Integrada ARM Mali-G52 MC2 GPU
+- Pantalla táctil IPS 2K de 26,92 cm (10,6 pulgadas), 2000 x 1200 pixeles, 400 nits
+- Conectividad, WiFi 5 (1x1 802,11abgnac) y Bluetooth 5,0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8DT93Y1{{</world>}}
