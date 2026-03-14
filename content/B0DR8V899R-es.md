@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conmutador de modo de activación: cambia fácilmente entre activaciones lineales de efecto Hall y activaciones táctiles no lineales para un control óptimo en diferentes escenarios de juego.
-- Joysticks TMR - Ofrecen mayor sensibilidad, mayor precisión y mayor durabilidad.
-- Tecnología inalámbrica exclusiva de 8BitDo: "8Speed", ofrece una conexión 2.4G excepcionalmente estable con una latencia ultrabaja inferior a 1 ms. Diseñada para ofrecer una fiabilidad a toda prueba, cuenta con un potente sistema antiinterferencias y un alcance de 10 m prácticamente sin retardo.
 - 2 botones de pala traseros Pro, topes R4/L4 adicionales y topes táctiles y D-pad para un control mejorado y una respuesta más rápida. Incluye una base de carga multifunción y un adaptador USB-C para una conectividad perfecta. Compatible con Windows PC y Android - 2.4G y por cable para Windows, Bluetooth para Android.
+- Joysticks TMR - Ofrecen mayor sensibilidad, mayor precisión y mayor durabilidad.
+- Conmutador de modo de activación: cambia fácilmente entre activaciones lineales de efecto Hall y activaciones táctiles no lineales para un control óptimo en diferentes escenarios de juego.
+- Tecnología inalámbrica exclusiva de 8BitDo: "8Speed", ofrece una conexión 2.4G excepcionalmente estable con una latencia ultrabaja inferior a 1 ms. Diseñada para ofrecer una fiabilidad a toda prueba, cuenta con un potente sistema antiinterferencias y un alcance de 10 m prácticamente sin retardo.
 - Frecuencia de sondeo de 1000 Hz (para conexión 2.4G y por cable). Control de movimiento de 6 ejes personalizable. Función Turbo. Vibración Rumble. Soporta 8BitDo Ultimate Software V2.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

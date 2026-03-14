@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 11", WUXGA QLED 2K LED IPS 1920 x 1200 pixeles
 - Memoria RAM de 8GB LPDDR4X
-- Almacenamiento de 256GB
+- Pantalla de 11", WUXGA QLED 2K LED IPS 1920 x 1200 pixeles
 - Procesador Mediatek Helio G99 (8C/Octa-Core), 2 GHz
+- Almacenamiento de 256GB
 - Sistema Operativo: Android 14
 
 [🛒 Comprar!!!]({{< param buyurl >}})

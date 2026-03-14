@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- | HASTA 7 DÍAS DE BATERÍA CON UNA SOLA CARGA | El reloj inteligente para hombre o mujer SPC SMARTEE DUO 2 funciona durante 7 días en un uso estándar y apenas necesitará 70 minutos para conseguir una carga completa.
 - | 100 DEPORTES DISPONIBLES | Más de 100 modos deportivos para ir recogiendo datos como el tiempo dedicado a cada modalidad o las kilocalorías invertidas en cada sesión. Monitoriza los progresos y permite marcar objetivos a través de la app SPC SMART YOU en Android y SPC SMARTEE en iOS.
-- | DOS COLORES PARA PODER ELEGIR | Un reloj inteligente ideal para quien no quiere renunciar a su estilismo diario. SPC SMARTEE DUO 2 llega con dos correas de silicona fácilmente intercambiables en dos colores: «Pale Cream» y «Soft Mint». Y para darle todavía más carácter propio, incorpora varios watchfaces para elegir lo que se ve y cómo se ve.
-- | UNA GRAN PANTALLA CON UN BAJO CONSUMO | SPC SMARTEE DUO 2 está equipado con una impresionante pantalla AMOLED de 1.78” que garantiza colores vivos y una visualización sobresaliente incluso cuando el reloj esté expuesto a la luz del sol. El modo “Always ON” permite que la hora siempre sea visible, como en un reloj tradicional, pero sin que su batería se vea comprometida.
-- | PARA MONITORIZAR LA SALUD | Mide fácilmente la saturación de oxígeno en sangre, la frecuencia cardiaca para conocer la respuesta del cuerpo al esfuerzo, el número de calorías quemadas después de practicar ejercicio, la calidad del sueño y el calendario de ciclo menstrual.
+- | HASTA 7 DÍAS DE BATERÍA CON UNA SOLA CARGA | El reloj inteligente para hombre o mujer SPC SMARTEE DUO 2 funciona durante 7 días en un uso estándar y apenas necesitará 70 minutos para conseguir una carga completa.
 - | LLAMADAS Y NOTIFICACIONES POR BLUETOOTH | Un smartwatch inteligente compatible con Android e iOS que solo necesita estar conectado por Bluetooth a un smartphone para recibir llamadas y responderlas desde el reloj sin tener que sacar el teléfono. Las notificaciones también llegarán al dispositivo.
+- | PARA MONITORIZAR LA SALUD | Mide fácilmente la saturación de oxígeno en sangre, la frecuencia cardiaca para conocer la respuesta del cuerpo al esfuerzo, el número de calorías quemadas después de practicar ejercicio, la calidad del sueño y el calendario de ciclo menstrual.
+- | UNA GRAN PANTALLA CON UN BAJO CONSUMO | SPC SMARTEE DUO 2 está equipado con una impresionante pantalla AMOLED de 1.78” que garantiza colores vivos y una visualización sobresaliente incluso cuando el reloj esté expuesto a la luz del sol. El modo “Always ON” permite que la hora siempre sea visible, como en un reloj tradicional, pero sin que su batería se vea comprometida.
+- | DOS COLORES PARA PODER ELEGIR | Un reloj inteligente ideal para quien no quiere renunciar a su estilismo diario. SPC SMARTEE DUO 2 llega con dos correas de silicona fácilmente intercambiables en dos colores: «Pale Cream» y «Soft Mint». Y para darle todavía más carácter propio, incorpora varios watchfaces para elegir lo que se ve y cómo se ve.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ6YKBFQ{{</world>}}
