@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- QUE NO SE TE CRUCEN LOS CABLES – Gracias a la conexión Bluetooth de Primo podrás navegar con total libertad y, además, siempre tendrás tu escritorio despejado
-- LARGA VIDA A PRIMO – Sus 2 pilas AAA incluidas te permiten trabajar 6 meses de manera interrumpida. Y duran, y duran, y duran…
 - HECHO PARA MOVERSE – Primo te permite ajustar la velocidad del cursor entre 1000 y 1600 PPP, para que lo utilices a tu manera
 - INDICADOR DE ESTADO – Un led te informa del estado de la conexión, mientras que el interruptor de encendido/apagado te ayuda a aumentar la duración de las baterías
 - EL MEJOR – Primo es un pequeño ratón para ambidiestros que se puede utilizar en la oficina o allí donde te encuentres
+- QUE NO SE TE CRUCEN LOS CABLES – Gracias a la conexión Bluetooth de Primo podrás navegar con total libertad y, además, siempre tendrás tu escritorio despejado
+- LARGA VIDA A PRIMO – Sus 2 pilas AAA incluidas te permiten trabajar 6 meses de manera interrumpida. Y duran, y duran, y duran…
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C53JMG3R{{</world>}}

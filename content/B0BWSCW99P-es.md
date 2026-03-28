@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LA CLAVE PARA TRABAJAR MEJOR – Conexión inalámbrica con hasta 3 dispositivos a través de USB y Bluetooth, además de una batería recargable con una autonomía de hasta 6 meses
 - EL DISEÑO MÁS MODERNO – Teclas de tijera de perfil bajo —tipo portátil—, 12 teclas multimedia y un tamaño compacto que brinda una mayor comodidad
 - LIBERTAD DE MOVIMIENTOS – Lyra está equipado con un ratón ambidiestro, con una velocidad de cursor regulable entre 800 y 1600 ppp, para brindarle la máxima productividad
 - HAZ LO CORRECTO – Fabricado con hasta un 84% de materiales reciclados, trabaje con la tranquilidad de que está aportando su granito de arena al medio ambiente
 - DIFERENTES SISTEMAS OPERATIVOS – No importa el sistema que prefiera, Lyra está preparado para el reto: es compatible con Windows, iOS, iPadOS, MacOS, Android y Chrome OS
+- LA CLAVE PARA TRABAJAR MEJOR – Conexión inalámbrica con hasta 3 dispositivos a través de USB y Bluetooth, además de una batería recargable con una autonomía de hasta 6 meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWSCW99P{{</world>}}

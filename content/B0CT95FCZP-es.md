@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conexión por cable (USB) - Configuración del teclado sin software
-- Teclas con retroiluminación RGB con 20 efectos / Full antighosting
-- Tecnología Hot Swap para intercambiar los switches
 - Compatible con Windows, Android y Mac
+- Tecnología Hot Swap para intercambiar los switches
 - Teclado mecánico con switches mecánicos lubricados
+- Teclas con retroiluminación RGB con 20 efectos / Full antighosting
+- Conexión por cable (USB) - Configuración del teclado sin software
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CT95FCZP{{</world>}}
