@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botones laterales exclusivos El nubia Focus 2 Ultra incluye un botón deslizante en el lateral que te permite acceder rápidamente a la cámara, y puedes personalizarlo para asignar una función a tu elección. Además, incorpora un botón disparador para capturar fotos y videos de manera cómoda, emulando la experiencia de una cámara tradicional.
+- Pantalla increíble + Funciones IA No te pierdas ni un solo detalle gracias a la impresionante pantalla FHD+ AMOLED de 6,8", con una fluidez ultrarrápida gracias a su tasa de refresco de 120Hz y reconocimiento de huella en pantalla. Además, incorpora funciones de IA como la traducción en tiempo real durante las llamadas, llevando tu experiencia de usuario al siguiente nivel.
 - Fotografía profesional al alcance de todos El nuevo nubia Focus 2 Ultra 5G te trae una experiencia fotográfica única, gracias a su lente con anillo giratorio, gran sensor de 1/1.55", acceso lateral directo a la cámara y botón disparador para no perderte ningún recuerdo.
 - Captura cada detalle con la mejor calidad Con su sistema triple de cámaras, el nubia Focus 2 Ultra te ofrece una calidad excepcional: cámara principal de 50MP con OIS y apertura f/1.47, cámara para retratos y otra para el gran angular. Además, cuenta con 5 distancias focales y una cámara selfie de 32MP, junto con algoritmos de IA como Super Night y Sport Mode para mejorar la fotografía nocturna y en movimiento.
-- Pantalla increíble + Funciones IA No te pierdas ni un solo detalle gracias a la impresionante pantalla FHD+ AMOLED de 6,8", con una fluidez ultrarrápida gracias a su tasa de refresco de 120Hz y reconocimiento de huella en pantalla. Además, incorpora funciones de IA como la traducción en tiempo real durante las llamadas, llevando tu experiencia de usuario al siguiente nivel.
+- Botones laterales exclusivos El nubia Focus 2 Ultra incluye un botón deslizante en el lateral que te permite acceder rápidamente a la cámara, y puedes personalizarlo para asignar una función a tu elección. Además, incorpora un botón disparador para capturar fotos y videos de manera cómoda, emulando la experiencia de una cámara tradicional.
 - ¡Lente con ANILLO GIRATORIO! El nubia Focus 2 Ultra llega con una función única en el mercado: una lente con anillo giratorio que te permite ajustar el zoom, modificar la apertura en el modo retrato y acceder a muchas más funciones, todo sin necesidad de tocar la pantalla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

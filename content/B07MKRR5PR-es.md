@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TENSIÓMETRO DE MUÑECA OMRON: el RS3, que mide 13,5-21,5 cm, es una alternativa a los monitores de brazo y te mantiene conectado a tu salud proporcionando lecturas precisas
 - RESULTADOS A TU ALCANCE: colócate, levanta la mano a la altura del corazón y lee tus resultados en este medidor de tensión; con capacidad de memoria de 30 lecturas y con la app Omron connect para un fácil acceso a tus datos
-- PARA USAR EN CASA O EN MOVIMIENTO: el comprobador de tensión RS3 Intelli IT viene con un estuche de fácil transporte y su tamaño compacto te permite llevarlo fácilmente contigo para que nunca te pierdas una lectura
+- TENSIÓMETRO DE MUÑECA OMRON: el RS3, que mide 13,5-21,5 cm, es una alternativa a los monitores de brazo y te mantiene conectado a tu salud proporcionando lecturas precisas
 - PRODUCTO DE ALTA CALIDAD Y DE CONFIANZA. Validado clínicamente. Cada tensiómetro OMRON ha sido validado por clínicas de renombre, según los protocolos de validación de la Asociación Europea de Hipertensión (ESH) o de la Organización para la Estandarización. AHORA CON UNA GARANTÍA AMPLIADA DE 5 AÑOS
+- PARA USAR EN CASA O EN MOVIMIENTO: el comprobador de tensión RS3 Intelli IT viene con un estuche de fácil transporte y su tamaño compacto te permite llevarlo fácilmente contigo para que nunca te pierdas una lectura
 - CONOCE MÁS DE TU SALUD: Con este tensiómetro digital, sus resultados se transfieren automáticamente a la aplicación Omron connect via Bluetooth para proporcionarte una visión de tu salud cardíaca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

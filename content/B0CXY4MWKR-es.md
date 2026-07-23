@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Forma de tamaño completo para teléfonos y iPad Mini - El factor de forma de los juegos de consola se une a la comodidad de los juegos móviles - Juega directamente en tu teléfono o desbloquea nuevos niveles de juegos móviles con tabletas de hasta 8 pulgadas para una vista digna de los mejores juegos AAA.
-- Háptica Razer Sensa HD y Chroma RGB - Experimenta una háptica de alta fidelidad que es más fuerte, más detallada y más matizada que las vibraciones de los mandos de consola tradicionales, con iluminación Chroma RGB dinámica direccionable.
-- Razer PC Remote Play - La potencia de tu equipo de juegos ahora cabe en tu bolsillo - Transmite tus juegos favoritos usando tu PC, lánzalos directamente desde tu dispositivo móvil y lleva tu inmersión al siguiente nivel con los visuales más nítidos y fluidos.
-- Modo de mando virtual: utiliza el modo de mando virtual para reasignar los controles de la pantalla táctil al Kishi Ultra, añadiendo compatibilidad con mandos a muchos de los juegos móviles más importantes (función disponible solo para dispositivos Android).
-- Conectividad y comodidad perfectas - Disfruta de juegos de baja latencia y audio fluido con la comodidad plug-and-play - Alimenta tu dispositivo mientras juegas con la carga pasante a través de USB-C y pasa a la acción rápidamente guardando tu teléfono en su funda - Toma de audio de 3,5 mm para adaptar auriculares.
 - Funciona con la aplicación Razer Nexus - Inicia tus juegos, personaliza tus controles, graba y comparte tus partidas y mantén tu Kishi Ultra actualizado con una aplicación que se abre con solo pulsar un botón específico (Razer Nexus no requiere cuota/suscripción, algunas aplicaciones dentro de Razer Nexus sí).
+- Conectividad y comodidad perfectas - Disfruta de juegos de baja latencia y audio fluido con la comodidad plug-and-play - Alimenta tu dispositivo mientras juegas con la carga pasante a través de USB-C y pasa a la acción rápidamente guardando tu teléfono en su funda - Toma de audio de 3,5 mm para adaptar auriculares.
 - Controles y ergonomía de consola de nivel profesional para móviles: domina los juegos para móviles con el rendimiento y la comodidad de nivel deportivo de los mandos de consola Razer Pro, que incluyen un d-pad de 8 direcciones y botones de acción mecatáctiles, gatillos de efecto Hall, botones programables y sticks analógicos TPSiV ultraduraderos.
+- Modo de mando virtual: utiliza el modo de mando virtual para reasignar los controles de la pantalla táctil al Kishi Ultra, añadiendo compatibilidad con mandos a muchos de los juegos móviles más importantes (función disponible solo para dispositivos Android).
+- Razer PC Remote Play - La potencia de tu equipo de juegos ahora cabe en tu bolsillo - Transmite tus juegos favoritos usando tu PC, lánzalos directamente desde tu dispositivo móvil y lleva tu inmersión al siguiente nivel con los visuales más nítidos y fluidos.
+- Háptica Razer Sensa HD y Chroma RGB - Experimenta una háptica de alta fidelidad que es más fuerte, más detallada y más matizada que las vibraciones de los mandos de consola tradicionales, con iluminación Chroma RGB dinámica direccionable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CXY4MWKR{{</world>}}

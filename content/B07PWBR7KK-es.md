@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Batería: 4200 mAh
+- Pantalla: 6.47", 1080 x 2340 pixels
 - Cámara: Cuádruple, 40MP+20MP+8MP+TOF
 - Procesador: Kirin 980 2.6GHz
-- Pantalla: 6.47", 1080 x 2340 pixels
+- Batería: 4200 mAh
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PWBR7KK{{</world>}}
