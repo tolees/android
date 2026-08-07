@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CABLE DE ALTA VELOCIDAD INCLUIDO – El cargador mechero coche PORTENTUM se entrega con un cable usb c carga rapida de 60W Power Delivery: conéctalo y aprovecha todo el rendimiento desde el primer segundo, sin gastar más.
+- DOBLE CARGA SIMULTÁNEA – 54W REALES – El doble cargador mechero coche movil PORTENTUM permite cargar 2 dispositivos a la vez con potencia total de 54W: USB-C PD de 36W y USB-A QC de 18W.
 - PROTECCIÓN INTELIGENTE Y SEGURIDAD ACTIVA – Nuestro cargador movil coche PORTENTUM incorpora un chip inteligente que protege tus dispositivos contra sobrecalentamiento, sobrecarga y cortocircuito.
 - DISEÑO COMPACTO Y RESISTENTE AL CALOR – El cargador mechero usb carga rapida PORTENTUM presenta cuerpo mini, materiales ignífugos y un ajuste firme que no sobresale del mechero.
+- CABLE DE ALTA VELOCIDAD INCLUIDO – El cargador mechero coche PORTENTUM se entrega con un cable usb c carga rapida de 60W Power Delivery: conéctalo y aprovecha todo el rendimiento desde el primer segundo, sin gastar más.
 - COMPATIBLE CON IPHONE, IPAD, GALAXY Y MÁS – El cargador coche usb c PORTENTUM es perfecto para cargar rápido iPhone, iPad, Galaxy, tablets Android y otros dispositivos con USB-C o USB-A.
-- DOBLE CARGA SIMULTÁNEA – 54W REALES – El doble cargador mechero coche movil PORTENTUM permite cargar 2 dispositivos a la vez con potencia total de 54W: USB-C PD de 36W y USB-A QC de 18W.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDX26Z6W{{</world>}}

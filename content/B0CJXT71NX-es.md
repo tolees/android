@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No te preocupes más por perder audio - Los transmisores de este micrófono lavalier inalámbrico se pueden usar como grabadoras independientes con hasta 14 horas de grabación interna [4]. Y la grabación flotante de 32 bits asegura un audio nítido incluso si sus niveles repuntan.
-- Menos ruido, mejores voces - La cancelación de ruido inteligente del micrófono de solapa DJI hace que las voces sean más claras, incluso al realizar entrevistas o grabar vídeos en localizaciones con sonidos erráticos e impredecibles.
-- Conexión directa con el ecosistema DJI - Con DJI OsmoAudio, un transmisor puede conectarse a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 u Osmo Pocket 3 sin un receptor, para grabar audio de calidad prémium.
-- Incluye un receptor, dos transmisores (Shadow Black), un estuche de carga, etc., para usarlo hasta 18 horas y grabar vídeos con varias personas hablando o con requerimientos de sonido en estéreo.
 - Alcance prolongado, posibilidades aumentadas - Disfruta de una grabación de audio inalámbrica y estable en un rango de 250 metros (FCC) [6], ya que los micrófonos inalámbricos DJI te brindan más flexibilidad para grabar en más situaciones.
-- Audio nítido para que suenes como un profesional - Este micrófono inalámbrico ofrece audio de alta calidad con grabación de voces más brillante, clara y agradable, que lo hace ideal para entrevistas, vlogs y mucho más.
-- Hasta 18 horas de funcionamiento - Despídete de la preocupación por la batería. Si estás realizando streaming en directo o grabando vídeos en localizaciones remotas sin opciones para cargarlo, este micrófono por Bluetooth te cubre las espaldas.
 - Siempre a punto - Los transmisores y el receptor del micrófono inalámbrico están preenlazados y listos para usarse, para que puedas ahorrar tiempo y mejorar la eficiencia. Dispone de adaptadores USB-C y Lightning para poder usarlo en más situaciones.
+- Hasta 18 horas de funcionamiento - Despídete de la preocupación por la batería. Si estás realizando streaming en directo o grabando vídeos en localizaciones remotas sin opciones para cargarlo, este micrófono por Bluetooth te cubre las espaldas.
+- Menos ruido, mejores voces - La cancelación de ruido inteligente del micrófono de solapa DJI hace que las voces sean más claras, incluso al realizar entrevistas o grabar vídeos en localizaciones con sonidos erráticos e impredecibles.
+- Incluye un receptor, dos transmisores (Shadow Black), un estuche de carga, etc., para usarlo hasta 18 horas y grabar vídeos con varias personas hablando o con requerimientos de sonido en estéreo.
+- Audio nítido para que suenes como un profesional - Este micrófono inalámbrico ofrece audio de alta calidad con grabación de voces más brillante, clara y agradable, que lo hace ideal para entrevistas, vlogs y mucho más.
+- Conexión directa con el ecosistema DJI - Con DJI OsmoAudio, un transmisor puede conectarse a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 u Osmo Pocket 3 sin un receptor, para grabar audio de calidad prémium.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJXT71NX{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enfoque automático y corrección trapezoidal: la corrección trapezoidal automática de +/- 40° vertical/horizontal ajusta la imagen hasta que quede perfecta. El enfoque automático ToF calcula la distancia y enfoca la pantalla inmediatamente.
+- Imagen de alta resolución 1080p: imagen FHD de 1920 × 1080 complementada con lúmenes ISO de 700 hiperenfocados y alimentados por LED (también se admite contenido 4K).
 - Tecnología de ajuste de pantalla inteligente: la orientación de pantalla inteligente entrenada ajusta rápidamente la pantalla para adaptarse a su pantalla. Un sensor espacial impulsado por IA detecta objetos y escala automáticamente la pantalla para evitarlos.
 - Android TV 10.0: más de 5000 aplicaciones de Google Play. Transmite de forma inalámbrica aplicaciones, juegos y más desde tus dispositivos Android/Apple con Chromecast integrado.
-- Imagen de alta resolución 1080p: imagen FHD de 1920 × 1080 complementada con lúmenes ISO de 700 hiperenfocados y alimentados por LED (también se admite contenido 4K).
+- Enfoque automático y corrección trapezoidal: la corrección trapezoidal automática de +/- 40° vertical/horizontal ajusta la imagen hasta que quede perfecta. El enfoque automático ToF calcula la distancia y enfoca la pantalla inmediatamente.
 - En movimiento: equipado con una batería incorporada de 59,454 W y un diseño minimalista, ofrece 2,5 horas de entretenimiento en pantalla grande, en cualquier lugar y en cualquier momento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

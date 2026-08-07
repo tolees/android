@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 【Encuentre la posición perfecta】 en su muñeca con el medidor en la pantalla para obtener mediciones óptimas y vea los resultados directamente en la pantalla LED del monitor.
-- 【Fácil de usar】 gracias a su pantalla, el tensiómetro de muñeca conectado iHealth View mide la presión arterial.
 - 【IHealth View puede memorizar】 hasta 120 mediciones antes de sincronizarse, lo que le permite usarlo con o sin su teléfono inteligente.
+- 【Fácil de usar】 gracias a su pantalla, el tensiómetro de muñeca conectado iHealth View mide la presión arterial.
 - 【Dentro de la caja:】 1 monitor de presión arterial iHealth View, 1 guía de instalación rápida, 1 manual de usuario, 1 cable mini USB, 1 bolsa de transporte.
 - 【Con iHealth MyVitals】 nuestra aplicación gratuita disponible para Android e iOS, iHealth View le proporciona un seguimiento completo e historial de datos en forma de gráfico.
 
