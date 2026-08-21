@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador MediaTek Helio G80 Octa-Core con una frecuencia principal de hasta 2.0 GHz
 - Conectividad: WiFi 5 (1x1 802.11a/b/g/n/ac) y Bluetooth 5.0
+- Almacenamiento de 128GB (eMCP, eMMC 5.1) ampliables mediante tarjeta micro SD hasta 1TB
 - Tarjeta gráfica Integrada ARM Mali-G52 MC2 GPU
 - Pantalla táctil IPS 2K de 26,92 cm (10,6"), 2000x1200 pixeles, 400nits; Transmite Netflix, Disney+ y otros servicios hasta en 1080p, la máxima resolución de vídeo disponible para dispositivos móviles. Compatible con el lápiz Lenovo Precision Pen 2 que viene incluido en la caja.
+- Procesador MediaTek Helio G80 Octa-Core con una frecuencia principal de hasta 2.0 GHz
 - Funda incluida en el paquete: Para proteger y dar estilo a tu tableta en movimiento
-- Altavoces (4) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música.
-- Sistema Operativo: Android 12
 - Memoria RAM de 4GB Soldered LPDDR4x, ampliables mediante tarjeta micro SD hasta 1TB; permite realizar múltiples tareas a la vez sin problema
-- Almacenamiento de 128GB (eMCP, eMMC 5.1) ampliables mediante tarjeta micro SD hasta 1TB
+- Sistema Operativo: Android 12
 - Cámara frontal y trasera de 8 MP: la videollamada perfecta existe. Disfruta de vídeos exclusivos con un ruido de fondo silencioso.
+- Altavoces (4) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8DSH863{{</world>}}

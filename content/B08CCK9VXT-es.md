@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Toma impresionantes fotos cinemáticas con los 123 grados de visión de la cámara ultra gran angular
-- El procesador cuenta con un NPU para la cámara inteligente
 - Tres cámara s traseras con dual aperture 12 mp main, f1.5/ f2.4 dp af + y dos frontales main, f1.9 dp af+ 8 mp ultra-wide
+- El procesador cuenta con un NPU para la cámara inteligente
 - Capacidad de almacenamiento interno de 128 GB + ranura para microSD (hasta 512 GB) y 8 GB de RAM
 - Toma fotos tanto de día como de noche con la apertura dual, que controla, ajusta y optimiza la luz antes de que toques el obturador
 
