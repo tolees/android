@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Vibración compatible con Analogue 3D y Switch 1/2 (solo Nintendo 64 Online)
-- Compatible con Analogue 3D, Switch, Switch 2, Windows y Android. (La compatibilidad con Switch 2 requiere la última actualización de firmware).
 - Modos de entrada D y entrada S
 - Conexión Bluetooth o USB con cable
 - Función turbo. Joystick con efecto Hall y anillo metálico resistente al desgaste.
+- Compatible con Analogue 3D, Switch, Switch 2, Windows y Android. (La compatibilidad con Switch 2 requiere la última actualización de firmware).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LG0I9ZQ{{</world>}}

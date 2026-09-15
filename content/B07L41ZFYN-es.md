@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Frecuencia del procesador: 2.2 ghz
-- Capacidad de almacenamiento interno: 64 gb
-- Ram interna: 3 gb
 - Diagonal de la pantalla: 6.21"
 - Resolución de la pantalla: 2340 x 1080
+- Capacidad de almacenamiento interno: 64 gb
+- Ram interna: 3 gb
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07L41ZFYN{{</world>}}

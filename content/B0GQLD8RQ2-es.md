@@ -31,9 +31,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - 【Pagos NFC】Acerca tu REDMI Watch 6 a cualquier terminal de pago para transacciones sin contacto y sin efectivo de forma fluida.
 - 【Pantalla y diseño】 Pantalla AMOLED de 2,07” con biseles simétricos de 2 mm. Los materiales IC/EL mejorados aumentan el brillo para una visualización clara en exteriores.
 - 【Salud y deporte】 Más de 150 modos deportivos con medición en tiempo real de frecuencia cardíaca y energía. Corona de acero inoxidable y botones físicos para un control intuitivo.
+- 【GPS y navegación】 Chip GNSS L1 de doble banda y cinco sistemas para registrar entrenamientos al aire libre con precisión, incluso en terrenos complejos o rutas exigentes.
 - 【Autonomía】 Batería de 550 mAh con hasta 24 días de duración. Una sola carga cubre viajes de negocios cortos y mantiene la conectividad continua sin recargas frecuentes.
 - 【Calidad de construcción】 Cuerpo unibody de aleación de aluminio ultrafino de 9,9 mm, 1,4 mm más delgado que la generación anterior. Marco central resistente que equilibra ligereza y durabilidad.
-- 【GPS y navegación】 Chip GNSS L1 de doble banda y cinco sistemas para registrar entrenamientos al aire libre con precisión, incluso en terrenos complejos o rutas exigentes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GQLD8RQ2{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatible con Windows, Android y Mac
+- Teclado mecánico con switches mecánicos lubricados
 - Teclas con retroiluminación RGB con 20 efectos / Full antighosting
 - Conexión por cable (USB) - Configuración del teclado sin software
-- Teclado mecánico con switches mecánicos lubricados
-- Compatible con Windows, Android y Mac
 - Tecnología Hot Swap para intercambiar los switches
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
