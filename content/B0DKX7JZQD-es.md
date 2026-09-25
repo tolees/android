@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Función turbo. Joystick de efecto Hall y anillo de joystick metálico resistente al desgaste.
 - Compatible con Analogue 3D, Switch, Windows, Android
 - Conexión Bluetooth o USB con cable
-- Soporte de vibración con Analogue 3D y Switch
 - Modos de entrada D y entrada S
+- Soporte de vibración con Analogue 3D y Switch
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKX7JZQD{{</world>}}

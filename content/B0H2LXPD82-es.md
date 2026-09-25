@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TABWEE T30 11 Pulgadas Tablet Android 16 64GB+4TB Tableta para Estudiar'
-date: 2026-09-20 10:46:02
+date: 2026-09-25 05:08:16
 image: 'https://m.media-amazon.com/images/I/41Tr1iAJO4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

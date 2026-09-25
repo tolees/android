@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impresora fotográfica AgfaPhoto Realipix Moments AMO46: imprime fotos de 10x15 cm desde tu smartphone mediante Bluetooth, compatible con Apple y Android.
-- Impresiones de 10x15 cm: el clásico formato fotográfico de 10x15 cm, perfecto para obtener recuerdos duraderos e impresiones nítidas desde tu teléfono.
 - Accesorios incluidos: cartucho de tinta y papel fotográfico incluidos para usar de inmediato, listos para capturar tus momentos favoritos.
+- Impresiones de 10x15 cm: el clásico formato fotográfico de 10x15 cm, perfecto para obtener recuerdos duraderos e impresiones nítidas desde tu teléfono.
+- Impresora fotográfica AgfaPhoto Realipix Moments AMO46: imprime fotos de 10x15 cm desde tu smartphone mediante Bluetooth, compatible con Apple y Android.
 - Bluetooth integrado: conecta fácilmente tu smartphone de forma inalámbrica para imprimir tus fotos al instante, sin necesidad de configuraciones complejas.
 - Tecnología de sublimación térmica 4Pass: consigue impresiones de alta calidad con colores intensos y duraderos gracias a la sublimación térmica en 4 fases.
 
