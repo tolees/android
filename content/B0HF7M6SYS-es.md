@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'NIDUBIO Tablet Tablet Android de 11 Pulgadas 24 GB RAM 128 GB ROM Ampliable hasta 1 TB Octa-Core Batería de Gran Capacidad de 6800 mAh Cámara Dual Desbloqueo Facial Negro'
-date: 2026-09-10 20:12:56
-image: 'https://m.media-amazon.com/images/I/51peIza-oYL._SL500_._SL400_.jpg'
+title: 'NIDUBIO Tablet Tablet Android de 11 Pulgadas 16 GB RAM 128 GB ROM Ampliable hasta 1 TB Octa-Core Batería de Gran Capacidad de 6800 mAh Cámara Dual Desbloqueo Facial Negro'
+date: 2026-09-30 16:54:55
+image: 'https://m.media-amazon.com/images/I/51ttOEHuOqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0HF7M6SYS-es NIDUBIO Tablet Tablet Android de 11 Pulgadas 24 GB RAM 128...'
+slug: 'B0HF7M6SYS-es NIDUBIO Tablet Tablet Android de 11 Pulgadas 16 GB RAM 128...'
 sku: 'B0HF7M6SYS-es'
 tags: [ 'android','🇪🇸', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99
 comparePrice: 129.99 EUR
-prodname: 'NIDUBIO Tablet Tablet Android de 11 Pulgadas 24 GB RAM 128 GB ROM Ampliable hasta 1 TB Octa-Core Batería de Gran Capacidad de 6800 mAh Cámara Dual Desbloqueo Facial Negro'
+prodname: 'NIDUBIO Tablet Tablet Android de 11 Pulgadas 16 GB RAM 128 GB ROM Ampliable hasta 1 TB Octa-Core Batería de Gran Capacidad de 6800 mAh Cámara Dual Desbloqueo Facial Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
