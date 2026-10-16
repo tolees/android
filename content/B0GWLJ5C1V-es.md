@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proyector Portatil con Android 14 App Integrada & Auto Keystone NIX500'
-date: 2026-10-14 03:02:36
+date: 2026-10-15 04:36:18
 image: 'https://m.media-amazon.com/images/I/51TJUsTOBeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GWLJ5C1V/?tag=tolees-21'
 descuento: '15.71'
-average: '61.09'
+average: '59.2475'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

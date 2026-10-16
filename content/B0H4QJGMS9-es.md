@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Micrófono Lavalier Inalámbrico 2 en 1 para iPhone y Android Pack 2'
-date: 2026-10-10 13:37:34
+date: 2026-10-15 06:37:55
 image: 'https://m.media-amazon.com/images/I/41EZZVQ4r7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H4QJGMS9/?tag=tolees-21'
 descuento: '21.64'
-average: '25.245'
+average: '24.6633333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

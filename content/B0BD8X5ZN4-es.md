@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 0
+- 0
 - SM-A047FZKUEUB
-- 0
-- 0
 - 0
 
 [🛒 Comprar!!!]({{< param buyurl >}})
