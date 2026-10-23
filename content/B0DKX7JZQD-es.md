@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Modos de entrada D y entrada S
+- Compatible con Analogue 3D, Switch, Windows, Android
 - Función turbo. Joystick de efecto Hall y anillo de joystick metálico resistente al desgaste.
 - Soporte de vibración con Analogue 3D y Switch
-- Compatible con Analogue 3D, Switch, Windows, Android
 - Conexión Bluetooth o USB con cable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

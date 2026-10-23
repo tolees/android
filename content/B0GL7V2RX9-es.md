@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PTHTECHUS Auriculares Inalámbricos Bluetooth Audifonos Deportivos de Clip para Oreja Ultraligeros Micrófono ENC 30H Reproducción IPX5 Compatibles con iOS Android 5.4 Open-Ear Negro'
-date: 2026-10-21 12:05:38
+date: 2026-10-22 13:33:16
 image: 'https://m.media-amazon.com/images/I/41Q0tH53CTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tableta Android 16 30GB + 128GB ampliable a 1TB tableta de 11 pulgadas con Bluetooth 5.3 WiFi 6 cámara dual 5 núcleos 5 MP + 8 MP 7800 mAh tabletas con modo teclado luces arcoíris negro'
-date: 2026-10-20 07:25:28
+date: 2026-10-22 09:33:46
 image: 'https://m.media-amazon.com/images/I/51R2yveuUpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

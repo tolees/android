@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla multimedia 6,8"
 - Radio digital DAB/DAB+
 - CarPlay y Android Auto
 - WiFi
+- Pantalla multimedia 6,8"
 - Bluetooth
 
 [🛒 Visítala!!!]({{< param buyurl >}})
