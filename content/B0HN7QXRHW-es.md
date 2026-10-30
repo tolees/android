@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adaptador CarPlay Inalámbrico Mini Dongle 2 en 1 para Android Auto Conversión de Cable a Inalámbrico Plug & Play USB/USB-C WiFi de Doble Banda 2.4/5GHz Reconexión Automática Acero'
-date: 2026-10-28 09:33:15
+date: 2026-10-30 07:04:16
 image: 'https://m.media-amazon.com/images/I/41ArDaIlyOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

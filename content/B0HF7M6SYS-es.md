@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIDUBIO Tablet Tablet Android de 11 Pulgadas 16 GB RAM 128 GB ROM Ampliable hasta 1 TB Octa-Core Batería de Gran Capacidad de 6800 mAh Cámara Dual Desbloqueo Facial Negro'
-date: 2026-10-20 09:22:42
+date: 2026-10-30 10:19:37
 image: 'https://m.media-amazon.com/images/I/51ttOEHuOqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HF7M6SYS/?tag=tolees-21'
 descuento: '37.52'
-average: '87.0666666666667'
+average: '85.605'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

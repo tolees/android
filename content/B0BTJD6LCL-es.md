@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-CH520 Auriculares de diadema inalámbricos Bluetooth diseño ligero 50 h de batería carga rápida ecualizador llamadas nítidas iOS y Android - Negro'
-date: 2026-10-28 17:32:11
+date: 2026-10-29 21:01:16
 image: 'https://m.media-amazon.com/images/I/31U9zjxcWdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BTJD6LCL/?tag=tolees-21'
 descuento: '61.57'
-average: '38.7701385041547'
+average: '38.7047382920106'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

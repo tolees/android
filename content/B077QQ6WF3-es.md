@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KROM KEY - Gamepad con cable X-input y Direct - input joystick y gatillos analógicos función turbo compatible con PC PS3 y Android color negro'
-date: 2026-09-10 19:07:54
+date: 2026-10-30 16:27:06
 image: 'https://m.media-amazon.com/images/I/41Wita4JVGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QQ6WF3/?tag=tolees-21'
 descuento: '34.64'
-average: '14.2569387755101'
+average: '14.2076470588234'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

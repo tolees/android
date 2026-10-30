@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Botón de acceso directo a la aplicación Calculadora de Windows
-- Inspirado en los clásicos. Compatible con Windows y Android.
 - Kailh Box Interruptores Blancos V2. Teclados Dye-sub PBT para las ediciones N, Fami y M. Estilo de montaje superior. PCB intercambiable en caliente. Soporta n-key rollover.
-- Teclado numérico 2 en 1: Modo teclado numérico PC / Modo calculadora estándar
 - Pantalla retro LED. Panel de control independiente.
+- Inspirado en los clásicos. Compatible con Windows y Android.
+- Teclado numérico 2 en 1: Modo teclado numérico PC / Modo calculadora estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4QGX9QB{{</world>}}

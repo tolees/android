@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con Switch, Android y Raspberry Pi
 - Admite la configuración de teclas en el software 8BitDo Ultimate - versión móvil (sólo modo teclado)
-- Pesa 24,8 gramos y tiene 16 teclas. Ultraportátil y versátil.
 - Soporte de actualización de firmware
+- Compatible con Switch, Android y Raspberry Pi
+- Pesa 24,8 gramos y tiene 16 teclas. Ultraportátil y versátil.
 - botón para cambiar de modo, adecuado para juegos 2D
 
 [🛒 Visítala!!!]({{< param buyurl >}})
