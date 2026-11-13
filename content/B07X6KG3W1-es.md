@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Ranura para cd
 - Advanced remote control app (pioneer arco)
 - Bluetooth
-- Entrada auxiliar
 - Usb frontal
+- Entrada auxiliar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X6KG3W1{{</world>}}
