@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy Z Fold8 Ultra 512 GB Teléfono Móvil Violeta Nocturno | Smartphone Android IA Pantalla Multitarea Memoria 12GB Batería 5000mAh Cámara 200MP Now Nudge Garantía 3 Años+1 Extra'
-date: 2026-11-19 16:05:49
+date: 2026-11-19 16:14:32
 image: 'https://m.media-amazon.com/images/I/41IdGv9UeZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

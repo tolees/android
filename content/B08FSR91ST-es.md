@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KODAK Mini 3 Retro Impresora de Fotos 7 6x7 6cm 4PASS 38 Hojas Amarilla | Bluetooth iPhone y Android a Prueba de Huellas Agua y decoloración'
-date: 2026-11-19 10:00:57
+date: 2026-11-20 15:13:23
 image: 'https://m.media-amazon.com/images/I/41LP3Sk3xSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FSR91ST/?tag=tolees-21'
 descuento: '17.57'
-average: '81.895'
+average: '80.696666666666673'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

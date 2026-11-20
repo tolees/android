@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teclado inalámbrico Logitech K400 Plus para TV QWERTY español - Negro | Teclado HTPC con control multimedia y panel táctil integrado compatible con Windows Android y Chrome OS'
-date: 2026-11-16 23:43:41
+date: 2026-11-20 13:38:13
 image: 'https://m.media-amazon.com/images/I/412AU5C1bRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XYTTEAQ/?tag=tolees-21'
 descuento: '46.12'
-average: '25.679820359280949'
+average: '25.662781065088275'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

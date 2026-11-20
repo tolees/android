@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-1000XM4C Auriculares inalambricos con cancelación de Ruido - Negro | Auriculares de diadema bluetooth Hi-Res Procesador Noise Cancelling QN1 Batería 34h Conexión multipunto iOS y Android'
-date: 2026-11-14 15:44:28
+date: 2026-11-19 22:59:34
 image: 'https://m.media-amazon.com/images/I/31fId7h7CUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0HBXHB1TQ-es Sony WH-1000XM4C Auriculares inalambricos con cancelación...'
 sku: 'B0HBXHB1TQ-es'
 tags: [ 'android','🇪🇸', ]
-actualPrice: 194.0 EUR
+actualPrice: 189.26 EUR
 currency: EUR
-price: 194.0
+price: 189.26
 comparePrice: 279.99 EUR
 prodname: 'Sony WH-1000XM4C Auriculares inalambricos con cancelación de Ruido - Negro | Auriculares de diadema bluetooth Hi-Res Procesador Noise Cancelling QN1 Batería 34h Conexión multipunto iOS y Android'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HBXHB1TQ/?tag=tolees-21'
-descuento: '30.71'
-average: '202.37000000000003'
+descuento: '32.40'
+average: '200.49714285714288'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

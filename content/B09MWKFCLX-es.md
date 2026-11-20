@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Wifi
 - Alcatel tablet
+- Wifi
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MWKFCLX{{</world>}}

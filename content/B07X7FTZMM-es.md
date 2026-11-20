@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Potencía 4x50w
 - Panel antirrobo desmontable
-- Lectura de archivos flac
 - Compatible con android
+- Lectura de archivos flac
+- Potencía 4x50w
 - Usb frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
