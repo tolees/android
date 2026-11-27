@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Pixel 11 - Smartphone Android libre - Glaciar 256GB | Con Gemini Intelligence batería de más de 30 horas y pantalla Super Actua de 6 3"'
-date: 2026-11-25 13:47:09
+date: 2026-11-26 19:12:25
 image: 'https://m.media-amazon.com/images/I/31E4+Xc3QNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H62MZ69L/?tag=tolees-21'
 descuento: '30.10'
-average: '714.16153846153839'
+average: '712.05333333333329'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

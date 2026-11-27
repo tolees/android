@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beats Studio Pro - Auriculares inalámbricos Bluetooth con cancelación de Ruido - Audio Espacial Personalizado Sonido USB-C sin pérdida compatibilidad con Apple y Android - Exclusivo de Amazon Caqui'
-date: 2026-11-19 19:27:57
+date: 2026-11-26 12:22:37
 image: 'https://m.media-amazon.com/images/I/314+evkBFsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

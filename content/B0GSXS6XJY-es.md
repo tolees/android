@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Consumo de 5.5W equivalente a 40W de consumo incandescente, 470 lúmenes y casquillo grueso E27
 - Bombilla inteligente que se conecta WiFi
+- Fácil de instalar
 - Con tecnología CCT que permite escoger entre luz fría, neutra o cálida (3000K, 4000K o 6500K) + Tecnología dimmable para cambiar y regular la intensidad de la luz
 - La siguiente información se aplica a cada unidad del paquete
-- Fácil de instalar
 - Compatible solo con Wifi 2.4GHz (No funciona con red de 5GHz)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

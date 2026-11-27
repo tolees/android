@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI FreeBuds SE 2 Auriculares Inalámbricos 40 Horas de Batería Azul | Compacto y Cómodo Protección IP54 contra el Polvo y Las Salpicaduras Audifonos Bluetooth 5.3 Sonido Estable iOS y Android'
-date: 2026-11-25 16:04:18
+date: 2026-11-26 19:14:49
 image: 'https://m.media-amazon.com/images/I/31jvd70c6dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CDLCV626/?tag=tolees-21'
 descuento: '20.04'
-average: '30.309870129870209'
+average: '30.048607594936787'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

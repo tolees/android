@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Portable SSD T9 1 TB Disco Duro Externo Lectura y escritura 2.000 MB/s USB 3.2 Gen.2x2 Para Profesionales y Creativos Compatible con PC Mac Android y Cámaras 12K Negro MU-PG1T0B/EU'
-date: 2026-11-26 01:23:09
+date: 2026-11-27 11:50:41
 image: 'https://m.media-amazon.com/images/I/317QRaKNr5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CGQ466W8/?tag=tolees-21'
 descuento: '49.32'
-average: '139.76933333333361'
+average: '141.08470588235318'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

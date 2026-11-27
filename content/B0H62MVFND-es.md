@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Pixel 11 - Smartphone Android libre - Hibiscus 256GB | Con Gemini Intelligence batería de más de 30 horas y pantalla Super Actua de 6 3"'
-date: 2026-11-24 08:37:23
+date: 2026-11-26 06:29:28
 image: 'https://m.media-amazon.com/images/I/31NxmS8Wy8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

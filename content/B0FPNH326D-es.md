@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beats Powerbeats Fit Auriculares inalámbricos - Gris Grava | Cancelación activa de ruido hasta 30 h de batería con estuche de carga compatibles con Apple y Android'
-date: 2026-11-20 19:21:18
+date: 2026-11-26 06:29:16
 image: 'https://m.media-amazon.com/images/I/21XfNVmxegL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPNH326D/?tag=tolees-21'
 descuento: '52.60'
-average: '149.92000000000064'
+average: '144.07428571428628'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
